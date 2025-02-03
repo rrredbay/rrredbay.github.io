@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Kor Cleric ",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/29_Priestess of Metal.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/28_Priestess of Metal.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct Knight ",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/28_Paladin of the Heap.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/27_Paladin of the Heap.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird ",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/34_Scrapheap Roc.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/33_Scrapheap Roc.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/24_Junkyard Sentry.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/23_Junkyard Sentry.png"
 			}
 		},
 		{
@@ -1431,13 +1431,13 @@
 			}
 		},
 		{
-			"name": "A.T.V Hotshot",
+			"name": "ATV Hotshot",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/171_A.T.V Hotshot.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/171_ATV Hotshot.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Artificer ",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/23_Junkyard Riveter.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/22_Junkyard Riveter.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/30_Processing Point.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/29_Processing Point.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct Samurai  ",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/32_Robot Samurai.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/31_Robot Samurai.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/33_Scrap Blast.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/32_Scrap Blast.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/35_Scrapyard Upgrade.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/34_Scrapyard Upgrade.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/31_Required Assembly.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/30_Required Assembly.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Dinosaur ",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/22_Junkosaur.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/21_Junkosaur.png"
 			}
 		},
 		{
@@ -1783,7 +1783,7 @@
 		{
 			"name": "Overcharge",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
@@ -2111,13 +2111,13 @@
 			}
 		},
 		{
-			"name": "Junk Juggernaut",
+			"name": "Sprawl Enforcers",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}",
-			"type": "Artifact — Vehicle ",
-			"collector_number": "21",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/21_Junk Juggernaut.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/38_Sprawl Enforcers.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/25_Lundquists Bulwark.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/24_Lundquists Bulwark.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/36_Settle the Wreckage.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/35_Settle the Wreckage.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/26_March of the Goliaths.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/25_March of the Goliaths.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Artifact — Vehicle ",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/38_The Skyhorse.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/37_The Skyhorse.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/27_Monowheel Interceptor.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/26_Monowheel Interceptor.png"
 			}
 		},
 		{
@@ -2775,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/37_Sidecar Cruiser.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/36_Sidecar Cruiser.png"
 			}
 		},
 		{
@@ -2927,7 +2927,7 @@
 2 Speaker Lxtal
 2 Ninety-Four
 2 Felisahs Recruiter
-2 Junk Juggernaut
+2 Sprawl Enforcers
 2 Lundquists Bulwark
 2 Settle the Wreckage
 2 March of the Goliaths
@@ -3032,7 +3032,7 @@
 9 Face Off
 9 Gorr, Heapbreaker
 9 Badlands Alpha
-9 A.T.V Hotshot
+9 ATV Hotshot
 9 Fearless Yarder
 9 Junkyard Riveter
 9 Processing Point
@@ -3308,7 +3308,7 @@
 10 Face Off
 10 Gorr, Heapbreaker
 10 Badlands Alpha
-10 A.T.V Hotshot
+10 ATV Hotshot
 10 Fearless Yarder
 10 Junkyard Riveter
 10 Processing Point
@@ -3375,7 +3375,7 @@
 10 Speaker Lxtal
 10 Ninety-Four
 10 Felisahs Recruiter
-10 Junk Juggernaut
+10 Sprawl Enforcers
 10 Lundquists Bulwark
 10 Settle the Wreckage
 10 March of the Goliaths
