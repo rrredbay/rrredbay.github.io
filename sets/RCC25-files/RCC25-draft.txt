@@ -3283,7 +3283,7 @@
 		{
 			"name": "Freeze",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/U}",
+			"mana_cost": "{1}{W/U}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "279",
 			"image_uris": {
@@ -3602,363 +3602,363 @@
 		}
 	]
 [RareSlot(15)]
-2 Everlasting Hate
-2 Orana, Barrier-Between
-2 Necromantic Flame
-2 Iyalden, Valley of Creation
-2 Scour the Earth
-2 Change of Seasons
-2 Farewell to the Shore
-2 Leafless, Summer's End
-2 Druid of the Circle
-2 Berry, Orchard Tender
-2 Aven Courier
-2 Barrier of Bravery
-2 Emergency Protocol
-2 Exemplar of Courage
-2 Guardian Armadillo
-2 Heidi, Vengeant Priestess
-2 Highland Survivalist
-2 Protocol Sergeant
-2 Rol Warpriest
-2 Scatter the Sands
-2 Tomas, Rol Rallier
-2 Skywarden Adjunct
-2 Captured Portal Energy
-2 Steel Sabotage
-2 Dissolution
-2 Energy Channeler
-2 Marqeq Elementalist
-2 Chill of the Void
-2 Gather the Elements
-2 Ilyari Sapper
-2 Xet, the Exile
-2 Stone-Eater Drake
-2 Memory Stone
-2 Admonish
-2 Forgotten Altar
-2 Myopic Overmaster
-2 Demand
-2 Tablet of Resurrection
-2 Spoils from Below
-2 Terminal Expedition
-2 Seething Husk
-2 Ilyari Replica
-2 Organics Refiner
-2 Faithful Scrounger
-2 Highland Lightning
-2 Rage of the Ancestors
-2 Vengeful Swordmaster
-2 Manaline Explorer
-2 Core Imps
-2 Ignite the Elements
-2 Nimble Raider
-2 Cone of Lightning
-2 Overcharged Portal
-2 Lowland Troll
-2 Thundercaller
-2 Embodiment of Progress
-2 Acid Beast
-2 Chel Hierarch
-2 Nacatl Neonate
-2 Survey the Ruins
-2 Light Harvest
-2 Nourishing Manaline
-2 Zylana, Born Leader
-2 Twice Bitten
-2 Cya, Master Weaver
-2 Relic Hog
-2 Alpha Teksaurus
-2 Everspinning Coin
-2 Prophetic Prism
-2 The Blade of Eons
-2 Surveyor-Recorder
-2 Tek Loxodon
-2 Marqeq Warpgate
-2 Alantha, Nexus Informant
-2 Explore the Mysteries
-2 Mark of the Chel
-2 Chel Forerunner
-2 Exact Vengeance
-2 Key, Desert Champion
-2 Loxodon Nomad
-2 Make Eternal
-2 Make Ranks
-2 Portal Channeler
-2 Poverty, The Eternal
-2 Tah, Caravan Speaker
-2 Venomous Teknid
-2 Arohi, Avatar of Passage
-2 Insidious Miasma
-2 Omatac, Sea Dominus
-2 Oxita Rider
-2 Puhmiel, Sender of Stones
-2 Retriever Lagac
-2 Summon the Squadron
-2 Brothers in Arms
-2 Call the Ancestors
-2 Elementalist's Infusion
-2 Husk Raiser Adept
-2 Indentured Behemoth
-2 Skullface, the Warmonger
-2 The Qeylia, Secret Cabal
-2 Vidau, Avatar of Wisdom
-2 Majesty Unbound
-2 Nixhia, Avatar of Growth
-2 Qeyli Ultimatum
-2 Tek Goliath
-2 Canyon Boundary
-2 Caravanner's Nexus
-2 Chel Vista
-2 Chol'Jah Vista
-2 Crumbling Boundary
-2 Elementalist's Nexus
-2 Highlander's Nexus
-2 Marqeq Vista
-2 Marsh Boundary
-2 Morass
-2 Overmaster's Nexus
-2 Qeyli Vista
-2 Reef
-2 Butte
-2 Rol Vista
-2 Sabkha
-2 Saltflat Boundary
-2 Syndicate's Nexus
-2 Volatile Boundary
-2 Weald
-2 Cease Hostility
-2 Light the Path
-2 Pureheart Paladin
-2 Weary Traveller
-2 Beaming Angel
-2 Guiding Soul
-2 Hero's Anthem
-2 Illumination Binding
-2 Provisioned Explorer
-2 Heidi, the Pure
-2 Send Beyond
-2 Sir Fromm, of the Lit Path
-2 Guardian Giant
-2 Claim Pilferer
-2 Retreat to the Cavemouth
-2 Hypothermia
-2 Maestro's Conjuring
-2 Mine Ghost
-2 Orana Rascal
-2 Ponder Depths
-2 Veita, Crowcaller
-2 Goldflecked Serpent
-2 Path Less Travelled
-2 Flood the Tunnels
-2 Brazen Spelunker
-2 Incensed Drow
-2 Alex, Nimble Fingers
-2 Digger's Delight
-2 Tomb Terror
-2 Kila, Scourge of Orana
-2 Languish
-2 Hunting Chupacabra
-2 Caverunner Aspirant
-2 Grimmgun Dwarves
-2 Bruff the Adventurous
-2 Dwarven Drilling Machine
-2 Magma Vent
-2 Surprising Find
-2 Cave Gas Ignitor
-2 Wheels of Fortune
-2 Crack the Lavacore
-2 Penumbra Satyr
-2 Bruff's Big Find
-2 Melt the Barrier
-2 Dryad of Exploration
-2 Cave Bear
-2 Emissary of Orana
-2 Mill and Sieve
-2 Orana Dryad
-2 Mossy Wall
-2 Tunneler Lizard
-2 Wandering Wiitigo
-2 Crevasse Wardens
-2 Naldan, King of the Drow
-2 Zylana's Revelation
-2 Buried Ancient
-2 Earthshaker Beast
-2 Burdened Exarch
-2 Familiar Touch
-2 Discovered Treasure
-2 Pull from Beyond
-2 Rodric, of the Lit Path
-2 Ancient Automaton
-2 Adventurer's Camp
-2 Crystaline Stalactites
-2 Rich Vein
-2 Tunnel Tester
-2 Spelunking Suit
-2 Release the Shackles
-2 Guardian of Orana
-2 Flame Snuffer
-2 Gemshell Turtle
-2 Ivon, Metal Maestro
-2 Pinch Thoughts
-2 Bloody Trail
-2 Suspicious Cave-In
-2 Grisly Pickaxe
-2 Kila's Will
-2 Desperate Ramblings
-2 Viasarite Resonation
-2 Torch of the Lit Path
-2 Unlock the Gates
-2 Courteous Amalgam
-2 Magmatic Paradise
-2 Sacred Cavern
-2 Steam Chamber
-2 Subterranean Marsh
-2 Overgrown Prairie
-2 Thirst for Knowledge
-2 Koneco, Staff of the Avatars
-2 Molder Ooze
-2 Stonewaker's Gauntlets
-2 Evacuation
-2 Ilyari Geomancer
-2 Lava Geyser
-2 Rowdy Pitworkers
-2 Persistent Tekmole
-2 Chasing the Sky
-2 Awakened Baloths
-2 Despondence
-2 Diffuse
-2 Aerial Manaline
-2 Mangle
-2 Viasarite Sword
-2 Chol'Jah Ultimatum
-2 Into the Miasma
-2 Nexus Initiate
-2 Toadera Idol
-2 Pleasant Getaway
-2 Ertys, Arbiter of the Cosmos
-2 Artisan of Movement
-2 Crack the Sky
-2 Cumulus Dragon
-2 Decisive Realization
-2 Final Call
-2 Golden Ribbons
-2 Heavenly Armor
-2 Let Go
-2 Orbs of Kel'amarth
-2 Silent Protector
-2 Sisters of Night
-2 Sunguard
-2 Tido, the Fractured Piece
-2 Timeworn Sword
-2 Warden of the Night
-2 Celestial Realization
-2 Cog, the Trapped Piece
-2 Crystalcore Entity
-2 Disrupt the Flow
-2 Fist of Lightning
-2 Manipulator of Reality
-2 Monstrous Djinn
-2 Pylas, The Librarian
-2 Sail the Seas of Time
-2 Silent Watcher
-2 Sphinx of Games
-2 Tentacle's Grasp
-2 Time Moves Faster Still
-2 Tripolar Mitosis
-2 We Forget Ourselves
-2 Blood Ritual
-2 Borthrau, In-Between
-2 Dark Geometry
-2 Dege, the Corrupted Piece
-2 Eloise, She Dances with Death
-2 Endless Night
-2 Fade Into Shadows
-2 Infernal Covenant
-2 Leonne, the Remorseful
-2 Magus of the Toxin
-2 Painful Realization
-2 Silent Killer
-2 Soul Parasite
-2 Still it Beats
-2 Thought-Catcher Tarantula
-2 Your Last Moment
-2 Brutal Negotiation
-2 Burning Vengeant
-2 Careless Toymaker
-2 Hemorrhagia
-2 Contraband Hounds
-2 Relentless Advancement
-2 Ruina, the Burnt Piece
-2 Rumbling Terror
-2 Silent Flame
-2 Smokeskin Drakkon
-2 Spears Held Together
-2 Stabbing Realization
-2 Wares from a World Away
-2 Wings of Undeath
-2 Wrel, Called to War
-2 Brightly-Colored Charger
-2 Canopy of Eyes
-2 Churning Growth
-2 The Horror Within
-2 Joyous Realization
-2 Mouths to Be Fed
-2 Nebulous Rampager
-2 Sapping Vines
-2 Seek Harmony
-2 Selt, the Withered Piece
-2 Serene Hopper
-2 Silent Strength
-2 Timberfall Titan
-2 Timefalls Regisaur
-2 Walk Among Giants
-2 Aethergear Sentinel
-2 Darkwood Hart
-2 Drain Vitality
-2 Eternal Guardian
-2 Horus, The Many Faced
-2 Inseva, Master of Unlife
-2 Knight of True-Flame
-2 Ortan, Leader of Dragons
-2 Return to the Negative Sun
-2 Sinder, the White Blade
-2 Spinning Planetarium
-2 Stoke the Timeforge
-2 Touch the Sky
-2 Where Wind Meets the Sea
-2 Winding Water
-2 Withdraw Essence
-2 Ester, Generous Mother
-2 Freeze
-2 Ancient Canyon
-2 Autumnal Wood
-2 Burning Chasm
-2 Castle of Artifice
-2 Castle of Contagions
-2 Castle of Dragons
-2 Castle of Heroes
-2 Castle of Memories
-2 Castle of Nightmares
-2 Castle of Scorn
-2 Castle of Serenities
-2 Castle of Trials
-2 Castle of Wonders
-2 Dazzling Auditorium
-2 Eerie Cemetery
-2 Fading Core
-2 Fading Dourland
-2 Fading Geyser Field
-2 Fading Ghostland
-2 Fading Outcrop
-2 Fading Peaks
-2 Fading Riverland
-2 Fading Shoreline
-2 Fading Temple
-2 Fading Undergrowth
-2 Forgotten Mausoleum
-2 Grand Courtyard
-2 Hushed Brook
-2 Lotus Nimbus
-2 Overgrown Arches
-2 Timeless Cavern
+1 Everlasting Hate
+1 Orana, Barrier-Between
+1 Necromantic Flame
+1 Iyalden, Valley of Creation
+1 Scour the Earth
+1 Change of Seasons
+1 Farewell to the Shore
+1 Leafless, Summer's End
+1 Druid of the Circle
+1 Berry, Orchard Tender
+1 Aven Courier
+1 Barrier of Bravery
+1 Emergency Protocol
+1 Exemplar of Courage
+1 Guardian Armadillo
+1 Heidi, Vengeant Priestess
+1 Highland Survivalist
+1 Protocol Sergeant
+1 Rol Warpriest
+1 Scatter the Sands
+1 Tomas, Rol Rallier
+1 Skywarden Adjunct
+1 Captured Portal Energy
+1 Steel Sabotage
+1 Dissolution
+1 Energy Channeler
+1 Marqeq Elementalist
+1 Chill of the Void
+1 Gather the Elements
+1 Ilyari Sapper
+1 Xet, the Exile
+1 Stone-Eater Drake
+1 Memory Stone
+1 Admonish
+1 Forgotten Altar
+1 Myopic Overmaster
+1 Demand
+1 Tablet of Resurrection
+1 Spoils from Below
+1 Terminal Expedition
+1 Seething Husk
+1 Ilyari Replica
+1 Organics Refiner
+1 Faithful Scrounger
+1 Highland Lightning
+1 Rage of the Ancestors
+1 Vengeful Swordmaster
+1 Manaline Explorer
+1 Core Imps
+1 Ignite the Elements
+1 Nimble Raider
+1 Cone of Lightning
+1 Overcharged Portal
+1 Lowland Troll
+1 Thundercaller
+1 Embodiment of Progress
+1 Acid Beast
+1 Chel Hierarch
+1 Nacatl Neonate
+1 Survey the Ruins
+1 Light Harvest
+1 Nourishing Manaline
+1 Zylana, Born Leader
+1 Twice Bitten
+1 Cya, Master Weaver
+1 Relic Hog
+1 Alpha Teksaurus
+1 Everspinning Coin
+1 Prophetic Prism
+1 The Blade of Eons
+1 Surveyor-Recorder
+1 Tek Loxodon
+1 Marqeq Warpgate
+1 Alantha, Nexus Informant
+1 Explore the Mysteries
+1 Mark of the Chel
+1 Chel Forerunner
+1 Exact Vengeance
+1 Key, Desert Champion
+1 Loxodon Nomad
+1 Make Eternal
+1 Make Ranks
+1 Portal Channeler
+1 Poverty, The Eternal
+1 Tah, Caravan Speaker
+1 Venomous Teknid
+1 Arohi, Avatar of Passage
+1 Insidious Miasma
+1 Omatac, Sea Dominus
+1 Oxita Rider
+1 Puhmiel, Sender of Stones
+1 Retriever Lagac
+1 Summon the Squadron
+1 Brothers in Arms
+1 Call the Ancestors
+1 Elementalist's Infusion
+1 Husk Raiser Adept
+1 Indentured Behemoth
+1 Skullface, the Warmonger
+1 The Qeylia, Secret Cabal
+1 Vidau, Avatar of Wisdom
+1 Majesty Unbound
+1 Nixhia, Avatar of Growth
+1 Qeyli Ultimatum
+1 Tek Goliath
+1 Canyon Boundary
+1 Caravanner's Nexus
+1 Chel Vista
+1 Chol'Jah Vista
+1 Crumbling Boundary
+1 Elementalist's Nexus
+1 Highlander's Nexus
+1 Marqeq Vista
+1 Marsh Boundary
+1 Morass
+1 Overmaster's Nexus
+1 Qeyli Vista
+1 Reef
+1 Butte
+1 Rol Vista
+1 Sabkha
+1 Saltflat Boundary
+1 Syndicate's Nexus
+1 Volatile Boundary
+1 Weald
+1 Cease Hostility
+1 Light the Path
+1 Pureheart Paladin
+1 Weary Traveller
+1 Beaming Angel
+1 Guiding Soul
+1 Hero's Anthem
+1 Illumination Binding
+1 Provisioned Explorer
+1 Heidi, the Pure
+1 Send Beyond
+1 Sir Fromm, of the Lit Path
+1 Guardian Giant
+1 Claim Pilferer
+1 Retreat to the Cavemouth
+1 Hypothermia
+1 Maestro's Conjuring
+1 Mine Ghost
+1 Orana Rascal
+1 Ponder Depths
+1 Veita, Crowcaller
+1 Goldflecked Serpent
+1 Path Less Travelled
+1 Flood the Tunnels
+1 Brazen Spelunker
+1 Incensed Drow
+1 Alex, Nimble Fingers
+1 Digger's Delight
+1 Tomb Terror
+1 Kila, Scourge of Orana
+1 Languish
+1 Hunting Chupacabra
+1 Caverunner Aspirant
+1 Grimmgun Dwarves
+1 Bruff the Adventurous
+1 Dwarven Drilling Machine
+1 Magma Vent
+1 Surprising Find
+1 Cave Gas Ignitor
+1 Wheels of Fortune
+1 Crack the Lavacore
+1 Penumbra Satyr
+1 Bruff's Big Find
+1 Melt the Barrier
+1 Dryad of Exploration
+1 Cave Bear
+1 Emissary of Orana
+1 Mill and Sieve
+1 Orana Dryad
+1 Mossy Wall
+1 Tunneler Lizard
+1 Wandering Wiitigo
+1 Crevasse Wardens
+1 Naldan, King of the Drow
+1 Zylana's Revelation
+1 Buried Ancient
+1 Earthshaker Beast
+1 Burdened Exarch
+1 Familiar Touch
+1 Discovered Treasure
+1 Pull from Beyond
+1 Rodric, of the Lit Path
+1 Ancient Automaton
+1 Adventurer's Camp
+1 Crystaline Stalactites
+1 Rich Vein
+1 Tunnel Tester
+1 Spelunking Suit
+1 Release the Shackles
+1 Guardian of Orana
+1 Flame Snuffer
+1 Gemshell Turtle
+1 Ivon, Metal Maestro
+1 Pinch Thoughts
+1 Bloody Trail
+1 Suspicious Cave-In
+1 Grisly Pickaxe
+1 Kila's Will
+1 Desperate Ramblings
+1 Viasarite Resonation
+1 Torch of the Lit Path
+1 Unlock the Gates
+1 Courteous Amalgam
+1 Magmatic Paradise
+1 Sacred Cavern
+1 Steam Chamber
+1 Subterranean Marsh
+1 Overgrown Prairie
+1 Thirst for Knowledge
+1 Koneco, Staff of the Avatars
+1 Molder Ooze
+1 Stonewaker's Gauntlets
+1 Evacuation
+1 Ilyari Geomancer
+1 Lava Geyser
+1 Rowdy Pitworkers
+1 Persistent Tekmole
+1 Chasing the Sky
+1 Awakened Baloths
+1 Despondence
+1 Diffuse
+1 Aerial Manaline
+1 Mangle
+1 Viasarite Sword
+1 Chol'Jah Ultimatum
+1 Into the Miasma
+1 Nexus Initiate
+1 Toadera Idol
+1 Pleasant Getaway
+1 Ertys, Arbiter of the Cosmos
+1 Artisan of Movement
+1 Crack the Sky
+1 Cumulus Dragon
+1 Decisive Realization
+1 Final Call
+1 Golden Ribbons
+1 Heavenly Armor
+1 Let Go
+1 Orbs of Kel'amarth
+1 Silent Protector
+1 Sisters of Night
+1 Sunguard
+1 Tido, the Fractured Piece
+1 Timeworn Sword
+1 Warden of the Night
+1 Celestial Realization
+1 Cog, the Trapped Piece
+1 Crystalcore Entity
+1 Disrupt the Flow
+1 Fist of Lightning
+1 Manipulator of Reality
+1 Monstrous Djinn
+1 Pylas, The Librarian
+1 Sail the Seas of Time
+1 Silent Watcher
+1 Sphinx of Games
+1 Tentacle's Grasp
+1 Time Moves Faster Still
+1 Tripolar Mitosis
+1 We Forget Ourselves
+1 Blood Ritual
+1 Borthrau, In-Between
+1 Dark Geometry
+1 Dege, the Corrupted Piece
+1 Eloise, She Dances with Death
+1 Endless Night
+1 Fade Into Shadows
+1 Infernal Covenant
+1 Leonne, the Remorseful
+1 Magus of the Toxin
+1 Painful Realization
+1 Silent Killer
+1 Soul Parasite
+1 Still it Beats
+1 Thought-Catcher Tarantula
+1 Your Last Moment
+1 Brutal Negotiation
+1 Burning Vengeant
+1 Careless Toymaker
+1 Hemorrhagia
+1 Contraband Hounds
+1 Relentless Advancement
+1 Ruina, the Burnt Piece
+1 Rumbling Terror
+1 Silent Flame
+1 Smokeskin Drakkon
+1 Spears Held Together
+1 Stabbing Realization
+1 Wares from a World Away
+1 Wings of Undeath
+1 Wrel, Called to War
+1 Brightly-Colored Charger
+1 Canopy of Eyes
+1 Churning Growth
+1 The Horror Within
+1 Joyous Realization
+1 Mouths to Be Fed
+1 Nebulous Rampager
+1 Sapping Vines
+1 Seek Harmony
+1 Selt, the Withered Piece
+1 Serene Hopper
+1 Silent Strength
+1 Timberfall Titan
+1 Timefalls Regisaur
+1 Walk Among Giants
+1 Aethergear Sentinel
+1 Darkwood Hart
+1 Drain Vitality
+1 Eternal Guardian
+1 Horus, The Many Faced
+1 Inseva, Master of Unlife
+1 Knight of True-Flame
+1 Ortan, Leader of Dragons
+1 Return to the Negative Sun
+1 Sinder, the White Blade
+1 Spinning Planetarium
+1 Stoke the Timeforge
+1 Touch the Sky
+1 Where Wind Meets the Sea
+1 Winding Water
+1 Withdraw Essence
+1 Ester, Generous Mother
+1 Freeze
+1 Ancient Canyon
+1 Autumnal Wood
+1 Burning Chasm
+1 Castle of Artifice
+1 Castle of Contagions
+1 Castle of Dragons
+1 Castle of Heroes
+1 Castle of Memories
+1 Castle of Nightmares
+1 Castle of Scorn
+1 Castle of Serenities
+1 Castle of Trials
+1 Castle of Wonders
+1 Dazzling Auditorium
+1 Eerie Cemetery
+1 Fading Core
+1 Fading Dourland
+1 Fading Geyser Field
+1 Fading Ghostland
+1 Fading Outcrop
+1 Fading Peaks
+1 Fading Riverland
+1 Fading Shoreline
+1 Fading Temple
+1 Fading Undergrowth
+1 Forgotten Mausoleum
+1 Grand Courtyard
+1 Hushed Brook
+1 Lotus Nimbus
+1 Overgrown Arches
+1 Timeless Cavern
