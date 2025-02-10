@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/148_Farewell to the Shore.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/149_Farewell to the Shore.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Dog ",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/147_Faithful Scrounger.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/148_Faithful Scrounger.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/151_Highland Lightning.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/152_Highland Lightning.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Imp ",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/142_Core Imps.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/143_Core Imps.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/152_Ignite the Elements.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/153_Ignite the Elements.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Enchantment Creature — Elemental ",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/146_Embodiment of Progress.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/147_Embodiment of Progress.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Dwarf Rogue ",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/149_Grimmgun Dwarves.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/150_Grimmgun Dwarves.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/145_Dwarven Drilling Machine.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/146_Dwarven Drilling Machine.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/143_Crack the Lavacore.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/144_Crack the Lavacore.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/144_Desperate Ramblings.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/145_Desperate Ramblings.png"
 			}
 		},
 		{
@@ -2845,19 +2845,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental ",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/150_Hemorrhagia.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/151_Hemorrhagia.png"
 			}
 		},
 		{
-			"name": "Incited by the Blade",
+			"name": "Contraband Hounds",
 			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "153",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/153_Incited by the Blade.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/142_Contraband Hounds.png"
 			}
 		},
 		{
@@ -3043,7 +3043,7 @@
 		{
 			"name": "Seek Harmony",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
@@ -3887,7 +3887,7 @@
 2 Burning Vengeant
 2 Careless Toymaker
 2 Hemorrhagia
-2 Incited by the Blade
+2 Contraband Hounds
 2 Relentless Advancement
 2 Ruina, the Burnt Piece
 2 Rumbling Terror
