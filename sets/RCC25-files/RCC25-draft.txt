@@ -1,0 +1,3964 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Everlasting Hate",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/102_Everlasting Hate.png"
+			}
+		},
+		{
+			"name": "Orana, Barrier-Between",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/343_Orana, Barrier-Between.png"
+			}
+		},
+		{
+			"name": "Necromantic Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/253_Necromantic Flame.png"
+			}
+		},
+		{
+			"name": "Iyalden, Valley of Creation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/337_Iyalden, Valley of Creation.png"
+			}
+		},
+		{
+			"name": "Change of Seasons",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/230_Change of Seasons.png"
+			}
+		},
+		{
+			"name": "Farewell to the Shore",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/149_Farewell to the Shore.png"
+			}
+		},
+		{
+			"name": "Leafless, Summer's End",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Treefolk Warrior ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/249_Leafless, Summer's End.png"
+			}
+		},
+		{
+			"name": "Druid of the Circle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Leonin Druid ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/236_Druid of the Circle.png"
+			}
+		},
+		{
+			"name": "Berry, Orchard Tender",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Peasant ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/180_Berry, Orchard Tender.png"
+			}
+		},
+		{
+			"name": "Aven Courier",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Bird Construct ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/3_Aven Courier.png"
+			}
+		},
+		{
+			"name": "Barrier of Bravery",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/4_Barrier of Bravery.png"
+			}
+		},
+		{
+			"name": "Emergency Protocol",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/10_Emergency Protocol.png"
+			}
+		},
+		{
+			"name": "Exemplar of Courage",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/11_Exemplar of Courage.png"
+			}
+		},
+		{
+			"name": "Guardian Armadillo",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Beast Construct ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/14_Guardian Armadillo.png"
+			}
+		},
+		{
+			"name": "Heidi, Vengeant Priestess",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/19_Heidi, Vengeant Priestess.png"
+			}
+		},
+		{
+			"name": "Highland Survivalist",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Dwarf Wizard Soldier ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/21_Highland Survivalist.png"
+			}
+		},
+		{
+			"name": "Protocol Sergeant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Ilyari Soldier ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/27_Protocol Sergeant.png"
+			}
+		},
+		{
+			"name": "Rol Warpriest",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior Cleric ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/31_Rol Warpriest.png"
+			}
+		},
+		{
+			"name": "Scatter the Sands",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/32_Scatter the Sands.png"
+			}
+		},
+		{
+			"name": "Tomas, Rol Rallier",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/42_Tomas, Rol Rallier.png"
+			}
+		},
+		{
+			"name": "Skywarden Adjunct",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Ilyari Artificer ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/37_Skywarden Adjunct.png"
+			}
+		},
+		{
+			"name": "Captured Portal Energy",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/46_Captured Portal Energy.png"
+			}
+		},
+		{
+			"name": "Steel Sabotage",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/80_Steel Sabotage.png"
+			}
+		},
+		{
+			"name": "Dissolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/55_Dissolution.png"
+			}
+		},
+		{
+			"name": "Energy Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Human Construct ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/56_Energy Channeler.png"
+			}
+		},
+		{
+			"name": "Marqeq Elementalist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ilyari Wizard ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/69_Marqeq Elementalist.png"
+			}
+		},
+		{
+			"name": "Chill of the Void",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/49_Chill of the Void.png"
+			}
+		},
+		{
+			"name": "Gather the Elements",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/61_Gather the Elements.png"
+			}
+		},
+		{
+			"name": "Ilyari Sapper",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Ilyari Rogue ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/66_Ilyari Sapper.png"
+			}
+		},
+		{
+			"name": "Xet, the Exile",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Ilyari ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/89_Xet, the Exile.png"
+			}
+		},
+		{
+			"name": "Stone-Eater Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/81_Stone-Eater Drake.png"
+			}
+		},
+		{
+			"name": "Memory Stone",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/70_Memory Stone.png"
+			}
+		},
+		{
+			"name": "Admonish",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/90_Admonish.png"
+			}
+		},
+		{
+			"name": "Forgotten Altar",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/104_Forgotten Altar.png"
+			}
+		},
+		{
+			"name": "Myopic Overmaster",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Ilyari Advisor ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/115_Myopic Overmaster.png"
+			}
+		},
+		{
+			"name": "Demand",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/97_Demand.png"
+			}
+		},
+		{
+			"name": "Tablet of Resurrection",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/127_Tablet of Resurrection.png"
+			}
+		},
+		{
+			"name": "Spoils from Below",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/124_Spoils from Below.png"
+			}
+		},
+		{
+			"name": "Terminal Expedition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/129_Terminal Expedition.png"
+			}
+		},
+		{
+			"name": "Seething Husk",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Husk ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/120_Seething Husk.png"
+			}
+		},
+		{
+			"name": "Ilyari Replica",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Ilyari Construct ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/107_Ilyari Replica.png"
+			}
+		},
+		{
+			"name": "Organics Refiner",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/116_Organics Refiner.png"
+			}
+		},
+		{
+			"name": "Faithful Scrounger",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/148_Faithful Scrounger.png"
+			}
+		},
+		{
+			"name": "Highland Lightning",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/152_Highland Lightning.png"
+			}
+		},
+		{
+			"name": "Rage of the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/163_Rage of the Ancestors.png"
+			}
+		},
+		{
+			"name": "Vengeful Swordmaster",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/173_Vengeful Swordmaster.png"
+			}
+		},
+		{
+			"name": "Manaline Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Scout ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/157_Manaline Explorer.png"
+			}
+		},
+		{
+			"name": "Core Imps",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Imp ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/143_Core Imps.png"
+			}
+		},
+		{
+			"name": "Ignite the Elements",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/153_Ignite the Elements.png"
+			}
+		},
+		{
+			"name": "Nimble Raider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/160_Nimble Raider.png"
+			}
+		},
+		{
+			"name": "Cone of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/141_Cone of Lightning.png"
+			}
+		},
+		{
+			"name": "Overcharged Portal",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/161_Overcharged Portal.png"
+			}
+		},
+		{
+			"name": "Lowland Troll",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Troll Warrior ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/155_Lowland Troll.png"
+			}
+		},
+		{
+			"name": "Thundercaller",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/172_Thundercaller.png"
+			}
+		},
+		{
+			"name": "Embodiment of Progress",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment Creature — Elemental ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/147_Embodiment of Progress.png"
+			}
+		},
+		{
+			"name": "Acid Beast",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/178_Acid Beast.png"
+			}
+		},
+		{
+			"name": "Chel Hierarch",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/184_Chel Hierarch.png"
+			}
+		},
+		{
+			"name": "Nacatl Neonate",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/201_Nacatl Neonate.png"
+			}
+		},
+		{
+			"name": "Survey the Ruins",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/212_Survey the Ruins.png"
+			}
+		},
+		{
+			"name": "Light Harvest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/195_Light Harvest.png"
+			}
+		},
+		{
+			"name": "Nourishing Manaline",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/205_Nourishing Manaline.png"
+			}
+		},
+		{
+			"name": "Zylana, Born Leader",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Warrior ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/220_Zylana, Born Leader.png"
+			}
+		},
+		{
+			"name": "Cya, Master Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Ilyari Wizard ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/187_Cya, Master Weaver.png"
+			}
+		},
+		{
+			"name": "Relic Hog",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Boar ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/284_Relic Hog.png"
+			}
+		},
+		{
+			"name": "Alpha Teksaurus",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Dinosaur Construct ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/179_Alpha Teksaurus.png"
+			}
+		},
+		{
+			"name": "Everspinning Coin",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/289_Everspinning Coin.png"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/293_Prophetic Prism.png"
+			}
+		},
+		{
+			"name": "The Blade of Eons",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/286_The Blade of Eons.png"
+			}
+		},
+		{
+			"name": "Surveyor-Recorder",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/295_Surveyor-Recorder.png"
+			}
+		},
+		{
+			"name": "Tek Loxodon",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Elephant Construct ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/296_Tek Loxodon.png"
+			}
+		},
+		{
+			"name": "Marqeq Warpgate",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/292_Marqeq Warpgate.png"
+			}
+		},
+		{
+			"name": "Alantha, Nexus Informant",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/224_Alantha, Nexus Informant.png"
+			}
+		},
+		{
+			"name": "Explore the Mysteries",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/240_Explore the Mysteries.png"
+			}
+		},
+		{
+			"name": "Mark of the Chel",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/158_Mark of the Chel.png"
+			}
+		},
+		{
+			"name": "Chel Forerunner",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/231_Chel Forerunner.png"
+			}
+		},
+		{
+			"name": "Exact Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/239_Exact Vengeance.png"
+			}
+		},
+		{
+			"name": "Key, Desert Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/24_Key, Desert Champion.png"
+			}
+		},
+		{
+			"name": "Loxodon Nomad",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Loxodon Scout ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/250_Loxodon Nomad.png"
+			}
+		},
+		{
+			"name": "Make Eternal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/252_Make Eternal.png"
+			}
+		},
+		{
+			"name": "Make Ranks",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{W}",
+			"type": "Enchantment",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/281_Make Ranks.png"
+			}
+		},
+		{
+			"name": "Portal Channeler",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Ilyari Cleric ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/257_Portal Channeler.png"
+			}
+		},
+		{
+			"name": "Poverty, The Eternal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Artifact Creature — Angel ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/258_Poverty, The Eternal.png"
+			}
+		},
+		{
+			"name": "Tah, Caravan Speaker",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/270_Tah, Caravan Speaker.png"
+			}
+		},
+		{
+			"name": "Venomous Teknid",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/273_Venomous Teknid.png"
+			}
+		},
+		{
+			"name": "Arohi, Avatar of Passage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/225_Arohi, Avatar of Passage.png"
+			}
+		},
+		{
+			"name": "Insidious Miasma",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/246_Insidious Miasma.png"
+			}
+		},
+		{
+			"name": "Omatac, Sea Dominus",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Fish ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/255_Omatac, Sea Dominus.png"
+			}
+		},
+		{
+			"name": "Puhmiel, Sender of Stones",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Orc Wizard ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/259_Puhmiel, Sender of Stones.png"
+			}
+		},
+		{
+			"name": "Retriever Lagac",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Lizard ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/262_Retriever Lagac.png"
+			}
+		},
+		{
+			"name": "Summon the Squadron",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/269_Summon the Squadron.png"
+			}
+		},
+		{
+			"name": "Brothers in Arms",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Orc Warrior ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/227_Brothers in Arms.png"
+			}
+		},
+		{
+			"name": "Call the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/229_Call the Ancestors.png"
+			}
+		},
+		{
+			"name": "Elementalist's Infusion",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/237_Elementalist's Infusion.png"
+			}
+		},
+		{
+			"name": "Indentured Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/244_Indentured Behemoth.png"
+			}
+		},
+		{
+			"name": "Skullface, the Warmonger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Orc Warrior ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/266_Skullface, the Warmonger.png"
+			}
+		},
+		{
+			"name": "The Qeylia, Secret Cabal",
+			"rarity": "rare",
+			"mana_cost": "{B/G}{U}",
+			"type": "Legendary Creature — Orc Cleric ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/283_The Qeylia, Secret Cabal.png"
+			}
+		},
+		{
+			"name": "Vidau, Avatar of Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/274_Vidau, Avatar of Wisdom.png"
+			}
+		},
+		{
+			"name": "Majesty Unbound",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/251_Majesty Unbound.png"
+			}
+		},
+		{
+			"name": "Nixhia, Avatar of Growth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/254_Nixhia, Avatar of Growth.png"
+			}
+		},
+		{
+			"name": "Qeyli Ultimatum",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{G}{G}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/261_Qeyli Ultimatum.png"
+			}
+		},
+		{
+			"name": "Tek Goliath",
+			"rarity": "rare",
+			"mana_cost": "{8}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/128_Tek Goliath.png"
+			}
+		},
+		{
+			"name": "Canyon Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/304_Canyon Boundary.png"
+			}
+		},
+		{
+			"name": "Caravanner's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/305_Caravanner's Nexus.png"
+			}
+		},
+		{
+			"name": "Chel Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/316_Chel Vista.png"
+			}
+		},
+		{
+			"name": "Chol'Jah Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/317_Chol'Jah Vista.png"
+			}
+		},
+		{
+			"name": "Crumbling Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/318_Crumbling Boundary.png"
+			}
+		},
+		{
+			"name": "Elementalist's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/322_Elementalist's Nexus.png"
+			}
+		},
+		{
+			"name": "Highlander's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/335_Highlander's Nexus.png"
+			}
+		},
+		{
+			"name": "Marqeq Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/340_Marqeq Vista.png"
+			}
+		},
+		{
+			"name": "Marsh Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/341_Marsh Boundary.png"
+			}
+		},
+		{
+			"name": "Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/342_Morass.png"
+			}
+		},
+		{
+			"name": "Overmaster's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/346_Overmaster's Nexus.png"
+			}
+		},
+		{
+			"name": "Qeyli Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/348_Qeyli Vista.png"
+			}
+		},
+		{
+			"name": "Reef",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/349_Reef.png"
+			}
+		},
+		{
+			"name": "Butte",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/303_Butte.png"
+			}
+		},
+		{
+			"name": "Rol Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/351_Rol Vista.png"
+			}
+		},
+		{
+			"name": "Sabkha",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Plains ",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/352_Sabkha.png"
+			}
+		},
+		{
+			"name": "Saltflat Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/354_Saltflat Boundary.png"
+			}
+		},
+		{
+			"name": "Syndicate's Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/357_Syndicate's Nexus.png"
+			}
+		},
+		{
+			"name": "Volatile Boundary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Nexus ",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/359_Volatile Boundary.png"
+			}
+		},
+		{
+			"name": "Weald",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/360_Weald.png"
+			}
+		},
+		{
+			"name": "Cease Hostility",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/6_Cease Hostility.png"
+			}
+		},
+		{
+			"name": "Light the Path",
+			"rarity": "rare",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/280_Light the Path.png"
+			}
+		},
+		{
+			"name": "Pureheart Paladin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/29_Pureheart Paladin.png"
+			}
+		},
+		{
+			"name": "Weary Traveller",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/45_Weary Traveller.png"
+			}
+		},
+		{
+			"name": "Beaming Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/5_Beaming Angel.png"
+			}
+		},
+		{
+			"name": "Guiding Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/16_Guiding Soul.png"
+			}
+		},
+		{
+			"name": "Hero's Anthem",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/20_Hero's Anthem.png"
+			}
+		},
+		{
+			"name": "Illumination Binding",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/22_Illumination Binding.png"
+			}
+		},
+		{
+			"name": "Provisioned Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/28_Provisioned Explorer.png"
+			}
+		},
+		{
+			"name": "Heidi, the Pure",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/18_Heidi, the Pure.png"
+			}
+		},
+		{
+			"name": "Send Beyond",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/33_Send Beyond.png"
+			}
+		},
+		{
+			"name": "Sir Fromm, of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Knight ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/35_Sir Fromm, of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Guardian Giant",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/15_Guardian Giant.png"
+			}
+		},
+		{
+			"name": "Claim Pilferer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/50_Claim Pilferer.png"
+			}
+		},
+		{
+			"name": "Retreat to the Cavemouth",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/76_Retreat to the Cavemouth.png"
+			}
+		},
+		{
+			"name": "Hypothermia",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/65_Hypothermia.png"
+			}
+		},
+		{
+			"name": "Maestro's Conjuring",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/67_Maestro's Conjuring.png"
+			}
+		},
+		{
+			"name": "Orana Rascal",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Faerie Rogue ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/72_Orana Rascal.png"
+			}
+		},
+		{
+			"name": "Ponder Depths",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/74_Ponder Depths.png"
+			}
+		},
+		{
+			"name": "Veita, Crowcaller",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/86_Veita, Crowcaller.png"
+			}
+		},
+		{
+			"name": "Goldflecked Serpent",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Snake Construct ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/63_Goldflecked Serpent.png"
+			}
+		},
+		{
+			"name": "Path Less Travelled",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/73_Path Less Travelled.png"
+			}
+		},
+		{
+			"name": "Flood the Tunnels",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/60_Flood the Tunnels.png"
+			}
+		},
+		{
+			"name": "Incensed Drow",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/108_Incensed Drow.png"
+			}
+		},
+		{
+			"name": "Alex, Nimble Fingers",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/91_Alex, Nimble Fingers.png"
+			}
+		},
+		{
+			"name": "Digger's Delight",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/99_Digger's Delight.png"
+			}
+		},
+		{
+			"name": "Tomb Terror",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Shade ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/131_Tomb Terror.png"
+			}
+		},
+		{
+			"name": "Kila, Scourge of Orana",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/110_Kila, Scourge of Orana.png"
+			}
+		},
+		{
+			"name": "Languish",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/112_Languish.png"
+			}
+		},
+		{
+			"name": "Hunting Chupacabra",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Beast Horror ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/106_Hunting Chupacabra.png"
+			}
+		},
+		{
+			"name": "Caverunner Aspirant",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/140_Caverunner Aspirant.png"
+			}
+		},
+		{
+			"name": "Grimmgun Dwarves",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Rogue ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/150_Grimmgun Dwarves.png"
+			}
+		},
+		{
+			"name": "Bruff the Adventurous",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dwarf Scout ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/134_Bruff the Adventurous.png"
+			}
+		},
+		{
+			"name": "Dwarven Drilling Machine",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/146_Dwarven Drilling Machine.png"
+			}
+		},
+		{
+			"name": "Magma Vent",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/156_Magma Vent.png"
+			}
+		},
+		{
+			"name": "Surprising Find",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/171_Surprising Find.png"
+			}
+		},
+		{
+			"name": "Cave Gas Ignitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/139_Cave Gas Ignitor.png"
+			}
+		},
+		{
+			"name": "Wheels of Fortune",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/175_Wheels of Fortune.png"
+			}
+		},
+		{
+			"name": "Crack the Lavacore",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/144_Crack the Lavacore.png"
+			}
+		},
+		{
+			"name": "Penumbra Satyr",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Satyr Warrior ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/162_Penumbra Satyr.png"
+			}
+		},
+		{
+			"name": "Bruff's Big Find",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/135_Bruff's Big Find.png"
+			}
+		},
+		{
+			"name": "Melt the Barrier",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/159_Melt the Barrier.png"
+			}
+		},
+		{
+			"name": "Dryad of Exploration",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Dryad ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/188_Dryad of Exploration.png"
+			}
+		},
+		{
+			"name": "Emissary of Orana",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Advisor ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/191_Emissary of Orana.png"
+			}
+		},
+		{
+			"name": "Mill and Sieve",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/197_Mill and Sieve.png"
+			}
+		},
+		{
+			"name": "Orana Dryad",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit Warrior ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/206_Orana Dryad.png"
+			}
+		},
+		{
+			"name": "Mossy Wall",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wall ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/199_Mossy Wall.png"
+			}
+		},
+		{
+			"name": "Tunneler Lizard",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/216_Tunneler Lizard.png"
+			}
+		},
+		{
+			"name": "Wandering Wiitigo",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/219_Wandering Wiitigo.png"
+			}
+		},
+		{
+			"name": "Crevasse Wardens",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/186_Crevasse Wardens.png"
+			}
+		},
+		{
+			"name": "Naldan, King of the Drow",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Elf Noble ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/202_Naldan, King of the Drow.png"
+			}
+		},
+		{
+			"name": "Zylana's Revelation",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/221_Zylana's Revelation.png"
+			}
+		},
+		{
+			"name": "Buried Ancient",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/182_Buried Ancient.png"
+			}
+		},
+		{
+			"name": "Earthshaker Beast",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/189_Earthshaker Beast.png"
+			}
+		},
+		{
+			"name": "Burdened Exarch",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/228_Burdened Exarch.png"
+			}
+		},
+		{
+			"name": "Familiar Touch",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/241_Familiar Touch.png"
+			}
+		},
+		{
+			"name": "Discovered Treasure",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/288_Discovered Treasure.png"
+			}
+		},
+		{
+			"name": "Pull from Beyond",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/260_Pull from Beyond.png"
+			}
+		},
+		{
+			"name": "Rodric, of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Centaur Cleric ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/264_Rodric, of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Ancient Automaton",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/285_Ancient Automaton.png"
+			}
+		},
+		{
+			"name": "Adventurer's Camp",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/299_Adventurer's Camp.png"
+			}
+		},
+		{
+			"name": "Crystaline Stalactites",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/319_Crystaline Stalactites.png"
+			}
+		},
+		{
+			"name": "Rich Vein",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/350_Rich Vein.png"
+			}
+		},
+		{
+			"name": "Tunnel Tester",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/43_Tunnel Tester.png"
+			}
+		},
+		{
+			"name": "Spelunking Suit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/38_Spelunking Suit.png"
+			}
+		},
+		{
+			"name": "Release the Shackles",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/30_Release the Shackles.png"
+			}
+		},
+		{
+			"name": "Guardian of Orana",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/64_Guardian of Orana.png"
+			}
+		},
+		{
+			"name": "Flame Snuffer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/59_Flame Snuffer.png"
+			}
+		},
+		{
+			"name": "Gemshell Turtle",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Turtle ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/62_Gemshell Turtle.png"
+			}
+		},
+		{
+			"name": "Ivon, Metal Maestro",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/290_Ivon, Metal Maestro.png"
+			}
+		},
+		{
+			"name": "Pinch Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/119_Pinch Thoughts.png"
+			}
+		},
+		{
+			"name": "Bloody Trail",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/93_Bloody Trail.png"
+			}
+		},
+		{
+			"name": "Suspicious Cave-In",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/126_Suspicious Cave-In.png"
+			}
+		},
+		{
+			"name": "Grisly Pickaxe",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/105_Grisly Pickaxe.png"
+			}
+		},
+		{
+			"name": "Kila's Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/111_Kila's Will.png"
+			}
+		},
+		{
+			"name": "Desperate Ramblings",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/145_Desperate Ramblings.png"
+			}
+		},
+		{
+			"name": "Viasarite Resonation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/217_Viasarite Resonation.png"
+			}
+		},
+		{
+			"name": "Torch of the Lit Path",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/297_Torch of the Lit Path.png"
+			}
+		},
+		{
+			"name": "Unlock the Gates",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/272_Unlock the Gates.png"
+			}
+		},
+		{
+			"name": "Courteous Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/287_Courteous Amalgam.png"
+			}
+		},
+		{
+			"name": "Magmatic Paradise",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/339_Magmatic Paradise.png"
+			}
+		},
+		{
+			"name": "Sacred Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/353_Sacred Cavern.png"
+			}
+		},
+		{
+			"name": "Steam Chamber",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/355_Steam Chamber.png"
+			}
+		},
+		{
+			"name": "Subterranean Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/356_Subterranean Marsh.png"
+			}
+		},
+		{
+			"name": "Overgrown Prairie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/345_Overgrown Prairie.png"
+			}
+		},
+		{
+			"name": "Thirst for Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/83_Thirst for Knowledge.png"
+			}
+		},
+		{
+			"name": "Koneco, Staff of the Avatars",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/291_Koneco, Staff of the Avatars.png"
+			}
+		},
+		{
+			"name": "Molder Ooze",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/198_Molder Ooze.png"
+			}
+		},
+		{
+			"name": "Stonewaker's Gauntlets",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/294_Stonewaker's Gauntlets.png"
+			}
+		},
+		{
+			"name": "Evacuation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/57_Evacuation.png"
+			}
+		},
+		{
+			"name": "Ilyari Geomancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Ilyari Wizard ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/23_Ilyari Geomancer.png"
+			}
+		},
+		{
+			"name": "Lava Geyser",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/154_Lava Geyser.png"
+			}
+		},
+		{
+			"name": "Persistent Tekmole",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Mole Construct ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/118_Persistent Tekmole.png"
+			}
+		},
+		{
+			"name": "Chasing the Sky",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/48_Chasing the Sky.png"
+			}
+		},
+		{
+			"name": "Awakened Baloths",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/226_Awakened Baloths.png"
+			}
+		},
+		{
+			"name": "Despondence",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/98_Despondence.png"
+			}
+		},
+		{
+			"name": "Diffuse",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/53_Diffuse.png"
+			}
+		},
+		{
+			"name": "Aerial Manaline",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/222_Aerial Manaline.png"
+			}
+		},
+		{
+			"name": "Mangle",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/196_Mangle.png"
+			}
+		},
+		{
+			"name": "Viasarite Sword",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/298_Viasarite Sword.png"
+			}
+		},
+		{
+			"name": "Chol'Jah Ultimatum",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}{U}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/233_Chol'Jah Ultimatum.png"
+			}
+		},
+		{
+			"name": "Into the Miasma",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/247_Into the Miasma.png"
+			}
+		},
+		{
+			"name": "Nexus Initiate",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{G}",
+			"type": "Enchantment Creature — Dryad ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/282_Nexus Initiate.png"
+			}
+		},
+		{
+			"name": "Toadera Idol",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/215_Toadera Idol.png"
+			}
+		},
+		{
+			"name": "Pleasant Getaway",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/347_Pleasant Getaway.png"
+			}
+		},
+		{
+			"name": "Ertys, Arbiter of the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Ertys ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/1_Ertys, Arbiter of the Cosmos.png"
+			}
+		},
+		{
+			"name": "Artisan of Movement",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/2_Artisan of Movement.png"
+			}
+		},
+		{
+			"name": "Crack the Sky",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/7_Crack the Sky.png"
+			}
+		},
+		{
+			"name": "Cumulus Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/8_Cumulus Dragon.png"
+			}
+		},
+		{
+			"name": "Decisive Realization",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/9_Decisive Realization.png"
+			}
+		},
+		{
+			"name": "Final Call",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/12_Final Call.png"
+			}
+		},
+		{
+			"name": "Golden Ribbons",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/13_Golden Ribbons.png"
+			}
+		},
+		{
+			"name": "Heavenly Armor",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/17_Heavenly Armor.png"
+			}
+		},
+		{
+			"name": "Let Go",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/25_Let Go.png"
+			}
+		},
+		{
+			"name": "Orbs of Kel'amarth",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Orb ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/26_Orbs of Kel'amarth.png"
+			}
+		},
+		{
+			"name": "Silent Protector",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Elk ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/34_Silent Protector.png"
+			}
+		},
+		{
+			"name": "Sisters of Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/36_Sisters of Night.png"
+			}
+		},
+		{
+			"name": "Sunguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Soldier ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/39_Sunguard.png"
+			}
+		},
+		{
+			"name": "Tido, the Fractured Piece",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/40_Tido, the Fractured Piece.png"
+			}
+		},
+		{
+			"name": "Timeworn Sword",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/41_Timeworn Sword.png"
+			}
+		},
+		{
+			"name": "Warden of the Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/44_Warden of the Night.png"
+			}
+		},
+		{
+			"name": "Celestial Realization",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/47_Celestial Realization.png"
+			}
+		},
+		{
+			"name": "Cog, the Trapped Piece",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/51_Cog, the Trapped Piece.png"
+			}
+		},
+		{
+			"name": "Crystalcore Entity",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/52_Crystalcore Entity.png"
+			}
+		},
+		{
+			"name": "Disrupt the Flow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/54_Disrupt the Flow.png"
+			}
+		},
+		{
+			"name": "Fist of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue Monk ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/58_Fist of Lightning.png"
+			}
+		},
+		{
+			"name": "Manipulator of Reality",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/68_Manipulator of Reality.png"
+			}
+		},
+		{
+			"name": "Monstrous Djinn",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Djinn Wizard ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/71_Monstrous Djinn.png"
+			}
+		},
+		{
+			"name": "Pylas, The Librarian",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/75_Pylas, The Librarian.png"
+			}
+		},
+		{
+			"name": "Sail the Seas of Time",
+			"rarity": "rare",
+			"mana_cost": "{X}{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/77_Sail the Seas of Time.png"
+			}
+		},
+		{
+			"name": "Silent Watcher",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Avatar ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/78_Silent Watcher.png"
+			}
+		},
+		{
+			"name": "Sphinx of Games",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/79_Sphinx of Games.png"
+			}
+		},
+		{
+			"name": "Tentacle's Grasp",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/82_Tentacle's Grasp.png"
+			}
+		},
+		{
+			"name": "Time Moves Faster Still",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/84_Time Moves Faster Still.png"
+			}
+		},
+		{
+			"name": "Tripolar Mitosis",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/85_Tripolar Mitosis.png"
+			}
+		},
+		{
+			"name": "We Forget Ourselves",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/87_We Forget Ourselves.png"
+			}
+		},
+		{
+			"name": "Blood Ritual",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/92_Blood Ritual.png"
+			}
+		},
+		{
+			"name": "Borthrau, In-Between",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Elder Demon ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/94_Borthrau, In-Between.png"
+			}
+		},
+		{
+			"name": "Dark Geometry",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/95_Dark Geometry.png"
+			}
+		},
+		{
+			"name": "Dege, the Corrupted Piece",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/96_Dege, the Corrupted Piece.png"
+			}
+		},
+		{
+			"name": "Eloise, She Dances with Death",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/100_Eloise, She Dances with Death.png"
+			}
+		},
+		{
+			"name": "Endless Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/101_Endless Night.png"
+			}
+		},
+		{
+			"name": "Fade Into Shadows",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/103_Fade Into Shadows.png"
+			}
+		},
+		{
+			"name": "Infernal Covenant",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/109_Infernal Covenant.png"
+			}
+		},
+		{
+			"name": "Leonne, the Remorseful",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/113_Leonne, the Remorseful.png"
+			}
+		},
+		{
+			"name": "Magus of the Toxin",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/114_Magus of the Toxin.png"
+			}
+		},
+		{
+			"name": "Painful Realization",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/117_Painful Realization.png"
+			}
+		},
+		{
+			"name": "Silent Killer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment Creature — Horror ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/122_Silent Killer.png"
+			}
+		},
+		{
+			"name": "Soul Parasite",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Leech ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/123_Soul Parasite.png"
+			}
+		},
+		{
+			"name": "Still it Beats",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/125_Still it Beats.png"
+			}
+		},
+		{
+			"name": "Thought-Catcher Tarantula",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider Zombie ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/130_Thought-Catcher Tarantula.png"
+			}
+		},
+		{
+			"name": "Your Last Moment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/133_Your Last Moment.png"
+			}
+		},
+		{
+			"name": "Brutal Negotiation",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/136_Brutal Negotiation.png"
+			}
+		},
+		{
+			"name": "Burning Vengeant",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Angel Warrior ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/137_Burning Vengeant.png"
+			}
+		},
+		{
+			"name": "Careless Toymaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/138_Careless Toymaker.png"
+			}
+		},
+		{
+			"name": "Hemorrhagia",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/151_Hemorrhagia.png"
+			}
+		},
+		{
+			"name": "Contraband Hounds",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/142_Contraband Hounds.png"
+			}
+		},
+		{
+			"name": "Relentless Advancement",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/164_Relentless Advancement.png"
+			}
+		},
+		{
+			"name": "Ruina, the Burnt Piece",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/165_Ruina, the Burnt Piece.png"
+			}
+		},
+		{
+			"name": "Rumbling Terror",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/166_Rumbling Terror.png"
+			}
+		},
+		{
+			"name": "Silent Flame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment Creature — Phoenix ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/167_Silent Flame.png"
+			}
+		},
+		{
+			"name": "Smokeskin Drakkon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/168_Smokeskin Drakkon.png"
+			}
+		},
+		{
+			"name": "Spears Held Together",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/169_Spears Held Together.png"
+			}
+		},
+		{
+			"name": "Stabbing Realization",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/170_Stabbing Realization.png"
+			}
+		},
+		{
+			"name": "Wares from a World Away",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/174_Wares from a World Away.png"
+			}
+		},
+		{
+			"name": "Wings of Undeath",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/176_Wings of Undeath.png"
+			}
+		},
+		{
+			"name": "Wrel, Called to War",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Wrel ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/177_Wrel, Called to War.png"
+			}
+		},
+		{
+			"name": "Brightly-Colored Charger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Horse ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/181_Brightly-Colored Charger.png"
+			}
+		},
+		{
+			"name": "Canopy of Eyes",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/183_Canopy of Eyes.png"
+			}
+		},
+		{
+			"name": "Churning Growth",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/185_Churning Growth.png"
+			}
+		},
+		{
+			"name": "The Horror Within",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Horror ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/193_The Horror Within.png"
+			}
+		},
+		{
+			"name": "Joyous Realization",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/194_Joyous Realization.png"
+			}
+		},
+		{
+			"name": "Mouths to Be Fed",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/200_Mouths to Be Fed.png"
+			}
+		},
+		{
+			"name": "Nebulous Rampager",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Creature — Elemental ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/204_Nebulous Rampager.png"
+			}
+		},
+		{
+			"name": "Sapping Vines",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/207_Sapping Vines.png"
+			}
+		},
+		{
+			"name": "Seek Harmony",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/208_Seek Harmony.png"
+			}
+		},
+		{
+			"name": "Selt, the Withered Piece",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/209_Selt, the Withered Piece.png"
+			}
+		},
+		{
+			"name": "Serene Hopper",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Frog ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/210_Serene Hopper.png"
+			}
+		},
+		{
+			"name": "Silent Strength",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Dryad ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/211_Silent Strength.png"
+			}
+		},
+		{
+			"name": "Timberfall Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Warrior ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/213_Timberfall Titan.png"
+			}
+		},
+		{
+			"name": "Timefalls Regisaur",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/214_Timefalls Regisaur.png"
+			}
+		},
+		{
+			"name": "Walk Among Giants",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/218_Walk Among Giants.png"
+			}
+		},
+		{
+			"name": "Aethergear Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Creature — Human Scout ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/223_Aethergear Sentinel.png"
+			}
+		},
+		{
+			"name": "Darkwood Hart",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Skeleton Elk ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/234_Darkwood Hart.png"
+			}
+		},
+		{
+			"name": "Drain Vitality",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/235_Drain Vitality.png"
+			}
+		},
+		{
+			"name": "Eternal Guardian",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Skeleton Dryad ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/238_Eternal Guardian.png"
+			}
+		},
+		{
+			"name": "Horus, The Many Faced",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Horror ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/243_Horus, The Many Faced.png"
+			}
+		},
+		{
+			"name": "Inseva, Master of Unlife",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Zombie Wizard ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/245_Inseva, Master of Unlife.png"
+			}
+		},
+		{
+			"name": "Knight of True-Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Elemental Knight ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/248_Knight of True-Flame.png"
+			}
+		},
+		{
+			"name": "Ortan, Leader of Dragons",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/256_Ortan, Leader of Dragons.png"
+			}
+		},
+		{
+			"name": "Return to the Negative Sun",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Instant",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/263_Return to the Negative Sun.png"
+			}
+		},
+		{
+			"name": "Sinder, the White Blade",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Vampire Knight ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/265_Sinder, the White Blade.png"
+			}
+		},
+		{
+			"name": "Spinning Planetarium",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/267_Spinning Planetarium.png"
+			}
+		},
+		{
+			"name": "Stoke the Timeforge",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Instant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/268_Stoke the Timeforge.png"
+			}
+		},
+		{
+			"name": "Touch the Sky",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/271_Touch the Sky.png"
+			}
+		},
+		{
+			"name": "Where Wind Meets the Sea",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/275_Where Wind Meets the Sea.png"
+			}
+		},
+		{
+			"name": "Winding Water",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/276_Winding Water.png"
+			}
+		},
+		{
+			"name": "Withdraw Essence",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/277_Withdraw Essence.png"
+			}
+		},
+		{
+			"name": "Ester, Generous Mother",
+			"rarity": "rare",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Creature — Human Warlock ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/278_Ester, Generous Mother.png"
+			}
+		},
+		{
+			"name": "Freeze",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/279_Freeze.png"
+			}
+		},
+		{
+			"name": "Ancient Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/300_Ancient Canyon.png"
+			}
+		},
+		{
+			"name": "Autumnal Wood",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/301_Autumnal Wood.png"
+			}
+		},
+		{
+			"name": "Burning Chasm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/302_Burning Chasm.png"
+			}
+		},
+		{
+			"name": "Castle of Artifice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/306_Castle of Artifice.png"
+			}
+		},
+		{
+			"name": "Castle of Contagions",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/307_Castle of Contagions.png"
+			}
+		},
+		{
+			"name": "Castle of Dragons",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/308_Castle of Dragons.png"
+			}
+		},
+		{
+			"name": "Castle of Heroes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/309_Castle of Heroes.png"
+			}
+		},
+		{
+			"name": "Castle of Memories",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/310_Castle of Memories.png"
+			}
+		},
+		{
+			"name": "Castle of Nightmares",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/311_Castle of Nightmares.png"
+			}
+		},
+		{
+			"name": "Castle of Scorn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/312_Castle of Scorn.png"
+			}
+		},
+		{
+			"name": "Castle of Serenities",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island ",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/313_Castle of Serenities.png"
+			}
+		},
+		{
+			"name": "Castle of Trials",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest ",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/314_Castle of Trials.png"
+			}
+		},
+		{
+			"name": "Castle of Wonders",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains ",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/315_Castle of Wonders.png"
+			}
+		},
+		{
+			"name": "Dazzling Auditorium",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/320_Dazzling Auditorium.png"
+			}
+		},
+		{
+			"name": "Eerie Cemetery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/321_Eerie Cemetery.png"
+			}
+		},
+		{
+			"name": "Fading Core",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/323_Fading Core.png"
+			}
+		},
+		{
+			"name": "Fading Dourland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/324_Fading Dourland.png"
+			}
+		},
+		{
+			"name": "Fading Geyser Field",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/325_Fading Geyser Field.png"
+			}
+		},
+		{
+			"name": "Fading Ghostland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/326_Fading Ghostland.png"
+			}
+		},
+		{
+			"name": "Fading Outcrop",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/327_Fading Outcrop.png"
+			}
+		},
+		{
+			"name": "Fading Peaks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/328_Fading Peaks.png"
+			}
+		},
+		{
+			"name": "Fading Riverland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/329_Fading Riverland.png"
+			}
+		},
+		{
+			"name": "Fading Shoreline",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/330_Fading Shoreline.png"
+			}
+		},
+		{
+			"name": "Fading Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/331_Fading Temple.png"
+			}
+		},
+		{
+			"name": "Fading Undergrowth",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/332_Fading Undergrowth.png"
+			}
+		},
+		{
+			"name": "Forgotten Mausoleum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/333_Forgotten Mausoleum.png"
+			}
+		},
+		{
+			"name": "Grand Courtyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/334_Grand Courtyard.png"
+			}
+		},
+		{
+			"name": "Hushed Brook",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/336_Hushed Brook.png"
+			}
+		},
+		{
+			"name": "Lotus Nimbus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/338_Lotus Nimbus.png"
+			}
+		},
+		{
+			"name": "Overgrown Arches",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/344_Overgrown Arches.png"
+			}
+		},
+		{
+			"name": "Timeless Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/358_Timeless Cavern.png"
+			}
+		},
+		{
+			"name": "Venom Dealer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Goblin Rogue Warrior ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/132_Venom Dealer.png"
+			}
+		},
+		{
+			"name": "Elven Explorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/190_Elven Explorer.png"
+			}
+		},
+		{
+			"name": "Harrow",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/192_Harrow.png"
+			}
+		},
+		{
+			"name": "Chol'Jah Overmaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Artifact Creature — Ilyari Noble ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/232_Chol'Jah Overmaster.png"
+			}
+		},
+		{
+			"name": "Highland Brawler",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/242_Highland Brawler.png"
+			}
+		},
+		{
+			"name": "Wisdom From Beyond",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/88_Wisdom From Beyond.png"
+			}
+		},
+		{
+			"name": "Shady, Purveyor of the Deep",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/121_Shady, Purveyor of the Deep.png"
+			}
+		},
+		{
+			"name": "Naldan's Rise",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/203_Naldan's Rise.png"
+			}
+		}
+	]
+[RareSlot(15)]
+1 Everlasting Hate
+1 Orana, Barrier-Between
+1 Necromantic Flame
+1 Iyalden, Valley of Creation
+1 Change of Seasons
+1 Farewell to the Shore
+1 Leafless, Summer's End
+1 Druid of the Circle
+1 Berry, Orchard Tender
+1 Aven Courier
+1 Barrier of Bravery
+1 Emergency Protocol
+1 Exemplar of Courage
+1 Guardian Armadillo
+1 Heidi, Vengeant Priestess
+1 Highland Survivalist
+1 Protocol Sergeant
+1 Rol Warpriest
+1 Scatter the Sands
+1 Tomas, Rol Rallier
+1 Skywarden Adjunct
+1 Captured Portal Energy
+1 Steel Sabotage
+1 Dissolution
+1 Energy Channeler
+1 Marqeq Elementalist
+1 Chill of the Void
+1 Gather the Elements
+1 Ilyari Sapper
+1 Xet, the Exile
+1 Stone-Eater Drake
+1 Memory Stone
+1 Admonish
+1 Forgotten Altar
+1 Myopic Overmaster
+1 Demand
+1 Tablet of Resurrection
+1 Spoils from Below
+1 Terminal Expedition
+1 Seething Husk
+1 Ilyari Replica
+1 Organics Refiner
+1 Faithful Scrounger
+1 Highland Lightning
+1 Rage of the Ancestors
+1 Vengeful Swordmaster
+1 Manaline Explorer
+1 Core Imps
+1 Ignite the Elements
+1 Nimble Raider
+1 Cone of Lightning
+1 Overcharged Portal
+1 Lowland Troll
+1 Thundercaller
+1 Embodiment of Progress
+1 Acid Beast
+1 Chel Hierarch
+1 Nacatl Neonate
+1 Survey the Ruins
+1 Light Harvest
+1 Nourishing Manaline
+1 Zylana, Born Leader
+1 Cya, Master Weaver
+1 Relic Hog
+1 Alpha Teksaurus
+1 Everspinning Coin
+1 Prophetic Prism
+1 The Blade of Eons
+1 Surveyor-Recorder
+1 Tek Loxodon
+1 Marqeq Warpgate
+1 Alantha, Nexus Informant
+1 Explore the Mysteries
+1 Mark of the Chel
+1 Chel Forerunner
+1 Exact Vengeance
+1 Key, Desert Champion
+1 Loxodon Nomad
+1 Make Eternal
+1 Make Ranks
+1 Portal Channeler
+1 Poverty, The Eternal
+1 Tah, Caravan Speaker
+1 Venomous Teknid
+1 Arohi, Avatar of Passage
+1 Insidious Miasma
+1 Omatac, Sea Dominus
+1 Puhmiel, Sender of Stones
+1 Retriever Lagac
+1 Summon the Squadron
+1 Brothers in Arms
+1 Call the Ancestors
+1 Elementalist's Infusion
+1 Indentured Behemoth
+1 Skullface, the Warmonger
+1 The Qeylia, Secret Cabal
+1 Vidau, Avatar of Wisdom
+1 Majesty Unbound
+1 Nixhia, Avatar of Growth
+1 Qeyli Ultimatum
+1 Tek Goliath
+1 Canyon Boundary
+1 Caravanner's Nexus
+1 Chel Vista
+1 Chol'Jah Vista
+1 Crumbling Boundary
+1 Elementalist's Nexus
+1 Highlander's Nexus
+1 Marqeq Vista
+1 Marsh Boundary
+1 Morass
+1 Overmaster's Nexus
+1 Qeyli Vista
+1 Reef
+1 Butte
+1 Rol Vista
+1 Sabkha
+1 Saltflat Boundary
+1 Syndicate's Nexus
+1 Volatile Boundary
+1 Weald
+1 Cease Hostility
+1 Light the Path
+1 Pureheart Paladin
+1 Weary Traveller
+1 Beaming Angel
+1 Guiding Soul
+1 Hero's Anthem
+1 Illumination Binding
+1 Provisioned Explorer
+1 Heidi, the Pure
+1 Send Beyond
+1 Sir Fromm, of the Lit Path
+1 Guardian Giant
+1 Claim Pilferer
+1 Retreat to the Cavemouth
+1 Hypothermia
+1 Maestro's Conjuring
+1 Orana Rascal
+1 Ponder Depths
+1 Veita, Crowcaller
+1 Goldflecked Serpent
+1 Path Less Travelled
+1 Flood the Tunnels
+1 Incensed Drow
+1 Alex, Nimble Fingers
+1 Digger's Delight
+1 Tomb Terror
+1 Kila, Scourge of Orana
+1 Languish
+1 Hunting Chupacabra
+1 Caverunner Aspirant
+1 Grimmgun Dwarves
+1 Bruff the Adventurous
+1 Dwarven Drilling Machine
+1 Magma Vent
+1 Surprising Find
+1 Cave Gas Ignitor
+1 Wheels of Fortune
+1 Crack the Lavacore
+1 Penumbra Satyr
+1 Bruff's Big Find
+1 Melt the Barrier
+1 Dryad of Exploration
+1 Emissary of Orana
+1 Mill and Sieve
+1 Orana Dryad
+1 Mossy Wall
+1 Tunneler Lizard
+1 Wandering Wiitigo
+1 Crevasse Wardens
+1 Naldan, King of the Drow
+1 Zylana's Revelation
+1 Buried Ancient
+1 Earthshaker Beast
+1 Burdened Exarch
+1 Familiar Touch
+1 Discovered Treasure
+1 Pull from Beyond
+1 Rodric, of the Lit Path
+1 Ancient Automaton
+1 Adventurer's Camp
+1 Crystaline Stalactites
+1 Rich Vein
+1 Tunnel Tester
+1 Spelunking Suit
+1 Release the Shackles
+1 Guardian of Orana
+1 Flame Snuffer
+1 Gemshell Turtle
+1 Ivon, Metal Maestro
+1 Pinch Thoughts
+1 Bloody Trail
+1 Suspicious Cave-In
+1 Grisly Pickaxe
+1 Kila's Will
+1 Desperate Ramblings
+1 Viasarite Resonation
+1 Torch of the Lit Path
+1 Unlock the Gates
+1 Courteous Amalgam
+1 Magmatic Paradise
+1 Sacred Cavern
+1 Steam Chamber
+1 Subterranean Marsh
+1 Overgrown Prairie
+1 Thirst for Knowledge
+1 Koneco, Staff of the Avatars
+1 Molder Ooze
+1 Stonewaker's Gauntlets
+1 Evacuation
+1 Ilyari Geomancer
+1 Lava Geyser
+1 Persistent Tekmole
+1 Chasing the Sky
+1 Awakened Baloths
+1 Despondence
+1 Diffuse
+1 Aerial Manaline
+1 Mangle
+1 Viasarite Sword
+1 Chol'Jah Ultimatum
+1 Into the Miasma
+1 Nexus Initiate
+1 Toadera Idol
+1 Pleasant Getaway
+1 Ertys, Arbiter of the Cosmos
+1 Artisan of Movement
+1 Crack the Sky
+1 Cumulus Dragon
+1 Decisive Realization
+1 Final Call
+1 Golden Ribbons
+1 Heavenly Armor
+1 Let Go
+1 Orbs of Kel'amarth
+1 Silent Protector
+1 Sisters of Night
+1 Sunguard
+1 Tido, the Fractured Piece
+1 Timeworn Sword
+1 Warden of the Night
+1 Celestial Realization
+1 Cog, the Trapped Piece
+1 Crystalcore Entity
+1 Disrupt the Flow
+1 Fist of Lightning
+1 Manipulator of Reality
+1 Monstrous Djinn
+1 Pylas, The Librarian
+1 Sail the Seas of Time
+1 Silent Watcher
+1 Sphinx of Games
+1 Tentacle's Grasp
+1 Time Moves Faster Still
+1 Tripolar Mitosis
+1 We Forget Ourselves
+1 Blood Ritual
+1 Borthrau, In-Between
+1 Dark Geometry
+1 Dege, the Corrupted Piece
+1 Eloise, She Dances with Death
+1 Endless Night
+1 Fade Into Shadows
+1 Infernal Covenant
+1 Leonne, the Remorseful
+1 Magus of the Toxin
+1 Painful Realization
+1 Silent Killer
+1 Soul Parasite
+1 Still it Beats
+1 Thought-Catcher Tarantula
+1 Your Last Moment
+1 Brutal Negotiation
+1 Burning Vengeant
+1 Careless Toymaker
+1 Hemorrhagia
+1 Contraband Hounds
+1 Relentless Advancement
+1 Ruina, the Burnt Piece
+1 Rumbling Terror
+1 Silent Flame
+1 Smokeskin Drakkon
+1 Spears Held Together
+1 Stabbing Realization
+1 Wares from a World Away
+1 Wings of Undeath
+1 Wrel, Called to War
+1 Brightly-Colored Charger
+1 Canopy of Eyes
+1 Churning Growth
+1 The Horror Within
+1 Joyous Realization
+1 Mouths to Be Fed
+1 Nebulous Rampager
+1 Sapping Vines
+1 Seek Harmony
+1 Selt, the Withered Piece
+1 Serene Hopper
+1 Silent Strength
+1 Timberfall Titan
+1 Timefalls Regisaur
+1 Walk Among Giants
+1 Aethergear Sentinel
+1 Darkwood Hart
+1 Drain Vitality
+1 Eternal Guardian
+1 Horus, The Many Faced
+1 Inseva, Master of Unlife
+1 Knight of True-Flame
+1 Ortan, Leader of Dragons
+1 Return to the Negative Sun
+1 Sinder, the White Blade
+1 Spinning Planetarium
+1 Stoke the Timeforge
+1 Touch the Sky
+1 Where Wind Meets the Sea
+1 Winding Water
+1 Withdraw Essence
+1 Ester, Generous Mother
+1 Freeze
+1 Ancient Canyon
+1 Autumnal Wood
+1 Burning Chasm
+1 Castle of Artifice
+1 Castle of Contagions
+1 Castle of Dragons
+1 Castle of Heroes
+1 Castle of Memories
+1 Castle of Nightmares
+1 Castle of Scorn
+1 Castle of Serenities
+1 Castle of Trials
+1 Castle of Wonders
+1 Dazzling Auditorium
+1 Eerie Cemetery
+1 Fading Core
+1 Fading Dourland
+1 Fading Geyser Field
+1 Fading Ghostland
+1 Fading Outcrop
+1 Fading Peaks
+1 Fading Riverland
+1 Fading Shoreline
+1 Fading Temple
+1 Fading Undergrowth
+1 Forgotten Mausoleum
+1 Grand Courtyard
+1 Hushed Brook
+1 Lotus Nimbus
+1 Overgrown Arches
+1 Timeless Cavern
+1 Venom Dealer
+1 Elven Explorer
+1 Harrow
+1 Chol'Jah Overmaster
+1 Highland Brawler
+1 Wisdom From Beyond
+1 Shady, Purveyor of the Deep
+1 Naldan's Rise
