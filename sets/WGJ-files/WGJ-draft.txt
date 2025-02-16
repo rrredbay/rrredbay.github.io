@@ -2982,199 +2982,6 @@
 1 Throes of the Beast
 1 Mercenary's Hole Puncher
 1 Junklord Vorrick
-[UncommonSlot(4)]
-9 Shelled Harbinger
-9 Shear Through
-9 Crafty Junker
-9 Fancy Refurbishments
-9 Friendly Trawler
-9 Heckler Raid Leader
-9 Drexil Acolyte
-9 Sand Skimmer
-9 Scrap-Pit Champion
-9 Trawl the Fields
-9 Robotic Reverence
-9 Insidious Orb
-9 Skullface Wastelander
-9 Battery Thief
-9 Marus, Calculated Killer
-9 The Heap Rises
-9 Remote Controlled Mechsuit
-9 Feed the Monster
-9 Putrefying Mists
-9 Scrounge for Parts
-9 Nightfall Approaches
-9 Hired Killer
-9 Pull em Out
-9 Fallen Paladin
-9 Rubbish Pack
-9 Anter, Wasteland Runner
-9 Hotwiring Hogs
-9 Furious Intimidator
-9 Yarders Uprising
-9 Reckless Dunedevil
-9 Double-Barreled Drakkon
-9 Grabby Claws
-9 Beaten Without Mercy
-9 Absolute Victory
-9 Shocking Reaction
-9 Electric Junk Tower
-9 Execution Tank
-9 Harpooner Wagon
-9 Scavenger Party
-9 Out of the Wreckage
-9 Fresh-Eyed Android
-9 Mecha Arachnid
-9 Heedless Demands
-9 Colossus Opus
-9 Auto Recycler
-9 Shearing Winds
-9 Face Off
-9 Gorr, Heapbreaker
-9 Badlands Alpha
-9 ATV Hotshot
-9 Fearless Yarder
-9 Junkyard Riveter
-9 Processing Point
-9 Robot Samurai
-9 Scrap Blast
-9 Bert, Parts Specialist
-9 Scrapyard Upgrade
-9 Required Assembly
-9 Angel of Scrap
-9 Sky Trawler
-9 Remove Visage
-9 Junk Tornado
-9 Short Circuit
-9 Drexil Hiveguard
-9 Hotwire Mechanic
-9 Sky Scrapper
-9 Harbinger Drexil
-9 Hunt for Scraps
-9 Bandit Junker
-9 Rapid Materialization
-9 The Junkfields
-9 The Heap
-9 The Pit
-9 The Wasteland
-9 The Lost Sea
-9 Millikin
-9 Willing Automaton
-9 Charging Station
-9 Part Bot
-9 War-Javelin
-9 Junkosaur
-9 Tarnishing Yarder
-9 Lose to the Heap
-9 Overcharge
-9 Recycling Engine
-9 Raid the Workshop
-9 Sygnautomaton
-9 Cloud Skimmer
-9 Fishing Float
-9 Gunhead Rhino
-9 Hoarders Caravan
-9 Howling Rover
-9 Sidecar Cruiser
-9 Trashflinger Baboons
-9 Innovative Find
-9 Wondrous Find
-9 Broken Find
-9 Stolen Find
-9 Massive Find
-9 Rippen, the Scarred
-[CommonSlot(7)]
-30 Shoreline Midden
-30 Submerged Midden
-30 Molten Midden
-30 Brutal Midden
-30 Secluded Midden
-30 Foreboding Midden
-30 Market Midden
-30 Forgotten Midden
-30 Riffraff Midden
-30 Productive Midden
-30 Automated Scrapper
-30 Priestess of Metal
-30 Paladin of the Heap
-30 Hi-Tech Avian
-30 Beast Herald
-30 Scrapheap Roc
-30 Watchful Goliath
-30 Catastrophic Failure
-30 Disassemble
-30 Mechanohawk
-30 Lonely Wanderer
-30 Market Thief
-30 Moonlight Yarder
-30 Swift Surveyor
-30 Hidden Goliath
-30 Recharge
-30 Radical Idea
-30 Councils Inquiry
-30 Compacted
-30 Initiation Sequence
-30 Scrounging Vermin
-30 Assault Bot
-30 Transmogrified Yarder
-30 Maiden of Junk
-30 Oculus Collector
-30 Ghastly Scrapbeast
-30 Angel of the Beast
-30 Call the Beast
-30 Toss to the Heap
-30 Visions of Terror
-30 Decapitate
-30 Target Locked
-30 Nitwit Yarder
-30 Fire Starter
-30 Yarder Vets
-30 Cunning Warband
-30 Clankbot
-30 Gangland Tagteam
-30 Rampaging Goliath
-30 Trick Jump
-30 Explosive Collision
-30 Scrap Deals
-30 Tyrants Fire
-30 Sandstorm Dozer
-30 Android Visionary
-30 Happy Heaper
-30 Scaled Scrapper
-30 Swine Racer
-30 Daddy Swordlegs
-30 Grizzled Yarder
-30 Wasteland Goliath
-30 Survey the Ruins
-30 Field Crawler
-30 Overpower
-30 Plucky Scrapper
-30 Recommisioned Pounce-Bot
-30 Bursting Vat
-30 Dune Dasher
-30 Giving Tree
-30 Way of the Pipe
-30 Defend the Hive
-30 Ghastly Junker
-30 Hunger of the Heap
-30 Dirtbike Jouster
-30 Junkyard Sentry
-30 Assembly Line
-30 Beetle Bot
-30 Beast Beckoner
-30 Wasteland Daredevils
-30 Alert Sentries
-30 Canyon Sentry
-30 Wasteland Flameriders
-30 Power of the Beast
-30 Gone Mag-Fishing
-30 Flamethrower Battle-Wagon
-30 Flying Fish
-30 Heavy Duster
-30 Monowheel Interceptor
-30 Submerged Trawler
-30 Wreckyard Crane
-30 Collector of Finds
 [WildcardSlot(2)]
 10 Shoreline Midden
 10 Submerged Midden
@@ -3421,7 +3228,6 @@
 10 VAL, Automated Locomotive
 10 Beatle Bazaar Nomad
 10 Throes of the Beast
-10 Call the Beast Emblem
 10 Sygnautomaton
 10 Cloud Skimmer
 10 The Skyhorse
@@ -3448,5 +3254,198 @@
 10 Junklord Vorrick
 10 Rippen, the Scarred
 10 Merc Squad
+[UncommonSlot(4)]
+9 Shelled Harbinger
+9 Shear Through
+9 Crafty Junker
+9 Fancy Refurbishments
+9 Friendly Trawler
+9 Heckler Raid Leader
+9 Drexil Acolyte
+9 Sand Skimmer
+9 Scrap-Pit Champion
+9 Trawl the Fields
+9 Robotic Reverence
+9 Insidious Orb
+9 Skullface Wastelander
+9 Battery Thief
+9 Marus, Calculated Killer
+9 The Heap Rises
+9 Remote Controlled Mechsuit
+9 Feed the Monster
+9 Putrefying Mists
+9 Scrounge for Parts
+9 Nightfall Approaches
+9 Hired Killer
+9 Pull em Out
+9 Fallen Paladin
+9 Rubbish Pack
+9 Anter, Wasteland Runner
+9 Hotwiring Hogs
+9 Furious Intimidator
+9 Yarders Uprising
+9 Reckless Dunedevil
+9 Double-Barreled Drakkon
+9 Grabby Claws
+9 Beaten Without Mercy
+9 Absolute Victory
+9 Shocking Reaction
+9 Electric Junk Tower
+9 Execution Tank
+9 Harpooner Wagon
+9 Scavenger Party
+9 Out of the Wreckage
+9 Fresh-Eyed Android
+9 Mecha Arachnid
+9 Heedless Demands
+9 Colossus Opus
+9 Auto Recycler
+9 Shearing Winds
+9 Face Off
+9 Gorr, Heapbreaker
+9 Badlands Alpha
+9 ATV Hotshot
+9 Fearless Yarder
+9 Junkyard Riveter
+9 Processing Point
+9 Robot Samurai
+9 Scrap Blast
+9 Bert, Parts Specialist
+9 Scrapyard Upgrade
+9 Required Assembly
+9 Angel of Scrap
+9 Sky Trawler
+9 Remove Visage
+9 Junk Tornado
+9 Short Circuit
+9 Drexil Hiveguard
+9 Hotwire Mechanic
+9 Sky Scrapper
+9 Harbinger Drexil
+9 Hunt for Scraps
+9 Bandit Junker
+9 Rapid Materialization
+9 The Junkfields
+9 The Heap
+9 The Pit
+9 The Wasteland
+9 The Lost Sea
+9 Millikin
+9 Willing Automaton
+9 Charging Station
+9 Part Bot
+9 War-Javelin
+9 Junkosaur
+9 Tarnishing Yarder
+9 Lose to the Heap
+9 Overcharge
+9 Recycling Engine
+9 Raid the Workshop
+9 Sygnautomaton
+9 Cloud Skimmer
+9 Fishing Float
+9 Gunhead Rhino
+9 Hoarders Caravan
+9 Howling Rover
+9 Sidecar Cruiser
+9 Trashflinger Baboons
+9 Innovative Find
+9 Wondrous Find
+9 Broken Find
+9 Stolen Find
+9 Massive Find
+9 Rippen, the Scarred
+[CommonSlot(7)]
+30 Shoreline Midden
+30 Submerged Midden
+30 Molten Midden
+30 Brutal Midden
+30 Secluded Midden
+30 Foreboding Midden
+30 Market Midden
+30 Forgotten Midden
+30 Riffraff Midden
+30 Productive Midden
+30 Automated Scrapper
+30 Priestess of Metal
+30 Paladin of the Heap
+30 Hi-Tech Avian
+30 Beast Herald
+30 Scrapheap Roc
+30 Watchful Goliath
+30 Catastrophic Failure
+30 Disassemble
+30 Mechanohawk
+30 Lonely Wanderer
+30 Market Thief
+30 Moonlight Yarder
+30 Swift Surveyor
+30 Hidden Goliath
+30 Recharge
+30 Radical Idea
+30 Councils Inquiry
+30 Compacted
+30 Initiation Sequence
+30 Scrounging Vermin
+30 Assault Bot
+30 Transmogrified Yarder
+30 Maiden of Junk
+30 Oculus Collector
+30 Ghastly Scrapbeast
+30 Angel of the Beast
+30 Call the Beast
+30 Toss to the Heap
+30 Visions of Terror
+30 Decapitate
+30 Target Locked
+30 Nitwit Yarder
+30 Fire Starter
+30 Yarder Vets
+30 Cunning Warband
+30 Clankbot
+30 Gangland Tagteam
+30 Rampaging Goliath
+30 Trick Jump
+30 Explosive Collision
+30 Scrap Deals
+30 Tyrants Fire
+30 Sandstorm Dozer
+30 Android Visionary
+30 Happy Heaper
+30 Scaled Scrapper
+30 Swine Racer
+30 Daddy Swordlegs
+30 Grizzled Yarder
+30 Wasteland Goliath
+30 Survey the Ruins
+30 Field Crawler
+30 Overpower
+30 Plucky Scrapper
+30 Recommisioned Pounce-Bot
+30 Bursting Vat
+30 Dune Dasher
+30 Giving Tree
+30 Way of the Pipe
+30 Defend the Hive
+30 Ghastly Junker
+30 Hunger of the Heap
+30 Dirtbike Jouster
+30 Junkyard Sentry
+30 Assembly Line
+30 Beetle Bot
+30 Beast Beckoner
+30 Wasteland Daredevils
+30 Alert Sentries
+30 Canyon Sentry
+30 Wasteland Flameriders
+30 Power of the Beast
+30 Gone Mag-Fishing
+30 Flamethrower Battle-Wagon
+30 Flying Fish
+30 Heavy Duster
+30 Monowheel Interceptor
+30 Submerged Trawler
+30 Wreckyard Crane
+30 Collector of Finds
 [LandSlot(1)]
-10 Call the Beast Emblem
+30 Call the Beast Emblem
