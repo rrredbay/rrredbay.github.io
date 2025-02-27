@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Pilot ",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/148_Kinsley, Badlands Outcast.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/149_Kinsley, Badlands Outcast.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/150_Longshot Bot.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/151_Longshot Bot.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Pilot ",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/149_Lightspeed Racer.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/150_Lightspeed Racer.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Mercenary ",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/38_Sprawl Enforcers.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/37_Sprawl Enforcers.png"
 			}
 		},
 		{
@@ -2051,13 +2051,13 @@
 			}
 		},
 		{
-			"name": "Settle the Wreckage",
+			"name": "Survive Disaster",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Instant",
-			"collector_number": "35",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/35_Settle the Wreckage.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/38_Survive Disaster.png"
 			}
 		},
 		{
@@ -2181,16 +2181,6 @@
 			}
 		},
 		{
-			"name": "Towering Killbot",
-			"rarity": "rare",
-			"mana_cost": "{5}{B}{B}{B}",
-			"type": "Artifact Creature — Golem ",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/124_Towering Killbot.png"
-			}
-		},
-		{
 			"name": "Jump Junkers",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
@@ -2268,26 +2258,6 @@
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/80_Shamuss Pontoon.png"
-			}
-		},
-		{
-			"name": "Dreams of Progress",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Instant",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/217_Dreams of Progress.png"
-			}
-		},
-		{
-			"name": "Dreams of Exploitation",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/215_Dreams of Exploitation.png"
 			}
 		},
 		{
@@ -2471,23 +2441,13 @@
 			}
 		},
 		{
-			"name": "The Junklord's Gambit",
+			"name": "Beetle Junker-Merchant",
 			"rarity": "mythic",
-			"mana_cost": "{6}",
-			"type": "Legendary Artifact",
-			"collector_number": "248",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/248_The Junklord's Gambit.png"
-			}
-		},
-		{
-			"name": "Beatle Bazaar Nomad",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Insect Nomad ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/46_Beatle Bazaar Nomad.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/46_Beetle Junker-Merchant.png"
 			}
 		},
 		{
@@ -2525,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Artifact — Vehicle ",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/37_The Skyhorse.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/36_The Skyhorse.png"
 			}
 		},
 		{
@@ -2611,13 +2571,13 @@
 			}
 		},
 		{
-			"name": "Mercenary's Hole Puncher",
+			"name": "Junklords's Hole Puncher",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "152",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/152_Mercenary's Hole Puncher.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/148_Junklords's Hole Puncher.png"
 			}
 		},
 		{
@@ -2635,9 +2595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/36_Sidecar Cruiser.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/35_Sidecar Cruiser.png"
 			}
 		},
 		{
@@ -2755,9 +2715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/151_Merc Squad.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/152_Merc Squad.png"
 			}
 		},
 		{
@@ -2793,7 +2753,7 @@
 		{
 			"name": "VAL, Automated Locomotive",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{W}{W}{W}",
 			"type": "Legendary Artifact — Vehicle ",
 			"collector_number": "40",
 			"image_uris": {
@@ -2899,6 +2859,46 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/71_Pulsing Hedron.png"
 			}
+		},
+		{
+			"name": "Dreams of Progress",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/217_Dreams of Progress.png"
+			}
+		},
+		{
+			"name": "Dreams of Exploitation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/215_Dreams of Exploitation.png"
+			}
+		},
+		{
+			"name": "Towering Killbot",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/124_Towering Killbot.png"
+			}
+		},
+		{
+			"name": "The Junklord's Gambit",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/248_The Junklord's Gambit.png"
+			}
 		}
 	]
 [RareSlot(1)]
@@ -2928,7 +2928,7 @@
 2 Felisahs Recruiter
 2 Sprawl Enforcers
 2 Lundquists Bulwark
-2 Settle the Wreckage
+2 Survive Disaster
 2 March of the Goliaths
 2 Baited Trap
 2 The Citadel
@@ -2939,7 +2939,6 @@
 2 Tireless Consumption
 2 Caroline
 2 Pointed Interrogation
-2 Towering Killbot
 2 Jump Junkers
 2 Seaside Goliath
 2 Lost Sea Haggling
@@ -2948,8 +2947,6 @@
 2 Replicate Design
 2 Lev, Junker Genius
 2 Shamuss Pontoon
-2 Dreams of Progress
-2 Dreams of Exploitation
 2 Dreams of Incineration
 2 Dreams of Resilience
 2 Dreams of Restoration
@@ -2962,6 +2959,9 @@
 2 As Seen on TV
 2 Shiny Taker
 2 Pulsing Hedron
+2 Dreams of Progress
+2 Dreams of Exploitation
+2 Towering Killbot
 1 Junklord Azareth
 1 Junklord Felisah
 1 Junklord Garoth
@@ -2974,14 +2974,14 @@
 1 Electro Punch-Bot
 1 Sevrox, Ascended
 1 Gum-Gum, Heap Lackey
-1 The Junklord's Gambit
-1 Beatle Bazaar Nomad
+1 Beetle Junker-Merchant
 1 Throes of the Beast
-1 Mercenary's Hole Puncher
+1 Junklords's Hole Puncher
 1 Junklord Vorrick
 1 VAL, Automated Locomotive
 1 Lost Sea Watcher
 1 Machines Rule the World
+1 The Junklord's Gambit
 [WildcardSlot(2)]
 10 Shoreline Midden
 10 Submerged Midden
@@ -3176,7 +3176,7 @@
 10 Felisahs Recruiter
 10 Sprawl Enforcers
 10 Lundquists Bulwark
-10 Settle the Wreckage
+10 Survive Disaster
 10 March of the Goliaths
 10 Baited Trap
 10 The Citadel
@@ -3189,7 +3189,6 @@
 10 Tireless Consumption
 10 Caroline
 10 Pointed Interrogation
-10 Towering Killbot
 10 Jump Junkers
 10 Seaside Goliath
 10 Lost Sea Haggling
@@ -3198,8 +3197,6 @@
 10 Replicate Design
 10 Lev, Junker Genius
 10 Shamuss Pontoon
-10 Dreams of Progress
-10 Dreams of Exploitation
 10 Dreams of Incineration
 10 Dreams of Resilience
 10 Dreams of Restoration
@@ -3212,8 +3209,7 @@
 10 Electro Punch-Bot
 10 Sevrox, Ascended
 10 Gum-Gum, Heap Lackey
-10 The Junklord's Gambit
-10 Beatle Bazaar Nomad
+10 Beetle Junker-Merchant
 10 Throes of the Beast
 10 Junkyard Jetpacker
 10 Cloud Skimmer
@@ -3226,7 +3222,7 @@
 10 Heavy Duster
 10 Hoarders Caravan
 10 Howling Rover
-10 Mercenary's Hole Puncher
+10 Junklords's Hole Puncher
 10 Monowheel Interceptor
 10 Sidecar Cruiser
 10 Compactor Drones
@@ -3254,6 +3250,10 @@
 10 Machines Rule the World
 10 Processing Point
 10 Pulsing Hedron
+10 Dreams of Progress
+10 Dreams of Exploitation
+10 Towering Killbot
+10 The Junklord's Gambit
 [UncommonSlot(4)]
 9 Shelled Harbinger
 9 Shear Through
