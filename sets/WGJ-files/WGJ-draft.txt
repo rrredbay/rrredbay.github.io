@@ -101,6 +101,16 @@
 			}
 		},
 		{
+			"name": "The Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/1_The Beast.png"
+			}
+		},
+		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
