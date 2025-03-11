@@ -2724,7 +2724,7 @@
 				}
 			},
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/TWK-files/img/0_Call%20The%20Beast%20Emblem.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/0_Call The Beast Emblem.png"
 				}
 		},
 		{
