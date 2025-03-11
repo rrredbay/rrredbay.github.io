@@ -1,0 +1,39 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Call the Beast Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWK-files/img/0_Call the Beast Emblem.png"
+			}
+		},
+		{
+			"name": "dfc",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://rrredbay.github.io/sets/TWK-files/img/1_dfc_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWK-files/img/1_dfc_front.png"
+			}
+		}
+	]
+[RareSlot(1)]
+[UncommonSlot(4)]
+[CommonSlot(7)]
+30 dfc
+[WildcardSlot(2)]
+10 Call the Beast Emblem
+10 dfc
+[LandSlot(1)]
+10 Call the Beast Emblem

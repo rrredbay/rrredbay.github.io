@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Call the Beast Emblem</title>
-  <link rel="icon" type="image/x-icon" href="/sets/WGJ-files/icon.png">
+  <title>dfc</title>
+  <link rel="icon" type="image/x-icon" href="/sets/TWK-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
 </head>
@@ -177,16 +177,15 @@
 
 	<input type="text" id="display" class="hidden" value="cards-and-text"> <!-- here to make img-container-defs snippet work properly -->
 	<div class="banner-container">
-		<a class="set-banner" id="set-banner" href="/sets/WGJ">
-			<img class="set-logo" src="/sets/WGJ-files/icon.png">
-			<div class="set-title">Wrenchmar: Gambit of the Junklords</div>
+		<a class="set-banner" id="set-banner" href="/sets/TWK">
+			<img class="set-logo" src="/sets/TWK-files/icon.png">
+			<div class="set-title">Tweaks</div>
 		</a>
 	</div>
 
 	<div class="grid-container" id="grid">
 	</div>
-	<div class="printings" id="other-printings">Other Printings: <a href="/cards/TWK/0_Call the Beast Emblem">TWK</a></div>
-		
+	
 	<script>
 		let card_list_arrayified = [];
 		let specialchars = "";
@@ -206,7 +205,7 @@
 
 				card_list_arrayified = card_list.cards;
 
-			await fetch('/cards/WGJ/0_Call the Beast Emblem.json')
+			await fetch('/cards/TWK/1_dfc.json')
 				.then(response => response.json())
 				.then(json => {
 					card = json;
