@@ -321,13 +321,13 @@
 			}
 		},
 		{
-			"name": "Search for Meaning",
+			"name": "Search for Understanding",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/78_Search for Meaning.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/78_Search for Understanding.png"
 			}
 		},
 		{
@@ -883,7 +883,7 @@
 		{
 			"name": "Lead the Charge",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
@@ -931,13 +931,13 @@
 			}
 		},
 		{
-			"name": "Wasteland Flameriders",
+			"name": "Wasteland Flamerider",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Mercenary ",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/168_Wasteland Flameriders.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/168_Wasteland Flamerider.png"
 			}
 		},
 		{
@@ -2071,13 +2071,13 @@
 			}
 		},
 		{
-			"name": "Ory, Enhanced Outcast",
+			"name": "Ory, Enhanced Outlander",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/WGJ-files/img/108_Ory, Enhanced Outcast.png"
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/108_Ory, Enhanced Outlander.png"
 			}
 		},
 		{
@@ -2730,7 +2730,7 @@
 		{
 			"name": "Rig Sparks",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
@@ -2810,7 +2810,7 @@
 		{
 			"name": "Dreams of Exploitation",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "215",
 			"image_uris": {
@@ -2949,7 +2949,7 @@
 2 Baited Trap
 2 The Citadel
 2 The Sprawl
-2 Ory, Enhanced Outcast
+2 Ory, Enhanced Outlander
 2 Drexil Hunters
 2 Tireless Consumption
 2 Caroline
@@ -3025,7 +3025,7 @@
 10 Scrap-Shell Hermit
 10 Hidden Goliath
 10 Recharge
-10 Search for Meaning
+10 Search for Understanding
 10 Crushing Defeat
 10 Compacted
 10 Initiation Sequence
@@ -3086,7 +3086,7 @@
 10 Beast Beckoner
 10 Wasteland Daredevils
 10 Alert Sentries
-10 Wasteland Flameriders
+10 Wasteland Flamerider
 10 Power of the Beast
 10 Insidious Orb
 10 Skullface Wastelander
@@ -3195,7 +3195,7 @@
 10 The Sprawl
 10 Regeneration Chamber
 10 Azareths Dreadnought
-10 Ory, Enhanced Outcast
+10 Ory, Enhanced Outlander
 10 Drexil Hunters
 10 Tireless Consumption
 10 Caroline
@@ -3397,7 +3397,7 @@
 30 Swift Surveyor
 30 Hidden Goliath
 30 Recharge
-30 Search for Meaning
+30 Search for Understanding
 30 Crushing Defeat
 30 Compacted
 30 Initiation Sequence
@@ -3448,7 +3448,7 @@
 30 Beast Beckoner
 30 Wasteland Daredevils
 30 Alert Sentries
-30 Wasteland Flameriders
+30 Wasteland Flamerider
 30 Power of the Beast
 30 Gone Mag-Fishing
 30 Flying Fish
