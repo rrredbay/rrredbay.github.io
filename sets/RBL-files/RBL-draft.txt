@@ -44,7 +44,7 @@
 			"name": "CW05 Street Leaper",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Rogue ",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/5_CW05 Street Leaper.png"
@@ -131,13 +131,13 @@
 			}
 		},
 		{
-			"name": "CW14",
+			"name": "CW14 Boostpack Joyride",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/14_CW14.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/14_CW14 Boostpack Joyride.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "76",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/76_CA01 Momma's First Spray.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_CA01 Momma's First Spray.png"
 			}
 		},
 		{
@@ -165,89 +165,89 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Tagger ",
-			"collector_number": "31",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/31_CB01 Lingering Deadbeat.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/41_CB01 Lingering Deadbeat.png"
 			}
 		},
 		{
-			"name": "CB02",
+			"name": "CB02 Reprogrammed Enforcer",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Construct Rebel ",
-			"collector_number": "32",
+			"type": "Artifact Creature — Cyborg Rebel ",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/32_CB02.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/42_CB02 Reprogrammed Enforcer.png"
 			}
 		},
 		{
-			"name": "CB03",
+			"name": "CB03 Shadow Squad",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "33",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/33_CB03.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/43_CB03 Shadow Squad.png"
 			}
 		},
 		{
-			"name": "CB04",
+			"name": "CB04 Cyber-network Assassin",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Soldier ",
-			"collector_number": "34",
+			"type": "Creature — Cyborg Human Soldier ",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_CB04.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CB04 Cyber-network Assassin.png"
 			}
 		},
 		{
-			"name": "CB05",
+			"name": "CB05 Eccentric Artist",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
-			"collector_number": "35",
+			"type": "Creature — Kor Tagger ",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/35_CB05.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/45_CB05 Eccentric Artist.png"
 			}
 		},
 		{
-			"name": "CB06",
+			"name": "CB06 Data Historian",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Zombie Artificer ",
-			"collector_number": "36",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_CB06.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CB06 Data Historian.png"
 			}
 		},
 		{
-			"name": "CB07",
+			"name": "CB07 Frontline Mech",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Vehicle ",
-			"collector_number": "37",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_CB07.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_CB07 Frontline Mech.png"
 			}
 		},
 		{
-			"name": "CB08",
+			"name": "CB08 Trespassing Hoverboarder",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Rebel ",
-			"collector_number": "38",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/38_CB08.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/48_CB08 Trespassing Hoverboarder.png"
 			}
 		},
 		{
-			"name": "CB09",
+			"name": "CB09 Digital Troglodyte",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Artifact Creature — Zombie Artificer ",
-			"collector_number": "39",
+			"type": "Artifact Creature — Cyborg Zombie Artificer ",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/39_CB09.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_CB09 Digital Troglodyte.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/40_CB10 Final Vengeance.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_CB10 Final Vengeance.png"
 			}
 		},
 		{
@@ -265,29 +265,29 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "41",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/41_CB11 Art of the Undead.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_CB11 Art of the Undead.png"
 			}
 		},
 		{
-			"name": "CB13",
+			"name": "CB13 Download",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/43_CB13.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_CB13 Download.png"
 			}
 		},
 		{
-			"name": "CB12",
+			"name": "CB12 Neural Uplink",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/42_CB12.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_CB12 Neural Uplink.png"
 			}
 		},
 		{
@@ -295,109 +295,109 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CB14 Quickblade.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_CB14 Quickblade.png"
 			}
 		},
 		{
-			"name": "CB15",
+			"name": "CB15 Tune Out",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Instant",
-			"collector_number": "45",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/45_CB15.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/55_CB15 Tune Out.png"
 			}
 		},
 		{
-			"name": "CR01",
+			"name": "CR01 Soutside Tagger",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Rebel ",
-			"collector_number": "46",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CR01.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_CR01 Soutside Tagger.png"
 			}
 		},
 		{
-			"name": "CR02",
+			"name": "CR02 Backstreets Guide",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "47",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_CR02.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/62_CR02 Backstreets Guide.png"
 			}
 		},
 		{
-			"name": "CR03",
+			"name": "CR03 Cyber Improviser",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "48",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/48_CR03.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/63_CR03 Cyber Improviser.png"
 			}
 		},
 		{
-			"name": "CR04",
+			"name": "CR04 Daring Diva",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "49",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_CR04.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/64_CR04 Daring Diva.png"
 			}
 		},
 		{
-			"name": "CR05",
+			"name": "CR05 Street Thugs",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel Rogue ",
-			"collector_number": "50",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_CR05.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/65_CR05 Street Thugs.png"
 			}
 		},
 		{
-			"name": "CR06",
+			"name": "CR06 Playlist Pinger",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Peasant ",
-			"collector_number": "51",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_CR06.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/66_CR06 Playlist Pinger.png"
 			}
 		},
 		{
-			"name": "CR07",
+			"name": "CR07 Joyriding Goblin",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Goblin Warrior ",
-			"collector_number": "52",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_CR07.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/67_CR07 Joyriding Goblin.png"
 			}
 		},
 		{
-			"name": "CR08",
+			"name": "CR08 Southside Enforcer",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Rebel Warrior ",
-			"collector_number": "53",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_CR08.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/68_CR08 Southside Enforcer.png"
 			}
 		},
 		{
-			"name": "CR09",
+			"name": "CR09 Draconian Digitizer",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "54",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_CR09.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/69_CR09 Draconian Digitizer.png"
 			}
 		},
 		{
@@ -405,29 +405,29 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/55_CR10 Shock.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_CR10 Shock.png"
 			}
 		},
 		{
-			"name": "CR11",
+			"name": "CR11 Make a Scene",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/56_CR11.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/71_CR11 Make a Scene.png"
 			}
 		},
 		{
-			"name": "CR12",
+			"name": "CR12 Live on Ether",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_CR12.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/72_CR12 Live on Ether.png"
 			}
 		},
 		{
@@ -435,29 +435,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/58_CR13 Bow to the Queen.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/73_CR13 Bow to the Queen.png"
 			}
 		},
 		{
-			"name": "CR14",
+			"name": "CR14 Blow the Lid",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/59_CR14.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/74_CR14 Blow the Lid.png"
 			}
 		},
 		{
-			"name": "CR15",
+			"name": "CR15 Dead on Arrival",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/60_CR15.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/75_CR15 Dead on Arrival.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird Tagger ",
-			"collector_number": "16",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/16_CU01 Fowl Vandal.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_CU01 Fowl Vandal.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Detective ",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/17_CU02 Skid Row Gumshoe.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/22_CU02 Skid Row Gumshoe.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elemental Hacker ",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/18_CU03 Firewall Elemental.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_CU03 Firewall Elemental.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human ",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_CU04 Glorious Windsurfer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/24_CU04 Glorious Windsurfer.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Dragon Tagger ",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_CU05 Scaled Shredder.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/25_CU05 Scaled Shredder.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Cyborg ",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_CU06 Arm-ered Specialist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/26_CU06 Arm-ered Specialist.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/22_CU07 Flashy Aquamancer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/27_CU07 Flashy Aquamancer.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Tiefling Hacker ",
-			"collector_number": "23",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_CU08 Ghostwave Hacker.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/28_CU08 Ghostwave Hacker.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "24",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/24_CU09 Virtual Reality.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_CU09 Virtual Reality.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/25_CU10 Counterhack.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/30_CU10 Counterhack.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/26_CU11 Aerosol Art.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/31_CU11 Aerosol Art.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/27_CU12 Ride into Town.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/32_CU12 Ride into Town.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "28",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/28_CU13 Singled Out.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/33_CU13 Singled Out.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_CU14 Taken by the Cosmos.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_CU14 Taken by the Cosmos.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/30_CU15 Software Hijack.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/35_CU15 Software Hijack.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Human Cyborg ",
-			"collector_number": "61",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_CG01 Eco Activist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/81_CG01 Eco Activist.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human ",
-			"collector_number": "62",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/62_CG02 Kickflip Connoisseur.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/82_CG02 Kickflip Connoisseur.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Tagger ",
-			"collector_number": "63",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/63_CG03 Bridge Tagger.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/83_CG03 Bridge Tagger.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Berserker ",
-			"collector_number": "64",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/64_CG04 Skid-Row Heavy.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/84_CG04 Skid-Row Heavy.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Lizard ",
-			"collector_number": "65",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/65_CG05 Radical Reptile.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/85_CG05 Radical Reptile.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Cyborg Bard ",
-			"collector_number": "66",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/66_CG06 Digital Painter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/86_CG06 Digital Painter.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "67",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/67_CG07 Mech Maniac.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/87_CG07 Mech Maniac.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Tagger ",
-			"collector_number": "68",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/68_CG08 Life-Essence Tagger.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/88_CG08 Life-Essence Tagger.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dinosaur ",
-			"collector_number": "69",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/69_CG09 Colossal Dreadmaw.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/89_CG09 Colossal Dreadmaw.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "70",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_CG10 Rogue Squadron.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/90_CG10 Rogue Squadron.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/71_CG11 Final Show Down.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/91_CG11 Final Show Down.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/72_CG12 Secure the Bag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/92_CG12 Secure the Bag.png"
 			}
 		},
 		{
@@ -735,19 +735,19 @@
 			"rarity": "common",
 			"mana_cost": "{X}{G}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/73_CG13 Find a Cause.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/93_CG13 Find a Cause.png"
 			}
 		},
 		{
 			"name": "CG14 Fight for Tomorrow",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/74_CG14 Fight for Tomorrow.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/94_CG14 Fight for Tomorrow.png"
 			}
 		},
 		{
@@ -755,9 +755,289 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/75_CG15 See Colors.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/95_CG15 See Colors.png"
+			}
+		},
+		{
+			"name": "CW16 Find a Weakness",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/16_CW16 Find a Weakness.png"
+			}
+		},
+		{
+			"name": "CW17 Maintain Velocity",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/17_CW17 Maintain Velocity.png"
+			}
+		},
+		{
+			"name": "CW18 Reatomize",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/18_CW18 Reatomize.png"
+			}
+		},
+		{
+			"name": "CW19 Sunset Skater",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Horse ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_CW19 Sunset Skater.png"
+			}
+		},
+		{
+			"name": "CW20 Cyberware Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cyborg Samurai Cat ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_CW20 Cyberware Infiltrator.png"
+			}
+		},
+		{
+			"name": "CB16 Saved a Backup",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/56_CB16 Saved a Backup.png"
+			}
+		},
+		{
+			"name": "CB17 Error 404",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_CB17 Error 404.png"
+			}
+		},
+		{
+			"name": "CB18 Guerilla Fighter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/58_CB18 Guerilla Fighter.png"
+			}
+		},
+		{
+			"name": "CB19 Crow Keeper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/59_CB19 Crow Keeper.png"
+			}
+		},
+		{
+			"name": "CB20 Open the Gateway",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/60_CB20 Open the Gateway.png"
+			}
+		},
+		{
+			"name": "CR16 Overload the Mainframe",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/76_CR16 Overload the Mainframe.png"
+			}
+		},
+		{
+			"name": "CR17 Ferocious Intimidator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Bear ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/77_CR17 Ferocious Intimidator.png"
+			}
+		},
+		{
+			"name": "CR18 Little Dynamo",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hamster ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/78_CR18 Little Dynamo.png"
+			}
+		},
+		{
+			"name": "CR19 Roller Skates",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/79_CR19 Roller Skates.png"
+			}
+		},
+		{
+			"name": "CR20 Skyline Electromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/80_CR20 Skyline Electromancer.png"
+			}
+		},
+		{
+			"name": "CU19 Rapid Transfer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/39_CU19 Rapid Transfer.png"
+			}
+		},
+		{
+			"name": "CU18 Freelance Hacker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/38_CU18 Freelance Hacker.png"
+			}
+		},
+		{
+			"name": "CG16 Shelled Boarder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Turtle ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/96_CG16 Shelled Boarder.png"
+			}
+		},
+		{
+			"name": "CU16 Skyline Freerunner",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_CU16 Skyline Freerunner.png"
+			}
+		},
+		{
+			"name": "CU20 Hardwired Overclocker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct Rogue ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/40_CU20 Hardwired Overclocker.png"
+			}
+		},
+		{
+			"name": "CU16 Street Surfer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_CU16 Street Surfer.png"
+			}
+		},
+		{
+			"name": "CG17 Viper Painter",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Tagger ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/97_CG17 Viper Painter.png"
+			}
+		},
+		{
+			"name": "CG18 Murder Row Punks",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/98_CG18 Murder Row Punks.png"
+			}
+		},
+		{
+			"name": "CG19 Vitality Artist",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Tagger ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/99_CG19 Vitality Artist.png"
+			}
+		},
+		{
+			"name": "CG20 Bloodied Bat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/100_CG20 Bloodied Bat.png"
+			}
+		},
+		{
+			"name": "CL01 Back Alley",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_CL01 Back Alley.png"
+			}
+		},
+		{
+			"name": "CA02 Bigwheel Racer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_CA02 Bigwheel Racer.png"
+			}
+		},
+		{
+			"name": "CA03 Rainbow Bot",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_CA03 Rainbow Bot.png"
 			}
 		}
 	]
@@ -775,39 +1055,39 @@
 30 CW11 Sorry for Party Rocking
 30 CW12 Gunned Down
 30 CW13 Locked in Effigy
-30 CW14
+30 CW14 Boostpack Joyride
 30 CW15 Plant Your Flag
 30 CA01 Momma's First Spray
 30 CB01 Lingering Deadbeat
-30 CB02
-30 CB03
-30 CB04
-30 CB05
-30 CB06
-30 CB07
-30 CB08
-30 CB09
+30 CB02 Reprogrammed Enforcer
+30 CB03 Shadow Squad
+30 CB04 Cyber-network Assassin
+30 CB05 Eccentric Artist
+30 CB06 Data Historian
+30 CB07 Frontline Mech
+30 CB08 Trespassing Hoverboarder
+30 CB09 Digital Troglodyte
 30 CB10 Final Vengeance
 30 CB11 Art of the Undead
-30 CB13
-30 CB12
+30 CB13 Download
+30 CB12 Neural Uplink
 30 CB14 Quickblade
-30 CB15
-30 CR01
-30 CR02
-30 CR03
-30 CR04
-30 CR05
-30 CR06
-30 CR07
-30 CR08
-30 CR09
+30 CB15 Tune Out
+30 CR01 Soutside Tagger
+30 CR02 Backstreets Guide
+30 CR03 Cyber Improviser
+30 CR04 Daring Diva
+30 CR05 Street Thugs
+30 CR06 Playlist Pinger
+30 CR07 Joyriding Goblin
+30 CR08 Southside Enforcer
+30 CR09 Draconian Digitizer
 30 CR10 Shock
-30 CR11
-30 CR12
+30 CR11 Make a Scene
+30 CR12 Live on Ether
 30 CR13 Bow to the Queen
-30 CR14
-30 CR15
+30 CR14 Blow the Lid
+30 CR15 Dead on Arrival
 30 CU01 Fowl Vandal
 30 CU02 Skid Row Gumshoe
 30 CU03 Firewall Elemental
@@ -838,3 +1118,31 @@
 30 CG13 Find a Cause
 30 CG14 Fight for Tomorrow
 30 CG15 See Colors
+30 CW16 Find a Weakness
+30 CW17 Maintain Velocity
+30 CW18 Reatomize
+30 CW19 Sunset Skater
+30 CW20 Cyberware Infiltrator
+30 CB16 Saved a Backup
+30 CB17 Error 404
+30 CB18 Guerilla Fighter
+30 CB19 Crow Keeper
+30 CB20 Open the Gateway
+30 CR16 Overload the Mainframe
+30 CR17 Ferocious Intimidator
+30 CR18 Little Dynamo
+30 CR19 Roller Skates
+30 CR20 Skyline Electromancer
+30 CU19 Rapid Transfer
+30 CU18 Freelance Hacker
+30 CG16 Shelled Boarder
+30 CU16 Skyline Freerunner
+30 CU20 Hardwired Overclocker
+30 CU16 Street Surfer
+30 CG17 Viper Painter
+30 CG18 Murder Row Punks
+30 CG19 Vitality Artist
+30 CG20 Bloodied Bat
+30 CL01 Back Alley
+30 CA02 Bigwheel Racer
+30 CA03 Rainbow Bot
