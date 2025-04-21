@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "CW02 Mr Tapper",
+			"name": "CW02 Local Distraction",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Rebel Scout ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_CW02 Mr Tapper.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_CW02 Local Distraction.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "101",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_CA01 Momma's First Spray.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/106_CA01 Momma's First Spray.png"
 			}
 		},
 		{
@@ -211,13 +211,13 @@
 			}
 		},
 		{
-			"name": "CB06 Data Historian",
+			"name": "CB06 Night Technician",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Zombie Artificer ",
+			"type": "Artifact Creature — Construct ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CB06 Data Historian.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CB06 Night Technician.png"
 			}
 		},
 		{
@@ -614,7 +614,7 @@
 			"name": "CG01 Eco Activist",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Plant Human Cyborg ",
+			"type": "Creature — Human Werewolf Soldier ",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/81_CG01 Eco Activist.png"
@@ -1015,9 +1015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "104",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_CL01 Back Alley.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_CL01 Back Alley.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "102",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_CA02 Bigwheel Racer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/107_CA02 Bigwheel Racer.png"
 			}
 		},
 		{
@@ -1035,15 +1035,71 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_CA03 Rainbow Bot.png"
+			}
+		},
+		{
+			"name": "UM07 The Nightsun Twins",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Demon Rogue ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_UM07 The Nightsun Twins.png"
+			}
+		},
+		{
+			"name": "UM06 Block Sergeant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_UM06 Block Sergeant.png"
+			}
+		},
+		{
+			"name": "UM08 Sewer Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Zombie Noble ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_CA03 Rainbow Bot.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_UM08 Sewer Queen.png"
+			}
+		},
+		{
+			"name": "UM09 Cyber Crash",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_UM09 Cyber Crash.png"
+			}
+		},
+		{
+			"name": "UM10 Mural of Neon Lights",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Tag ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/105_UM10 Mural of Neon Lights.png"
 			}
 		}
 	]
-[CommonSlot(15)]
+[UncommonSlot(1)]
+9 UM07 The Nightsun Twins
+9 UM06 Block Sergeant
+9 UM08 Sewer Queen
+9 UM09 Cyber Crash
+9 UM10 Mural of Neon Lights
+[CommonSlot(14)]
 30 CW01 Katana Initiate
-30 CW02 Mr Tapper
+30 CW02 Local Distraction
 30 CW03 Tagger Vet
 30 CW04 Breakdancer
 30 CW05 Street Leaper
@@ -1063,7 +1119,7 @@
 30 CB03 Shadow Squad
 30 CB04 Cyber-network Assassin
 30 CB05 Eccentric Artist
-30 CB06 Data Historian
+30 CB06 Night Technician
 30 CB07 Frontline Mech
 30 CB08 Trespassing Hoverboarder
 30 CB09 Digital Troglodyte
