@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "106",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/106_CA01 Momma's First Spray.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/111_CA01 Momma's First Spray.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "109",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_CL01 Back Alley.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/116_CL01 Back Alley.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "107",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/107_CA02 Bigwheel Racer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/112_CA02 Bigwheel Racer.png"
 			}
 		},
 		{
@@ -1035,19 +1035,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "108",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_CA03 Rainbow Bot.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/113_CA03 Rainbow Bot.png"
 			}
 		},
 		{
-			"name": "UM07 The Nightsun Twins",
+			"name": "UM07 Ether Boarder",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Demon Rogue ",
-			"collector_number": "102",
+			"type": "Creature — Human Scout ",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_UM07 The Nightsun Twins.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/107_UM07 Ether Boarder.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "101",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_UM06 Block Sergeant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/106_UM06 Block Sergeant.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Zombie Noble ",
-			"collector_number": "103",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_UM08 Sewer Queen.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_UM08 Sewer Queen.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_UM09 Cyber Crash.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_UM09 Cyber Crash.png"
 			}
 		},
 		{
@@ -1085,18 +1085,93 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment — Tag ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_UM10 Mural of Neon Lights.png"
+			}
+		},
+		{
+			"name": "UM01 Skate Park Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Skater ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_UM01 Skate Park Prodigy.png"
+			}
+		},
+		{
+			"name": "UM02 Ghost in the Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_UM02 Ghost in the Machine.png"
+			}
+		},
+		{
+			"name": "UM03 Firestarter",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_UM03 Firestarter.png"
+			}
+		},
+		{
+			"name": "UM04 Turf War Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_UM04 Turf War Terror.png"
+			}
+		},
+		{
+			"name": "UM05 Slamboree!",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/105_UM10 Mural of Neon Lights.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/105_UM05 Slamboree!.png"
+			}
+		},
+		{
+			"name": "CA04 Grid Monitor",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/114_CA04 Grid Monitor.png"
+			}
+		},
+		{
+			"name": "CA05 Hoverboard",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_CA05 Hoverboard.png"
 			}
 		}
 	]
 [UncommonSlot(1)]
-9 UM07 The Nightsun Twins
+9 UM07 Ether Boarder
 9 UM06 Block Sergeant
 9 UM08 Sewer Queen
 9 UM09 Cyber Crash
 9 UM10 Mural of Neon Lights
+9 UM01 Skate Park Prodigy
+9 UM02 Ghost in the Machine
+9 UM03 Firestarter
+9 UM04 Turf War Terror
+9 UM05 Slamboree!
 [CommonSlot(14)]
 30 CW01 Katana Initiate
 30 CW02 Local Distraction
@@ -1202,3 +1277,5 @@
 30 CL01 Back Alley
 30 CA02 Bigwheel Racer
 30 CA03 Rainbow Bot
+30 CA04 Grid Monitor
+30 CA05 Hoverboard
