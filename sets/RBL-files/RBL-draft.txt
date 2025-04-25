@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "CW02 Local Distraction",
+			"name": "CW02 Industrious Urchins",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Rebel Scout ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_CW02 Local Distraction.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_CW02 Industrious Urchins.png"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 		{
 			"name": "CW08 Gangland Mercs",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Mercenary ",
 			"collector_number": "8",
 			"image_uris": {
@@ -191,13 +191,13 @@
 			}
 		},
 		{
-			"name": "CB04 Cyber-network Assassin",
+			"name": "CB04 Cyber-Network Assassin",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Cyborg Human Soldier ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CB04 Cyber-network Assassin.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CB04 Cyber-Network Assassin.png"
 			}
 		},
 		{
@@ -311,13 +311,13 @@
 			}
 		},
 		{
-			"name": "CR01 Soutside Tagger",
+			"name": "CR01 Southside Tagger",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Rebel ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_CR01 Soutside Tagger.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_CR01 Southside Tagger.png"
 			}
 		},
 		{
@@ -513,7 +513,7 @@
 		{
 			"name": "CU06 Arm-ered Specialist",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Cyborg ",
 			"collector_number": "26",
 			"image_uris": {
@@ -553,7 +553,7 @@
 		{
 			"name": "CU10 Counterhack",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
@@ -653,7 +653,7 @@
 		{
 			"name": "CG05 Radical Reptile",
 			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Lizard ",
 			"collector_number": "85",
 			"image_uris": {
@@ -673,7 +673,7 @@
 		{
 			"name": "CG07 Mech Maniac",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "87",
 			"image_uris": {
@@ -724,7 +724,7 @@
 			"name": "CG12 Secure the Bag",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/92_CG12 Secure the Bag.png"
@@ -933,7 +933,7 @@
 		{
 			"name": "CG16 Shelled Boarder",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Creature — Turtle ",
 			"collector_number": "96",
 			"image_uris": {
@@ -1084,7 +1084,7 @@
 			"name": "UM10 Mural of Neon Lights",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Enchantment — Tag ",
+			"type": "Enchantment",
 			"collector_number": "110",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_UM10 Mural of Neon Lights.png"
@@ -1174,7 +1174,7 @@
 9 UM05 Slamboree!
 [CommonSlot(14)]
 30 CW01 Katana Initiate
-30 CW02 Local Distraction
+30 CW02 Industrious Urchins
 30 CW03 Tagger Vet
 30 CW04 Breakdancer
 30 CW05 Street Leaper
@@ -1192,7 +1192,7 @@
 30 CB01 Lingering Deadbeat
 30 CB02 Reprogrammed Enforcer
 30 CB03 Shadow Squad
-30 CB04 Cyber-network Assassin
+30 CB04 Cyber-Network Assassin
 30 CB05 Eccentric Artist
 30 CB06 Night Technician
 30 CB07 Frontline Mech
@@ -1204,7 +1204,7 @@
 30 CB12 Neural Uplink
 30 CB14 Quickblade
 30 CB15 Tune Out
-30 CR01 Soutside Tagger
+30 CR01 Southside Tagger
 30 CR02 Backstreets Guide
 30 CR03 Cyber Improviser
 30 CR04 Daring Diva
