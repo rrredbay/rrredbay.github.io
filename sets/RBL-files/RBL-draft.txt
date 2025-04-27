@@ -221,13 +221,13 @@
 			}
 		},
 		{
-			"name": "CB07 Frontline Mech",
+			"name": "CB07 Night Rider",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Vehicle ",
+			"type": "Creature — Human Rogue ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_CB07 Frontline Mech.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_CB07 Night Rider.png"
 			}
 		},
 		{
@@ -401,13 +401,13 @@
 			}
 		},
 		{
-			"name": "CR10 Shock",
+			"name": "CR10 Blood in the Streets",
 			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Instant",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_CR10 Shock.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_CR10 Blood in the Streets.png"
 			}
 		},
 		{
@@ -591,16 +591,6 @@
 			}
 		},
 		{
-			"name": "CU14 Taken by the Cosmos",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_CU14 Taken by the Cosmos.png"
-			}
-		},
-		{
 			"name": "CU15 Software Hijack",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
@@ -661,19 +651,19 @@
 			}
 		},
 		{
-			"name": "CG06 Digital Painter",
+			"name": "CG06 Graphic Designer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Cyborg Bard ",
+			"type": "Creature — Human ",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/86_CG06 Digital Painter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/86_CG06 Graphic Designer.png"
 			}
 		},
 		{
 			"name": "CG07 Mech Maniac",
 			"rarity": "common",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "87",
 			"image_uris": {
@@ -863,7 +853,7 @@
 		{
 			"name": "CR16 Overload the Mainframe",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
@@ -1159,6 +1149,16 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_CA05 Hoverboard.png"
 			}
+		},
+		{
+			"name": "CU14 Taken by the Cosmos",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_CU14 Taken by the Cosmos.png"
+			}
 		}
 	]
 [UncommonSlot(1)]
@@ -1195,7 +1195,7 @@
 30 CB04 Cyber-Network Assassin
 30 CB05 Eccentric Artist
 30 CB06 Night Technician
-30 CB07 Frontline Mech
+30 CB07 Night Rider
 30 CB08 Trespassing Hoverboarder
 30 CB09 Digital Troglodyte
 30 CB10 Final Vengeance
@@ -1213,7 +1213,7 @@
 30 CR07 Joyriding Goblin
 30 CR08 Southside Enforcer
 30 CR09 Draconian Digitizer
-30 CR10 Shock
+30 CR10 Blood in the Streets
 30 CR11 Make a Scene
 30 CR12 Live on Ether
 30 CR13 Bow to the Queen
@@ -1232,14 +1232,13 @@
 30 CU11 Aerosol Art
 30 CU12 Ride into Town
 30 CU13 Singled Out
-30 CU14 Taken by the Cosmos
 30 CU15 Software Hijack
 30 CG01 Eco Activist
 30 CG02 Kickflip Connoisseur
 30 CG03 Bridge Tagger
 30 CG04 Skid-Row Heavy
 30 CG05 Radical Reptile
-30 CG06 Digital Painter
+30 CG06 Graphic Designer
 30 CG07 Mech Maniac
 30 CG08 Life-Essence Tagger
 30 CG09 Colossal Dreadmaw
@@ -1279,3 +1278,4 @@
 30 CA03 Rainbow Bot
 30 CA04 Grid Monitor
 30 CA05 Hoverboard
+30 CU14 Taken by the Cosmos
