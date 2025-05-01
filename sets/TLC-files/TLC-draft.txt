@@ -1,0 +1,522 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Pillar of Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/29_Pillar of Vitality.png"
+			}
+		},
+		{
+			"name": "Event Horizon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/16_Event Horizon.png"
+			}
+		},
+		{
+			"name": "Memories Best Forgotten",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/32_Memories Best Forgotten.png"
+			}
+		},
+		{
+			"name": "Fatal Space Walk",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/17_Fatal Space Walk.png"
+			}
+		},
+		{
+			"name": "Spatial Drift",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/12_Spatial Drift.png"
+			}
+		},
+		{
+			"name": "The U.S.S 580",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/45_The U.S.S 580.png"
+			}
+		},
+		{
+			"name": "Wonders of the Cosmos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/37_Wonders of the Cosmos.png"
+			}
+		},
+		{
+			"name": "Hyperdrive Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/38_Hyperdrive Engine.png"
+			}
+		},
+		{
+			"name": "Time to Think",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/13_Time to Think.png"
+			}
+		},
+		{
+			"name": "Fill with the Void",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/31_Fill with the Void.png"
+			}
+		},
+		{
+			"name": "Cube of Searching",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/8_Cube of Searching.png"
+			}
+		},
+		{
+			"name": "Plumb the Wreckage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/33_Plumb the Wreckage.png"
+			}
+		},
+		{
+			"name": "Meteor Field",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/23_Meteor Field.png"
+			}
+		},
+		{
+			"name": "Radioactive Mist",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/34_Radioactive Mist.png"
+			}
+		},
+		{
+			"name": "Journey to the Nega-Star",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/18_Journey to the Nega-Star.png"
+			}
+		},
+		{
+			"name": "Solar Flare",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/35_Solar Flare.png"
+			}
+		},
+		{
+			"name": "High Orbit Scan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/3_High Orbit Scan.png"
+			}
+		},
+		{
+			"name": "RC Rover",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/40_RC Rover.png"
+			}
+		},
+		{
+			"name": "The Last Cosmonaut",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/1_The Last Cosmonaut.png"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/27_Explore.png"
+			}
+		},
+		{
+			"name": "See New Worlds",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/6_See New Worlds.png"
+			}
+		},
+		{
+			"name": "Red Moon Rising",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/24_Red Moon Rising.png"
+			}
+		},
+		{
+			"name": "Uncharted Depths",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/14_Uncharted Depths.png"
+			}
+		},
+		{
+			"name": "Sustaining Flora",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/36_Sustaining Flora.png"
+			}
+		},
+		{
+			"name": "Ruined Station",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/42_Ruined Station.png"
+			}
+		},
+		{
+			"name": "Lifeline",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/5_Lifeline.png"
+			}
+		},
+		{
+			"name": "Low-Orbit Warpgate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/22_Low-Orbit Warpgate.png"
+			}
+		},
+		{
+			"name": "Speed of Light",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/25_Speed of Light.png"
+			}
+		},
+		{
+			"name": "Negate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/11_Negate.png"
+			}
+		},
+		{
+			"name": "Toxic Vegetation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/30_Toxic Vegetation.png"
+			}
+		},
+		{
+			"name": "Space Pistol",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/20_Space Pistol.png"
+			}
+		},
+		{
+			"name": "Orbital Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/39_Orbital Explorer.png"
+			}
+		},
+		{
+			"name": "Malfunctioning Warpgate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/10_Malfunctioning Warpgate.png"
+			}
+		},
+		{
+			"name": "Rescue Beacon",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/41_Rescue Beacon.png"
+			}
+		},
+		{
+			"name": "Interstellar Wingsuit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/4_Interstellar Wingsuit.png"
+			}
+		},
+		{
+			"name": "Overgrown Greenhouse",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/28_Overgrown Greenhouse.png"
+			}
+		},
+		{
+			"name": "Dustblast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/21_Dustblast.png"
+			}
+		},
+		{
+			"name": "Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/15_Duress.png"
+			}
+		},
+		{
+			"name": "Infinite Vacuum of Space",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/9_Infinite Vacuum of Space.png"
+			}
+		},
+		{
+			"name": "Noxious Atmosphere",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/19_Noxious Atmosphere.png"
+			}
+		},
+		{
+			"name": "Systems Monitor",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/44_Systems Monitor.png"
+			}
+		},
+		{
+			"name": "Command Bridge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/2_Command Bridge.png"
+			}
+		},
+		{
+			"name": "Atmospheric Re-Entry",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/26_Atmospheric Re-Entry.png"
+			}
+		},
+		{
+			"name": "Blue Moon Folding",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/7_Blue Moon Folding.png"
+			}
+		},
+		{
+			"name": "Space Helmet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/43_Space Helmet.png"
+			}
+		},
+		{
+			"name": "Radiation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/0_Radiation.png"
+			}
+		},
+		{
+			"name": "Meteorite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TLC-files/img/1_Meteorite.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Event Horizon
+2 Memories Best Forgotten
+2 Spatial Drift
+2 The U.S.S 580
+2 Solar Flare
+1 The Last Cosmonaut
+[UncommonSlot(4)]
+9 Pillar of Vitality
+9 Wonders of the Cosmos
+9 Hyperdrive Engine
+9 Fill with the Void
+9 Cube of Searching
+9 Plumb the Wreckage
+9 Meteor Field
+9 Radioactive Mist
+9 Journey to the Nega-Star
+9 High Orbit Scan
+9 RC Rover
+9 Sustaining Flora
+[CommonSlot(10)]
+30 Fatal Space Walk
+30 Time to Think
+30 Explore
+30 See New Worlds
+30 Red Moon Rising
+30 Uncharted Depths
+30 Ruined Station
+30 Lifeline
+30 Low-Orbit Warpgate
+30 Speed of Light
+30 Negate
+30 Toxic Vegetation
+30 Space Pistol
+30 Orbital Explorer
+30 Malfunctioning Warpgate
+30 Rescue Beacon
+30 Interstellar Wingsuit
+30 Overgrown Greenhouse
+30 Dustblast
+30 Duress
+30 Infinite Vacuum of Space
+30 Noxious Atmosphere
+30 Systems Monitor
+30 Command Bridge
+30 Atmospheric Re-Entry
+30 Blue Moon Folding
+30 Space Helmet
+30 Radiation
