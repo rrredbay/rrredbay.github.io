@@ -124,7 +124,7 @@
 			"name": "CB15 Tune Out",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/45_CB15 Tune Out.png"
@@ -191,53 +191,43 @@
 			}
 		},
 		{
-			"name": "CR05 Daring Diva",
+			"name": "CR04 Daring Diva",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_CR05 Daring Diva.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_CR04 Daring Diva.png"
 			}
 		},
 		{
-			"name": "CR07 Playlist Pinger",
+			"name": "CR06 Playlist Pinger",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Peasant ",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_CR07 Playlist Pinger.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_CR06 Playlist Pinger.png"
 			}
 		},
 		{
-			"name": "CR08 Joyriding Goblin",
+			"name": "CR07 Joyriding Goblin",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Goblin Warrior ",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_CR08 Joyriding Goblin.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_CR07 Joyriding Goblin.png"
 			}
 		},
 		{
-			"name": "CR09 Southside Enforcer",
+			"name": "CR08 Southside Enforcer",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Rebel Warrior ",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_CR09 Southside Enforcer.png"
-			}
-		},
-		{
-			"name": "UR01 Draconian Digitizer",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dragon ",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_UR01 Draconian Digitizer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_CR08 Southside Enforcer.png"
 			}
 		},
 		{
@@ -291,13 +281,13 @@
 			}
 		},
 		{
-			"name": "CR06 Ferocious Intimidator",
+			"name": "CR05 Steel District Ruffians",
 			"rarity": "common",
 			"mana_cost": "{R}{R}{R}",
-			"type": "Creature — Bear ",
-			"collector_number": "51",
+			"type": "Creature — Human Warrior Rebel ",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_CR06 Ferocious Intimidator.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_CR05 Steel District Ruffians.png"
 			}
 		},
 		{
@@ -441,23 +431,23 @@
 			}
 		},
 		{
-			"name": "CR04 Uptown Outcast",
-			"rarity": "common",
+			"name": "UR01 Uptown Outcast",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Tagger ",
-			"collector_number": "49",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_CR04 Uptown Outcast.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_UR01 Uptown Outcast.png"
 			}
 		},
 		{
-			"name": "CW01 Katana Initiate",
+			"name": "CW01 Corps Recruit",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Soldier ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/1_CW01 Katana Initiate.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/1_CW01 Corps Recruit.png"
 			}
 		},
 		{
@@ -551,13 +541,13 @@
 			}
 		},
 		{
-			"name": "CW11 Sorry for Party Rocking",
+			"name": "CW11 Deploy the Corps",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW11 Sorry for Party Rocking.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW11 Deploy the Corps.png"
 			}
 		},
 		{
@@ -641,13 +631,13 @@
 			}
 		},
 		{
-			"name": "CU05 Skid Row Gumshoe",
+			"name": "CU05 Canal Street Agent",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Human Detective ",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Human Wizard Rebel ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_CU05 Skid Row Gumshoe.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_CU05 Canal Street Agent.png"
 			}
 		},
 		{
@@ -671,13 +661,13 @@
 			}
 		},
 		{
-			"name": "CU08 Funktown DJs",
+			"name": "CU08 Uptown Response Unit",
 			"rarity": "common",
-			"mana_cost": "{3}{U}{U}{U}",
-			"type": "Creature — Human Bard ",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Drone ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_CU08 Funktown DJs.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_CU08 Uptown Response Unit.png"
 			}
 		},
 		{
@@ -783,7 +773,7 @@
 		{
 			"name": "CG04 Skid-Row Heavy",
 			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Human Berserker ",
 			"collector_number": "65",
 			"image_uris": {
@@ -843,7 +833,7 @@
 		{
 			"name": "CG10 Rogue Squadron",
 			"rarity": "common",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Human Soldier ",
 			"collector_number": "71",
 			"image_uris": {
@@ -909,10 +899,19 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/77_UG01 Vitality Artist.png"
 			}
+		},
+		{
+			"name": "CR09 War Machine",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Juggernaut ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_CR09 War Machine.png"
+			}
 		}
 	]
 [UncommonSlot(1)]
-9 UR01 Draconian Digitizer
 9 UM01 Rise Up
 9 UM02 Chaos Incarnate
 9 UM03 Firestarter
@@ -923,6 +922,7 @@
 9 UM08 Sewer Queen
 9 UM09 Trick Master
 9 UM10 Mural of Neon Lights
+9 UR01 Uptown Outcast
 9 UG01 Vitality Artist
 [CommonSlot(14)]
 30 CA01 Momma's First Spray
@@ -944,22 +944,21 @@
 30 CA02 Bigwheel Racer
 30 CA03 Grid Monitor
 30 CR02 Backstreets Guide
-30 CR05 Daring Diva
-30 CR07 Playlist Pinger
-30 CR08 Joyriding Goblin
-30 CR09 Southside Enforcer
+30 CR04 Daring Diva
+30 CR06 Playlist Pinger
+30 CR07 Joyriding Goblin
+30 CR08 Southside Enforcer
 30 CR10 Shock
 30 CR11 Make a Scene
 30 CR14 Bow to the Queen
 30 CR13 Blow the Lid
 30 CR15 Dead on Arrival
-30 CR06 Ferocious Intimidator
+30 CR05 Steel District Ruffians
 30 CR01 Little Dynamo
 30 CR03 Southside Tagger
 30 CB08 Fear Monger
 30 CR12 Gigabit Upload
-30 CR04 Uptown Outcast
-30 CW01 Katana Initiate
+30 CW01 Corps Recruit
 30 CW02 Industrious Urchins
 30 CW03 Tagger Vet
 30 CW04 Cyberware Slicer
@@ -969,7 +968,7 @@
 30 CW08 Gangland Mercs
 30 CW09 Cyborg Militant
 30 CW10 Block Crusher
-30 CW11 Sorry for Party Rocking
+30 CW11 Deploy the Corps
 30 CW12 Gunned Down
 30 CW14 Locked in Effigy
 30 CW15 Steel District Rising
@@ -978,10 +977,10 @@
 30 CU02 Recommisioned Sentinel
 30 CU03 Freelance Hacker
 30 CU04 Scaled Shredder
-30 CU05 Skid Row Gumshoe
+30 CU05 Canal Street Agent
 30 CU06 Arm-ered Specialist
 30 CU07 Flashy Aquamancer
-30 CU08 Funktown DJs
+30 CU08 Uptown Response Unit
 30 CU09 Strobe Lights
 30 CU10 Counterhack
 30 CU11 Aerosol Art
@@ -1004,3 +1003,4 @@
 30 CG13 Find a Cause
 30 CG14 Fight for Tomorrow
 30 CG15 See Colors
+30 CR09 War Machine
