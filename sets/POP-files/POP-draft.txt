@@ -833,7 +833,7 @@
 		{
 			"name": "Transplant",
 			"rarity": "rare",
-			"mana_cost": "{H/B}",
+			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
@@ -1584,7 +1584,7 @@
 		{
 			"name": "Phyrexian Purification",
 			"rarity": "rare",
-			"mana_cost": "{H}{W/B}",
+			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery",
 			"collector_number": "278",
 			"image_uris": {
