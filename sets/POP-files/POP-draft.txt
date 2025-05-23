@@ -513,7 +513,7 @@
 		{
 			"name": "Coldtouch Cliff",
 			"rarity": "rare",
-			"mana_cost": "{1{G}/U}",
+			"mana_cost": "{1}{G/U}",
 			"type": "Snow Creature — Wall ",
 			"collector_number": "269",
 			"image_uris": {
@@ -1494,7 +1494,7 @@
 		{
 			"name": "Pastry Heister",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/B}",
+			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Squirrel Rogue ",
 			"collector_number": "277",
 			"image_uris": {
@@ -1504,7 +1504,7 @@
 		{
 			"name": "Slimy Saboteur",
 			"rarity": "rare",
-			"mana_cost": "{1{U}/B}",
+			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Frog Rogue ",
 			"collector_number": "280",
 			"image_uris": {
@@ -1672,10 +1672,10 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Haakon's Gambit",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP-files/img/1_.png"
@@ -2184,7 +2184,7 @@
 		{
 			"name": "Flight Harness",
 			"rarity": "rare",
-			"mana_cost": "{1{W}/U}",
+			"mana_cost": "{1}{W/U}",
 			"type": "Artifact — Equipment  ",
 			"collector_number": "270",
 			"image_uris": {
@@ -3901,7 +3901,7 @@
 1 Planebound
 1 Gate Keeper
 1 Repress
-1 
+1 Haakon's Gambit
 1 Haakon's Command
 1 Footsoldier of Anarchy
 1 Flourishing Regrowth
