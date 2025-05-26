@@ -1094,4 +1094,3 @@
 30 CG14 Fight for Tomorrow
 30 CG15 See Colors
 30 CR09 War Machine
-[LandSlot(1)]
