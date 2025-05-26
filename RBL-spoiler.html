@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/RBL-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>RBL visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/RBL-files/logo.png" />
+	<img class="preload-hidden" src="/sets/POP-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RBL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TLC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WGJ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="POP-spoiler"><img src="sets/POP-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="RBL-spoiler"><img src="sets/RBL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="TLC-spoiler"><img src="sets/TLC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="WGJ-spoiler"><img src="sets/WGJ-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/RBL-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="sets\RBL-files\img\1_CW01 Corps Recruit.png" id="1_CW01 Corps Recruit" data-flag="@X" onclick="openSidebar('1_CW01 Corps Recruit',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\16_CU01 Fowl Vandal.png" id="16_CU01 Fowl Vandal" data-flag="@X" onclick="openSidebar('16_CU01 Fowl Vandal',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\31_CB01 Reprogrammed Enforcer.png" id="31_CB01 Reprogrammed Enforcer" data-flag="@X" onclick="openSidebar('31_CB01 Reprogrammed Enforcer',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\61_UR01 Uptown Outcast.png" id="61_UR01 Uptown Outcast" data-flag="@X" onclick="openSidebar('61_UR01 Uptown Outcast',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\77_UG01 Vitality Artist.png" id="77_UG01 Vitality Artist" data-flag="@X" onclick="openSidebar('77_UG01 Vitality Artist',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\2_CW02 Industrious Urchins.png" id="2_CW02 Industrious Urchins" data-flag="@X" onclick="openSidebar('2_CW02 Industrious Urchins',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\17_CU02 Recommisioned Sentinel.png" id="17_CU02 Recommisioned Sentinel" data-flag="@X" onclick="openSidebar('17_CU02 Recommisioned Sentinel',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\32_CB02 Skid Row Slob.png" id="32_CB02 Skid Row Slob" data-flag="@X" onclick="openSidebar('32_CB02 Skid Row Slob',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\46_CR01 Little Dynamo.png" id="46_CR01 Little Dynamo" data-flag="@X" onclick="openSidebar('46_CR01 Little Dynamo',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\62_CG01 Bridge Tagger.png" id="62_CG01 Bridge Tagger" data-flag="@X" onclick="openSidebar('62_CG01 Bridge Tagger',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\3_CW03 Tagger Vet.png" id="3_CW03 Tagger Vet" data-flag="@X" onclick="openSidebar('3_CW03 Tagger Vet',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\18_CU03 Freelance Hacker.png" id="18_CU03 Freelance Hacker" data-flag="@X" onclick="openSidebar('18_CU03 Freelance Hacker',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\33_CB03 Shadow Squad.png" id="33_CB03 Shadow Squad" data-flag="@X" onclick="openSidebar('33_CB03 Shadow Squad',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\47_CR02 Backstreets Guide.png" id="47_CR02 Backstreets Guide" data-flag="@X" onclick="openSidebar('47_CR02 Backstreets Guide',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\63_CG02 Riot Rager.png" id="63_CG02 Riot Rager" data-flag="@X" onclick="openSidebar('63_CG02 Riot Rager',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\4_CW04 Cyberware Slicer.png" id="4_CW04 Cyberware Slicer" data-flag="@X" onclick="openSidebar('4_CW04 Cyberware Slicer',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\19_CU04 Scaled Shredder.png" id="19_CU04 Scaled Shredder" data-flag="@X" onclick="openSidebar('19_CU04 Scaled Shredder',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\34_CB04 Eccentric Artist.png" id="34_CB04 Eccentric Artist" data-flag="@X" onclick="openSidebar('34_CB04 Eccentric Artist',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\48_CR03 Southside Tagger.png" id="48_CR03 Southside Tagger" data-flag="@X" onclick="openSidebar('48_CR03 Southside Tagger',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\64_CG03 Kick-Ass Koala.png" id="64_CG03 Kick-Ass Koala" data-flag="@X" onclick="openSidebar('64_CG03 Kick-Ass Koala',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\5_CW05 Sunset Skater.png" id="5_CW05 Sunset Skater" data-flag="@X" onclick="openSidebar('5_CW05 Sunset Skater',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\20_CU05 Canal Street Agent.png" id="20_CU05 Canal Street Agent" data-flag="@X" onclick="openSidebar('20_CU05 Canal Street Agent',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\35_CB05 Cyber-Network Infiltrator.png" id="35_CB05 Cyber-Network Infiltrator" data-flag="@X" onclick="openSidebar('35_CB05 Cyber-Network Infiltrator',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\49_CR04 Daring Diva.png" id="49_CR04 Daring Diva" data-flag="@X" onclick="openSidebar('49_CR04 Daring Diva',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\65_CG04 Skid-Row Heavy.png" id="65_CG04 Skid-Row Heavy" data-flag="@X" onclick="openSidebar('65_CG04 Skid-Row Heavy',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\6_CW06 Block Defense System.png" id="6_CW06 Block Defense System" data-flag="@X" onclick="openSidebar('6_CW06 Block Defense System',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\21_CU06 Arm-ered Specialist.png" id="21_CU06 Arm-ered Specialist" data-flag="@X" onclick="openSidebar('21_CU06 Arm-ered Specialist',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\36_CB06 Guerilla Fighter.png" id="36_CB06 Guerilla Fighter" data-flag="@X" onclick="openSidebar('36_CB06 Guerilla Fighter',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\50_CR05 Steel District Ruffians.png" id="50_CR05 Steel District Ruffians" data-flag="@X" onclick="openSidebar('50_CR05 Steel District Ruffians',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\66_CG05 Bloodied Bat.png" id="66_CG05 Bloodied Bat" data-flag="@X" onclick="openSidebar('66_CG05 Bloodied Bat',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\7_CW07 Drone Operator.png" id="7_CW07 Drone Operator" data-flag="@X" onclick="openSidebar('7_CW07 Drone Operator',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\22_CU07 Flashy Aquamancer.png" id="22_CU07 Flashy Aquamancer" data-flag="@X" onclick="openSidebar('22_CU07 Flashy Aquamancer',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\37_CB07 Night Technician.png" id="37_CB07 Night Technician" data-flag="@X" onclick="openSidebar('37_CB07 Night Technician',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\51_CR06 Playlist Pinger.png" id="51_CR06 Playlist Pinger" data-flag="@X" onclick="openSidebar('51_CR06 Playlist Pinger',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\67_CG06 Digital Painter.png" id="67_CG06 Digital Painter" data-flag="@X" onclick="openSidebar('67_CG06 Digital Painter',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\8_CW08 Gangland Mercs.png" id="8_CW08 Gangland Mercs" data-flag="@X" onclick="openSidebar('8_CW08 Gangland Mercs',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\23_CU08 Uptown Response Unit.png" id="23_CU08 Uptown Response Unit" data-flag="@X" onclick="openSidebar('23_CU08 Uptown Response Unit',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\38_CB08 Fear Monger.png" id="38_CB08 Fear Monger" data-flag="@X" onclick="openSidebar('38_CB08 Fear Monger',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\52_CR07 Joyriding Goblin.png" id="52_CR07 Joyriding Goblin" data-flag="@X" onclick="openSidebar('52_CR07 Joyriding Goblin',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\68_CG07 Mech Maniac.png" id="68_CG07 Mech Maniac" data-flag="@X" onclick="openSidebar('68_CG07 Mech Maniac',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\9_CW09 Cyborg Militant.png" id="9_CW09 Cyborg Militant" data-flag="@X" onclick="openSidebar('9_CW09 Cyborg Militant',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\24_CU09 Strobe Lights.png" id="24_CU09 Strobe Lights" data-flag="@X" onclick="openSidebar('24_CU09 Strobe Lights',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\39_CB09 Digital Troglodyte.png" id="39_CB09 Digital Troglodyte" data-flag="@X" onclick="openSidebar('39_CB09 Digital Troglodyte',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\53_CR08 Southside Enforcer.png" id="53_CR08 Southside Enforcer" data-flag="@X" onclick="openSidebar('53_CR08 Southside Enforcer',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\69_CG08 Life-Essence Tagger.png" id="69_CG08 Life-Essence Tagger" data-flag="@X" onclick="openSidebar('69_CG08 Life-Essence Tagger',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\10_CW10 Block Crusher.png" id="10_CW10 Block Crusher" data-flag="@X" onclick="openSidebar('10_CW10 Block Crusher',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\25_CU10 Counterhack.png" id="25_CU10 Counterhack" data-flag="@X" onclick="openSidebar('25_CU10 Counterhack',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\40_CB10 Art of the Undead.png" id="40_CB10 Art of the Undead" data-flag="@X" onclick="openSidebar('40_CB10 Art of the Undead',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\54_CR09 War Machine.png" id="54_CR09 War Machine" data-flag="@X" onclick="openSidebar('54_CR09 War Machine',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\70_CG09 Murder Row Punks.png" id="70_CG09 Murder Row Punks" data-flag="@X" onclick="openSidebar('70_CG09 Murder Row Punks',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\11_CW11 Deploy the Corps.png" id="11_CW11 Deploy the Corps" data-flag="@X" onclick="openSidebar('11_CW11 Deploy the Corps',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\26_CU11 Aerosol Art.png" id="26_CU11 Aerosol Art" data-flag="@X" onclick="openSidebar('26_CU11 Aerosol Art',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\41_CB11 Download.png" id="41_CB11 Download" data-flag="@X" onclick="openSidebar('41_CB11 Download',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\55_CR10 Cover Fire.png" id="55_CR10 Cover Fire" data-flag="@X" onclick="openSidebar('55_CR10 Cover Fire',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\71_CG10 Rogue Squadron.png" id="71_CG10 Rogue Squadron" data-flag="@X" onclick="openSidebar('71_CG10 Rogue Squadron',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\12_CW12 Gunned Down.png" id="12_CW12 Gunned Down" data-flag="@X" onclick="openSidebar('12_CW12 Gunned Down',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\27_CU12 Find Order.png" id="27_CU12 Find Order" data-flag="@X" onclick="openSidebar('27_CU12 Find Order',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\42_CB12 Street Brawl.png" id="42_CB12 Street Brawl" data-flag="@X" onclick="openSidebar('42_CB12 Street Brawl',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\56_CR11 Make a Scene.png" id="56_CR11 Make a Scene" data-flag="@X" onclick="openSidebar('56_CR11 Make a Scene',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\72_CG11 Final Show Down.png" id="72_CG11 Final Show Down" data-flag="@X" onclick="openSidebar('72_CG11 Final Show Down',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\13_CW13 Plant Your Flag.png" id="13_CW13 Plant Your Flag" data-flag="@X" onclick="openSidebar('13_CW13 Plant Your Flag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\28_CU13 Singled Out.png" id="28_CU13 Singled Out" data-flag="@X" onclick="openSidebar('28_CU13 Singled Out',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\43_CB13 Neural Uplink.png" id="43_CB13 Neural Uplink" data-flag="@X" onclick="openSidebar('43_CB13 Neural Uplink',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\57_CR12 Gigabit Upload.png" id="57_CR12 Gigabit Upload" data-flag="@X" onclick="openSidebar('57_CR12 Gigabit Upload',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\73_CG12 Secure the Bag.png" id="73_CG12 Secure the Bag" data-flag="@X" onclick="openSidebar('73_CG12 Secure the Bag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\14_CW14 Locked in Effigy.png" id="14_CW14 Locked in Effigy" data-flag="@X" onclick="openSidebar('14_CW14 Locked in Effigy',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\29_CU14 Taken by the Cosmos.png" id="29_CU14 Taken by the Cosmos" data-flag="@X" onclick="openSidebar('29_CU14 Taken by the Cosmos',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\44_CB14 Quickblade.png" id="44_CB14 Quickblade" data-flag="@X" onclick="openSidebar('44_CB14 Quickblade',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\58_CR13 Blow the Lid.png" id="58_CR13 Blow the Lid" data-flag="@X" onclick="openSidebar('58_CR13 Blow the Lid',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\74_CG13 Find a Cause.png" id="74_CG13 Find a Cause" data-flag="@X" onclick="openSidebar('74_CG13 Find a Cause',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\15_CW15 Steel District Rising.png" id="15_CW15 Steel District Rising" data-flag="@X" onclick="openSidebar('15_CW15 Steel District Rising',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\30_CU15 Inside Job.png" id="30_CU15 Inside Job" data-flag="@X" onclick="openSidebar('30_CU15 Inside Job',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\45_CB15 Tune Out.png" id="45_CB15 Tune Out" data-flag="@X" onclick="openSidebar('45_CB15 Tune Out',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\59_CR14 Bow to the Queen.png" id="59_CR14 Bow to the Queen" data-flag="@X" onclick="openSidebar('59_CR14 Bow to the Queen',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\75_CG14 Fight for Tomorrow.png" id="75_CG14 Fight for Tomorrow" data-flag="@X" onclick="openSidebar('75_CG14 Fight for Tomorrow',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\60_CR15 Dead on Arrival.png" id="60_CR15 Dead on Arrival" data-flag="@X" onclick="openSidebar('60_CR15 Dead on Arrival',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\76_CG15 See Colors.png" id="76_CG15 See Colors" data-flag="@X" onclick="openSidebar('76_CG15 See Colors',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\78_UM01 Uptown Arbiter.png" id="78_UM01 Uptown Arbiter" data-flag="@X" onclick="openSidebar('78_UM01 Uptown Arbiter',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\79_UM02 Chaos Incarnate.png" id="79_UM02 Chaos Incarnate" data-flag="@X" onclick="openSidebar('79_UM02 Chaos Incarnate',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\80_UM03 Firestarter.png" id="80_UM03 Firestarter" data-flag="@X" onclick="openSidebar('80_UM03 Firestarter',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\81_UM04 Turf War Terror.png" id="81_UM04 Turf War Terror" data-flag="@X" onclick="openSidebar('81_UM04 Turf War Terror',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\82_UM05 Slamboree!.png" id="82_UM05 Slamboree!" data-flag="@X" onclick="openSidebar('82_UM05 Slamboree!',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\83_UM06 Block Sergeant.png" id="83_UM06 Block Sergeant" data-flag="@X" onclick="openSidebar('83_UM06 Block Sergeant',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\85_UM08 Sewer Queen.png" id="85_UM08 Sewer Queen" data-flag="@X" onclick="openSidebar('85_UM08 Sewer Queen',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\87_UM10 Living Graffiti.png" id="87_UM10 Living Graffiti" data-flag="@X" onclick="openSidebar('87_UM10 Living Graffiti',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\84_UM07 Southside Witch.png" id="84_UM07 Southside Witch" data-flag="@X" onclick="openSidebar('84_UM07 Southside Witch',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\86_UM09 Trick Master.png" id="86_UM09 Trick Master" data-flag="@X" onclick="openSidebar('86_UM09 Trick Master',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\88_CA01 Momma's First Spray.png" id="88_CA01 Mommas First Spray" data-flag="@X" onclick="openSidebar('88_CA01 Mommas First Spray',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\89_CA02 Bigwheel Racer.png" id="89_CA02 Bigwheel Racer" data-flag="@X" onclick="openSidebar('89_CA02 Bigwheel Racer',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\90_CA03 Grid Monitor.png" id="90_CA03 Grid Monitor" data-flag="@X" onclick="openSidebar('90_CA03 Grid Monitor',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\91_CL01 Back Alley.png" id="91_CL01 Back Alley" data-flag="@X" onclick="openSidebar('91_CL01 Back Alley',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\1t_Soldier.png" id="1t_Soldier" data-flag="@X" onclick="openSidebar('1t_Soldier',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\2t_White Tag.png" id="2t_White Tag" data-flag="@X" onclick="openSidebar('2t_White Tag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\3t_Blue Tag.png" id="3t_Blue Tag" data-flag="@X" onclick="openSidebar('3t_Blue Tag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\4t_Black Tag.png" id="4t_Black Tag" data-flag="@X" onclick="openSidebar('4t_Black Tag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\5t_Zombie.png" id="5t_Zombie" data-flag="@X" onclick="openSidebar('5t_Zombie',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\6t_Rebel.png" id="6t_Rebel" data-flag="@X" onclick="openSidebar('6t_Rebel',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\7t_Red Tag.png" id="7t_Red Tag" data-flag="@X" onclick="openSidebar('7t_Red Tag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\8t_Green Tag.png" id="8t_Green Tag" data-flag="@X" onclick="openSidebar('8t_Green Tag',false)"></div>
+			<div class="container"><img alt="sets\RBL-files\img\9t_Drone.png" id="9t_Drone" data-flag="@X" onclick="openSidebar('9t_Drone',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+	}
+
+	function openSidebar(id, h=false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>
