@@ -43,7 +43,7 @@
 		{
 			"name": "CB05 Cyber-Network Infiltrator",
 			"rarity": "common",
-			"mana_cost": "{B}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Cyborg Human Soldier ",
 			"collector_number": "35",
 			"image_uris": {
@@ -61,13 +61,13 @@
 			}
 		},
 		{
-			"name": "CB07 Night Technician",
+			"name": "CB06 Night Technician",
 			"rarity": "common",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{B}{B}{B}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_CB07 Night Technician.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_CB06 Night Technician.png"
 			}
 		},
 		{
@@ -141,13 +141,13 @@
 			}
 		},
 		{
-			"name": "CB06 Guerilla Fighter",
+			"name": "CB07 Guerilla Fighter",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Rogue ",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_CB06 Guerilla Fighter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_CB07 Guerilla Fighter.png"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 		{
 			"name": "CR06 Playlist Pinger",
 			"rarity": "common",
-			"mana_cost": "{1}{R}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Peasant ",
 			"collector_number": "51",
 			"image_uris": {
@@ -523,7 +523,7 @@
 		{
 			"name": "CW09 Cyborg Militant",
 			"rarity": "common",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Construct Soldier ",
 			"collector_number": "9",
 			"image_uris": {
@@ -1021,7 +1021,7 @@
 30 CB03 Shadow Squad
 30 CB05 Cyber-Network Infiltrator
 30 CB04 Eccentric Artist
-30 CB07 Night Technician
+30 CB06 Night Technician
 30 CB09 Digital Troglodyte
 30 CB10 Art of the Undead
 30 CB11 Download
@@ -1029,7 +1029,7 @@
 30 CB14 Quickblade
 30 CB15 Tune Out
 30 CB12 Street Brawl
-30 CB06 Guerilla Fighter
+30 CB07 Guerilla Fighter
 30 CL01 Back Alley
 30 CA02 Bigwheel Racer
 30 CA03 Grid Monitor
