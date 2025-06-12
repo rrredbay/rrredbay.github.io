@@ -613,7 +613,7 @@
 		{
 			"name": "CU03 Freelance Hacker",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Human Rogue ",
 			"collector_number": "18",
 			"image_uris": {
@@ -643,7 +643,7 @@
 		{
 			"name": "CU06 Arm-ered Specialist",
 			"rarity": "common",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Cyborg ",
 			"collector_number": "21",
 			"image_uris": {
