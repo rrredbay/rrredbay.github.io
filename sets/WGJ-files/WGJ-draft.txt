@@ -2705,7 +2705,8 @@
 			},
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/0_Call The Beast Emblem.png"
-				},
+				}
+		},
 		{
 			"name": "Toxic-Tail Bot",
 			"rarity": "common",
