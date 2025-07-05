@@ -1,0 +1,895 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CG05 Portal Opener",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/65_CG05 Portal Opener.png"
+			}
+		},
+		{
+			"name": "CU02 Ninja in the Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Ninja ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/17_CU02 Ninja in the Wings.png"
+			}
+		},
+		{
+			"name": "CU03 Deep Space Navigator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scientist ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/18_CU03 Deep Space Navigator.png"
+			}
+		},
+		{
+			"name": "CU04 Cephalid Sidekick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Octopus Hero ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/19_CU04 Cephalid Sidekick.png"
+			}
+		},
+		{
+			"name": "CU08 Sharktomus Prime",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Shark Giant ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/23_CU08 Sharktomus Prime.png"
+			}
+		},
+		{
+			"name": "CU06 Terminator Reference",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/21_CU06 Terminator Reference.png"
+			}
+		},
+		{
+			"name": "CU07 Greatspan Kaiju",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Beast ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/22_CU07 Greatspan Kaiju.png"
+			}
+		},
+		{
+			"name": "CU09 The Prestige",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/24_CU09 The Prestige.png"
+			}
+		},
+		{
+			"name": "CU10 Plot Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/25_CU10 Plot Armor.png"
+			}
+		},
+		{
+			"name": "CU11 Anticipate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/26_CU11 Anticipate.png"
+			}
+		},
+		{
+			"name": "CU12 Horizons Unfolding",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/27_CU12 Horizons Unfolding.png"
+			}
+		},
+		{
+			"name": "CU13 Face in a Crowd",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/28_CU13 Face in a Crowd.png"
+			}
+		},
+		{
+			"name": "CU14 Banishing Portal",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/29_CU14 Banishing Portal.png"
+			}
+		},
+		{
+			"name": "CU15 Training Session",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/30_CU15 Training Session.png"
+			}
+		},
+		{
+			"name": "CR01 Wild Rider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Peasant Rogue ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/46_CR01 Wild Rider.png"
+			}
+		},
+		{
+			"name": "CR02 Judge Dredd",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/47_CR02 Judge Dredd.png"
+			}
+		},
+		{
+			"name": "CR03 Gamblin' Gal",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/48_CR03 Gamblin' Gal.png"
+			}
+		},
+		{
+			"name": "CR04 Family Man",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/49_CR04 Family Man.png"
+			}
+		},
+		{
+			"name": "CR05 Grinning Captive",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Rogue ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/50_CR05 Grinning Captive.png"
+			}
+		},
+		{
+			"name": "CR08 Inspiring Heroine",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Demigod ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/53_CR08 Inspiring Heroine.png"
+			}
+		},
+		{
+			"name": "CR07 Couple o' Escapees",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/52_CR07 Couple o' Escapees.png"
+			}
+		},
+		{
+			"name": "CR06 Killer in the Streets",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Vampire Noble ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/51_CR06 Killer in the Streets.png"
+			}
+		},
+		{
+			"name": "CR09 Wandering Dreadmaw",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/54_CR09 Wandering Dreadmaw.png"
+			}
+		},
+		{
+			"name": "CR10 Cool Guys Don't Look at Explosions",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/55_CR10 Cool Guys Don't Look at Explosions.png"
+			}
+		},
+		{
+			"name": "CR11 Fastest Shot in the West",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/56_CR11 Fastest Shot in the West.png"
+			}
+		},
+		{
+			"name": "CR12 Forbidden Rendezvous",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/57_CR12 Forbidden Rendezvous.png"
+			}
+		},
+		{
+			"name": "CR13 Stagecoach Robbery",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/58_CR13 Stagecoach Robbery.png"
+			}
+		},
+		{
+			"name": "CR14 Illuminate the Night",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/59_CR14 Illuminate the Night.png"
+			}
+		},
+		{
+			"name": "CR15 Hero's Rage",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/60_CR15 Hero's Rage.png"
+			}
+		},
+		{
+			"name": "CU01 Plasma Shield Defender",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Hero ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/16_CU01 Plasma Shield Defender.png"
+			}
+		},
+		{
+			"name": "CG02 Brave Little Toadster",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Frog Knight ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/62_CG02 Brave Little Toadster.png"
+			}
+		},
+		{
+			"name": "CG04 Wooden Slasher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Tree Horror ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/64_CG04 Wooden Slasher.png"
+			}
+		},
+		{
+			"name": "CG01 Pining Suitor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/61_CG01 Pining Suitor.png"
+			}
+		},
+		{
+			"name": "CG03 Young Lovers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/63_CG03 Young Lovers.png"
+			}
+		},
+		{
+			"name": "CG06 Eight-Legged Freak",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/66_CG06 Eight-Legged Freak.png"
+			}
+		},
+		{
+			"name": "CG07 Green Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/67_CG07 Green Knight.png"
+			}
+		},
+		{
+			"name": "CG08 Killer Croc",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Crocodile Beast ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/68_CG08 Killer Croc.png"
+			}
+		},
+		{
+			"name": "CG09 Armored Kaiju",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/69_CG09 Armored Kaiju.png"
+			}
+		},
+		{
+			"name": "CG10 Two-Headed Goliath",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Turtle Beast ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/70_CG10 Two-Headed Goliath.png"
+			}
+		},
+		{
+			"name": "CG12 Monster's Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/72_CG12 Monster's Fury.png"
+			}
+		},
+		{
+			"name": "CG11 Ominous Warpgate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/71_CG11 Ominous Warpgate.png"
+			}
+		},
+		{
+			"name": "CG13 Stronger Together",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/73_CG13 Stronger Together.png"
+			}
+		},
+		{
+			"name": "CG14 Altar of Heroes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/74_CG14 Altar of Heroes.png"
+			}
+		},
+		{
+			"name": "CG15 Find the Trove",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/75_CG15 Find the Trove.png"
+			}
+		},
+		{
+			"name": "CU05 Flashblade Ninja",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Ninja ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/20_CU05 Flashblade Ninja.png"
+			}
+		},
+		{
+			"name": "CW01 Unconventional Mentor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Monk Construct ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/1_CW01 Unconventional Mentor.png"
+			}
+		},
+		{
+			"name": "CW02 Dark Alliance Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/2_CW02 Dark Alliance Initiate.png"
+			}
+		},
+		{
+			"name": "CW03 Pendant Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/3_CW03 Pendant Thief.png"
+			}
+		},
+		{
+			"name": "CW04 Brash Detective",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Crocodile Detective ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/4_CW04 Brash Detective.png"
+			}
+		},
+		{
+			"name": "CW05 Doomed Warriors",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Warrior ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/5_CW05 Doomed Warriors.png"
+			}
+		},
+		{
+			"name": "CW06 Sole Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/6_CW06 Sole Survivor.png"
+			}
+		},
+		{
+			"name": "CW07 Brave Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dog ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/7_CW07 Brave Explorer.png"
+			}
+		},
+		{
+			"name": "CW08 Flying Saucer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/8_CW08 Flying Saucer.png"
+			}
+		},
+		{
+			"name": "CW09 Chosen One",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Demigod Warrior ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/9_CW09 Chosen One.png"
+			}
+		},
+		{
+			"name": "CW10 Power Player",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Goblin ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/10_CW10 Power Player.png"
+			}
+		},
+		{
+			"name": "CW11 Climactic Angel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/11_CW11 Climactic Angel.png"
+			}
+		},
+		{
+			"name": "CW12 Into the Fray",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/12_CW12 Into the Fray.png"
+			}
+		},
+		{
+			"name": "CW13 Chains of Iz-ga-nul",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/13_CW13 Chains of Iz-ga-nul.png"
+			}
+		},
+		{
+			"name": "CW14 Hero's Stand",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/14_CW14 Hero's Stand.png"
+			}
+		},
+		{
+			"name": "CW15 Broken Seal",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/15_CW15 Broken Seal.png"
+			}
+		},
+		{
+			"name": "CB01 Kill Bill Reference",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Ninja ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/31_CB01 Kill Bill Reference.png"
+			}
+		},
+		{
+			"name": "CB02 Hyena Hooligans",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hyena Rogue ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/32_CB02 Hyena Hooligans.png"
+			}
+		},
+		{
+			"name": "CB03 Targeted Gumshoe",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Detective ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/33_CB03 Targeted Gumshoe.png"
+			}
+		},
+		{
+			"name": "CB04 Killer Clown",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Clown Horror ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/34_CB04 Killer Clown.png"
+			}
+		},
+		{
+			"name": "CB05 Bone-Dry Bandit",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Cowboy ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/35_CB05 Bone-Dry Bandit.png"
+			}
+		},
+		{
+			"name": "CB06 Happy Camper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/36_CB06 Happy Camper.png"
+			}
+		},
+		{
+			"name": "CB07 Spectre of Hate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Specter ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/37_CB07 Spectre of Hate.png"
+			}
+		},
+		{
+			"name": "CB08 Gliding Assassin",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Squirrel Ninja ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/38_CB08 Gliding Assassin.png"
+			}
+		},
+		{
+			"name": "CB09 Wolf of Boxer Street",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Wolf Detective ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/39_CB09 Wolf of Boxer Street.png"
+			}
+		},
+		{
+			"name": "CB10 Cut from the Script",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/40_CB10 Cut from the Script.png"
+			}
+		},
+		{
+			"name": "CB11 Upstage",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/41_CB11 Upstage.png"
+			}
+		},
+		{
+			"name": "CB12 Set up the Sequel",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/42_CB12 Set up the Sequel.png"
+			}
+		},
+		{
+			"name": "CB13 Interrogation Scene",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/43_CB13 Interrogation Scene.png"
+			}
+		},
+		{
+			"name": "CB14 Flying Front Kick",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/44_CB14 Flying Front Kick.png"
+			}
+		},
+		{
+			"name": "CB15 Harder They Fall",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/45_CB15 Harder They Fall.png"
+			}
+		},
+		{
+			"name": "CA01 Camera Thopter",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/76_CA01 Camera Thopter.png"
+			}
+		},
+		{
+			"name": "CA02 Actress Stand-in",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/77_CA02 Actress Stand-in.png"
+			}
+		},
+		{
+			"name": "CA03 Studio Director",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Doll ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/78_CA03 Studio Director.png"
+			}
+		},
+		{
+			"name": "CA04 Collector's Item",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/79_CA04 Collector's Item.png"
+			}
+		},
+		{
+			"name": "CA05 Makeup and Effects",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/80_CA05 Makeup and Effects.png"
+			}
+		},
+		{
+			"name": "CA06 Mcguffin",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/FILM-files/img/81_CA06 Mcguffin.png"
+			}
+		}
+	]
+[CommonSlot(15)]
+30 CG05 Portal Opener
+30 CU02 Ninja in the Wings
+30 CU03 Deep Space Navigator
+30 CU04 Cephalid Sidekick
+30 CU08 Sharktomus Prime
+30 CU06 Terminator Reference
+30 CU07 Greatspan Kaiju
+30 CU09 The Prestige
+30 CU10 Plot Armor
+30 CU11 Anticipate
+30 CU12 Horizons Unfolding
+30 CU13 Face in a Crowd
+30 CU14 Banishing Portal
+30 CU15 Training Session
+30 CR01 Wild Rider
+30 CR02 Judge Dredd
+30 CR03 Gamblin' Gal
+30 CR04 Family Man
+30 CR05 Grinning Captive
+30 CR08 Inspiring Heroine
+30 CR07 Couple o' Escapees
+30 CR06 Killer in the Streets
+30 CR09 Wandering Dreadmaw
+30 CR10 Cool Guys Don't Look at Explosions
+30 CR11 Fastest Shot in the West
+30 CR12 Forbidden Rendezvous
+30 CR13 Stagecoach Robbery
+30 CR14 Illuminate the Night
+30 CR15 Hero's Rage
+30 CU01 Plasma Shield Defender
+30 CG02 Brave Little Toadster
+30 CG04 Wooden Slasher
+30 CG01 Pining Suitor
+30 CG03 Young Lovers
+30 CG06 Eight-Legged Freak
+30 CG07 Green Knight
+30 CG08 Killer Croc
+30 CG09 Armored Kaiju
+30 CG10 Two-Headed Goliath
+30 CG12 Monster's Fury
+30 CG11 Ominous Warpgate
+30 CG13 Stronger Together
+30 CG14 Altar of Heroes
+30 CG15 Find the Trove
+30 CU05 Flashblade Ninja
+30 CW01 Unconventional Mentor
+30 CW02 Dark Alliance Initiate
+30 CW03 Pendant Thief
+30 CW04 Brash Detective
+30 CW05 Doomed Warriors
+30 CW06 Sole Survivor
+30 CW07 Brave Explorer
+30 CW08 Flying Saucer
+30 CW09 Chosen One
+30 CW10 Power Player
+30 CW11 Climactic Angel
+30 CW12 Into the Fray
+30 CW13 Chains of Iz-ga-nul
+30 CW14 Hero's Stand
+30 CW15 Broken Seal
+30 CB01 Kill Bill Reference
+30 CB02 Hyena Hooligans
+30 CB03 Targeted Gumshoe
+30 CB04 Killer Clown
+30 CB05 Bone-Dry Bandit
+30 CB06 Happy Camper
+30 CB07 Spectre of Hate
+30 CB08 Gliding Assassin
+30 CB09 Wolf of Boxer Street
+30 CB10 Cut from the Script
+30 CB11 Upstage
+30 CB12 Set up the Sequel
+30 CB13 Interrogation Scene
+30 CB14 Flying Front Kick
+30 CB15 Harder They Fall
+30 CA01 Camera Thopter
+30 CA02 Actress Stand-in
+30 CA03 Studio Director
+30 CA04 Collector's Item
+30 CA05 Makeup and Effects
+30 CA06 Mcguffin
