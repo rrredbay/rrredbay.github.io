@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="sets/SOC-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>SOC visual spoiler</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 3%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/SOC-files/logo.png" />
+	<img class="preload-hidden" src="/sets/POP-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SOC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TLC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WGJ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="POP-spoiler"><img src="sets/POP-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="SOC-spoiler"><img src="sets/SOC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="TLC-spoiler"><img src="sets/TLC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="img/dot.png"></img></div>
+		<div class="icon"><a href="WGJ-spoiler"><img src="sets/WGJ-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="sets/SOC-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="sets\SOC-files\img\31_Search the Universe.png" id="31_Search the Universe" data-flag="@X" onclick="openSidebar('31_Search the Universe',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\71_Stormbringer Behemoth.png" id="71_Stormbringer Behemoth" data-flag="@X" onclick="openSidebar('71_Stormbringer Behemoth',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\86_Cohen, Archvillain.png" id="86_Cohen, Archvillain" data-flag="@X" onclick="openSidebar('86_Cohen, Archvillain',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\139_Morgril, the Devastator.png" id="139_Morgril, the Devastator" data-flag="@X" onclick="openSidebar('139_Morgril, the Devastator',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\181_Ortesian Sneak.png" id="181_Ortesian Sneak" data-flag="@X" onclick="openSidebar('181_Ortesian Sneak',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\39_Virtuous Knight.png" id="39_Virtuous Knight" data-flag="@X" onclick="openSidebar('39_Virtuous Knight',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\74_Temporal Anomaly.png" id="74_Temporal Anomaly" data-flag="@X" onclick="openSidebar('74_Temporal Anomaly',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\97_Hellbreach Heroine.png" id="97_Hellbreach Heroine" data-flag="@X" onclick="openSidebar('97_Hellbreach Heroine',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\145_Skelly Boy Beatdown.png" id="145_Skelly Boy Beatdown" data-flag="@X" onclick="openSidebar('145_Skelly Boy Beatdown',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\185_Siege Mastodon.png" id="185_Siege Mastodon" data-flag="@X" onclick="openSidebar('185_Siege Mastodon',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\13_Clean-up Crew.png" id="13_Clean-up Crew" data-flag="@X" onclick="openSidebar('13_Clean-up Crew',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\46_Blue Spectre.png" id="46_Blue Spectre" data-flag="@X" onclick="openSidebar('46_Blue Spectre',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\105_Mantle of the Empire.png" id="105_Mantle of the Empire" data-flag="@X" onclick="openSidebar('105_Mantle of the Empire',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\123_Dog Hero Person.png" id="123_Dog Hero Person" data-flag="@X" onclick="openSidebar('123_Dog Hero Person',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\157_Angry Primordial.png" id="157_Angry Primordial" data-flag="@X" onclick="openSidebar('157_Angry Primordial',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\18_End of the Line.png" id="18_End of the Line" data-flag="@X" onclick="openSidebar('18_End of the Line',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\57_Four Dimensional Beast.png" id="57_Four Dimensional Beast" data-flag="@X" onclick="openSidebar('57_Four Dimensional Beast',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\81_Anguish.png" id="81_Anguish" data-flag="@X" onclick="openSidebar('81_Anguish',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\135_Last Kiss.png" id="135_Last Kiss" data-flag="@X" onclick="openSidebar('135_Last Kiss',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\163_Elder of the Guild.png" id="163_Elder of the Guild" data-flag="@X" onclick="openSidebar('163_Elder of the Guild',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\22_Holly Drake.png" id="22_Holly Drake" data-flag="@X" onclick="openSidebar('22_Holly Drake',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\60_Heroic Weakness.png" id="60_Heroic Weakness" data-flag="@X" onclick="openSidebar('60_Heroic Weakness',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\90_Dr. Archibald Ratticus.png" id="90_Dr. Archibald Ratticus" data-flag="@X" onclick="openSidebar('90_Dr. Archibald Ratticus',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\136_Leaky Futuretron.png" id="136_Leaky Futuretron" data-flag="@X" onclick="openSidebar('136_Leaky Futuretron',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\167_Forgotten Master.png" id="167_Forgotten Master" data-flag="@X" onclick="openSidebar('167_Forgotten Master',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\24_Lady, Arthouse Star.png" id="24_Lady, Arthouse Star" data-flag="@X" onclick="openSidebar('24_Lady, Arthouse Star',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\73_Takedown of Bai-Ran.png" id="73_Takedown of Bai-Ran" data-flag="@X" onclick="openSidebar('73_Takedown of Bai-Ran',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\92_Final Torment.png" id="92_Final Torment" data-flag="@X" onclick="openSidebar('92_Final Torment',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\138_Masked Vigilante.png" id="138_Masked Vigilante" data-flag="@X" onclick="openSidebar('138_Masked Vigilante',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\170_Growing Little Terrors.png" id="170_Growing Little Terrors" data-flag="@X" onclick="openSidebar('170_Growing Little Terrors',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\28_Planetary Disaster.png" id="28_Planetary Disaster" data-flag="@X" onclick="openSidebar('28_Planetary Disaster',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\77_Tyde Turner.png" id="77_Tyde Turner" data-flag="@X" onclick="openSidebar('77_Tyde Turner',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\98_Helm of Volnir.png" id="98_Helm of Volnir" data-flag="@X" onclick="openSidebar('98_Helm of Volnir',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\140_Postal Carrier.png" id="140_Postal Carrier" data-flag="@X" onclick="openSidebar('140_Postal Carrier',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\186_Special Bond.png" id="186_Special Bond" data-flag="@X" onclick="openSidebar('186_Special Bond',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\37_Vengeful Hero.png" id="37_Vengeful Hero" data-flag="@X" onclick="openSidebar('37_Vengeful Hero',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\78_Unravel the Code.png" id="78_Unravel the Code" data-flag="@X" onclick="openSidebar('78_Unravel the Code',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\101_Kill the Past.png" id="101_Kill the Past" data-flag="@X" onclick="openSidebar('101_Kill the Past',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\150_Uncapped Rage.png" id="150_Uncapped Rage" data-flag="@X" onclick="openSidebar('150_Uncapped Rage',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\188_Toxin.png" id="188_Toxin" data-flag="@X" onclick="openSidebar('188_Toxin',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\40_Wayne Barnes.png" id="40_Wayne Barnes" data-flag="@X" onclick="openSidebar('40_Wayne Barnes',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\79_VAL1000.png" id="79_VAL1000" data-flag="@X" onclick="openSidebar('79_VAL1000',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\106_Message Received.png" id="106_Message Received" data-flag="@X" onclick="openSidebar('106_Message Received',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\153_Volnir's Phoenix.png" id="153_Volnirs Phoenix" data-flag="@X" onclick="openSidebar('153_Volnirs Phoenix',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\190_Two is Better.png" id="190_Two is Better" data-flag="@X" onclick="openSidebar('190_Two is Better',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\6_Break from Tradition.png" id="6_Break from Tradition" data-flag="@X" onclick="openSidebar('6_Break from Tradition',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\42_Alien Anatomist.png" id="42_Alien Anatomist" data-flag="@X" onclick="openSidebar('42_Alien Anatomist',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\109_Sensei Ira.png" id="109_Sensei Ira" data-flag="@X" onclick="openSidebar('109_Sensei Ira',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\119_Adventurous Couple.png" id="119_Adventurous Couple" data-flag="@X" onclick="openSidebar('119_Adventurous Couple',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\159_Big Bad Tree.png" id="159_Big Bad Tree" data-flag="@X" onclick="openSidebar('159_Big Bad Tree',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\8_Buggy Shieldbearer.png" id="8_Buggy Shieldbearer" data-flag="@X" onclick="openSidebar('8_Buggy Shieldbearer',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\45_The Big Friendly Beast.png" id="45_The Big Friendly Beast" data-flag="@X" onclick="openSidebar('45_The Big Friendly Beast',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\80_Altered Brain.png" id="80_Altered Brain" data-flag="@X" onclick="openSidebar('80_Altered Brain',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\120_Combat Experts.png" id="120_Combat Experts" data-flag="@X" onclick="openSidebar('120_Combat Experts',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\161_CGI Animals.png" id="161_CGI Animals" data-flag="@X" onclick="openSidebar('161_CGI Animals',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\9_Buggy Vanguard.png" id="9_Buggy Vanguard" data-flag="@X" onclick="openSidebar('9_Buggy Vanguard',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\47_Captain Marvelous.png" id="47_Captain Marvelous" data-flag="@X" onclick="openSidebar('47_Captain Marvelous',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\82_Bloodbutcher.png" id="82_Bloodbutcher" data-flag="@X" onclick="openSidebar('82_Bloodbutcher',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\124_Eager Audience.png" id="124_Eager Audience" data-flag="@X" onclick="openSidebar('124_Eager Audience',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\164_Endangered Species.png" id="164_Endangered Species" data-flag="@X" onclick="openSidebar('164_Endangered Species',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\10_CGI Models.png" id="10_CGI Models" data-flag="@X" onclick="openSidebar('10_CGI Models',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\49_Close the Wormhole.png" id="49_Close the Wormhole" data-flag="@X" onclick="openSidebar('49_Close the Wormhole',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\84_Break Trust.png" id="84_Break Trust" data-flag="@X" onclick="openSidebar('84_Break Trust',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\131_Hulking Star.png" id="131_Hulking Star" data-flag="@X" onclick="openSidebar('131_Hulking Star',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\165_Explore the Depths.png" id="165_Explore the Depths" data-flag="@X" onclick="openSidebar('165_Explore the Depths',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\11_Charismatic Speaker.png" id="11_Charismatic Speaker" data-flag="@X" onclick="openSidebar('11_Charismatic Speaker',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\50_Colossal Greatcrab.png" id="50_Colossal Greatcrab" data-flag="@X" onclick="openSidebar('50_Colossal Greatcrab',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\87_Collete Klide.png" id="87_Collete Klide" data-flag="@X" onclick="openSidebar('87_Collete Klide',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\137_Lightning Bug.png" id="137_Lightning Bug" data-flag="@X" onclick="openSidebar('137_Lightning Bug',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\166_Find the Sacred Place.png" id="166_Find the Sacred Place" data-flag="@X" onclick="openSidebar('166_Find the Sacred Place',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\14_Cloning Chamber.png" id="14_Cloning Chamber" data-flag="@X" onclick="openSidebar('14_Cloning Chamber',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\51_Consider the Possibilities.png" id="51_Consider the Possibilities" data-flag="@X" onclick="openSidebar('51_Consider the Possibilities',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\88_Dark Ending.png" id="88_Dark Ending" data-flag="@X" onclick="openSidebar('88_Dark Ending',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\141_Raze the Castle.png" id="141_Raze the Castle" data-flag="@X" onclick="openSidebar('141_Raze the Castle',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\168_Friend til the End.png" id="168_Friend til the End" data-flag="@X" onclick="openSidebar('168_Friend til the End',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\15_Compact Multitool.png" id="15_Compact Multitool" data-flag="@X" onclick="openSidebar('15_Compact Multitool',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\53_Defense System.png" id="53_Defense System" data-flag="@X" onclick="openSidebar('53_Defense System',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\89_The Dark Horde Rises.png" id="89_The Dark Horde Rises" data-flag="@X" onclick="openSidebar('89_The Dark Horde Rises',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\142_Romantic Tension.png" id="142_Romantic Tension" data-flag="@X" onclick="openSidebar('142_Romantic Tension',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\171_Hubris of Discovery.png" id="171_Hubris of Discovery" data-flag="@X" onclick="openSidebar('171_Hubris of Discovery',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\16_Completely Surrounded.png" id="16_Completely Surrounded" data-flag="@X" onclick="openSidebar('16_Completely Surrounded',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\55_Family Friendly Hero.png" id="55_Family Friendly Hero" data-flag="@X" onclick="openSidebar('55_Family Friendly Hero',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\91_Femme Fatale.png" id="91_Femme Fatale" data-flag="@X" onclick="openSidebar('91_Femme Fatale',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\143_Shyla Montgomery.png" id="143_Shyla Montgomery" data-flag="@X" onclick="openSidebar('143_Shyla Montgomery',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\173_Incidental Destruction.png" id="173_Incidental Destruction" data-flag="@X" onclick="openSidebar('173_Incidental Destruction',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\17_Eliza Laurent.png" id="17_Eliza Laurent" data-flag="@X" onclick="openSidebar('17_Eliza Laurent',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\58_Gravity Anomaly.png" id="58_Gravity Anomaly" data-flag="@X" onclick="openSidebar('58_Gravity Anomaly',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\103_Lifeforce Ship.png" id="103_Lifeforce Ship" data-flag="@X" onclick="openSidebar('103_Lifeforce Ship',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\144_Sidekick.png" id="144_Sidekick" data-flag="@X" onclick="openSidebar('144_Sidekick',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\174_Into the Maw of Greatness.png" id="174_Into the Maw of Greatness" data-flag="@X" onclick="openSidebar('174_Into the Maw of Greatness',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\19_Fight for Survival.png" id="19_Fight for Survival" data-flag="@X" onclick="openSidebar('19_Fight for Survival',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\62_Martial Arts Training.png" id="62_Martial Arts Training" data-flag="@X" onclick="openSidebar('62_Martial Arts Training',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\104_Low Point.png" id="104_Low Point" data-flag="@X" onclick="openSidebar('104_Low Point',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\147_Stand Off.png" id="147_Stand Off" data-flag="@X" onclick="openSidebar('147_Stand Off',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\176_Loving Beast.png" id="176_Loving Beast" data-flag="@X" onclick="openSidebar('176_Loving Beast',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\25_Makeup Artist.png" id="25_Makeup Artist" data-flag="@X" onclick="openSidebar('25_Makeup Artist',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\63_Micromancer.png" id="63_Micromancer" data-flag="@X" onclick="openSidebar('63_Micromancer',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\108_The Scheme Unfolds.png" id="108_The Scheme Unfolds" data-flag="@X" onclick="openSidebar('108_The Scheme Unfolds',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\148_Team Up!.png" id="148_Team Up!" data-flag="@X" onclick="openSidebar('148_Team Up!',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\178_Mother Mon-Mon.png" id="178_Mother Mon-Mon" data-flag="@X" onclick="openSidebar('178_Mother Mon-Mon',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\32_Selfless Partner.png" id="32_Selfless Partner" data-flag="@X" onclick="openSidebar('32_Selfless Partner',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\65_Pharmaceutical Expeditioners.png" id="65_Pharmaceutical Expeditioners" data-flag="@X" onclick="openSidebar('65_Pharmaceutical Expeditioners',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\111_Snake Oil Seller.png" id="111_Snake Oil Seller" data-flag="@X" onclick="openSidebar('111_Snake Oil Seller',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\149_Terror of the Darkwood.png" id="149_Terror of the Darkwood" data-flag="@X" onclick="openSidebar('149_Terror of the Darkwood',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\179_Mother Monster.png" id="179_Mother Monster" data-flag="@X" onclick="openSidebar('179_Mother Monster',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\34_Space Baby.png" id="34_Space Baby" data-flag="@X" onclick="openSidebar('34_Space Baby',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\70_Soaring Woman.png" id="70_Soaring Woman" data-flag="@X" onclick="openSidebar('70_Soaring Woman',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\114_Terrifying New Villain.png" id="114_Terrifying New Villain" data-flag="@X" onclick="openSidebar('114_Terrifying New Villain',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\151_Unlikely Betrayal.png" id="151_Unlikely Betrayal" data-flag="@X" onclick="openSidebar('151_Unlikely Betrayal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\184_Punch the Turtle.png" id="184_Punch the Turtle" data-flag="@X" onclick="openSidebar('184_Punch the Turtle',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\35_Twist Villain.png" id="35_Twist Villain" data-flag="@X" onclick="openSidebar('35_Twist Villain',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\72_Strange Beacon.png" id="72_Strange Beacon" data-flag="@X" onclick="openSidebar('72_Strange Beacon',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\116_Vengeful Shinobi.png" id="116_Vengeful Shinobi" data-flag="@X" onclick="openSidebar('116_Vengeful Shinobi',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\121_Cool Guys Don't Look at Explosions.png" id="121_Cool Guys Dont Look at Explosions" data-flag="@X" onclick="openSidebar('121_Cool Guys Dont Look at Explosions',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\189_Turned Ally.png" id="189_Turned Ally" data-flag="@X" onclick="openSidebar('189_Turned Ally',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\4_Brash Detective.png" id="4_Brash Detective" data-flag="@X" onclick="openSidebar('4_Brash Detective',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\43_Anticipate.png" id="43_Anticipate" data-flag="@X" onclick="openSidebar('43_Anticipate',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\118_Write Back In.png" id="118_Write Back In" data-flag="@X" onclick="openSidebar('118_Write Back In',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\122_Couple o' Escapees.png" id="122_Couple o Escapees" data-flag="@X" onclick="openSidebar('122_Couple o Escapees',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\156_Altar of Heroes.png" id="156_Altar of Heroes" data-flag="@X" onclick="openSidebar('156_Altar of Heroes',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\5_Brave Explorer.png" id="5_Brave Explorer" data-flag="@X" onclick="openSidebar('5_Brave Explorer',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\44_Banishing Portal.png" id="44_Banishing Portal" data-flag="@X" onclick="openSidebar('44_Banishing Portal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\83_Bone-Dry Bandit.png" id="83_Bone-Dry Bandit" data-flag="@X" onclick="openSidebar('83_Bone-Dry Bandit',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\125_Family Man.png" id="125_Family Man" data-flag="@X" onclick="openSidebar('125_Family Man',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\158_Armored Kaiju.png" id="158_Armored Kaiju" data-flag="@X" onclick="openSidebar('158_Armored Kaiju',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\7_Broken Seal.png" id="7_Broken Seal" data-flag="@X" onclick="openSidebar('7_Broken Seal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\48_Cephalid Sidekick.png" id="48_Cephalid Sidekick" data-flag="@X" onclick="openSidebar('48_Cephalid Sidekick',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\85_Climactic Demise.png" id="85_Climactic Demise" data-flag="@X" onclick="openSidebar('85_Climactic Demise',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\126_Fastest Shot in the West.png" id="126_Fastest Shot in the West" data-flag="@X" onclick="openSidebar('126_Fastest Shot in the West',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\160_Brave Little Toadster.png" id="160_Brave Little Toadster" data-flag="@X" onclick="openSidebar('160_Brave Little Toadster',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\12_Chosen One.png" id="12_Chosen One" data-flag="@X" onclick="openSidebar('12_Chosen One',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\52_Deep Space Navigator.png" id="52_Deep Space Navigator" data-flag="@X" onclick="openSidebar('52_Deep Space Navigator',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\93_Flying Front Kick.png" id="93_Flying Front Kick" data-flag="@X" onclick="openSidebar('93_Flying Front Kick',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\127_Forbidden Rendezvous.png" id="127_Forbidden Rendezvous" data-flag="@X" onclick="openSidebar('127_Forbidden Rendezvous',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\162_Eight-Legged Freak.png" id="162_Eight-Legged Freak" data-flag="@X" onclick="openSidebar('162_Eight-Legged Freak',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\20_Flying Saucer.png" id="20_Flying Saucer" data-flag="@X" onclick="openSidebar('20_Flying Saucer',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\54_Face in a Crowd.png" id="54_Face in a Crowd" data-flag="@X" onclick="openSidebar('54_Face in a Crowd',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\94_Gliding Assassin.png" id="94_Gliding Assassin" data-flag="@X" onclick="openSidebar('94_Gliding Assassin',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\128_Gamblin' Gal.png" id="128_Gamblin Gal" data-flag="@X" onclick="openSidebar('128_Gamblin Gal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\169_Green Knight.png" id="169_Green Knight" data-flag="@X" onclick="openSidebar('169_Green Knight',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\21_Hero's Stand.png" id="21_Heros Stand" data-flag="@X" onclick="openSidebar('21_Heros Stand',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\56_Flashblade Ninja.png" id="56_Flashblade Ninja" data-flag="@X" onclick="openSidebar('56_Flashblade Ninja',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\95_Happy Camper.png" id="95_Happy Camper" data-flag="@X" onclick="openSidebar('95_Happy Camper',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\129_Grinning Captive.png" id="129_Grinning Captive" data-flag="@X" onclick="openSidebar('129_Grinning Captive',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\172_Hulking Growth.png" id="172_Hulking Growth" data-flag="@X" onclick="openSidebar('172_Hulking Growth',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\23_Into the Fray.png" id="23_Into the Fray" data-flag="@X" onclick="openSidebar('23_Into the Fray',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\59_Greatspan Kaiju.png" id="59_Greatspan Kaiju" data-flag="@X" onclick="openSidebar('59_Greatspan Kaiju',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\96_Harder They Fall.png" id="96_Harder They Fall" data-flag="@X" onclick="openSidebar('96_Harder They Fall',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\130_Hero's Rage.png" id="130_Heros Rage" data-flag="@X" onclick="openSidebar('130_Heros Rage',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\175_Killer Croc.png" id="175_Killer Croc" data-flag="@X" onclick="openSidebar('175_Killer Croc',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\26_Odd Pair.png" id="26_Odd Pair" data-flag="@X" onclick="openSidebar('26_Odd Pair',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\61_Horizons Unfolding.png" id="61_Horizons Unfolding" data-flag="@X" onclick="openSidebar('61_Horizons Unfolding',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\99_Hyena Hooligans.png" id="99_Hyena Hooligans" data-flag="@X" onclick="openSidebar('99_Hyena Hooligans',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\132_Illuminate the Night.png" id="132_Illuminate the Night" data-flag="@X" onclick="openSidebar('132_Illuminate the Night',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\177_Monster's Fury.png" id="177_Monsters Fury" data-flag="@X" onclick="openSidebar('177_Monsters Fury',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\27_Pendant Thief.png" id="27_Pendant Thief" data-flag="@X" onclick="openSidebar('27_Pendant Thief',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\64_Ninja in the Wings.png" id="64_Ninja in the Wings" data-flag="@X" onclick="openSidebar('64_Ninja in the Wings',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\100_Interrogation Scene.png" id="100_Interrogation Scene" data-flag="@X" onclick="openSidebar('100_Interrogation Scene',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\133_Judge Dredd.png" id="133_Judge Dredd" data-flag="@X" onclick="openSidebar('133_Judge Dredd',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\180_Ominous Warpgate.png" id="180_Ominous Warpgate" data-flag="@X" onclick="openSidebar('180_Ominous Warpgate',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\29_Power Player.png" id="29_Power Player" data-flag="@X" onclick="openSidebar('29_Power Player',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\66_Plasma Shield Defender.png" id="66_Plasma Shield Defender" data-flag="@X" onclick="openSidebar('66_Plasma Shield Defender',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\102_Killer Clown.png" id="102_Killer Clown" data-flag="@X" onclick="openSidebar('102_Killer Clown',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\134_Killer in the Streets.png" id="134_Killer in the Streets" data-flag="@X" onclick="openSidebar('134_Killer in the Streets',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\182_Pining Suitor.png" id="182_Pining Suitor" data-flag="@X" onclick="openSidebar('182_Pining Suitor',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\30_Protocol Angel.png" id="30_Protocol Angel" data-flag="@X" onclick="openSidebar('30_Protocol Angel',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\67_Plot Armor.png" id="67_Plot Armor" data-flag="@X" onclick="openSidebar('67_Plot Armor',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\107_Recurring Antagonist.png" id="107_Recurring Antagonist" data-flag="@X" onclick="openSidebar('107_Recurring Antagonist',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\146_Stagecoach Robbery.png" id="146_Stagecoach Robbery" data-flag="@X" onclick="openSidebar('146_Stagecoach Robbery',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\183_Portal Opener.png" id="183_Portal Opener" data-flag="@X" onclick="openSidebar('183_Portal Opener',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\33_Sole Survivor.png" id="33_Sole Survivor" data-flag="@X" onclick="openSidebar('33_Sole Survivor',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\68_The Prestige.png" id="68_The Prestige" data-flag="@X" onclick="openSidebar('68_The Prestige',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\110_Set up the Sequel.png" id="110_Set up the Sequel" data-flag="@X" onclick="openSidebar('110_Set up the Sequel',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\152_Unnamed Hero.png" id="152_Unnamed Hero" data-flag="@X" onclick="openSidebar('152_Unnamed Hero',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\187_Stronger Together.png" id="187_Stronger Together" data-flag="@X" onclick="openSidebar('187_Stronger Together',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\36_Unconventional Mentor.png" id="36_Unconventional Mentor" data-flag="@X" onclick="openSidebar('36_Unconventional Mentor',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\69_Sharktomus Prime.png" id="69_Sharktomus Prime" data-flag="@X" onclick="openSidebar('69_Sharktomus Prime',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\112_Spectre of Hate.png" id="112_Spectre of Hate" data-flag="@X" onclick="openSidebar('112_Spectre of Hate',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\154_Wandering Dreadmaw.png" id="154_Wandering Dreadmaw" data-flag="@X" onclick="openSidebar('154_Wandering Dreadmaw',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\191_Two-Headed Goliath.png" id="191_Two-Headed Goliath" data-flag="@X" onclick="openSidebar('191_Two-Headed Goliath',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\38_Villain's Underling.png" id="38_Villains Underling" data-flag="@X" onclick="openSidebar('38_Villains Underling',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\75_Time Traveling Cop.png" id="75_Time Traveling Cop" data-flag="@X" onclick="openSidebar('75_Time Traveling Cop',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\113_Targeted Gumshoe.png" id="113_Targeted Gumshoe" data-flag="@X" onclick="openSidebar('113_Targeted Gumshoe',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\155_Wild Rider.png" id="155_Wild Rider" data-flag="@X" onclick="openSidebar('155_Wild Rider',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\192_Wooden Slasher.png" id="192_Wooden Slasher" data-flag="@X" onclick="openSidebar('192_Wooden Slasher',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\41_Zero to Hero.png" id="41_Zero to Hero" data-flag="@X" onclick="openSidebar('41_Zero to Hero',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\76_Training Session.png" id="76_Training Session" data-flag="@X" onclick="openSidebar('76_Training Session',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\115_Upstage.png" id="115_Upstage" data-flag="@X" onclick="openSidebar('115_Upstage',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\193_Young Lovers.png" id="193_Young Lovers" data-flag="@X" onclick="openSidebar('193_Young Lovers',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\117_Wolf of Boxer Street.png" id="117_Wolf of Boxer Street" data-flag="@X" onclick="openSidebar('117_Wolf of Boxer Street',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\207_Dr. Zenus Prime.png" id="207_Dr. Zenus Prime" data-flag="@X" onclick="openSidebar('207_Dr. Zenus Prime',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\204_Deceiving Fist.png" id="204_Deceiving Fist" data-flag="@X" onclick="openSidebar('204_Deceiving Fist',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\224_Never Found the Body.png" id="224_Never Found the Body" data-flag="@X" onclick="openSidebar('224_Never Found the Body',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\198_Charming Minotaur.png" id="198_Charming Minotaur" data-flag="@X" onclick="openSidebar('198_Charming Minotaur',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\211_Fates Foretold.png" id="211_Fates Foretold" data-flag="@X" onclick="openSidebar('211_Fates Foretold',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\230_Reset Protocol.png" id="230_Reset Protocol" data-flag="@X" onclick="openSidebar('230_Reset Protocol',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\235_Split.png" id="235_Split" data-flag="@X" onclick="openSidebar('235_Split',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\239_Tommy Bones.png" id="239_Tommy Bones" data-flag="@X" onclick="openSidebar('239_Tommy Bones',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\226_Our Love is Forever.png" id="226_Our Love is Forever" data-flag="@X" onclick="openSidebar('226_Our Love is Forever',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\238_Tia Otumbo.png" id="238_Tia Otumbo" data-flag="@X" onclick="openSidebar('238_Tia Otumbo',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\227_Paragon Battery.png" id="227_Paragon Battery" data-flag="@X" onclick="openSidebar('227_Paragon Battery',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\208_Dragged Back to the Shadows.png" id="208_Dragged Back to the Shadows" data-flag="@X" onclick="openSidebar('208_Dragged Back to the Shadows',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\200_Confident Criminal.png" id="200_Confident Criminal" data-flag="@X" onclick="openSidebar('200_Confident Criminal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\195_Alliance of Passion.png" id="195_Alliance of Passion" data-flag="@X" onclick="openSidebar('195_Alliance of Passion',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\220_Khazra.png" id="220_Khazra" data-flag="@X" onclick="openSidebar('220_Khazra',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\234_Space Pilgrim.png" id="234_Space Pilgrim" data-flag="@X" onclick="openSidebar('234_Space Pilgrim',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\223_Master in the Marsh.png" id="223_Master in the Marsh" data-flag="@X" onclick="openSidebar('223_Master in the Marsh',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\231_Roll the Dice.png" id="231_Roll the Dice" data-flag="@X" onclick="openSidebar('231_Roll the Dice',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\201_Cornered Lover.png" id="201_Cornered Lover" data-flag="@X" onclick="openSidebar('201_Cornered Lover',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\229_Redrin Greyfur.png" id="229_Redrin Greyfur" data-flag="@X" onclick="openSidebar('229_Redrin Greyfur',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\194_Admiral Joseph.png" id="194_Admiral Joseph" data-flag="@X" onclick="openSidebar('194_Admiral Joseph',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\225_One by One.png" id="225_One by One" data-flag="@X" onclick="openSidebar('225_One by One',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\214_Guppy.png" id="214_Guppy" data-flag="@X" onclick="openSidebar('214_Guppy',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\232_Seth, Breaking Through.png" id="232_Seth, Breaking Through" data-flag="@X" onclick="openSidebar('232_Seth, Breaking Through',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\216_Hero's Rise.png" id="216_Heros Rise" data-flag="@X" onclick="openSidebar('216_Heros Rise',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\205_Detective Fluffles.png" id="205_Detective Fluffles" data-flag="@X" onclick="openSidebar('205_Detective Fluffles',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\218_It's a Crossover!.png" id="218_Its a Crossover!" data-flag="@X" onclick="openSidebar('218_Its a Crossover!',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\203_Cosmic Horror.png" id="203_Cosmic Horror" data-flag="@X" onclick="openSidebar('203_Cosmic Horror',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\196_Alternate Timelines.png" id="196_Alternate Timelines" data-flag="@X" onclick="openSidebar('196_Alternate Timelines',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\206_Deus Ex Machina.png" id="206_Deus Ex Machina" data-flag="@X" onclick="openSidebar('206_Deus Ex Machina',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\219_Kal Rod'r.png" id="219_Kal Rodr" data-flag="@X" onclick="openSidebar('219_Kal Rodr',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\221_Lyndy.png" id="221_Lyndy" data-flag="@X" onclick="openSidebar('221_Lyndy',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\213_Germinating Grub.png" id="213_Germinating Grub" data-flag="@X" onclick="openSidebar('213_Germinating Grub',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\217_The Illusionist.png" id="217_The Illusionist" data-flag="@X" onclick="openSidebar('217_The Illusionist',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\228_Ratrisha Rocket.png" id="228_Ratrisha Rocket" data-flag="@X" onclick="openSidebar('228_Ratrisha Rocket',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\202_Cornered Mobster.png" id="202_Cornered Mobster" data-flag="@X" onclick="openSidebar('202_Cornered Mobster',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\215_Harvest Killer.png" id="215_Harvest Killer" data-flag="@X" onclick="openSidebar('215_Harvest Killer',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\199_Citybreaker Kaiju.png" id="199_Citybreaker Kaiju" data-flag="@X" onclick="openSidebar('199_Citybreaker Kaiju',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\222_Magician Adept.png" id="222_Magician Adept" data-flag="@X" onclick="openSidebar('222_Magician Adept',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\209_Electric Explosion.png" id="209_Electric Explosion" data-flag="@X" onclick="openSidebar('209_Electric Explosion',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\212_The Final Reveal.png" id="212_The Final Reveal" data-flag="@X" onclick="openSidebar('212_The Final Reveal',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\237_Terrifying Slash.png" id="237_Terrifying Slash" data-flag="@X" onclick="openSidebar('237_Terrifying Slash',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\210_Erupting Sandmaw.png" id="210_Erupting Sandmaw" data-flag="@X" onclick="openSidebar('210_Erupting Sandmaw',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\233_Shock and Awe.png" id="233_Shock and Awe" data-flag="@X" onclick="openSidebar('233_Shock and Awe',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\236_Super Hero Squad.png" id="236_Super Hero Squad" data-flag="@X" onclick="openSidebar('236_Super Hero Squad',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\197_The Big Screen.png" id="197_The Big Screen" data-flag="@X" onclick="openSidebar('197_The Big Screen',true)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\1_Colossal Kaiju.png" id="1_Colossal Kaiju" data-flag="@X" onclick="openSidebar('1_Colossal Kaiju',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\243_Dimensional Antenna.png" id="243_Dimensional Antenna" data-flag="@X" onclick="openSidebar('243_Dimensional Antenna',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\244_Eye of the Architect.png" id="244_Eye of the Architect" data-flag="@X" onclick="openSidebar('244_Eye of the Architect',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\2_Film Editing.png" id="2_Film Editing" data-flag="@X" onclick="openSidebar('2_Film Editing',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\250_The Stone of Kings.png" id="250_The Stone of Kings" data-flag="@X" onclick="openSidebar('250_The Stone of Kings',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\252_X-11, The Gargantuan.png" id="252_X-11, The Gargantuan" data-flag="@X" onclick="openSidebar('252_X-11, The Gargantuan',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\245_Lost Sentinel.png" id="245_Lost Sentinel" data-flag="@X" onclick="openSidebar('245_Lost Sentinel',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\247_POV Camera.png" id="247_POV Camera" data-flag="@X" onclick="openSidebar('247_POV Camera',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\248_Refurbisher.png" id="248_Refurbisher" data-flag="@X" onclick="openSidebar('248_Refurbisher',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\249_Sentient Car.png" id="249_Sentient Car" data-flag="@X" onclick="openSidebar('249_Sentient Car',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\3_Find the McGuffin.png" id="3_Find the McGuffin" data-flag="@X" onclick="openSidebar('3_Find the McGuffin',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\240_Actress Stand-in.png" id="240_Actress Stand-in" data-flag="@X" onclick="openSidebar('240_Actress Stand-in',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\241_Camera Thopter.png" id="241_Camera Thopter" data-flag="@X" onclick="openSidebar('241_Camera Thopter',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\242_Collector's Item.png" id="242_Collectors Item" data-flag="@X" onclick="openSidebar('242_Collectors Item',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\246_Makeup and Effects.png" id="246_Makeup and Effects" data-flag="@X" onclick="openSidebar('246_Makeup and Effects',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\251_Studio Director.png" id="251_Studio Director" data-flag="@X" onclick="openSidebar('251_Studio Director',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\253_Adventurer's Village.png" id="253_Adventurers Village" data-flag="@X" onclick="openSidebar('253_Adventurers Village',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\256_Intergalactic Spaceport.png" id="256_Intergalactic Spaceport" data-flag="@X" onclick="openSidebar('256_Intergalactic Spaceport',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\259_Shootout Gully.png" id="259_Shootout Gully" data-flag="@X" onclick="openSidebar('259_Shootout Gully',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\254_City of Heroes.png" id="254_City of Heroes" data-flag="@X" onclick="openSidebar('254_City of Heroes',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\257_Kaiju Homeworld.png" id="257_Kaiju Homeworld" data-flag="@X" onclick="openSidebar('257_Kaiju Homeworld',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\255_Film Stage.png" id="255_Film Stage" data-flag="@X" onclick="openSidebar('255_Film Stage',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\258_Location Scouting.png" id="258_Location Scouting" data-flag="@X" onclick="openSidebar('258_Location Scouting',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\1t_Leading Role.png" id="1t_Leading Role" data-flag="@X" onclick="openSidebar('1t_Leading Role',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\1t_Third Act.png" id="1t_Third Act" data-flag="@X" onclick="openSidebar('1t_Third Act',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\2t_Bird.png" id="2t_Bird" data-flag="@X" onclick="openSidebar('2t_Bird',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\3t_Horse.png" id="3t_Horse" data-flag="@X" onclick="openSidebar('3t_Horse',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\4t_Soldier.png" id="4t_Soldier" data-flag="@X" onclick="openSidebar('4t_Soldier',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\5t_Skeleton.png" id="5t_Skeleton" data-flag="@X" onclick="openSidebar('5t_Skeleton',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\6t_Human.png" id="6t_Human" data-flag="@X" onclick="openSidebar('6t_Human',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\7t_Rogue.png" id="7t_Rogue" data-flag="@X" onclick="openSidebar('7t_Rogue',false)"></div>
+			<div class="container"><img alt="sets\SOC-files\img\8t_Treasure.png" id="8t_Treasure" data-flag="@X" onclick="openSidebar('8t_Treasure',false)"></div>
+			<div class="container"><img alt="img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = 'img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		if (horizontal && rotated_img.style.display == 'none')
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+	}
+
+	function openSidebar(id, h=false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+
+		if (horizontal)
+		{
+			rotated_img.src = document.getElementById(id).src;
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+			if (event.key === "Enter") {
+				event.preventDefault();
+				search();
+			}
+		});
+
+		function search() {
+			window.location = ("/search?search=" + document.getElementById("search").value);
+		}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let card_name = card_list_arrayified[i].card_name;
+				for (const char of specialchars)
+				{
+					card_name = card_name.replaceAll(char, "");
+				}
+
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+			}
+	</script>
+</body>
+</html>
