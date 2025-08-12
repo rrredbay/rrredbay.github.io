@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import markdown
 
 #F = Fungustober's notes
 
@@ -9,23 +10,29 @@ def generateHTML(setCode):
 		so_json = json.load(j)
 
 	with open(os.path.join('sets', setCode + '-files', setCode + '.json'), encoding='utf-8-sig') as j:
-		tmp = json.load(j)
-		set_image_type = 'png' if 'image_type' not in tmp else tmp['image_type']
+		set_js = json.load(j)
+		set_image_type = 'png' if 'image_type' not in set_js else set_js['image_type']
+		set_name = '' if 'name' not in set_js else set_js['name']
 
 	codes = []
 	for key in so_json:
 		for code in so_json[key]:
 			codes.append(code)
-	#F: this is SET-spoiler.html, the file that this outputs to
-	output_html_file = setCode + '-spoiler.html'
-	magic_card_back_image = 'img/card_back.png'
+	#F: this is SET-preview.html, the file that this outputs to
+	output_html_file = os.path.join('previews', setCode + '.html')
+	magic_card_back_image = '/img/card_back.png'
 	#F: /sets/SET-files/img/
 	set_img_dir = os.path.join('sets', setCode + '-files', 'img')
 	#F: get rid of the Byte Order Mark character that shouldn't be there
 	#F: and grab all of the files in the image directory
-	previewed = [file[:-4].replace(u'\ufeff', '') for file in os.listdir(set_img_dir)]
+	card_image_names = [file[:-4].replace(u'\ufeff', '')[file.index('_')+1:] for file in os.listdir(set_img_dir)]
 
-	#F: lists/SET-list.json, defined in list_to_list.py, get rid of the BOM character that shouldn't be there
+	previewed_path = os.path.join('sets', setCode + '-files', 'previewed.txt')
+	if os.path.isfile(previewed_path):
+		with open(previewed_path, encoding='utf-8-sig') as f:
+			previewed = f.read().split('\n')
+
+	#F: lists/SET-list.json, defined in list_to_list.py
 	with open(os.path.join('lists', setCode + '-list.json'), encoding='utf-8-sig') as f:
 		cards = json.load(f)
 
@@ -45,10 +52,14 @@ def generateHTML(setCode):
 	html_content = '''<!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="sets/''' + setCode + '''-files/icon.png"/>
+	<link rel="icon" type="image/png" href="/sets/''' + setCode + '''-files/icon.png"/>
 	<link rel="stylesheet" href="/resources/header.css">
-	<title>''' + setCode + ''' visual spoiler</title>
+	<title>''' + setCode + ''' visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -91,7 +102,7 @@ def generateHTML(setCode):
 			width: 100%;
 		}
 		.close-btn {
-			background: url('img/close.png') no-repeat;
+			background: url('/img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -102,7 +113,7 @@ def generateHTML(setCode):
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('img/close-hover.png') no-repeat;
+			background: url('/img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -112,7 +123,7 @@ def generateHTML(setCode):
 			gap: 2px;
 			padding-left: 5%;
 			padding-right: 5%;
-			padding-bottom: 3%;
+			padding-bottom: 1%;
 			justify-items: center;
 			max-width: 1200px;
 		}
@@ -126,7 +137,7 @@ def generateHTML(setCode):
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -144,7 +155,7 @@ def generateHTML(setCode):
 			height: auto;
 		}
 		.flip-btn {
-			background: url('img/flip.png') no-repeat;
+			background: url('/img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -158,40 +169,53 @@ def generateHTML(setCode):
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('img/flip-hover.png') no-repeat;
+			background: url('/img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(''' + str(header_length - 1) + ''', 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -210,7 +234,7 @@ def generateHTML(setCode):
 
 	if os.path.exists(os.path.join('sets', setCode + '-files', 'bg.png')):
 		html_content +='''<img class="preload-hidden" id="bg" src="/sets/''' + setCode + '''-files/bg.png" />
-		
+
 		'''
 
 	#F: goes to resources/snippets/header.txt and gets a header, inserting it after everything so far
@@ -220,23 +244,36 @@ def generateHTML(setCode):
 
 	html_content += '''
 
-	<div class="icon-bar">
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	'''
 	
 	count = 0
+	html_content += f'''
+		<a class="set-bar" href="{setCode}"><img src="/sets/{setCode}-files/icon.png">{set_name}</a>
+	'''
+	for code in codes:
+		if code == setCode:
+			continue
+		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
+			js = json.load(j)
+		html_content += f'''
+		<a class="set-bar inactive" href="{code}"><img src="/sets/{code}-files/icon.png">{js['name']}</a>
+	'''
+	'''
 	for code in codes:
 		prev_path = os.path.join('sets', setCode + '-files', 'prev_icon.png')
 		if count != 0:
-			html_content += '		 <div class="dot"><img src="img/dot.png"></img></div>\n'
-		html_content += f'		<div class="icon"><a href="{code}-spoiler"><img src="sets/{code}-files/' + ('prev_' if os.path.isfile(prev_path) else '') + 'icon.png"></img></a></div>\n'
+			html_content += '		 <div class="dot"><img src="/img/dot.png"></img></div>\n'
+		html_content += f'		<div class="icon"><a href="{code}"><img src="/sets/{code}-files/' + ('prev_' if os.path.isfile(prev_path) else '') + 'icon.png"></img></a></div>\n'
 		count += 1
 		if count == header_length:
 			count = 0
+	'''
 
 	html_content += '''
 		</div>
 		<div class="banner">
-		<img class="logo" src="sets/''' + setCode + '''-files/logo.png">
+		<img class="logo" src="/sets/''' + setCode + '''-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
@@ -244,6 +281,29 @@ def generateHTML(setCode):
 
 	# Loop over each image and create an img tag for each one
 	for card in cards:
+		if 'a->' in card:
+			html_content += f'				<div id="{card[3:]}" class="anchor"></div>\n'
+			continue
+		if 'l->' in card:
+			html_content += f'''			</div>
+			<div class="banner">
+					<img id="{card[3:]}-logo" class="logo" src="/sets/{card[3:]}-files/logo.png">
+			</div>
+			<div class="grid-container">
+'''
+			continue
+		if 'h->' in card:
+			with open(os.path.join('sets', setCode + '-files', card[3:]), encoding='utf-8-sig') as f:
+				addenda = f.read()
+			if card[-3:] == '.md':
+				addenda = markdown.markdown(addenda)
+			html_content += f'''			</div>
+			<div class="addenda-container">
+				{addenda}
+			</div>
+			<div class="grid-container">
+'''
+			continue
 		#F: originally, in list_to_list.py, the card names were all stitched with a number and a _ (or a number and t_ if it's a token)
 		#F: Since list_to_list.py was retrofitted by me to make the master_list output into a .json file, that process must be done here instead
 		#F: Using a JSON file for SET-list *is* slightly overkill, but it makes the card_num assignment easier.
@@ -271,53 +331,45 @@ def generateHTML(setCode):
 		card_name_cleaned = card_name.replace('\'','')
 
 		# used for DFCs only
+		card_code = setCode if 'set' not in card else card['set']
 		dfc_front_path = card_name + '_front'
 		dfc_back_path = card_name + '_back'
-		dfc_front_img_path = os.path.join('sets', setCode + '-files', 'img', dfc_front_path + '.' + image_type)
-		dfc_back_img_path = os.path.join('sets', setCode + '-files', 'img', dfc_back_path + '.' + image_type)
-		
+		dfc_front_img_path = os.path.join('sets', card_code + '-files', 'img', dfc_front_path + '.' + image_type)
+		dfc_back_img_path = os.path.join('sets', card_code + '-files', 'img', dfc_back_path + '.' + image_type)
+
 		#F: these flags are used in later parts of the code, including the HTML.
 		#F: if the flag is @N, then only the card back is displayed
 		#F: if the flag is @E, then the ability to click it is removed (since it's just a blank image for positioning)
 		#F: if the flag is @X or @XD, nothing happens
 		flag = '@N'
-		if card_name in previewed:
+		if 'previewed' not in locals() or card['card_name'] in previewed:
 			flag = '@X'
-		if dfc_front_path in previewed:
-			flag = '@XD'
+			if card['card_name'] + '_front' in card_image_names:
+				flag = '@XD'
 
 		if card_name == 'e' or card_name == 'er':
 			image_dir = 'img'
 			flag = '@E'
 		else:
 			#F: /sets/SET-files/img/
-			image_dir = os.path.join('sets', setCode + '-files', 'img')
-		
+			image_dir = os.path.join('sets', card_code + '-files', 'img')
+
 		#F: /sets/SET-files/img/NUMBER(t?)_NAME.png
 		image_path = os.path.join(image_dir, card_name + '.' + image_type)
 		rotated = str('shape' in card and 'spli' in card['shape']).lower()
-		
+
 		#F: if the flag is @XD, add something to html_content to get the front and back images, otherwise add something else
 		if flag == '@XD':
-			html_content += f'			<div class="container"><img data-alt_src="{dfc_back_img_path}" alt="{dfc_front_img_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"><button class="flip-btn" onclick="imgFlip({card_name_cleaned})"></button></div>\n'
+			html_content += f'				<div class="container"><img data-alt_src="/{dfc_back_img_path}" alt="/{dfc_front_img_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"><button class="flip-btn" onclick="imgFlip(\'{card_name_cleaned}\')"></button></div>\n'
 		else:
-			html_content += f'			<div class="container"><img alt="{image_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"></div>\n'
+			html_content += f'				<div class="container"><img alt="/{image_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"></div>\n'
 
 	# Closing the div and the rest of the HTML
-	html_content += '''	</div>\n'''
-
-	#F: find /sets/SET-files/addenda/SET-addendum.html
-	#F: then add each line of that file to the next bit of html_content
-	add_path = os.path.join('sets', setCode + '-files', 'addenda', setCode + '-addendum.html')
-	if os.path.isfile(add_path):
-		with open(add_path) as f:
-			for line in f:
-				html_content += line
-	
-	html_content += '''</div>
+	html_content += '''	</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -341,7 +393,7 @@ def generateHTML(setCode):
 
 	html_content += '''
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -381,7 +433,7 @@ def generateHTML(setCode):
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = 'img/card_back.png';
+				img.src = '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
@@ -414,38 +466,42 @@ def generateHTML(setCode):
 
 	function imgFlip(num) {
 		tmp = document.getElementById(num).src;
+		console.log(num);
 		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
 		document.getElementById(num).dataset.alt_src = tmp;
 
-		const rotated_img = document.getElementById('sidebar_h_img');
-		const sidebar_img = document.getElementById('sidebar_img');
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
 
-		if (horizontal && rotated_img.style.display == 'none')
-		{
-			rotated_img.style.display = "block";
-			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-		}
-		else
-		{
-			rotated_img.style.display = "none";
-			sidebar_img.style.filter = "";
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
 		}
 	}
 
-	function openSidebar(id, h=false) {
+	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
 		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
-		if (horizontal)
+		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.src = document.getElementById(id).src;
 			rotated_img.style.display = "block";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
@@ -466,7 +522,7 @@ def generateHTML(setCode):
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -477,22 +533,42 @@ def generateHTML(setCode):
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 	}
 
-	document.getElementById("search").addEventListener("keypress", function(event) {
-			if (event.key === "Enter") {
-				event.preventDefault();
-				search();
-			}
-		});
-
-		function search() {
-			window.location = ("/search?search=" + document.getElementById("search").value);
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
 		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
 
 		'''
 	
