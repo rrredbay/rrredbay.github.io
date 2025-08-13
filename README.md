@@ -63,7 +63,7 @@ This updates your buffer so you can upload all of your images with no timeout is
 ```
 python3 -m pip install pillow
 python3 -m pip install markdown
-python3 scripts/build_site.py
+py scripts/build_site.py
 ```
 
 > :memo: **Note:** If at this point `python3` prompts you to install through the Windows Store, do so. It's the path of least resistance.
