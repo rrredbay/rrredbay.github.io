@@ -1,3 +1,9 @@
 ﻿{
-    "sets": []
+    "sets": [
+        {
+            "set_code": "SOC",
+            "set_name": "Stars of Cinesterra",
+            "formats": "Standard"
+        }
+    ]
 }
