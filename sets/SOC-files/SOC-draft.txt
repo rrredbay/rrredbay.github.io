@@ -3224,7 +3224,7 @@
 	1 The Big Screen
 	1 Dimensional Antenna
 	1 Hero's Rise
-[wildcard(1)]
+[wildcard(2)]
 	6 Portal Opener
 	6 Ninja in the Wings
 	6 Deep Space Navigator
