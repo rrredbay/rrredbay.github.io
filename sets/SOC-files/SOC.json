@@ -1,7 +1,7 @@
 ﻿{
     "name": "Stars of Cinesterra",
     "formats": "Standard",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -5147,5 +5147,6 @@
             "alias": "",
             "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }

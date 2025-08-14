@@ -1,8 +1,28 @@
 ﻿{
     "sets": [
         {
+            "set_code": "POP",
+            "set_name": "Popcorn",
+            "formats": "Cube"
+        },
+        {
+            "set_code": "RCC25",
+            "set_name": "Redbay Custom Cube 2025",
+            "formats": "Cube"
+        },
+        {
             "set_code": "SOC",
             "set_name": "Stars of Cinesterra",
+            "formats": "Standard"
+        },
+        {
+            "set_code": "TLC",
+            "set_name": "The Last Cosmonaut",
+            "formats": "Microset"
+        },
+        {
+            "set_code": "WGJ",
+            "set_name": "Wrenchmar: Gambit of the Junklords",
             "formats": "Standard"
         }
     ]
