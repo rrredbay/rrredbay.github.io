@@ -100,7 +100,7 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/265_Productive Midden.png"
 			}
 		},
-{
+		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2680,8 +2680,8 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/41_VAL, Automated Locomotive.png"
 			}
 		},
-		{
-			"name": "Call The Beast Emblem",
+				{
+			"name": "Call the Beast Emblem",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -2690,12 +2690,12 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://rrredbay.github.io/sets/WGJ-files/img/1t_The Beast.png"
+					"en": "https://rrredbay.github.io/sets/WGJ-files/img/1_The Beast.png"
 				}
 			},
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/0_Call The Beast Emblem.png"
-				}
+			}
 		},
 		{
 			"name": "Toxic-Tail Bot",
@@ -3727,5 +3727,3 @@
 	6 Armored Goliath
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
-[landslot(1)]
-	30 Call the Beast Emblem

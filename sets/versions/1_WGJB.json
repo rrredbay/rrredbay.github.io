@@ -1,0 +1,40 @@
+﻿{
+    "name": "Wrenchmar: Bonus Sheet",
+    "formats": "Cube",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "cube",
+    "unpreviewed": "card back",
+    "cards": [
+        {
+            "card_name": "Scrapwork Mutt",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact Creature \u2014 Dog",
+            "number": 1,
+            "color_identity": "R",
+            "cost": "{2}",
+            "rules_text": "When this creature enters, you may discard a card. If you do, draw a card.\nUnearth {1}{R} [i]({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "WGJB",
+            "loyalty": "",
+            "artist": "Sidharth Chaturvedi",
+            "alias": "",
+            "card_name2": "words",
+            "color2": "",
+            "type2": "yes",
+            "cost2": "",
+            "rules_text2": "weeeeeee",
+            "flavor_text2": "[i][/i]",
+            "pt2": "4/4",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "",
+            "alias2": "",
+            "notes": ""
+        }
+    ]
+}
