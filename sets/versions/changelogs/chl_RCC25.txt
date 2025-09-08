@@ -1,4 +1,835 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Containment Priest added.
+Through Time and Space added.
+Canine Anomaly added.
+Tido's Lightkeeper added.
+Ertys's Reaper added.
+Timedancer added.
+Crystalsight Entity added.
+Moss-Covered Arches added.
+Shayla, the Burning Edge added.
+
+Barrier of Bravery removed.
+Chill of the Void removed.
+Vengeful Swordmaster removed.
+Nacatl Neonate removed.
+Key, Desert Champion removed.
+Make Ranks removed.
+Pull from Beyond removed.
+Crystalcore Entity removed.
+Overgrown Arches removed.
+
+Everlasting Hate
+
+Orana, Barrier-Between
+
+Necromantic Flame
+
+Iyalden, Valley of Creation
+
+Change of Seasons
+
+Farewell to the Shore
+
+Leafless, Summer's End
+
+Druid of the Circle
+
+Berry, Orchard Tender
+
+Aven Courier
+
+Emergency Protocol
+
+Exemplar of Courage
+
+Guardian Armadillo
+
+Heidi, Vengeant Priestess
+
+Highland Survivalist
+
+Protocol Sergeant
+
+Rol Warpriest
+
+Scatter the Sands
+
+Tomas, Rol Rallier
+
+Skywarden Adjunct
+
+Captured Portal Energy
+
+Steel Sabotage
+
+Dissolution
+
+Energy Channeler
+
+Marqeq Elementalist
+
+Gather the Elements
+
+Ilyari Sapper
+
+Xet, the Exile
+cost: {2}{U} => {1}{U}{U}
+rules_text: Flash
+When Xet, the Exile enters, if you cast him, you may pay {B}{G}{U}. If you do, gain control of target spell and you may choose new targets. Otherwise, return that spell to its owner's hand. => Flash
+When Xet enters, if you cast him, you may pay {B}{G}{U}. If you do, gain control of target spell and you may choose new targets for it. Otherwise, return that spell to its owner's hand.
+
+Stone-Eater Drake
+
+Memory Stone
+
+Admonish
+
+Forgotten Altar
+
+Myopic Overmaster
+
+Demand
+
+Tablet of Resurrection
+
+Spoils from Below
+
+Terminal Expedition
+
+Seething Husk
+
+Ilyari Replica
+
+Organics Refiner
+
+Faithful Scrounger
+
+Highland Lightning
+
+Rage of the Ancestors
+
+Manaline Explorer
+
+Core Imps
+
+Ignite the Elements
+
+Nimble Raider
+
+Cone of Lightning
+
+Overcharged Portal
+
+Lowland Troll
+
+Thundercaller
+
+Embodiment of Progress
+
+Acid Beast
+
+Chel Hierarch
+
+Survey the Ruins
+
+Light Harvest
+
+Nourishing Manaline
+cost: {2}{G} => {1}{G}
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you gain 2 life.
+Whenever you gain life, you may pay {2}. If you do, draw a card. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+Whenever you gain life, you may pay {2}. If you do, draw a card.
+
+Zylana, Born Leader
+
+Cya, Master Weaver
+
+Relic Hog
+
+Alpha Teksaurus
+
+Everspinning Coin
+
+Prophetic Prism
+
+The Blade of Eons
+
+Surveyor-Recorder
+
+Tek Loxodon
+cost: {5} => {4}
+rules_text: If a spell or ability an opponent controls causes you to discard this card, you may exile it. If you do, you may cast it until the end of your next turn.
+Vigilance, trample, hexproof => If a spell or ability an opponent controls causes you to discard this card, you may exile it. If you do, you may cast it until the end of your next turn.
+Vigilance, trample
+Ward {4}
+
+Marqeq Warpgate
+
+Alantha, Nexus Informant
+
+Explore the Mysteries
+
+Mark of the Chel
+
+Chel Forerunner
+
+Exact Vengeance
+
+Loxodon Nomad
+
+Make Eternal
+rules_text: Return target creature card from your graveyard to the battlefield. => Return target creature card from your graveyard to the battlefield with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Portal Channeler
+
+Poverty, The Eternal
+
+Tah, Caravan Speaker
+
+Venomous Teknid
+
+Arohi, Avatar of Passage
+
+Insidious Miasma
+
+Omatac, Sea Dominus
+
+Puhmiel, Sender of Stones
+
+Retriever Lagac
+
+Summon the Squadron
+
+Brothers in Arms
+
+Call the Ancestors
+
+Elementalist's Infusion
+
+Indentured Behemoth
+
+Skullface, the Warmonger
+
+The Qeylia, Secret Cabal
+
+Vidau, Avatar of Wisdom
+
+Majesty Unbound
+
+Nixhia, Avatar of Growth
+
+Qeyli Ultimatum
+
+Tek Goliath
+
+Canyon Boundary
+
+Caravanner's Nexus
+
+Chel Vista
+
+Chol'Jah Vista
+
+Crumbling Boundary
+
+Elementalist's Nexus
+
+Highlander's Nexus
+
+Marqeq Vista
+
+Marsh Boundary
+
+Morass
+
+Overmaster's Nexus
+
+Qeyli Vista
+
+Reef
+
+Butte
+
+Rol Vista
+
+Sabkha
+
+Saltflat Boundary
+
+Syndicate's Nexus
+
+Volatile Boundary
+
+Weald
+
+Cease Hostility
+
+Light the Path
+
+Pureheart Paladin
+
+Weary Traveller
+
+Beaming Angel
+
+Guiding Soul
+
+Hero's Anthem
+
+Illumination Binding
+
+Provisioned Explorer
+
+Heidi, the Pure
+
+Send Beyond
+
+Sir Fromm, of the Lit Path
+
+Guardian Giant
+
+Claim Pilferer
+
+Retreat to the Cavemouth
+
+Hypothermia
+
+Maestro's Conjuring
+
+Orana Rascal
+
+Ponder Depths
+rules_text: Mill two cards, then draw a card. [i](To mill two cards, put the top two cards of your library into your graveyard.)[/i]
+{1}{U}, Exile this card from your graveyard: Draw a card. => Mill two cards, then draw a card.
+{2}{U}, Exile this card from your graveyard: Draw a card.
+
+Veita, Crowcaller
+rules_text: Whenever Veita enters or you cast an instant or sorcery spell, create a 1/1 black Bird creature token with flying. => Whenever you cast an instant or sorcery spell, create a 1/1 black Bird creature token with flying.
+
+Goldflecked Serpent
+
+Path Less Travelled
+
+Flood the Tunnels
+
+Incensed Drow
+
+Alex, Nimble Fingers
+
+Digger's Delight
+
+Tomb Terror
+
+Kila, Scourge of Orana
+
+Languish
+
+Hunting Chupacabra
+
+Caverunner Aspirant
+
+Grimmgun Dwarves
+
+Bruff the Adventurous
+
+Dwarven Drilling Machine
+
+Magma Vent
+
+Surprising Find
+
+Cave Gas Ignitor
+
+Wheels of Fortune
+
+Crack the Lavacore
+
+Penumbra Satyr
+
+Bruff's Big Find
+
+Melt the Barrier
+
+Dryad of Exploration
+
+Emissary of Orana
+
+Mill and Sieve
+rules_text: {T}: You mill two cards. You may put a land card from among cards milled this way from your graveyard onto the battlefield tapped.
+{4}: Untap Mill and Sieve. => {T}: You mill two cards. You may put a land card from among cards milled this way onto the battlefield tapped.
+{4}: Untap Mill and Sieve.
+
+Orana Dryad
+
+Mossy Wall
+
+Tunneler Lizard
+type: Creature — Lizard => Creature — Lizard Shaman
+
+Wandering Wiitigo
+
+Crevasse Wardens
+
+Naldan, King of the Drow
+
+Zylana's Revelation
+
+Buried Ancient
+
+Earthshaker Beast
+
+Burdened Exarch
+
+Familiar Touch
+
+Discovered Treasure
+
+Rodric, of the Lit Path
+
+Ancient Automaton
+
+Adventurer's Camp
+
+Crystaline Stalactites
+
+Rich Vein
+
+Tunnel Tester
+
+Spelunking Suit
+
+Release the Shackles
+
+Guardian of Orana
+
+Flame Snuffer
+
+Gemshell Turtle
+
+Ivon, Metal Maestro
+
+Pinch Thoughts
+
+Bloody Trail
+
+Suspicious Cave-In
+
+Grisly Pickaxe
+
+Kila's Will
+
+Desperate Ramblings
+
+Viasarite Resonation
+
+Torch of the Lit Path
+
+Unlock the Gates
+
+Courteous Amalgam
+
+Magmatic Paradise
+
+Sacred Cavern
+
+Steam Chamber
+
+Subterranean Marsh
+
+Overgrown Prairie
+
+Thirst for Knowledge
+
+Koneco, Staff of the Avatars
+
+Molder Ooze
+
+Stonewaker's Gauntlets
+
+Evacuation
+
+Ilyari Geomancer
+
+Lava Geyser
+
+Persistent Tekmole
+
+Chasing the Sky
+
+Awakened Baloths
+
+Despondence
+
+Diffuse
+
+Aerial Manaline
+
+Mangle
+
+Viasarite Sword
+
+Chol'Jah Ultimatum
+
+Into the Miasma
+
+Nexus Initiate
+
+Toadera Idol
+rules_text: {T}: Exile target land card from a graveyard. Add one mana of any color.
+{G}: Exile target creature card from a graveyard. This artifact becomes a 3/3 Frog creature with reach in addition to its other types until end of turn.
+{G}: Exile target nonland, noncreature card from a graveyard. You gain 2 life. => {T}: Exile target land card from a graveyard. Add one mana of any color.
+{G}: Exile target creature card from a graveyard. This artifact becomes a 3/3 Frog creature in addition to its other types until end of turn.
+{G}: Exile target nonland, noncreature card from a graveyard. You gain 2 life.
+
+Pleasant Getaway
+
+Ertys, Arbiter of the Cosmos
+
+Artisan of Movement
+
+Crack the Sky
+
+Cumulus Dragon
+
+Decisive Realization
+
+Final Call
+
+Golden Ribbons
+
+Heavenly Armor
+
+Let Go
+
+Orbs of Kel'amarth
+
+Silent Protector
+
+Sisters of Night
+
+Sunguard
+
+Tido, the Fractured Piece
+
+Timeworn Sword
+
+Warden of the Night
+
+Celestial Realization
+
+Cog, the Trapped Piece
+
+Disrupt the Flow
+
+Fist of Lightning
+
+Manipulator of Reality
+
+Monstrous Djinn
+
+Pylas, The Librarian
+
+Sail the Seas of Time
+
+Silent Watcher
+rules_text: Vigilance
+Whenever you attack, you draw a card.
+When this creature dies, return it to the battlefield under its owner's control. It's an enchantment. [i](It's not a creature.)[/i] => Vigilance
+Whenever you attack, draw a card.
+When this creature dies, return it to the battlefield under its owner's control. It's an enchantment. [i](It's not a creature.)[/i]
+
+Sphinx of Games
+
+Tentacle's Grasp
+
+Time Moves Faster Still
+
+Tripolar Mitosis
+rules_text: As an additional cost to cast this spell, exile a creature you control. This spell costs {X} less to cast, where X is the mana value of the exiled creature.
+Create three tokens that are copies of the exiled creature, except their base power and toughness is 1/1. => As an additional cost to cast this spell, exile a creature you control. This spell costs {X} less to cast, where X is the mana value of the exiled creature.
+Create three tokens that are copies of the exiled creature, except their base power and toughness are each 1/1.
+
+We Forget Ourselves
+
+Blood Ritual
+
+Borthrau, In-Between
+
+Dark Geometry
+
+Dege, the Corrupted Piece
+
+Eloise, She Dances with Death
+
+Endless Night
+
+Fade Into Shadows
+
+Infernal Covenant
+
+Leonne, the Remorseful
+
+Magus of the Toxin
+
+Painful Realization
+
+Silent Killer
+rules_text: Deathtouch
+Whenever you attack, each player loses 3 life unless they discard a card or sacrifice a permanent.
+When this creature dies, return it to the battlefield under its owner's control. It's an enchantment. [i](It's not a creature.)[/i] => Deathtouch
+Whenever you attack, each opponent loses 3 life unless they discard a card or sacrifice a permanent.
+When this creature dies, return it to the battlefield under its owner's control. It's an enchantment. [i](It's not a creature.)[/i]
+
+Soul Parasite
+
+Still it Beats
+
+Thought-Catcher Tarantula
+
+Your Last Moment
+rules_text: Put a time counter on each creature. Those creatures gain Vanishing. [i](Vanishing is “At the beginning of your upkeep, remove a time counter from this creature. When the last is removed, sacrifice it.”)[/i] => Put a time counter on all creatures. Those creatures gain vanishing. [i](Vanishing is “At the beginning of your upkeep, remove a time counter from this creature. When the last is removed, sacrifice it.”)[/i]
+
+Brutal Negotiation
+
+Burning Vengeant
+
+Careless Toymaker
+rules_text: When this creature enters, create four 0/1 colorless Toy artifact creature tokens.
+Toys you control get +1/+0 and have menace and haste.
+{2}{R}: Create a 0/1 colorless Toy artifact creature token. This ability costs {2} less to activate if each Toy you control is tapped. => When this creature enters, create four 0/1 colorless Toy artifact creature tokens.
+Toys you control get +1/+0 and have menace and haste.
+{2}{R}: Create a 0/1 colorless Toy artifact creature token. This ability costs {2} less to activate if you control no Toys.
+
+Hemorrhagia
+
+Contraband Hounds
+
+Relentless Advancement
+
+Ruina, the Burnt Piece
+
+Rumbling Terror
+
+Silent Flame
+
+Smokeskin Drakkon
+
+Spears Held Together
+rules_text: Create a token that is a copy of target creature you control, except it has haste and “At the beginning of the next end step, exile this permanent.” Then draw a card if you control a Knight, Soldier, or Warrior. => Create a token that is a copy of target creature you control, except it has haste and “At the beginning of the next end step, exile this token.” Then draw a card if you control a Knight, Soldier, or Warrior.
+
+Stabbing Realization
+
+Wares from a World Away
+
+Wings of Undeath
+rules_text: Enchant creature
+Enchanted creature has flying, haste and undying. [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Enchant creature
+Enchanted creature has flying and haste.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Wrel, Called to War
+rules_text: Whenever one or more creatures you control deal combat damage to a player, create a Blood token.
+[+1]: Up to one target creature gets +1/+0 and gains haste until end of turn.
+[0]: Until end of turn, Wrel becomes a legendary 4/4 red Warrior creature with first strike and indestructible.
+[-2]: You may sacrifice a nonland permanent. If you do, Wrel deals 2 damage to any target. => Whenever you attack, create a Blood token.
+[+1]: Up to one target creature gets +1/+0 and gains haste until end of turn.
+[0]: Until end of turn, Wrel becomes a legendary 4/4 red Warrior creature with first strike and indestructible.
+[-2]: You may sacrifice another nonland permanent. If you do, Wrel deals 2 damage to any target.
+special_text: Whenever one or more creatures you control deal combat damage to a player, create a Blood token.
+[+1]: Up to one target creature gets +1/+0 and gains haste until end of turn.
+[0]: Until end of turn, Wrel becomes a legendary 4/4 red Warrior creature with first strike and indestructible.
+[-2]: You may sacrifice a nonland permanent. If you do, Wrel deals 2 damage to any target. => Whenever you attack, create a Blood token.
+[+1]: Up to one target creature gets +1/+0 and gains haste until end of turn.
+[0]: Until end of turn, Wrel becomes a legendary 4/4 red Warrior creature with first strike and indestructible.
+[-2]: You may sacrifice another nonland permanent. If you do, Wrel deals 2 damage to any target.
+
+Brightly-Colored Charger
+
+Canopy of Eyes
+rules_text: Vanishing 5
+You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library by removing a time counter from a permanent you control in addition to paying their other costs. => Vanishing 6
+You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library by removing a time counter from a permanent you control in addition to paying their other costs.
+
+Churning Growth
+
+The Horror Within
+
+Joyous Realization
+
+Mouths to Be Fed
+
+Nebulous Rampager
+
+Sapping Vines
+
+Seek Harmony
+
+Selt, the Withered Piece
+
+Serene Hopper
+
+Silent Strength
+
+Timberfall Titan
+
+Timefalls Regisaur
+
+Walk Among Giants
+
+Aethergear Sentinel
+
+Darkwood Hart
+
+Drain Vitality
+
+Eternal Guardian
+
+Horus, The Many Faced
+rules_text: At the beginning of combat on your turn, exile target card from a graveyard.
+If a creature with flying was exiled with Horus, The Many Faced's ability, Horus has flying. The same is true for first strike, double strike, deathtouch, haste, lifelink, trample, reach and vigilance. => At the beginning of combat on your turn, exile target card from a graveyard.
+If a creature with flying was exiled with Horus's ability, Horus has flying. The same is true for first strike, double strike, deathtouch, haste, lifelink, trample, reach and vigilance.
+
+Inseva, Master of Unlife
+rules_text: Lifelink
+Whenever you mill one or more cards, you may exile one of them.
+During your turn, you may play cards exiled with Inseva, Master of Unlife. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost. => Lifelink
+Whenever one or more cards are put into your graveyard from anywhere other than the battlefield, you may exile one of those cards.
+During your turn, you may play cards exiled with Inseva. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+
+Knight of True-Flame
+
+Ortan, Leader of Dragons
+
+Return to the Negative Sun
+
+Sinder, the White Blade
+rules_text: Whenever you lose life for the first time each turn, Sinder, the White Blade gains double strike until end of turn.
+{1}, Sacrifice another creature: Put a +1/+1 counter on Sinder. She gains menace until end of turn. => Whenever you lose life for the first time each turn, Sinder gains double strike until end of turn.
+{1}, Sacrifice another creature: Put a +1/+1 counter on Sinder. She gains menace until end of turn.
+
+Spinning Planetarium
+rules_text: When this artifact enters, scry 2, then draw a card.
+At the beginning of your end step, if you cast a noncreature spell this turn, time travel. [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)[/i] => {T}: The next permanent spell you cast this turn costs {2} less to cast. That permanent enters with two time counters on it and it has vanishing. [i](Vanishing is “At the beginning of your upkeep, remove a time counter from this creature. When the last is removed, sacrifice it.”)[/i]
+
+Stoke the Timeforge
+rules_text: Stoke the Timeforge deals X damage to target creature or planeswalker.
+Reveal cards from the top of your library until you reveal a nonland card with mana value X or less. Exile that card and put three time counters on it. It gains suspend. Put the rest of the cards on the bottom of your library in a random order. => Stoke the Timeforge deals X damage to target creature or planeswalker.
+Reveal cards from the top of your library until you reveal a nonland card with mana value X or less. Exile that card and put two time counters on it. It gains suspend. Put the rest of the cards on the bottom of your library in a random order.
+
+Touch the Sky
+
+Where Wind Meets the Sea
+rules_text: Vanishing 2
+When this enchantment enters and each time you remove a time counter from it, you gain 3 life.
+When this enchantment leaves the battlefield, draw two cards. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When this enchantment enters and each time you remove a time counter from it, you gain 3 life.
+When this enchantment leaves the battlefield, draw two cards.
+
+Winding Water
+
+Withdraw Essence
+
+Ester, Generous Mother
+
+Freeze
+
+Ancient Canyon
+
+Autumnal Wood
+
+Burning Chasm
+
+Castle of Artifice
+
+Castle of Contagions
+
+Castle of Dragons
+
+Castle of Heroes
+
+Castle of Memories
+
+Castle of Nightmares
+
+Castle of Scorn
+
+Castle of Serenities
+
+Castle of Trials
+
+Castle of Wonders
+
+Dazzling Auditorium
+
+Eerie Cemetery
+
+Fading Core
+
+Fading Dourland
+
+Fading Geyser Field
+
+Fading Ghostland
+
+Fading Outcrop
+
+Fading Peaks
+
+Fading Riverland
+
+Fading Shoreline
+
+Fading Temple
+
+Fading Undergrowth
+
+Forgotten Mausoleum
+
+Grand Courtyard
+
+Hushed Brook
+
+Lotus Nimbus
+
+Timeless Cavern
+
+Venom Dealer
+
+Elven Explorer
+
+Harrow
+
+Chol'Jah Overmaster
+
+Highland Brawler
+
+Wisdom From Beyond
+
+Shady, Purveyor of the Deep
+
+Naldan's Rise
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores.
+Create a Treasure token.
+Search your library for a legendary card, reveal it, put it in your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control explores.
+II — Create a Treasure token.
+III — Search your library for a legendary card, reveal it, put it in your hand, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores.
+Create a Treasure token.
+Search your library for a legendary card, reveal it, put it in your hand, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control explores.
+II — Create a Treasure token.
+III — Search your library for a legendary card, reveal it, put it in your hand, then shuffle.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

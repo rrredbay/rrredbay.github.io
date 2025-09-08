@@ -15,9 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "343",
+			"collector_number": "344",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/343_Orana, Barrier-Between.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/344_Orana, Barrier-Between.png"
 			}
 		},
 		{
@@ -101,13 +101,13 @@
 			}
 		},
 		{
-			"name": "Barrier of Bravery",
+			"name": "Containment Priest",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "4",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/4_Barrier of Bravery.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/6_Containment Priest.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Ilyari Soldier",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/27_Protocol Sergeant.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/26_Protocol Sergeant.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior Cleric",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/31_Rol Warpriest.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/30_Rol Warpriest.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/32_Scatter the Sands.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/31_Scatter the Sands.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Ilyari Artificer",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/37_Skywarden Adjunct.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/36_Skywarden Adjunct.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/80_Steel Sabotage.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/79_Steel Sabotage.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/55_Dissolution.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/54_Dissolution.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Human Construct",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/56_Energy Channeler.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/55_Energy Channeler.png"
 			}
 		},
 		{
@@ -255,19 +255,19 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Ilyari Wizard",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/69_Marqeq Elementalist.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/68_Marqeq Elementalist.png"
 			}
 		},
 		{
-			"name": "Chill of the Void",
+			"name": "Through Time and Space",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
-			"collector_number": "49",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/49_Chill of the Void.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/83_Through Time and Space.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/61_Gather the Elements.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/60_Gather the Elements.png"
 			}
 		},
 		{
@@ -285,15 +285,15 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Ilyari Rogue",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/66_Ilyari Sapper.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/65_Ilyari Sapper.png"
 			}
 		},
 		{
 			"name": "Xet, the Exile",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Artifact Creature — Ilyari",
 			"collector_number": "89",
 			"image_uris": {
@@ -305,9 +305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/81_Stone-Eater Drake.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/80_Stone-Eater Drake.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/70_Memory Stone.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/69_Memory Stone.png"
 			}
 		},
 		{
@@ -451,16 +451,6 @@
 			}
 		},
 		{
-			"name": "Vengeful Swordmaster",
-			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "173",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/173_Vengeful Swordmaster.png"
-			}
-		},
-		{
 			"name": "Manaline Explorer",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
@@ -535,9 +525,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Giant Warrior",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/172_Thundercaller.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/173_Thundercaller.png"
 			}
 		},
 		{
@@ -565,19 +555,19 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/184_Chel Hierarch.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/185_Chel Hierarch.png"
 			}
 		},
 		{
-			"name": "Nacatl Neonate",
+			"name": "Canine Anomaly",
 			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Cat Warrior",
-			"collector_number": "201",
+			"type": "Enchantment Creature — Dog",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/201_Nacatl Neonate.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/183_Canine Anomaly.png"
 			}
 		},
 		{
@@ -595,15 +585,15 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/195_Light Harvest.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/196_Light Harvest.png"
 			}
 		},
 		{
 			"name": "Nourishing Manaline",
 			"rarity": "special",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
@@ -625,9 +615,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Ilyari Wizard",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/187_Cya, Master Weaver.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/188_Cya, Master Weaver.png"
 			}
 		},
 		{
@@ -693,7 +683,7 @@
 		{
 			"name": "Tek Loxodon",
 			"rarity": "special",
-			"mana_cost": "{5}",
+			"mana_cost": "{4}",
 			"type": "Artifact Creature — Elephant Construct",
 			"collector_number": "296",
 			"image_uris": {
@@ -761,13 +751,13 @@
 			}
 		},
 		{
-			"name": "Key, Desert Champion",
+			"name": "Tido's Lightkeeper",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "24",
+			"type": "Artifact Creature — AngelWarrior",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/24_Key, Desert Champion.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/40_Tido's Lightkeeper.png"
 			}
 		},
 		{
@@ -791,13 +781,13 @@
 			}
 		},
 		{
-			"name": "Make Ranks",
+			"name": "Ertys's Reaper",
 			"rarity": "special",
-			"mana_cost": "{2}{B/R}{W}",
-			"type": "Enchantment",
-			"collector_number": "281",
+			"mana_cost": "{4}{B/R}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/281_Make Ranks.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/278_Ertys's Reaper.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/270_Tah, Caravan Speaker.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/269_Tah, Caravan Speaker.png"
 			}
 		},
 		{
@@ -885,9 +875,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Creature — Lizard",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/262_Retriever Lagac.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/261_Retriever Lagac.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/269_Summon the Squadron.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/268_Summon the Squadron.png"
 			}
 		},
 		{
@@ -945,9 +935,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Legendary Creature — Orc Warrior",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/266_Skullface, the Warmonger.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/265_Skullface, the Warmonger.png"
 			}
 		},
 		{
@@ -995,9 +985,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{G}{G}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/261_Qeyli Ultimatum.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/260_Qeyli Ultimatum.png"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/6_Cease Hostility.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/5_Cease Hostility.png"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}",
 			"type": "Instant",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/280_Light the Path.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/281_Light the Path.png"
 			}
 		},
 		{
@@ -1235,9 +1225,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/29_Pureheart Paladin.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/28_Pureheart Paladin.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/5_Beaming Angel.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/4_Beaming Angel.png"
 			}
 		},
 		{
@@ -1295,9 +1285,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/28_Provisioned Explorer.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/27_Provisioned Explorer.png"
 			}
 		},
 		{
@@ -1315,9 +1305,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/33_Send Beyond.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/32_Send Beyond.png"
 			}
 		},
 		{
@@ -1325,9 +1315,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/35_Sir Fromm, of the Lit Path.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/34_Sir Fromm, of the Lit Path.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/50_Claim Pilferer.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/49_Claim Pilferer.png"
 			}
 		},
 		{
@@ -1355,9 +1345,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/76_Retreat to the Cavemouth.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/75_Retreat to the Cavemouth.png"
 			}
 		},
 		{
@@ -1365,9 +1355,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/65_Hypothermia.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/64_Hypothermia.png"
 			}
 		},
 		{
@@ -1375,9 +1365,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/67_Maestro's Conjuring.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/66_Maestro's Conjuring.png"
 			}
 		},
 		{
@@ -1385,9 +1375,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/72_Orana Rascal.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/71_Orana Rascal.png"
 			}
 		},
 		{
@@ -1395,9 +1385,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/74_Ponder Depths.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/73_Ponder Depths.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Snake Construct",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/63_Goldflecked Serpent.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/62_Goldflecked Serpent.png"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/73_Path Less Travelled.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/72_Path Less Travelled.png"
 			}
 		},
 		{
@@ -1435,9 +1425,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/60_Flood the Tunnels.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/59_Flood the Tunnels.png"
 			}
 		},
 		{
@@ -1565,9 +1555,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Treasure",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/171_Surprising Find.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/172_Surprising Find.png"
 			}
 		},
 		{
@@ -1635,9 +1625,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Dryad",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/188_Dryad of Exploration.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/189_Dryad of Exploration.png"
 			}
 		},
 		{
@@ -1645,9 +1635,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Lizard Advisor",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/191_Emissary of Orana.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/192_Emissary of Orana.png"
 			}
 		},
 		{
@@ -1655,9 +1645,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/197_Mill and Sieve.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/198_Mill and Sieve.png"
 			}
 		},
 		{
@@ -1675,16 +1665,16 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wall",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/199_Mossy Wall.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/200_Mossy Wall.png"
 			}
 		},
 		{
 			"name": "Tunneler Lizard",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Lizard",
+			"type": "Creature — Lizard Shaman",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RCC25-files/img/216_Tunneler Lizard.png"
@@ -1705,9 +1695,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/186_Crevasse Wardens.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/187_Crevasse Wardens.png"
 			}
 		},
 		{
@@ -1745,9 +1735,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/189_Earthshaker Beast.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/190_Earthshaker Beast.png"
 			}
 		},
 		{
@@ -1781,13 +1771,13 @@
 			}
 		},
 		{
-			"name": "Pull from Beyond",
+			"name": "Timedancer",
 			"rarity": "special",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Enchantment",
-			"collector_number": "260",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/260_Pull from Beyond.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/270_Timedancer.png"
 			}
 		},
 		{
@@ -1795,9 +1785,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Centaur Cleric",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/264_Rodric, of the Lit Path.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/263_Rodric, of the Lit Path.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/38_Spelunking Suit.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/37_Spelunking Suit.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/30_Release the Shackles.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/29_Release the Shackles.png"
 			}
 		},
 		{
@@ -1875,9 +1865,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/64_Guardian of Orana.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/63_Guardian of Orana.png"
 			}
 		},
 		{
@@ -1885,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/59_Flame Snuffer.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/58_Flame Snuffer.png"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}",
 			"type": "Creature — Turtle",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/62_Gemshell Turtle.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/61_Gemshell Turtle.png"
 			}
 		},
 		{
@@ -2065,9 +2055,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/83_Thirst for Knowledge.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/82_Thirst for Knowledge.png"
 			}
 		},
 		{
@@ -2085,9 +2075,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/198_Molder Ooze.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/199_Molder Ooze.png"
 			}
 		},
 		{
@@ -2105,9 +2095,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/57_Evacuation.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/56_Evacuation.png"
 			}
 		},
 		{
@@ -2175,9 +2165,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/53_Diffuse.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/52_Diffuse.png"
 			}
 		},
 		{
@@ -2195,9 +2185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/196_Mangle.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/197_Mangle.png"
 			}
 		},
 		{
@@ -2345,9 +2335,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/25_Let Go.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/24_Let Go.png"
 			}
 		},
 		{
@@ -2355,9 +2345,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact Creature — Orb",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/26_Orbs of Kel'amarth.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/25_Orbs of Kel'amarth.png"
 			}
 		},
 		{
@@ -2365,9 +2355,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment Creature — Elk",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/34_Silent Protector.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/33_Silent Protector.png"
 			}
 		},
 		{
@@ -2375,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/36_Sisters of Night.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/35_Sisters of Night.png"
 			}
 		},
 		{
@@ -2385,9 +2375,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Soldier",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/39_Sunguard.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/38_Sunguard.png"
 			}
 		},
 		{
@@ -2395,9 +2385,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/40_Tido, the Fractured Piece.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/39_Tido, the Fractured Piece.png"
 			}
 		},
 		{
@@ -2435,19 +2425,19 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/51_Cog, the Trapped Piece.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/50_Cog, the Trapped Piece.png"
 			}
 		},
 		{
-			"name": "Crystalcore Entity",
+			"name": "Crystalsight Entity",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/52_Crystalcore Entity.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/51_Crystalsight Entity.png"
 			}
 		},
 		{
@@ -2455,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/54_Disrupt the Flow.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/53_Disrupt the Flow.png"
 			}
 		},
 		{
@@ -2465,9 +2455,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Rogue Monk",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/58_Fist of Lightning.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/57_Fist of Lightning.png"
 			}
 		},
 		{
@@ -2475,9 +2465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/68_Manipulator of Reality.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/67_Manipulator of Reality.png"
 			}
 		},
 		{
@@ -2485,9 +2475,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Djinn Wizard",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/71_Monstrous Djinn.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/70_Monstrous Djinn.png"
 			}
 		},
 		{
@@ -2495,9 +2485,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/75_Pylas, The Librarian.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/74_Pylas, The Librarian.png"
 			}
 		},
 		{
@@ -2505,9 +2495,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/77_Sail the Seas of Time.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/76_Sail the Seas of Time.png"
 			}
 		},
 		{
@@ -2515,9 +2505,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment Creature — Avatar",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/78_Silent Watcher.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/77_Silent Watcher.png"
 			}
 		},
 		{
@@ -2525,9 +2515,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Sphinx",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/79_Sphinx of Games.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/78_Sphinx of Games.png"
 			}
 		},
 		{
@@ -2535,9 +2525,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/82_Tentacle's Grasp.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/81_Tentacle's Grasp.png"
 			}
 		},
 		{
@@ -2815,9 +2805,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment Creature — Phoenix",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/167_Silent Flame.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/168_Silent Flame.png"
 			}
 		},
 		{
@@ -2825,9 +2815,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/168_Smokeskin Drakkon.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/169_Smokeskin Drakkon.png"
 			}
 		},
 		{
@@ -2835,9 +2825,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/169_Spears Held Together.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/170_Spears Held Together.png"
 			}
 		},
 		{
@@ -2845,9 +2835,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/170_Stabbing Realization.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/171_Stabbing Realization.png"
 			}
 		},
 		{
@@ -2895,9 +2885,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/183_Canopy of Eyes.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/184_Canopy of Eyes.png"
 			}
 		},
 		{
@@ -2905,9 +2895,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/185_Churning Growth.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/186_Churning Growth.png"
 			}
 		},
 		{
@@ -2915,9 +2905,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Horror",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/193_The Horror Within.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/194_The Horror Within.png"
 			}
 		},
 		{
@@ -2925,9 +2915,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/194_Joyous Realization.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/195_Joyous Realization.png"
 			}
 		},
 		{
@@ -2935,9 +2925,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/200_Mouths to Be Fed.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/201_Mouths to Be Fed.png"
 			}
 		},
 		{
@@ -3115,9 +3105,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{W}{U}",
 			"type": "Instant",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/263_Return to the Negative Sun.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/262_Return to the Negative Sun.png"
 			}
 		},
 		{
@@ -3125,9 +3115,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Vampire Knight",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/265_Sinder, the White Blade.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/264_Sinder, the White Blade.png"
 			}
 		},
 		{
@@ -3135,9 +3125,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/267_Spinning Planetarium.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/266_Spinning Planetarium.png"
 			}
 		},
 		{
@@ -3145,9 +3135,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}{R}",
 			"type": "Instant",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/268_Stoke the Timeforge.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/267_Stoke the Timeforge.png"
 			}
 		},
 		{
@@ -3195,9 +3185,9 @@
 			"rarity": "special",
 			"mana_cost": "{B/G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/278_Ester, Generous Mother.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/279_Ester, Generous Mother.png"
 			}
 		},
 		{
@@ -3205,9 +3195,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W/U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/279_Freeze.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/280_Freeze.png"
 			}
 		},
 		{
@@ -3501,13 +3491,13 @@
 			}
 		},
 		{
-			"name": "Overgrown Arches",
+			"name": "Moss-Covered Arches",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "344",
+			"collector_number": "343",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/344_Overgrown Arches.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/343_Moss-Covered Arches.png"
 			}
 		},
 		{
@@ -3535,9 +3525,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/190_Elven Explorer.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/191_Elven Explorer.png"
 			}
 		},
 		{
@@ -3545,9 +3535,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RCC25-files/img/192_Harrow.png"
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/193_Harrow.png"
 			}
 		},
 		{
@@ -3599,6 +3589,16 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RCC25-files/img/203_Naldan's Rise.png"
 			}
+		},
+		{
+			"name": "Shayla, the Burning Edge",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RCC25-files/img/167_Shayla, the Burning Edge.png"
+			}
 		}
 	]
 
@@ -3613,7 +3613,7 @@
 	1 Druid of the Circle
 	1 Berry, Orchard Tender
 	1 Aven Courier
-	1 Barrier of Bravery
+	1 Containment Priest
 	1 Emergency Protocol
 	1 Exemplar of Courage
 	1 Guardian Armadillo
@@ -3629,7 +3629,7 @@
 	1 Dissolution
 	1 Energy Channeler
 	1 Marqeq Elementalist
-	1 Chill of the Void
+	1 Through Time and Space
 	1 Gather the Elements
 	1 Ilyari Sapper
 	1 Xet, the Exile
@@ -3648,7 +3648,6 @@
 	1 Faithful Scrounger
 	1 Highland Lightning
 	1 Rage of the Ancestors
-	1 Vengeful Swordmaster
 	1 Manaline Explorer
 	1 Core Imps
 	1 Ignite the Elements
@@ -3660,7 +3659,7 @@
 	1 Embodiment of Progress
 	1 Acid Beast
 	1 Chel Hierarch
-	1 Nacatl Neonate
+	1 Canine Anomaly
 	1 Survey the Ruins
 	1 Light Harvest
 	1 Nourishing Manaline
@@ -3679,10 +3678,10 @@
 	1 Mark of the Chel
 	1 Chel Forerunner
 	1 Exact Vengeance
-	1 Key, Desert Champion
+	1 Tido's Lightkeeper
 	1 Loxodon Nomad
 	1 Make Eternal
-	1 Make Ranks
+	1 Ertys's Reaper
 	1 Portal Channeler
 	1 Poverty, The Eternal
 	1 Tah, Caravan Speaker
@@ -3781,7 +3780,7 @@
 	1 Burdened Exarch
 	1 Familiar Touch
 	1 Discovered Treasure
-	1 Pull from Beyond
+	1 Timedancer
 	1 Rodric, of the Lit Path
 	1 Ancient Automaton
 	1 Adventurer's Camp
@@ -3847,7 +3846,7 @@
 	1 Warden of the Night
 	1 Celestial Realization
 	1 Cog, the Trapped Piece
-	1 Crystalcore Entity
+	1 Crystalsight Entity
 	1 Disrupt the Flow
 	1 Fist of Lightning
 	1 Manipulator of Reality
@@ -3953,7 +3952,7 @@
 	1 Grand Courtyard
 	1 Hushed Brook
 	1 Lotus Nimbus
-	1 Overgrown Arches
+	1 Moss-Covered Arches
 	1 Timeless Cavern
 	1 Venom Dealer
 	1 Elven Explorer
@@ -3963,3 +3962,4 @@
 	1 Wisdom From Beyond
 	1 Shady, Purveyor of the Deep
 	1 Naldan's Rise
+	1 Shayla, the Burning Edge

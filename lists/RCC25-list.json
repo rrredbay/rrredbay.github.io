@@ -60,7 +60,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Barrier of Bravery",
+        "card_name": "Beaming Angel",
         "number": 4,
         "shape": "normal",
         "set": "RCC25"
@@ -90,13 +90,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Beaming Angel",
+        "card_name": "Cease Hostility",
         "number": 5,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Chill of the Void",
+        "card_name": "Claim Pilferer",
         "number": 49,
         "shape": "normal",
         "set": "RCC25"
@@ -120,13 +120,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Cease Hostility",
+        "card_name": "Containment Priest",
         "number": 6,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Claim Pilferer",
+        "card_name": "Cog, the Trapped Piece",
         "number": 50,
         "shape": "normal",
         "set": "RCC25"
@@ -156,7 +156,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Cog, the Trapped Piece",
+        "card_name": "Crystalsight Entity",
         "number": 51,
         "shape": "normal",
         "set": "RCC25"
@@ -174,7 +174,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Canopy of Eyes",
+        "card_name": "Canine Anomaly",
         "number": 183,
         "shape": "normal",
         "set": "RCC25"
@@ -186,7 +186,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Crystalcore Entity",
+        "card_name": "Diffuse",
         "number": 52,
         "shape": "normal",
         "set": "RCC25"
@@ -204,7 +204,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Chel Hierarch",
+        "card_name": "Canopy of Eyes",
         "number": 184,
         "shape": "normal",
         "set": "RCC25"
@@ -216,7 +216,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Diffuse",
+        "card_name": "Disrupt the Flow",
         "number": 53,
         "shape": "normal",
         "set": "RCC25"
@@ -234,7 +234,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Churning Growth",
+        "card_name": "Chel Hierarch",
         "number": 185,
         "shape": "normal",
         "set": "RCC25"
@@ -246,7 +246,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Disrupt the Flow",
+        "card_name": "Dissolution",
         "number": 54,
         "shape": "normal",
         "set": "RCC25"
@@ -264,7 +264,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Crevasse Wardens",
+        "card_name": "Churning Growth",
         "number": 186,
         "shape": "normal",
         "set": "RCC25"
@@ -276,7 +276,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Dissolution",
+        "card_name": "Energy Channeler",
         "number": 55,
         "shape": "normal",
         "set": "RCC25"
@@ -294,7 +294,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Cya, Master Weaver",
+        "card_name": "Crevasse Wardens",
         "number": 187,
         "shape": "normal",
         "set": "RCC25"
@@ -306,7 +306,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Energy Channeler",
+        "card_name": "Evacuation",
         "number": 56,
         "shape": "normal",
         "set": "RCC25"
@@ -324,7 +324,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Dryad of Exploration",
+        "card_name": "Cya, Master Weaver",
         "number": 188,
         "shape": "normal",
         "set": "RCC25"
@@ -336,7 +336,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Evacuation",
+        "card_name": "Fist of Lightning",
         "number": 57,
         "shape": "normal",
         "set": "RCC25"
@@ -354,7 +354,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Earthshaker Beast",
+        "card_name": "Dryad of Exploration",
         "number": 189,
         "shape": "normal",
         "set": "RCC25"
@@ -366,7 +366,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Fist of Lightning",
+        "card_name": "Flame Snuffer",
         "number": 58,
         "shape": "normal",
         "set": "RCC25"
@@ -384,7 +384,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Elven Explorer",
+        "card_name": "Earthshaker Beast",
         "number": 190,
         "shape": "normal",
         "set": "RCC25"
@@ -396,7 +396,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Flame Snuffer",
+        "card_name": "Flood the Tunnels",
         "number": 59,
         "shape": "normal",
         "set": "RCC25"
@@ -414,7 +414,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Emissary of Orana",
+        "card_name": "Elven Explorer",
         "number": 191,
         "shape": "normal",
         "set": "RCC25"
@@ -426,7 +426,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Flood the Tunnels",
+        "card_name": "Gather the Elements",
         "number": 60,
         "shape": "normal",
         "set": "RCC25"
@@ -444,7 +444,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Harrow",
+        "card_name": "Emissary of Orana",
         "number": 192,
         "shape": "normal",
         "set": "RCC25"
@@ -456,7 +456,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Gather the Elements",
+        "card_name": "Gemshell Turtle",
         "number": 61,
         "shape": "normal",
         "set": "RCC25"
@@ -474,7 +474,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "The Horror Within",
+        "card_name": "Harrow",
         "number": 193,
         "shape": "normal",
         "set": "RCC25"
@@ -486,7 +486,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Gemshell Turtle",
+        "card_name": "Goldflecked Serpent",
         "number": 62,
         "shape": "normal",
         "set": "RCC25"
@@ -504,7 +504,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Joyous Realization",
+        "card_name": "The Horror Within",
         "number": 194,
         "shape": "normal",
         "set": "RCC25"
@@ -516,7 +516,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Goldflecked Serpent",
+        "card_name": "Guardian of Orana",
         "number": 63,
         "shape": "normal",
         "set": "RCC25"
@@ -534,7 +534,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Light Harvest",
+        "card_name": "Joyous Realization",
         "number": 195,
         "shape": "normal",
         "set": "RCC25"
@@ -546,7 +546,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Guardian of Orana",
+        "card_name": "Hypothermia",
         "number": 64,
         "shape": "normal",
         "set": "RCC25"
@@ -564,7 +564,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Mangle",
+        "card_name": "Light Harvest",
         "number": 196,
         "shape": "normal",
         "set": "RCC25"
@@ -576,7 +576,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Hypothermia",
+        "card_name": "Ilyari Sapper",
         "number": 65,
         "shape": "normal",
         "set": "RCC25"
@@ -594,7 +594,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Mill and Sieve",
+        "card_name": "Mangle",
         "number": 197,
         "shape": "normal",
         "set": "RCC25"
@@ -606,7 +606,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Ilyari Sapper",
+        "card_name": "Maestro's Conjuring",
         "number": 66,
         "shape": "normal",
         "set": "RCC25"
@@ -624,7 +624,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Molder Ooze",
+        "card_name": "Mill and Sieve",
         "number": 198,
         "shape": "normal",
         "set": "RCC25"
@@ -636,7 +636,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Maestro's Conjuring",
+        "card_name": "Manipulator of Reality",
         "number": 67,
         "shape": "normal",
         "set": "RCC25"
@@ -654,19 +654,19 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Mossy Wall",
+        "card_name": "Molder Ooze",
         "number": 199,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Key, Desert Champion",
+        "card_name": "Let Go",
         "number": 24,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Manipulator of Reality",
+        "card_name": "Marqeq Elementalist",
         "number": 68,
         "shape": "normal",
         "set": "RCC25"
@@ -684,19 +684,19 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Mouths to Be Fed",
+        "card_name": "Mossy Wall",
         "number": 200,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Let Go",
+        "card_name": "Orbs of Kel'amarth",
         "number": 25,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Marqeq Elementalist",
+        "card_name": "Memory Stone",
         "number": 69,
         "shape": "normal",
         "set": "RCC25"
@@ -714,19 +714,19 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Nacatl Neonate",
+        "card_name": "Mouths to Be Fed",
         "number": 201,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Orbs of Kel'amarth",
+        "card_name": "Protocol Sergeant",
         "number": 26,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Memory Stone",
+        "card_name": "Monstrous Djinn",
         "number": 70,
         "shape": "normal",
         "set": "RCC25"
@@ -750,13 +750,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Protocol Sergeant",
+        "card_name": "Provisioned Explorer",
         "number": 27,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Monstrous Djinn",
+        "card_name": "Orana Rascal",
         "number": 71,
         "shape": "normal",
         "set": "RCC25"
@@ -780,13 +780,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Provisioned Explorer",
+        "card_name": "Pureheart Paladin",
         "number": 28,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Orana Rascal",
+        "card_name": "Path Less Travelled",
         "number": 72,
         "shape": "normal",
         "set": "RCC25"
@@ -810,13 +810,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Pureheart Paladin",
+        "card_name": "Release the Shackles",
         "number": 29,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Path Less Travelled",
+        "card_name": "Ponder Depths",
         "number": 73,
         "shape": "normal",
         "set": "RCC25"
@@ -840,13 +840,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Release the Shackles",
+        "card_name": "Rol Warpriest",
         "number": 30,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Ponder Depths",
+        "card_name": "Pylas, The Librarian",
         "number": 74,
         "shape": "normal",
         "set": "RCC25"
@@ -870,13 +870,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Rol Warpriest",
+        "card_name": "Scatter the Sands",
         "number": 31,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Pylas, The Librarian",
+        "card_name": "Retreat to the Cavemouth",
         "number": 75,
         "shape": "normal",
         "set": "RCC25"
@@ -900,13 +900,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Scatter the Sands",
+        "card_name": "Send Beyond",
         "number": 32,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Retreat to the Cavemouth",
+        "card_name": "Sail the Seas of Time",
         "number": 76,
         "shape": "normal",
         "set": "RCC25"
@@ -930,13 +930,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Send Beyond",
+        "card_name": "Silent Protector",
         "number": 33,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Sail the Seas of Time",
+        "card_name": "Silent Watcher",
         "number": 77,
         "shape": "normal",
         "set": "RCC25"
@@ -960,13 +960,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Silent Protector",
+        "card_name": "Sir Fromm, of the Lit Path",
         "number": 34,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Silent Watcher",
+        "card_name": "Sphinx of Games",
         "number": 78,
         "shape": "normal",
         "set": "RCC25"
@@ -990,13 +990,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Sir Fromm, of the Lit Path",
+        "card_name": "Sisters of Night",
         "number": 35,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Sphinx of Games",
+        "card_name": "Steel Sabotage",
         "number": 79,
         "shape": "normal",
         "set": "RCC25"
@@ -1008,7 +1008,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Silent Flame",
+        "card_name": "Shayla, the Burning Edge",
         "number": 167,
         "shape": "normal",
         "set": "RCC25"
@@ -1020,13 +1020,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Sisters of Night",
+        "card_name": "Skywarden Adjunct",
         "number": 36,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Steel Sabotage",
+        "card_name": "Stone-Eater Drake",
         "number": 80,
         "shape": "normal",
         "set": "RCC25"
@@ -1038,7 +1038,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Smokeskin Drakkon",
+        "card_name": "Silent Flame",
         "number": 168,
         "shape": "normal",
         "set": "RCC25"
@@ -1050,13 +1050,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Skywarden Adjunct",
+        "card_name": "Spelunking Suit",
         "number": 37,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Stone-Eater Drake",
+        "card_name": "Tentacle's Grasp",
         "number": 81,
         "shape": "normal",
         "set": "RCC25"
@@ -1068,7 +1068,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Spears Held Together",
+        "card_name": "Smokeskin Drakkon",
         "number": 169,
         "shape": "normal",
         "set": "RCC25"
@@ -1080,13 +1080,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Spelunking Suit",
+        "card_name": "Sunguard",
         "number": 38,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Tentacle's Grasp",
+        "card_name": "Thirst for Knowledge",
         "number": 82,
         "shape": "normal",
         "set": "RCC25"
@@ -1098,7 +1098,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Stabbing Realization",
+        "card_name": "Spears Held Together",
         "number": 170,
         "shape": "normal",
         "set": "RCC25"
@@ -1110,13 +1110,13 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Sunguard",
+        "card_name": "Tido, the Fractured Piece",
         "number": 39,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Thirst for Knowledge",
+        "card_name": "Through Time and Space",
         "number": 83,
         "shape": "normal",
         "set": "RCC25"
@@ -1128,7 +1128,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Surprising Find",
+        "card_name": "Stabbing Realization",
         "number": 171,
         "shape": "normal",
         "set": "RCC25"
@@ -1140,7 +1140,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Tido, the Fractured Piece",
+        "card_name": "Tido's Lightkeeper",
         "number": 40,
         "shape": "normal",
         "set": "RCC25"
@@ -1158,7 +1158,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Thundercaller",
+        "card_name": "Surprising Find",
         "number": 172,
         "shape": "normal",
         "set": "RCC25"
@@ -1188,7 +1188,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Vengeful Swordmaster",
+        "card_name": "Thundercaller",
         "number": 173,
         "shape": "normal",
         "set": "RCC25"
@@ -1364,7 +1364,7 @@
     },
     {
         "card_name": "Return to the Negative Sun",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1376,7 +1376,7 @@
     },
     {
         "card_name": "Sinder, the White Blade",
-        "number": 265,
+        "number": 264,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1445,13 +1445,13 @@
     },
     {
         "card_name": "Rodric, of the Lit Path",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "RCC25"
     },
     {
         "card_name": "Freeze",
-        "number": 279,
+        "number": 280,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1466,7 +1466,7 @@
     },
     {
         "card_name": "Light the Path",
-        "number": 280,
+        "number": 281,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1522,8 +1522,8 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Pull from Beyond",
-        "number": 260,
+        "card_name": "Spinning Planetarium",
+        "number": 266,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1552,7 +1552,7 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Spinning Planetarium",
+        "card_name": "Stoke the Timeforge",
         "number": 267,
         "shape": "normal",
         "set": "RCC25"
@@ -1574,13 +1574,13 @@
     },
     {
         "card_name": "Summon the Squadron",
-        "number": 269,
+        "number": 268,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Stoke the Timeforge",
-        "number": 268,
+        "card_name": "Timedancer",
+        "number": 270,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1610,7 +1610,7 @@
     },
     {
         "card_name": "Ester, Generous Mother",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1709,7 +1709,7 @@
     },
     {
         "card_name": "Tah, Caravan Speaker",
-        "number": 270,
+        "number": 269,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1781,7 +1781,7 @@
     },
     {
         "card_name": "Skullface, the Warmonger",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -1799,19 +1799,19 @@
     },
     {
         "card_name": "Qeyli Ultimatum",
-        "number": 261,
+        "number": 260,
         "shape": "normal",
         "set": "RCC25"
     },
     {
-        "card_name": "Make Ranks",
-        "number": 281,
+        "card_name": "Ertys's Reaper",
+        "number": 278,
         "shape": "normal",
         "set": "RCC25"
     },
     {
         "card_name": "Retriever Lagac",
-        "number": 262,
+        "number": 261,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -2054,8 +2054,8 @@
         "set": "RCC25"
     },
     {
-        "card_name": "Overgrown Arches",
-        "number": 344,
+        "card_name": "Moss-Covered Arches",
+        "number": 343,
         "shape": "normal",
         "set": "RCC25"
     },
@@ -2406,7 +2406,7 @@
     },
     {
         "card_name": "Orana, Barrier-Between",
-        "number": 343,
+        "number": 344,
         "shape": "normal",
         "set": "RCC25"
     },
