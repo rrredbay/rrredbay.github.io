@@ -1,0 +1,1501 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ertys, Arbiter of the Cosmos",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Ertys",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/1_Ertys, Arbiter of the Cosmos.png"
+			}
+		},
+		{
+			"name": "Artisan of Movement",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/2_Artisan of Movement.png"
+			}
+		},
+		{
+			"name": "Steward of Destiny",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/13_Steward of Destiny.png"
+			}
+		},
+		{
+			"name": "Crack the Sky",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/3_Crack the Sky.png"
+			}
+		},
+		{
+			"name": "Cumulus Dragon",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/4_Cumulus Dragon.png"
+			}
+		},
+		{
+			"name": "Decisive Realization",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/5_Decisive Realization.png"
+			}
+		},
+		{
+			"name": "Final Call",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/6_Final Call.png"
+			}
+		},
+		{
+			"name": "Golden Ribbons",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/7_Golden Ribbons.png"
+			}
+		},
+		{
+			"name": "Heavenly Armor",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/8_Heavenly Armor.png"
+			}
+		},
+		{
+			"name": "Let Go",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/9_Let Go.png"
+			}
+		},
+		{
+			"name": "Orbs of Kel'amarth",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Orb",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/10_Orbs of Kel'amarth.png"
+			}
+		},
+		{
+			"name": "Silent Protector",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Elk",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/11_Silent Protector.png"
+			}
+		},
+		{
+			"name": "Sisters of Night",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/12_Sisters of Night.png"
+			}
+		},
+		{
+			"name": "Sunguard",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Soldier",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/14_Sunguard.png"
+			}
+		},
+		{
+			"name": "Tido, the Fractured Piece",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/15_Tido, the Fractured Piece.png"
+			}
+		},
+		{
+			"name": "Tido's Lightkeeper",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Angel Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/16_Tido's Lightkeeper.png"
+			}
+		},
+		{
+			"name": "Timeworn Sword",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/17_Timeworn Sword.png"
+			}
+		},
+		{
+			"name": "Warden of the Night",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/18_Warden of the Night.png"
+			}
+		},
+		{
+			"name": "Celestial Realization",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/19_Celestial Realization.png"
+			}
+		},
+		{
+			"name": "Cog, the Trapped Piece",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/20_Cog, the Trapped Piece.png"
+			}
+		},
+		{
+			"name": "Crystalsight Entity",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/21_Crystalsight Entity.png"
+			}
+		},
+		{
+			"name": "Disrupt the Flow",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/22_Disrupt the Flow.png"
+			}
+		},
+		{
+			"name": "Fist of Lightning",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue Monk",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/23_Fist of Lightning.png"
+			}
+		},
+		{
+			"name": "Manipulator of Reality",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/24_Manipulator of Reality.png"
+			}
+		},
+		{
+			"name": "Monstrous Djinn",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Djinn Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/25_Monstrous Djinn.png"
+			}
+		},
+		{
+			"name": "Pylas, The Librarian",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/26_Pylas, The Librarian.png"
+			}
+		},
+		{
+			"name": "Sail the Seas of Time",
+			"rarity": "special",
+			"mana_cost": "{X}{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/27_Sail the Seas of Time.png"
+			}
+		},
+		{
+			"name": "Silent Watcher",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/28_Silent Watcher.png"
+			}
+		},
+		{
+			"name": "Sphinx of Games",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/29_Sphinx of Games.png"
+			}
+		},
+		{
+			"name": "Tentacle's Grasp",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/30_Tentacle's Grasp.png"
+			}
+		},
+		{
+			"name": "Through Time and Space",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/31_Through Time and Space.png"
+			}
+		},
+		{
+			"name": "Time Moves Faster Still",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/32_Time Moves Faster Still.png"
+			}
+		},
+		{
+			"name": "Tripolar Mitosis",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/33_Tripolar Mitosis.png"
+			}
+		},
+		{
+			"name": "We Forget Ourselves",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/34_We Forget Ourselves.png"
+			}
+		},
+		{
+			"name": "Blood Ritual",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/35_Blood Ritual.png"
+			}
+		},
+		{
+			"name": "Borthrau, In-Between",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/36_Borthrau, In-Between.png"
+			}
+		},
+		{
+			"name": "Dark Geometry",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/37_Dark Geometry.png"
+			}
+		},
+		{
+			"name": "Dege, the Corrupted Piece",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/38_Dege, the Corrupted Piece.png"
+			}
+		},
+		{
+			"name": "Eloise, She Dances with Death",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/39_Eloise, She Dances with Death.png"
+			}
+		},
+		{
+			"name": "Endless Night",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/40_Endless Night.png"
+			}
+		},
+		{
+			"name": "Fade Into Shadows",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/42_Fade Into Shadows.png"
+			}
+		},
+		{
+			"name": "Infernal Covenant",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/44_Infernal Covenant.png"
+			}
+		},
+		{
+			"name": "Leonne, the Remorseful",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/45_Leonne, the Remorseful.png"
+			}
+		},
+		{
+			"name": "Magus of the Toxin",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/46_Magus of the Toxin.png"
+			}
+		},
+		{
+			"name": "Painful Realization",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/47_Painful Realization.png"
+			}
+		},
+		{
+			"name": "Silent Killer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/48_Silent Killer.png"
+			}
+		},
+		{
+			"name": "Soul Parasite",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Leech",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/49_Soul Parasite.png"
+			}
+		},
+		{
+			"name": "Still it Beats",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/50_Still it Beats.png"
+			}
+		},
+		{
+			"name": "Thought-Catcher Tarantula",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider Zombie",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/51_Thought-Catcher Tarantula.png"
+			}
+		},
+		{
+			"name": "Your Last Moment",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/52_Your Last Moment.png"
+			}
+		},
+		{
+			"name": "Brutal Negotiation",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/53_Brutal Negotiation.png"
+			}
+		},
+		{
+			"name": "Burning Vengeant",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/54_Burning Vengeant.png"
+			}
+		},
+		{
+			"name": "Careless Toymaker",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/55_Careless Toymaker.png"
+			}
+		},
+		{
+			"name": "Contraband Hounds",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/56_Contraband Hounds.png"
+			}
+		},
+		{
+			"name": "Hemorrhagia",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/57_Hemorrhagia.png"
+			}
+		},
+		{
+			"name": "Isla, She Holds the Sun",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/58_Isla, She Holds the Sun.png"
+			}
+		},
+		{
+			"name": "Relentless Advancement",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/59_Relentless Advancement.png"
+			}
+		},
+		{
+			"name": "Ruina, the Burnt Piece",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/60_Ruina, the Burnt Piece.png"
+			}
+		},
+		{
+			"name": "Rumbling Terror",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/61_Rumbling Terror.png"
+			}
+		},
+		{
+			"name": "Shayla, the Burning Edge",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/62_Shayla, the Burning Edge.png"
+			}
+		},
+		{
+			"name": "Silent Flame",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment Creature — Phoenix",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/63_Silent Flame.png"
+			}
+		},
+		{
+			"name": "Smokeskin Drakkon",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/64_Smokeskin Drakkon.png"
+			}
+		},
+		{
+			"name": "Spears Held Together",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/65_Spears Held Together.png"
+			}
+		},
+		{
+			"name": "Stabbing Realization",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/66_Stabbing Realization.png"
+			}
+		},
+		{
+			"name": "Unholy Shrieker",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/67_Unholy Shrieker.png"
+			}
+		},
+		{
+			"name": "Wares from a World Away",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/68_Wares from a World Away.png"
+			}
+		},
+		{
+			"name": "Wrel, Called to War",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Wrel",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/69_Wrel, Called to War.png"
+			}
+		},
+		{
+			"name": "Brightly-Colored Charger",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Horse",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/70_Brightly-Colored Charger.png"
+			}
+		},
+		{
+			"name": "Canine Anomaly",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Dog",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/71_Canine Anomaly.png"
+			}
+		},
+		{
+			"name": "Canopy of Eyes",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/72_Canopy of Eyes.png"
+			}
+		},
+		{
+			"name": "Churning Growth",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/73_Churning Growth.png"
+			}
+		},
+		{
+			"name": "The Horror Within",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/74_The Horror Within.png"
+			}
+		},
+		{
+			"name": "Joyous Realization",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/75_Joyous Realization.png"
+			}
+		},
+		{
+			"name": "Mouths to Be Fed",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/76_Mouths to Be Fed.png"
+			}
+		},
+		{
+			"name": "Nebulous Rampager",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/77_Nebulous Rampager.png"
+			}
+		},
+		{
+			"name": "Sapping Vines",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/78_Sapping Vines.png"
+			}
+		},
+		{
+			"name": "Seek Harmony",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/79_Seek Harmony.png"
+			}
+		},
+		{
+			"name": "Selt, the Withered Piece",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/80_Selt, the Withered Piece.png"
+			}
+		},
+		{
+			"name": "Serene Hopper",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Frog",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/81_Serene Hopper.png"
+			}
+		},
+		{
+			"name": "Silent Strength",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Dryad",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/82_Silent Strength.png"
+			}
+		},
+		{
+			"name": "Timberfall Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/83_Timberfall Titan.png"
+			}
+		},
+		{
+			"name": "Timefalls Regisaur",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/84_Timefalls Regisaur.png"
+			}
+		},
+		{
+			"name": "Walk Among Giants",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/85_Walk Among Giants.png"
+			}
+		},
+		{
+			"name": "Aethergear Sentinel",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Creature — Human Scout",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/86_Aethergear Sentinel.png"
+			}
+		},
+		{
+			"name": "Darkwood Hart",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Skeleton Elk",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/87_Darkwood Hart.png"
+			}
+		},
+		{
+			"name": "Mark of Inseva",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/92_Mark of Inseva.png"
+			}
+		},
+		{
+			"name": "Eternal Guardian",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Skeleton Dryad",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/88_Eternal Guardian.png"
+			}
+		},
+		{
+			"name": "Horus, The Many Faced",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/89_Horus, The Many Faced.png"
+			}
+		},
+		{
+			"name": "Inseva, Master of Unlife",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/90_Inseva, Master of Unlife.png"
+			}
+		},
+		{
+			"name": "Knight of True-Flame",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/91_Knight of True-Flame.png"
+			}
+		},
+		{
+			"name": "Ortan, Leader of Dragons",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/93_Ortan, Leader of Dragons.png"
+			}
+		},
+		{
+			"name": "Return to the Negative Sun",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/94_Return to the Negative Sun.png"
+			}
+		},
+		{
+			"name": "Sinder, the White Blade",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Vampire Knight",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/95_Sinder, the White Blade.png"
+			}
+		},
+		{
+			"name": "Spinning Planetarium",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/96_Spinning Planetarium.png"
+			}
+		},
+		{
+			"name": "Stoke the Timeforge",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{R}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/97_Stoke the Timeforge.png"
+			}
+		},
+		{
+			"name": "Timedancer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/98_Timedancer.png"
+			}
+		},
+		{
+			"name": "Touch the Sky",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/99_Touch the Sky.png"
+			}
+		},
+		{
+			"name": "Where Wind Meets the Sea",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/100_Where Wind Meets the Sea.png"
+			}
+		},
+		{
+			"name": "Winding Water",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/101_Winding Water.png"
+			}
+		},
+		{
+			"name": "Withdraw Essence",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/102_Withdraw Essence.png"
+			}
+		},
+		{
+			"name": "Ertys's Reaper",
+			"rarity": "special",
+			"mana_cost": "{4}{B/R}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/103_Ertys's Reaper.png"
+			}
+		},
+		{
+			"name": "Ester, Generous Mother",
+			"rarity": "special",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/104_Ester, Generous Mother.png"
+			}
+		},
+		{
+			"name": "Freeze",
+			"rarity": "special",
+			"mana_cost": "{1}{W/U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/105_Freeze.png"
+			}
+		},
+		{
+			"name": "Ancient Canyon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/106_Ancient Canyon.png"
+			}
+		},
+		{
+			"name": "Autumnal Wood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/107_Autumnal Wood.png"
+			}
+		},
+		{
+			"name": "Burning Chasm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/108_Burning Chasm.png"
+			}
+		},
+		{
+			"name": "Castle of Artifice",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/109_Castle of Artifice.png"
+			}
+		},
+		{
+			"name": "Castle of Contagions",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/110_Castle of Contagions.png"
+			}
+		},
+		{
+			"name": "Castle of Dragons",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/111_Castle of Dragons.png"
+			}
+		},
+		{
+			"name": "Castle of Heroes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/112_Castle of Heroes.png"
+			}
+		},
+		{
+			"name": "Castle of Memories",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/113_Castle of Memories.png"
+			}
+		},
+		{
+			"name": "Castle of Nightmares",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/114_Castle of Nightmares.png"
+			}
+		},
+		{
+			"name": "Castle of Scorn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/115_Castle of Scorn.png"
+			}
+		},
+		{
+			"name": "Castle of Serenities",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/116_Castle of Serenities.png"
+			}
+		},
+		{
+			"name": "Castle of Trials",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/117_Castle of Trials.png"
+			}
+		},
+		{
+			"name": "Castle of Wonders",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/118_Castle of Wonders.png"
+			}
+		},
+		{
+			"name": "Dazzling Auditorium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/119_Dazzling Auditorium.png"
+			}
+		},
+		{
+			"name": "Eerie Cemetery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/120_Eerie Cemetery.png"
+			}
+		},
+		{
+			"name": "Fading Core",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/121_Fading Core.png"
+			}
+		},
+		{
+			"name": "Fading Dourland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/122_Fading Dourland.png"
+			}
+		},
+		{
+			"name": "Fading Geyser Field",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/123_Fading Geyser Field.png"
+			}
+		},
+		{
+			"name": "Fading Ghostland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/124_Fading Ghostland.png"
+			}
+		},
+		{
+			"name": "Fading Outcrop",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/125_Fading Outcrop.png"
+			}
+		},
+		{
+			"name": "Fading Peaks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/126_Fading Peaks.png"
+			}
+		},
+		{
+			"name": "Fading Riverland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/127_Fading Riverland.png"
+			}
+		},
+		{
+			"name": "Fading Shoreline",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/128_Fading Shoreline.png"
+			}
+		},
+		{
+			"name": "Fading Temple",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/129_Fading Temple.png"
+			}
+		},
+		{
+			"name": "Fading Undergrowth",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/130_Fading Undergrowth.png"
+			}
+		},
+		{
+			"name": "Forgotten Mausoleum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/131_Forgotten Mausoleum.png"
+			}
+		},
+		{
+			"name": "Grand Courtyard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/132_Grand Courtyard.png"
+			}
+		},
+		{
+			"name": "Hushed Brook",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/133_Hushed Brook.png"
+			}
+		},
+		{
+			"name": "Lotus Nimbus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/134_Lotus Nimbus.png"
+			}
+		},
+		{
+			"name": "Moss-Covered Arches",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/135_Moss-Covered Arches.png"
+			}
+		},
+		{
+			"name": "Timeless Cavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/136_Timeless Cavern.png"
+			}
+		},
+		{
+			"name": "Hypnotic Angel",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/43_Hypnotic Angel.png"
+			}
+		},
+		{
+			"name": "Erin, Pale Summoner",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/TWE-files/img/41_Erin, Pale Summoner.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Ertys, Arbiter of the Cosmos
+	1 Artisan of Movement
+	1 Steward of Destiny
+	1 Crack the Sky
+	1 Cumulus Dragon
+	1 Decisive Realization
+	1 Final Call
+	1 Golden Ribbons
+	1 Heavenly Armor
+	1 Let Go
+	1 Orbs of Kel'amarth
+	1 Silent Protector
+	1 Sisters of Night
+	1 Sunguard
+	1 Tido, the Fractured Piece
+	1 Tido's Lightkeeper
+	1 Timeworn Sword
+	1 Warden of the Night
+	1 Celestial Realization
+	1 Cog, the Trapped Piece
+	1 Crystalsight Entity
+	1 Disrupt the Flow
+	1 Fist of Lightning
+	1 Manipulator of Reality
+	1 Monstrous Djinn
+	1 Pylas, The Librarian
+	1 Sail the Seas of Time
+	1 Silent Watcher
+	1 Sphinx of Games
+	1 Tentacle's Grasp
+	1 Through Time and Space
+	1 Time Moves Faster Still
+	1 Tripolar Mitosis
+	1 We Forget Ourselves
+	1 Blood Ritual
+	1 Borthrau, In-Between
+	1 Dark Geometry
+	1 Dege, the Corrupted Piece
+	1 Eloise, She Dances with Death
+	1 Endless Night
+	1 Fade Into Shadows
+	1 Infernal Covenant
+	1 Leonne, the Remorseful
+	1 Magus of the Toxin
+	1 Painful Realization
+	1 Silent Killer
+	1 Soul Parasite
+	1 Still it Beats
+	1 Thought-Catcher Tarantula
+	1 Your Last Moment
+	1 Brutal Negotiation
+	1 Burning Vengeant
+	1 Careless Toymaker
+	1 Contraband Hounds
+	1 Hemorrhagia
+	1 Isla, She Holds the Sun
+	1 Relentless Advancement
+	1 Ruina, the Burnt Piece
+	1 Rumbling Terror
+	1 Shayla, the Burning Edge
+	1 Silent Flame
+	1 Smokeskin Drakkon
+	1 Spears Held Together
+	1 Stabbing Realization
+	1 Unholy Shrieker
+	1 Wares from a World Away
+	1 Wrel, Called to War
+	1 Brightly-Colored Charger
+	1 Canine Anomaly
+	1 Canopy of Eyes
+	1 Churning Growth
+	1 The Horror Within
+	1 Joyous Realization
+	1 Mouths to Be Fed
+	1 Nebulous Rampager
+	1 Sapping Vines
+	1 Seek Harmony
+	1 Selt, the Withered Piece
+	1 Serene Hopper
+	1 Silent Strength
+	1 Timberfall Titan
+	1 Timefalls Regisaur
+	1 Walk Among Giants
+	1 Aethergear Sentinel
+	1 Darkwood Hart
+	1 Mark of Inseva
+	1 Eternal Guardian
+	1 Horus, The Many Faced
+	1 Inseva, Master of Unlife
+	1 Knight of True-Flame
+	1 Ortan, Leader of Dragons
+	1 Return to the Negative Sun
+	1 Sinder, the White Blade
+	1 Spinning Planetarium
+	1 Stoke the Timeforge
+	1 Timedancer
+	1 Touch the Sky
+	1 Where Wind Meets the Sea
+	1 Winding Water
+	1 Withdraw Essence
+	1 Ertys's Reaper
+	1 Ester, Generous Mother
+	1 Freeze
+	1 Ancient Canyon
+	1 Autumnal Wood
+	1 Burning Chasm
+	1 Castle of Artifice
+	1 Castle of Contagions
+	1 Castle of Dragons
+	1 Castle of Heroes
+	1 Castle of Memories
+	1 Castle of Nightmares
+	1 Castle of Scorn
+	1 Castle of Serenities
+	1 Castle of Trials
+	1 Castle of Wonders
+	1 Dazzling Auditorium
+	1 Eerie Cemetery
+	1 Fading Core
+	1 Fading Dourland
+	1 Fading Geyser Field
+	1 Fading Ghostland
+	1 Fading Outcrop
+	1 Fading Peaks
+	1 Fading Riverland
+	1 Fading Shoreline
+	1 Fading Temple
+	1 Fading Undergrowth
+	1 Forgotten Mausoleum
+	1 Grand Courtyard
+	1 Hushed Brook
+	1 Lotus Nimbus
+	1 Moss-Covered Arches
+	1 Timeless Cavern
+	1 Hypnotic Angel
+	1 Erin, Pale Summoner

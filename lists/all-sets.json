@@ -21,6 +21,11 @@
             "formats": "Microset"
         },
         {
+            "set_code": "TWE",
+            "set_name": "Time Without End",
+            "formats": "Cube"
+        },
+        {
             "set_code": "WGJ",
             "set_name": "Wrenchmar: Gambit of the Junklords",
             "formats": "Standard"
