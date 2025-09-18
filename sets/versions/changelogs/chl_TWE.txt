@@ -1,4 +1,347 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Undead Guardian added.
+Ester, Generous Matriarch added.
+Frozen in Time added.
+Dr. Rolf, Otherside Broker added.
+Mother of Time added.
+Naltan, the Tainted added.
+Radiance added.
+Mournflock Tender added.
+
+Eternal Guardian removed.
+Ester, Generous Mother removed.
+Freeze removed.
+
+Ertys, Arbiter of the Cosmos
+
+Artisan of Movement
+
+Steward of Destiny
+
+Crack the Sky
+
+Cumulus Dragon
+
+Decisive Realization
+
+Final Call
+
+Golden Ribbons
+
+Heavenly Armor
+type: Artifact — Equipment => Enchantment — Aura
+cost: {W} => {1}{W}
+rules_text: Flash
+When this Equipment enters, attach it to target creature you control. That creature gains indestructible until end of turn.
+Equipped creature gets +1/+2.
+Equip {2} => Flash
+Whenever enchanted creature attacks, it gets +1/+1 for each enchantment you control until end of turn.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Let Go
+
+Orbs of Kel'amarth
+rules_text: Defender
+Whenever Orbs of Kel'amarth blocks, you may exile a creature or planeswalker card from your hand with three time counters on it. If a card exiled this way doesn't have suspend, it gains suspend. => Defender
+Whenever Orbs of Kel'amarth blocks, you may exile a creature or planeswalker card from your hand. Put three time counters on it. If it doesn't have suspend, it gains suspend.
+
+Silent Protector
+
+Sisters of Night
+
+Sunguard
+
+Tido, the Fractured Piece
+
+Tido's Lightkeeper
+
+Timeworn Sword
+
+Warden of the Night
+
+Celestial Realization
+
+Cog, the Trapped Piece
+
+Crystalsight Entity
+rules_text: When this creature enters, surveil 2, then draw a card. If you cast this creature from your hand, exile it and put four time counters on it. It gains suspend. [i](At the beginning of your upkeep, you remove a time counter. When the last is removed, you may play it without paying its mana cost. It gains haste.)[/i] => When this creature enters, surveil 2, then draw a card. If you cast this creature from your hand, exile it with four time counters on it. It gains suspend. [i](At the beginning of your upkeep, you remove a time counter. When the last is removed, you may play it without paying its mana cost. It gains haste.)[/i]
+
+Disrupt the Flow
+
+Fist of Lightning
+
+Manipulator of Reality
+cost: {2}{U} => {3}{U}
+rules_text: Whenever a creature you control becomes the target of a spell, reveal cards from the top of your library until you reveal a nonland card. Exile that card with X time counters, where X is its mana value. That card gains suspend. Put the rest on the bottom of your library in a random order. => Whenever a creature you control becomes the target of a spell, reveal cards from the top of your library until you reveal a nonland card. Exile that card. Put time counters on it equal to its mana value. If that card doesn't have suspend, it gains suspend. Put the rest on the bottom of your library in a random order.
+pt: 2/3 => 1/5
+
+Monstrous Djinn
+rules_text: This creature enters tapped with three wish counters on it. This creature can't untap as long as it has a wish counter on it.
+{2}{U}, Remove a wish counter from this creature: Choose one that hasn't been chosen — 
+• Create two tapped Treasure tokens.
+• Put a flying counter on target creature.
+• Draw a card. => This creature enters tapped with three wish counters on it. This creature can't untap as long as it has a wish counter on it.
+{U}, Remove a wish counter from this creature: Choose one that hasn't been chosen — 
+• Create two tapped Treasure tokens.
+• Put a flying counter on target creature.
+• Draw a card.
+
+Pylas, The Librarian
+
+Sail the Seas of Time
+
+Silent Watcher
+
+Sphinx of Games
+
+Tentacle's Grasp
+
+Through Time and Space
+
+Time Moves Faster Still
+
+Tripolar Mitosis
+
+We Forget Ourselves
+
+Blood Ritual
+
+Borthrau, In-Between
+
+Dark Geometry
+
+Dege, the Corrupted Piece
+
+Eloise, She Dances with Death
+
+Endless Night
+
+Fade Into Shadows
+
+Infernal Covenant
+
+Leonne, the Remorseful
+
+Magus of the Toxin
+
+Painful Realization
+
+Silent Killer
+
+Soul Parasite
+
+Still it Beats
+
+Thought-Catcher Tarantula
+
+Your Last Moment
+
+Brutal Negotiation
+
+Burning Vengeant
+
+Careless Toymaker
+
+Contraband Hounds
+rules_text: Menace
+{X}: Put a +1/+1 counter on this creature. You gain control of target artifact with mana value X or less until end of turn. Untap it. It gains haste until end of turn. Activate only as a sorcery and only once. => Menace
+{X}: Put a +1/+1 counter on this creature. You gain control of target artifact or creature with mana value X or less until end of turn. Untap it. It gains haste until end of turn. Activate only as a sorcery and only once.
+
+Hemorrhagia
+
+Isla, She Holds the Sun
+rules_text: When Isla enters, you may discard a card. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn.
+When Isla dies, exile her with three time counters. She gains suspend. => When Isla enters, you may discard a card. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn.
+When Isla dies, exile her with three time counters on her and she gains suspend.
+
+Relentless Advancement
+
+Ruina, the Burnt Piece
+
+Rumbling Terror
+
+Shayla, the Burning Edge
+
+Silent Flame
+
+Smokeskin Drakkon
+rules_text: Flying
+When this creature enters, it deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+Suspend 4—{1}{R} => Flying
+When this creature enters, it deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+Suspend 4—{1}{R} [i](Rather than cast this card from your hand, you may pay {1}{R} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+
+Spears Held Together
+
+Stabbing Realization
+cost: {R} => {1}{R}
+
+Unholy Shrieker
+type: Enchantment Creature — Demon => Enchantment Creature — Demon Warrior
+
+Wares from a World Away
+
+Wrel, Called to War
+
+Brightly-Colored Charger
+
+Canine Anomaly
+
+Canopy of Eyes
+
+Churning Growth
+
+The Horror Within
+
+Joyous Realization
+
+Mouths to Be Fed
+
+Nebulous Rampager
+
+Sapping Vines
+
+Seek Harmony
+
+Selt, the Withered Piece
+
+Serene Hopper
+
+Silent Strength
+
+Timberfall Titan
+
+Timefalls Regisaur
+
+Walk Among Giants
+
+Aethergear Sentinel
+
+Darkwood Hart
+
+Mark of Inseva
+
+Horus, The Many Faced
+cost: {1}{R}{W} => {2}{W}
+
+Inseva, Master of Unlife
+cost: {3}{B}{G} => {2}{B}{G}
+rules_text: Lifelink
+Whenever one or more cards are put into your graveyard from anywhere other than the battlefield, you may exile one of those cards.
+During your turn, you may play cards exiled with Inseva. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost. => Lifelink
+Once during each of your turns, you may cast a permanent spell from your graveyard. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost. Permanents that you cast this way enter with a finality counter.
+pt: 4/5 => 4/4
+
+Knight of True-Flame
+cost: {2}{R}{W} => {3}{R}
+rules_text: Vanishing 3 [i](This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Lifelink
+Whenever you remove a time counter from this creature, it deals 1 damage to any target. => Vanishing 3 [i](This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+First strike
+Whenever you remove a time counter from this creature, it deals 1 damage to any target.
+pt: 3/3 => 4/4
+
+Ortan, Leader of Dragons
+
+Return to the Negative Sun
+
+Sinder, the White Blade
+
+Spinning Planetarium
+
+Stoke the Timeforge
+rules_text: Stoke the Timeforge deals X damage to target creature or planeswalker.
+Reveal cards from the top of your library until you reveal a nonland card with mana value X or less. Exile that card and put two time counters on it. It gains suspend. Put the rest of the cards on the bottom of your library in a random order. => Stoke the Timeforge deals X damage to target creature or planeswalker.
+Search your library for a nonland card with mana value X or less, exile it, then shuffle. Put two time counters on the exiled card and it gains suspend.
+
+Timedancer
+
+Touch the Sky
+
+Where Wind Meets the Sea
+
+Winding Water
+
+Withdraw Essence
+cost: {R}{W} => {1}{W}
+rules_text: Exile target attacking or blocking creature. Its controller creates a token that's a copy of it, except it's a 1/1 Blood artifact creature in addition to its other types and it has “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.” => Exile target attacking or blocking creature. Its controller creates a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+
+Ertys's Reaper
+cost: {4}{BR}{W} => {4}{B}{R}
+rules_text: Double strike
+Suspend 3—{BR}{W} [i](Rather than cast this card from your hand, you may pay {BR}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i] => This creature has deathtouch and indestructible during your turn.
+Suspend 3—{BR}{BR} [i](Rather than cast this card from your hand, you may pay {BR}{BR} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+
+Ancient Canyon
+
+Autumnal Wood
+
+Burning Chasm
+
+Castle of Artifice
+
+Castle of Contagions
+
+Castle of Dragons
+
+Castle of Heroes
+
+Castle of Memories
+
+Castle of Nightmares
+
+Castle of Scorn
+
+Castle of Serenities
+
+Castle of Trials
+
+Castle of Wonders
+
+Dazzling Auditorium
+
+Eerie Cemetery
+
+Fading Core
+
+Fading Dourland
+
+Fading Geyser Field
+
+Fading Ghostland
+
+Fading Outcrop
+
+Fading Peaks
+
+Fading Riverland
+
+Fading Shoreline
+
+Fading Temple
+
+Fading Undergrowth
+
+Forgotten Mausoleum
+
+Grand Courtyard
+
+Hushed Brook
+
+Lotus Nimbus
+
+Moss-Covered Arches
+
+Timeless Cavern
+
+Hypnotic Angel
+
+Erin, Pale Summoner
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
