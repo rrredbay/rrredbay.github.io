@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Vampire Ninja",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/107_Recurring Antagonist.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/106_Recurring Antagonist.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hyena Rogue",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/99_Hyena Hooligans.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/98_Hyena Hooligans.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Clown Horror",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/102_Killer Clown.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/101_Killer Clown.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/95_Happy Camper.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/94_Happy Camper.png"
 			}
 		},
 		{
@@ -621,19 +621,19 @@
 			}
 		},
 		{
-			"name": "Gliding Assassin",
+			"name": "Red Dawn Ninja",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Squirrel Ninja",
-			"collector_number": "94",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Ninja Rogue",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/94_Gliding Assassin.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/107_Red Dawn Ninja.png"
 			}
 		},
 		{
 			"name": "Wolf of Boxer Street",
 			"rarity": "common",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Wolf Detective",
 			"collector_number": "117",
 			"image_uris": {
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/100_Interrogation Scene.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/99_Interrogation Scene.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/96_Harder They Fall.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/95_Harder They Fall.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/103_Lifeforce Ship.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/102_Lifeforce Ship.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/104_Low Point.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/103_Low Point.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/98_Helm of Volnir.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/97_Helm of Volnir.png"
 			}
 		},
 		{
@@ -1933,7 +1933,7 @@
 		{
 			"name": "End of the Line",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
@@ -1953,7 +1953,7 @@
 		{
 			"name": "Planetary Disaster",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}{W}",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Blue Spectre",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "46",
 			"image_uris": {
@@ -2035,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/106_Message Received.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/105_Message Received.png"
 			}
 		},
 		{
@@ -2051,13 +2051,13 @@
 			}
 		},
 		{
-			"name": "Kill the Past",
+			"name": "Kill Your Darlings",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/101_Kill the Past.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/100_Kill Your Darlings.png"
 			}
 		},
 		{
@@ -2183,7 +2183,7 @@
 		{
 			"name": "Alternate Timelines",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Instant",
 			"collector_number": "196",
 			"image_uris": {
@@ -2383,7 +2383,7 @@
 		{
 			"name": "Never Found the Body",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "224",
 			"image_uris": {
@@ -2475,9 +2475,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/105_Mantle of the Empire.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/104_Mantle of the Empire.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warrior Hero",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/SOC-files/img/97_Hellbreach Heroine.png"
+				"en": "https://rrredbay.github.io/sets/SOC-files/img/96_Hellbreach Heroine.png"
 			}
 		},
 		{
@@ -2663,7 +2663,7 @@
 		{
 			"name": "Hero's Rise",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
@@ -2725,7 +2725,7 @@
 	2 Sensei Ira
 	2 Message Received
 	2 Final Torment
-	2 Kill the Past
+	2 Kill Your Darlings
 	2 Last Kiss
 	2 Hound Conjurer
 	2 Postal Carrier
@@ -2786,7 +2786,7 @@
 	1 The Big Screen
 	1 Dimensional Antenna
 	1 Hero's Rise
-[uncommon(4)]
+[uncommon(3)]
 	4 Terror of the Darkwood
 	4 Adventurous Couple
 	4 Lightning Bug
@@ -2943,7 +2943,7 @@
 	8 Bone-Dry Bandit
 	8 Happy Camper
 	8 Spectre of Hate
-	8 Gliding Assassin
+	8 Red Dawn Ninja
 	8 Wolf of Boxer Street
 	8 Climactic Demise
 	8 Upstage
@@ -3027,7 +3027,7 @@
 	12 Bone-Dry Bandit
 	12 Happy Camper
 	12 Spectre of Hate
-	12 Gliding Assassin
+	12 Red Dawn Ninja
 	12 Wolf of Boxer Street
 	12 Climactic Demise
 	12 Upstage
@@ -3162,7 +3162,7 @@
 	2 Sensei Ira
 	2 Message Received
 	2 Final Torment
-	2 Kill the Past
+	2 Kill Your Darlings
 	2 Last Kiss
 	2 Hound Conjurer
 	2 Postal Carrier
@@ -3224,7 +3224,7 @@
 	1 The Big Screen
 	1 Dimensional Antenna
 	1 Hero's Rise
-[wildcard(2)]
+[wildcard(1)]
 	6 Portal Opener
 	6 Ninja in the Wings
 	6 Deep Space Navigator
@@ -3287,7 +3287,7 @@
 	6 Bone-Dry Bandit
 	6 Happy Camper
 	6 Spectre of Hate
-	6 Gliding Assassin
+	6 Red Dawn Ninja
 	6 Wolf of Boxer Street
 	6 Climactic Demise
 	6 Upstage
@@ -3309,7 +3309,6 @@
 	15 Combat Experts
 	15 Eager Audience
 	15 Unlikely Betrayal
-	15 Third Act
 	7 Deus Ex Machina
 	15 Buggy Shieldbearer
 	7 Lady, Arthouse Star
@@ -3423,7 +3422,7 @@
 	7 Sensei Ira
 	7 Message Received
 	7 Final Torment
-	7 Kill the Past
+	7 Kill Your Darlings
 	7 Last Kiss
 	7 Hound Conjurer
 	7 Postal Carrier

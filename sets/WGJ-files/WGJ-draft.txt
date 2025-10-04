@@ -101,6 +101,16 @@
 			}
 		},
 		{
+			"name": "The Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/1_The Beast.png"
+			}
+		},
+		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2686,16 +2696,9 @@
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "0",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://rrredbay.github.io/sets/WGJ-files/img/1t_The Beast.png"
-				}
-			},
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/0_Call The Beast Emblem.png"
-				}
+			}
 		},
 		{
 			"name": "Toxic-Tail Bot",
@@ -3176,6 +3179,7 @@
 	8 Compactor Drones
 	8 Wreckyard Crane
 	8 Collector of Finds
+	8 Call The Beast Emblem
 	8 Toxic-Tail Bot
 	8 Ghastly Scrapbeast
 	8 Rig Sparks
@@ -3435,6 +3439,7 @@
 	6 Marus, Calculated Killer
 	6 Willing Offerings
 	1 VAL, Automated Locomotive
+	12 Call The Beast Emblem
 	12 Toxic-Tail Bot
 	12 Ghastly Scrapbeast
 	12 Rig Sparks
@@ -3455,7 +3460,7 @@
 	12 Armored Goliath
 	12 Flamethrower Battle-Wagon
 	2 Unyielding Husk
-[wildcard(2)]
+[wildcard(1)]
 	6 Shoreline Midden
 	6 Submerged Midden
 	6 Molten Midden
@@ -3707,6 +3712,7 @@
 	15 Marus, Calculated Killer
 	15 Willing Offerings
 	4 VAL, Automated Locomotive
+	6 Call The Beast Emblem
 	6 Toxic-Tail Bot
 	6 Ghastly Scrapbeast
 	6 Rig Sparks
@@ -3727,5 +3733,3 @@
 	6 Armored Goliath
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
-[landslot(1)]
-	30 Call The Beast Emblem

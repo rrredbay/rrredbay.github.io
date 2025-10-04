@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Hellbreach Heroine",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "SOC"
     },
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Mantle of the Empire",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "SOC"
     },
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Helm of Volnir",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "SOC"
     },
@@ -222,8 +222,8 @@
         "set": "SOC"
     },
     {
-        "card_name": "Kill the Past",
-        "number": 101,
+        "card_name": "Kill Your Darlings",
+        "number": 100,
         "shape": "normal",
         "set": "SOC"
     },
@@ -253,7 +253,7 @@
     },
     {
         "card_name": "Message Received",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "SOC"
     },
@@ -523,7 +523,7 @@
     },
     {
         "card_name": "Lifeforce Ship",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "SOC"
     },
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Low Point",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "SOC"
     },
@@ -822,7 +822,7 @@
         "set": "SOC"
     },
     {
-        "card_name": "Gliding Assassin",
+        "card_name": "Happy Camper",
         "number": 94,
         "shape": "normal",
         "set": "SOC"
@@ -852,7 +852,7 @@
         "set": "SOC"
     },
     {
-        "card_name": "Happy Camper",
+        "card_name": "Harder They Fall",
         "number": 95,
         "shape": "normal",
         "set": "SOC"
@@ -882,8 +882,8 @@
         "set": "SOC"
     },
     {
-        "card_name": "Harder They Fall",
-        "number": 96,
+        "card_name": "Hyena Hooligans",
+        "number": 98,
         "shape": "normal",
         "set": "SOC"
     },
@@ -912,7 +912,7 @@
         "set": "SOC"
     },
     {
-        "card_name": "Hyena Hooligans",
+        "card_name": "Interrogation Scene",
         "number": 99,
         "shape": "normal",
         "set": "SOC"
@@ -942,8 +942,8 @@
         "set": "SOC"
     },
     {
-        "card_name": "Interrogation Scene",
-        "number": 100,
+        "card_name": "Killer Clown",
+        "number": 101,
         "shape": "normal",
         "set": "SOC"
     },
@@ -972,8 +972,8 @@
         "set": "SOC"
     },
     {
-        "card_name": "Killer Clown",
-        "number": 102,
+        "card_name": "Recurring Antagonist",
+        "number": 106,
         "shape": "normal",
         "set": "SOC"
     },
@@ -1002,7 +1002,7 @@
         "set": "SOC"
     },
     {
-        "card_name": "Recurring Antagonist",
+        "card_name": "Red Dawn Ninja",
         "number": 107,
         "shape": "normal",
         "set": "SOC"

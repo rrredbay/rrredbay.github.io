@@ -1,4 +1,634 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Red Dawn Ninja added.
+Kill Your Darlings added.
+
+Gliding Assassin removed.
+Kill the Past removed.
+
+Portal Opener
+
+Ninja in the Wings
+
+Deep Space Navigator
+
+Cephalid Sidekick
+
+Time Traveling Cop
+
+Greatspan Kaiju
+
+The Prestige
+
+Plot Armor
+
+Anticipate
+
+Horizons Unfolding
+
+Face in a Crowd
+
+Banishing Portal
+
+Training Session
+
+Wild Rider
+
+Scene Crasher
+
+Gamblin' Gal
+
+Family Man
+
+Grinning Captive
+
+Couple o' Escapees
+
+Killer in the Streets
+
+Wandering Dreadmaw
+
+Cool Guys Don't Look at Explosions
+
+Fastest Shot in the West
+
+Forbidden Rendezvous
+
+Stagecoach Robbery
+
+Hero's Rage
+
+Plasma Shield Defender
+
+Brave Little Toadster
+
+Wooden Slasher
+
+Pining Suitor
+
+Young Lovers
+
+Eight-Legged Freak
+
+Killer Croc
+
+Armored Kaiju
+
+Two-Headed Goliath
+pt: 7/10 => 7/8
+
+Monster's Fury
+
+Ominous Warpgate
+
+Stronger Together
+
+Altar of Heroes
+
+Hulking Growth
+
+Flashblade Ninja
+
+Unconventional Mentor
+
+Villain's Underling
+
+Pendant Thief
+
+Brash Detective
+
+Odd Pair
+
+Sole Survivor
+
+Brave Explorer
+
+Chosen One
+
+Power Player
+
+Protocol Angel
+
+Fight for Your Life
+
+Zero to Hero
+
+Hero's Stand
+
+Broken Seal
+
+Recurring Antagonist
+
+Hyena Hooligans
+
+Targeted Gumshoe
+
+Killer Clown
+
+Bone-Dry Bandit
+
+Happy Camper
+
+Spectre of Hate
+
+Wolf of Boxer Street
+cost: {4}{B}{B} => {3}{B}{B}
+pt: 6/5 => 4/5
+
+Climactic Demise
+
+Upstage
+
+Set up the Sequel
+
+Interrogation Scene
+
+Flying Front Kick
+
+Harder They Fall
+
+Camera Thopter
+
+Actress Stand-in
+
+Studio Director
+
+Collector's Item
+
+Makeup and Effects
+
+Find the McGuffin
+
+Banishing Light
+
+Terror of the Darkwood
+
+Adventurous Couple
+
+Lightning Bug
+
+Shyla Montgomery
+
+Combat Experts
+
+Eager Audience
+
+Unlikely Betrayal
+
+Deus Ex Machina
+
+Buggy Shieldbearer
+
+Lady, Arthouse Star
+pt: 2/2 => 3/3
+
+Tia Otumbo
+
+Altered Brain
+
+Selfless Partner
+
+Tactical Strike Team
+
+Twist Villain
+
+Charismatic Speaker
+
+Soaring Woman
+
+Pharmaceutical Expeditioners
+
+Alien Anatomist
+
+The Big Friendly Beast
+
+Vengeful Shinobi
+
+Bloodbutcher
+
+Terrifying New Villain
+
+Relentless Assassin
+
+Sidekick
+
+Bulked Star
+
+Dreadmaw Matriarch
+
+Endangered Species
+
+Find the Sacred Place
+
+Turned Ally
+
+Colossal Greatcrab
+
+Micromancer
+
+Friend 'til the End
+
+Fight for Survival
+
+Break Trust
+
+Write Back In
+
+Close the Wormhole
+
+CGI Animals
+
+Lifeforce Ship
+
+Into the Maw of Greatness
+
+Dark Horde Rising
+
+Cornered Lover
+
+Raze the Castle
+
+Punch the Turtle
+
+Romantic Tension
+
+The Scheme Unfolds
+
+Dark Ending
+
+Femme Fatale
+
+Low Point
+
+Team Up!
+
+Stand Off
+
+Incidental Destruction
+
+Explore the Depths
+
+Loving Beast
+
+Hubris of Discovery
+
+The Thunder Squad
+
+Makeup Artist
+
+Space Pilgrim
+
+Paragon Battery
+rules_text: This artifact enters tapped. When it does, tap target creature you don't control and put a stun counter on it.
+{T}: Add {C}{C}. Spend this mana only to cast noncreature spells.
+Warp 1{WU} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => This artifact enters tapped. When it does, tap target creature you don't control and put a stun counter on it.
+{T}: Add {C}{C}. Spend this mana only to cast noncreature spells.
+Warp 1{WU} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Redrin Greyfur
+
+Khazra
+
+Erupting Sandmaw
+
+Citybreaker Kaiju
+
+Electric Explosion
+
+Super Hero Squad
+
+Deep Space Defender
+
+Cloning Chamber
+
+Clean-up Crew
+
+Imperial Defense System
+
+Roll the Dice
+
+The Final Reveal
+
+Shock and Awe
+
+Harvest Killer
+
+Master in the Marsh
+
+Confident Criminal
+rules_text: Whenever this creature enters or you sacrifice a nontoken permanent, exile up to one target card from an opponent's graveyard. Create a Treasure token.
+You may cast cards exiled by this creature during your turn if you committed a crime this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Menace, trample
+Whenever you commit a crime, create a Treasure token. This ability only triggers once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+pt: 3/2 => 3/3
+
+Alliance of Passion
+
+Magician Adept
+
+Terrifying Slash
+
+Dragged Back to the Shadows
+
+Split
+
+Strange Beacon
+
+Martial Arts Training
+
+Gravity Anomaly
+
+Compact Multitool
+
+Break from Tradition
+
+Consider the Possibilities
+
+Bird
+
+Horse
+
+Soldier
+
+Skeleton
+
+Human
+
+Rogue
+
+Treasure
+
+Leading Role
+
+Refurbisher
+
+Lost Sentinel
+
+POV Camera
+
+Sentient Car
+
+Unnamed Hero
+
+Film Stage
+
+Location Scouting
+
+Cornered Mobster
+
+Buggy Vanguard
+
+Mother Mon-Mon
+
+Collete Klide
+
+Captain Marvelous
+
+Green Knight
+
+Illuminate the Night
+
+Sharktomus Prime
+
+Big Bad Tree
+
+Completely Surrounded
+
+Wayne Barnes
+
+Volnir's Phoenix
+
+Helm of Volnir
+
+Dr. Archibald Ratticus
+
+Leaky Futuretron
+
+End of the Line
+cost: {2}{W}{W} => {1}{W}{W}
+
+Holly Drake
+rules_text: First strike
+Whenever this creature becomes enchanted by an Aura you control, you may pay {X}. If you do, search your library for an equipment card with mana value X or less, put it onto the battlefield, then shuffle. => First strike
+Aura and Equipment spells you cast cost {1} less to cast.
+When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+
+Planetary Disaster
+cost: {4}{W}{W}{W} => {4}{W}{W}
+
+Ghost of Stage 10
+
+Temporal Anomaly
+
+Blue Spectre
+cost: {2}{U}{U} => {1}{U}{U}
+
+VAL1000
+
+Tyde Turner
+
+Four Dimensional Beast
+
+Sensei Ira
+
+Message Received
+
+Final Torment
+
+Last Kiss
+
+Hound Conjurer
+
+Postal Carrier
+
+Special Bond
+
+Elder of the Guild
+rules_text: Legendary creatures you control have trample.
+[i]Landfall[/i] — Whenever a land you control enters, create a Leading Role token attached to target creature you control. => Legendary creatures you control have trample.
+[i]Landfall[/i] — Whenever a land you control enters, create a Leading Role token attached to target creature you control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)[/i]
+pt: 2/2 => 2/3
+
+Growing Little Terrors
+
+Angry Primordial
+rules_text: When this creature enters, destroy target noncreature permanent you don't control.
+This creature gets +5/+5 if it has a finality counter on it.
+Sequel {5}{G}{G} => When this creature enters, destroy target noncreature permanent you don't control.
+This creature gets +5/+5 if it has a counter on it.
+Sequel {5}{G}{G} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]
+
+Dr. Zenus Prime
+
+Fates Foretold
+rules_text: When this enchantment enters, look at the top six cards of your library. You may exile any number of creature cards from among them. Put the rest on the bottom of your library in a random order.
+You may cast creature cards exiled with this enchantment.
+When there are one or fewer cards exiled with this enchantment, sacrifice it. => Whenever one or more legendary creatures you control attack, scry 1. Until end of turn, you may look at the top card of your library any time and you may cast creature spells from the top of your library.
+{4}{G}{W}: Creatures you control get +2/+2 until end of turn.
+
+Tommy Bones
+
+Our Love is Forever
+rules_text: Put two creature cards from your hand and/or graveyard onto the battlefield. They each gain haste. Exile them at the beginning of the next end step unless they dealt combat damage to a player this turn. => Search your library and/or graveyard for exactly two creature cards with total mana value of 6 or less and put them onto the battlefield. Those creatures gain haste and indestructible until end of turn. If you searched your library this way, shuffle.
+
+Detective Fluffles
+
+Alternate Timelines
+cost: {U}{R} => {2}{U}{R}
+rules_text: Blockbuster 4 [i](As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]
+Counter target noncreature spell. If this spell is a blockbuster, copy that spell. You may choose new targets for the copy. => Blockbuster 4 [i](As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]
+Choose a creature. Create a token that is a copy of the chosen creature. Then if this spell is a blockbuster, Alternate Timelines deals 4 damage to the chosen creature.
+
+It's a Crossover!
+
+Cosmic Horror
+
+City of Heroes
+
+Kaiju Homeworld
+
+Shootout Gully
+
+Intergalactic Spaceport
+
+Adventurer's Village
+
+Anguish
+
+Forgotten Master
+
+Film Editing
+
+X-11, The Gargantuan
+pt: 6/6 => 8/6
+
+The Stone of Kings
+rules_text: {2}, {T}: Add X mana in any combination of colors, where X is the number of legendary permanents you control. If X is five or greater, draw a card. => {T}: Add X mana in any combination of colors, where X is the number of legendary permanents you control.
+At the beginning of your end step, if you control three or more legendary permanents, draw a card.
+
+Two is Better
+
+Masked Vigilante
+
+Uncapped Rage
+
+Heroic Weakness
+rules_text: Choose one —
+• Counter target noncreature spell with mana value 1 or 2.
+• Return target creature spell to its owner's hand. => Choose one —
+• Counter target noncreature spell with mana value 1 or 2.
+• Return target creature to its owner's hand.
+
+Takedown of Bai-Ran
+
+Unravel the Code
+
+Deceiving Fist
+
+Never Found the Body
+cost: {2}{B}{R} => {1}{B}{R}
+
+Charming Minotaur
+
+Reset Protocol
+
+Toxin
+rules_text: Trample
+When Toxin enters, return up to two target permanent cards from your graveyard to your hand.
+Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This ability triggers only twice each turn. => Trample
+When Toxin enters, return up to two target non-Mutant permanent cards from your graveyard to your hand.
+Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This ability triggers only twice each turn.
+
+Seth, Breaking Through
+
+Cohen, Archvillain
+rules_text: [+1]: Create a Blood token.
+[0]: Until end of turn, Cohen becomes a 4/4 Vampire creature with flying, lifelink, and indestructible.
+[-7]: You get an emblem with “Whenever a creature an opponent controls dies, its controller loses 1 life and you gain 1 life.” Then destroy all creatures.
+Sequel {5}{B}{B} => {5}{B}{B}: Return Cohen from your graveyard to the battlefield with a finality counter. Activate only as a sorcery.
+[+1]: Create a Blood token.
+[0]: Until end of turn, Cohen becomes a 4/4 Vampire creature with flying, lifelink, and indestructible.
+[-7]: You get an emblem with “Whenever a creature dies, target opponent loses 1 life and you gain 1 life.” Then destroy all creatures.
+special_text: [+1]: Create a Blood token.
+[0]: Until end of turn, Cohen becomes a 4/4 Vampire creature with flying, lifelink, and indestructible.
+[-7]: You get an emblem with “Whenever a creature an opponent controls dies, its controller loses 1 life and you gain 1 life.” Then destroy all creatures.
+Sequel {5}{B}{B} => {5}{B}{B}: Return Cohen from your graveyard to the battlefield with a finality counter. Activate only as a sorcery.
+[+1]: Create a Blood token.
+[0]: Until end of turn, Cohen becomes a 4/4 Vampire creature with flying, lifelink, and indestructible.
+[-7]: You get an emblem with “Whenever a creature dies, target opponent loses 1 life and you gain 1 life.” Then destroy all creatures.
+
+Virtuous Knight
+
+Search the Universe
+
+Admiral Joseph
+
+Mantle of the Empire
+rules_text: Third Act
+As long as you're in your third act, you may cast spells from your hand without paying their mana costs. 
+Whenever you cast a spell, you lose life equal to its mana value. => Third Act
+During your turn, as long as you're in your third act, you may cast spells from your hand without paying their mana costs. 
+Whenever you cast a spell, you lose 2 life.
+
+Siege Mastodon
+rules_text: Third Act
+At the beginning of your upkeep, if you're in your third act, choose one — 
+• Create two 1/1 white Soldier creature tokens.
+• Put two +1/+1 counters on this creature.
+• You gain 3 life. => Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]
+If you would create one or more creature tokens, if you're in your third act, instead create those tokens plus an additional two 1/1 white Soldier creature tokens.
+pt: 5/5 => 6/6
+
+Kal Rod'r
+
+The Illusionist
+
+Lyndy
+
+Ratrisha Rocket
+
+Germinating Grub
+
+Morgril, the Devastator
+
+Skelly Boy Beatdown
+
+Ortesian Sneak
+rules_text: Third Act
+Trample
+Whenever this creature attacks, look at the top card of your library. You may put a land card from your hand or the top of your library onto the battlefield tapped. Then if you're in your third act, draw a card. => Trample
+This creature gets +2/+2 as long as you control seven or more lands.
+Whenever this creature attacks, look at the top card of your library. You may put a land card from your hand or the top of your library onto the battlefield.
+
+Stormbringer Behemoth
+
+Monitor Room
+
+Family Friendly Hero
+
+Hellbreach Heroine
+
+Colossal Kaiju
+
+One by One
+
+Guppy
+
+The Big Screen
+
+Dimensional Antenna
+
+Hero's Rise
+cost: {1}{R}{W} => {R}{W}
+
+Third Act
+
+Detective
+
+Mikandros
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
