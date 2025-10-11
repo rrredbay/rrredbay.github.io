@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "DWD",
+            "set_name": "Deadwood",
+            "formats": ""
+        },
+        {
             "set_code": "POP",
             "set_name": "Popcorn",
             "formats": "Cube"

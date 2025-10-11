@@ -1,0 +1,951 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Doomed Traveler",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/2_CW01 Doomed Traveler.png"
+			}
+		},
+		{
+			"name": "CW02 Lightwell Pupil",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/3_CW02 Lightwell Pupil.png"
+			}
+		},
+		{
+			"name": "CW03 Starsfall Cleric",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/4_CW03 Starsfall Cleric.png"
+			}
+		},
+		{
+			"name": "CW04 Dour Statue",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/5_CW04 Dour Statue.png"
+			}
+		},
+		{
+			"name": "CW05 Starry Strix",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/6_CW05 Starry Strix.png"
+			}
+		},
+		{
+			"name": "CW06 Palemoor Cavalier",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/7_CW06 Palemoor Cavalier.png"
+			}
+		},
+		{
+			"name": "CW08 Inspiring Champion",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/9_CW08 Inspiring Champion.png"
+			}
+		},
+		{
+			"name": "CW07 Deepwood Infantry",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/8_CW07 Deepwood Infantry.png"
+			}
+		},
+		{
+			"name": "CW09 Priestess of the Haunting",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/10_CW09 Priestess of the Haunting.png"
+			}
+		},
+		{
+			"name": "CW10 Burdened Giant",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/11_CW10 Burdened Giant.png"
+			}
+		},
+		{
+			"name": "CW11 Angel of the Blackened Sun",
+			"rarity": "special",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/12_CW11 Angel of the Blackened Sun.png"
+			}
+		},
+		{
+			"name": "CW12 Pacifism",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/13_CW12 Pacifism.png"
+			}
+		},
+		{
+			"name": "CW13 Curse of Occlusion",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/14_CW13 Curse of Occlusion.png"
+			}
+		},
+		{
+			"name": "CW14 Face Your Fears",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/15_CW14 Face Your Fears.png"
+			}
+		},
+		{
+			"name": "CW15 Seeker's Lantern",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/16_CW15 Seeker's Lantern.png"
+			}
+		},
+		{
+			"name": "CU01 Owl of Good Omens",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/17_CU01 Owl of Good Omens.png"
+			}
+		},
+		{
+			"name": "CU02 Palemoor Merrow",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/18_CU02 Palemoor Merrow.png"
+			}
+		},
+		{
+			"name": "CU04 Frostwytch Initiate",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/20_CU04 Frostwytch Initiate.png"
+			}
+		},
+		{
+			"name": "CU05 Brineborn Toad",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Frog",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/21_CU05 Brineborn Toad.png"
+			}
+		},
+		{
+			"name": "CU03 Village Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/19_CU03 Village Protector.png"
+			}
+		},
+		{
+			"name": "CU06 Chillblood Wytch",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/22_CU06 Chillblood Wytch.png"
+			}
+		},
+		{
+			"name": "CU08 Sphinx of Dread",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/24_CU08 Sphinx of Dread.png"
+			}
+		},
+		{
+			"name": "CU07 Waterborn Mourner",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Wraith",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/23_CU07 Waterborn Mourner.png"
+			}
+		},
+		{
+			"name": "CU09 Katya's Ire",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/25_CU09 Katya's Ire.png"
+			}
+		},
+		{
+			"name": "CU10 Sinister Sabotage",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/26_CU10 Sinister Sabotage.png"
+			}
+		},
+		{
+			"name": "CU11 Broken Reflection",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/27_CU11 Broken Reflection.png"
+			}
+		},
+		{
+			"name": "CU12 Curse of the Haunting Effigy",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/28_CU12 Curse of the Haunting Effigy.png"
+			}
+		},
+		{
+			"name": "CU13 Hide Beneath",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/29_CU13 Hide Beneath.png"
+			}
+		},
+		{
+			"name": "CU14 Corrupted Soul",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/30_CU14 Corrupted Soul.png"
+			}
+		},
+		{
+			"name": "CU15 Deal with Spirits",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/31_CU15 Deal with Spirits.png"
+			}
+		},
+		{
+			"name": "CB01 Forlorn Rusalka",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Wraith",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/32_CB01 Forlorn Rusalka.png"
+			}
+		},
+		{
+			"name": "CB03 Enthralled Ram",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goat",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/34_CB03 Enthralled Ram.png"
+			}
+		},
+		{
+			"name": "CB04 Ghost Rider",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Wraith",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/35_CB04 Ghost Rider.png"
+			}
+		},
+		{
+			"name": "CB05 Cunning Bogwytch",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/36_CB05 Cunning Bogwytch.png"
+			}
+		},
+		{
+			"name": "CB08 Arachnibomination",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/39_CB08 Arachnibomination.png"
+			}
+		},
+		{
+			"name": "CB07 Carrion Harpy",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Harpy Rogue",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/38_CB07 Carrion Harpy.png"
+			}
+		},
+		{
+			"name": "CB09 Palemoor Alpha",
+			"rarity": "special",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment Creature — Wolf Wraith",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/40_CB09 Palemoor Alpha.png"
+			}
+		},
+		{
+			"name": "CB10 Tormenting Wound",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/41_CB10 Tormenting Wound.png"
+			}
+		},
+		{
+			"name": "CB11 Curse of Broken Strings",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/42_CB11 Curse of Broken Strings.png"
+			}
+		},
+		{
+			"name": "CB12 Deal with Wytches",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/43_CB12 Deal with Wytches.png"
+			}
+		},
+		{
+			"name": "CB13 Fae Meddling",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/44_CB13 Fae Meddling.png"
+			}
+		},
+		{
+			"name": "CB14 Wish You Away",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/45_CB14 Wish You Away.png"
+			}
+		},
+		{
+			"name": "CB15 Power of the Altar",
+			"rarity": "special",
+			"mana_cost": "{6}{B}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/46_CB15 Power of the Altar.png"
+			}
+		},
+		{
+			"name": "CR01 Heartwood Novice",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/47_CR01 Heartwood Novice.png"
+			}
+		},
+		{
+			"name": "CR02 Elusive Redfur",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/48_CR02 Elusive Redfur.png"
+			}
+		},
+		{
+			"name": "CR03 Scorned Sorceress",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/49_CR03 Scorned Sorceress.png"
+			}
+		},
+		{
+			"name": "CR04 Wytchblade Huntress",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warlock Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/50_CR04 Wytchblade Huntress.png"
+			}
+		},
+		{
+			"name": "CR05 Goblin Wytchfolk",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warlock",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/51_CR05 Goblin Wytchfolk.png"
+			}
+		},
+		{
+			"name": "CR06 Rambling Cottage",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/52_CR06 Rambling Cottage.png"
+			}
+		},
+		{
+			"name": "CR07 Borderland Shepherd",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/53_CR07 Borderland Shepherd.png"
+			}
+		},
+		{
+			"name": "CR08 Hellfire Instigator",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Satyr Demon",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/54_CR08 Hellfire Instigator.png"
+			}
+		},
+		{
+			"name": "CR09 Granitehand Giant",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/55_CR09 Granitehand Giant.png"
+			}
+		},
+		{
+			"name": "CR10 Flamedance Ritual",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/56_CR10 Flamedance Ritual.png"
+			}
+		},
+		{
+			"name": "CR11 Heartland Warpaint",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/57_CR11 Heartland Warpaint.png"
+			}
+		},
+		{
+			"name": "CR12 Curse of Burning Branches",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/58_CR12 Curse of Burning Branches.png"
+			}
+		},
+		{
+			"name": "CR13 Burn the Past",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/59_CR13 Burn the Past.png"
+			}
+		},
+		{
+			"name": "CR14 Haunting Malice",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/60_CR14 Haunting Malice.png"
+			}
+		},
+		{
+			"name": "CR15 Exorcise the Demons",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/61_CR15 Exorcise the Demons.png"
+			}
+		},
+		{
+			"name": "CG09 Summon Forest Guardian",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/70_CG09 Summon Forest Guardian.png"
+			}
+		},
+		{
+			"name": "CG01 Heartland Piper",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Satyr Druid",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/62_CG01 Heartland Piper.png"
+			}
+		},
+		{
+			"name": "CG02 Gnarled Warden",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Treefolk Druid Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/63_CG02 Gnarled Warden.png"
+			}
+		},
+		{
+			"name": "CG03 Greenleaf Traveler",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dwarf Druid",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/64_CG03 Greenleaf Traveler.png"
+			}
+		},
+		{
+			"name": "CG04 Timberborn Chief",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/65_CG04 Timberborn Chief.png"
+			}
+		},
+		{
+			"name": "CG05 Borderland Ranger",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout Ranger",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/66_CG05 Borderland Ranger.png"
+			}
+		},
+		{
+			"name": "CG06 Elder Boulderhorn",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/67_CG06 Elder Boulderhorn.png"
+			}
+		},
+		{
+			"name": "CG07 Enraged Sentinel",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/68_CG07 Enraged Sentinel.png"
+			}
+		},
+		{
+			"name": "CG08 Heartland Giantess",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/69_CG08 Heartland Giantess.png"
+			}
+		},
+		{
+			"name": "CG15 Curse of the Hunted",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/76_CG15 Curse of the Hunted.png"
+			}
+		},
+		{
+			"name": "CG11 Suffocating Growth",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/72_CG11 Suffocating Growth.png"
+			}
+		},
+		{
+			"name": "CG12 Eyes of a Predator",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/73_CG12 Eyes of a Predator.png"
+			}
+		},
+		{
+			"name": "CG13 Nature's Boon",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/74_CG13 Nature's Boon.png"
+			}
+		},
+		{
+			"name": "CG14 Autumn Enclave",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/75_CG14 Autumn Enclave.png"
+			}
+		},
+		{
+			"name": "CG10 Deal with Trolls",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/71_CG10 Deal with Trolls.png"
+			}
+		},
+		{
+			"name": "CB06 Greyblade Warden",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/37_CB06 Greyblade Warden.png"
+			}
+		},
+		{
+			"name": "CA01 Ancient Lorekeeper",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature — Spirit Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/1_CA01 Ancient Lorekeeper.png"
+			}
+		},
+		{
+			"name": "CA02 Rusted Knight",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/77_CA02 Rusted Knight.png"
+			}
+		},
+		{
+			"name": "CL01 Palemoor Bog",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/81_CL01 Palemoor Bog.png"
+			}
+		},
+		{
+			"name": "CB02 Palemoor Wytch",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/33_CB02 Palemoor Wytch.png"
+			}
+		},
+		{
+			"name": "CA03 Timeworn Guardian",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/78_CA03 Timeworn Guardian.png"
+			}
+		},
+		{
+			"name": "CA04 Helm of Bone",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/79_CA04 Helm of Bone.png"
+			}
+		},
+		{
+			"name": "CA05 Stone of Darkest Night",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/80_CA05 Stone of Darkest Night.png"
+			}
+		},
+		{
+			"name": "CL06 Abandoned Crossroads",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/86_CL06 Abandoned Crossroads.png"
+			}
+		},
+		{
+			"name": "CL05 Sleepy Village",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/85_CL05 Sleepy Village.png"
+			}
+		},
+		{
+			"name": "CL02 Deepwood Alcove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/82_CL02 Deepwood Alcove.png"
+			}
+		},
+		{
+			"name": "CL03 Lonely Cabin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/83_CL03 Lonely Cabin.png"
+			}
+		},
+		{
+			"name": "CL04 Forgotten City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/DWD-files/img/84_CL04 Forgotten City.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 CW01 Doomed Traveler
+	1 CW02 Lightwell Pupil
+	1 CW03 Starsfall Cleric
+	1 CW04 Dour Statue
+	1 CW05 Starry Strix
+	1 CW06 Palemoor Cavalier
+	1 CW08 Inspiring Champion
+	1 CW07 Deepwood Infantry
+	1 CW09 Priestess of the Haunting
+	1 CW10 Burdened Giant
+	1 CW11 Angel of the Blackened Sun
+	1 CW12 Pacifism
+	1 CW13 Curse of Occlusion
+	1 CW14 Face Your Fears
+	1 CW15 Seeker's Lantern
+	1 CU01 Owl of Good Omens
+	1 CU02 Palemoor Merrow
+	1 CU04 Frostwytch Initiate
+	1 CU05 Brineborn Toad
+	1 CU03 Village Protector
+	1 CU06 Chillblood Wytch
+	1 CU08 Sphinx of Dread
+	1 CU07 Waterborn Mourner
+	1 CU09 Katya's Ire
+	1 CU10 Sinister Sabotage
+	1 CU11 Broken Reflection
+	1 CU12 Curse of the Haunting Effigy
+	1 CU13 Hide Beneath
+	1 CU14 Corrupted Soul
+	1 CU15 Deal with Spirits
+	1 CB01 Forlorn Rusalka
+	1 CB03 Enthralled Ram
+	1 CB04 Ghost Rider
+	1 CB05 Cunning Bogwytch
+	1 CB08 Arachnibomination
+	1 CB07 Carrion Harpy
+	1 CB09 Palemoor Alpha
+	1 CB10 Tormenting Wound
+	1 CB11 Curse of Broken Strings
+	1 CB12 Deal with Wytches
+	1 CB13 Fae Meddling
+	1 CB14 Wish You Away
+	1 CB15 Power of the Altar
+	1 CR01 Heartwood Novice
+	1 CR02 Elusive Redfur
+	1 CR03 Scorned Sorceress
+	1 CR04 Wytchblade Huntress
+	1 CR05 Goblin Wytchfolk
+	1 CR06 Rambling Cottage
+	1 CR07 Borderland Shepherd
+	1 CR08 Hellfire Instigator
+	1 CR09 Granitehand Giant
+	1 CR10 Flamedance Ritual
+	1 CR11 Heartland Warpaint
+	1 CR12 Curse of Burning Branches
+	1 CR13 Burn the Past
+	1 CR14 Haunting Malice
+	1 CR15 Exorcise the Demons
+	1 CG09 Summon Forest Guardian
+	1 CG01 Heartland Piper
+	1 CG02 Gnarled Warden
+	1 CG03 Greenleaf Traveler
+	1 CG04 Timberborn Chief
+	1 CG05 Borderland Ranger
+	1 CG06 Elder Boulderhorn
+	1 CG07 Enraged Sentinel
+	1 CG08 Heartland Giantess
+	1 CG15 Curse of the Hunted
+	1 CG11 Suffocating Growth
+	1 CG12 Eyes of a Predator
+	1 CG13 Nature's Boon
+	1 CG14 Autumn Enclave
+	1 CG10 Deal with Trolls
+	1 CB06 Greyblade Warden
+	1 CA01 Ancient Lorekeeper
+	1 CA02 Rusted Knight
+	1 CL01 Palemoor Bog
+	1 CB02 Palemoor Wytch
+	1 CA03 Timeworn Guardian
+	1 CA04 Helm of Bone
+	1 CA05 Stone of Darkest Night
+	1 CL06 Abandoned Crossroads
+	1 CL05 Sleepy Village
+	1 CL02 Deepwood Alcove
+	1 CL03 Lonely Cabin
+	1 CL04 Forgotten City
