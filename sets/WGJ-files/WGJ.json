@@ -5,6 +5,8 @@
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Shoreline Midden",
@@ -14,7 +16,7 @@
             "number": 268,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{WU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{WU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -23,6 +25,7 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "0",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -33,7 +36,7 @@
             "number": 270,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{UB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{UB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -42,6 +45,7 @@
             "loyalty": "",
             "artist": "Giulia Gentilini",
             "alias": "",
+            "position": "1",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -52,7 +56,7 @@
             "number": 263,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{BR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{BR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -61,6 +65,7 @@
             "loyalty": "",
             "artist": "Phil Saunders",
             "alias": "",
+            "position": "2",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -71,7 +76,7 @@
             "number": 256,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{RG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{RG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -80,6 +85,7 @@
             "loyalty": "",
             "artist": "Aboy Ningthouja",
             "alias": "",
+            "position": "3",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -90,7 +96,7 @@
             "number": 267,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{GW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{GW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -99,6 +105,7 @@
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
             "alias": "",
+            "position": "4",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -109,7 +116,7 @@
             "number": 257,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{WB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{WB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -118,6 +125,7 @@
             "loyalty": "",
             "artist": "Max Bedulenko",
             "alias": "",
+            "position": "5",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -128,7 +136,7 @@
             "number": 262,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{UR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{UR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -137,6 +145,7 @@
             "loyalty": "",
             "artist": "Forrest White",
             "alias": "",
+            "position": "6",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -147,7 +156,7 @@
             "number": 258,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{BG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{BG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -156,6 +165,7 @@
             "loyalty": "",
             "artist": "Anna Semykina",
             "alias": "",
+            "position": "7",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -166,7 +176,7 @@
             "number": 266,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{RW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{RW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -175,6 +185,7 @@
             "loyalty": "",
             "artist": "Wayne haag",
             "alias": "",
+            "position": "8",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -185,7 +196,7 @@
             "number": 265,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{GU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{GU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -194,6 +205,7 @@
             "loyalty": "",
             "artist": "Dmitry Vishnevsk",
             "alias": "",
+            "position": "9",
             "notes": "!tokens Junk\n\n#common #midden"
         },
         {
@@ -204,7 +216,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "The Beast gets each ability noted with your Call The Beast emblem.\nThe Beast gets +1/+1 for each card exiled with your Call The Beast emblem.",
+            "rules_text": "The Beast has each ability noted with your Call The Beast emblem.\nThe Beast gets +1/+1 for each card exiled with your Call The Beast emblem.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -213,6 +225,7 @@
             "loyalty": "",
             "artist": "Huy Tran Viet",
             "alias": "",
+            "position": "10",
             "notes": "landslot"
         },
         {
@@ -232,6 +245,7 @@
             "loyalty": "",
             "artist": "Joel Pigou",
             "alias": "",
+            "position": "11",
             "notes": ""
         },
         {
@@ -251,6 +265,7 @@
             "loyalty": "",
             "artist": "Emmanuel Shiu",
             "alias": "",
+            "position": "12",
             "notes": ""
         },
         {
@@ -270,6 +285,7 @@
             "loyalty": "",
             "artist": "Kevin Fl\u00f3rez Ram\u00edrez",
             "alias": "",
+            "position": "13",
             "notes": ""
         },
         {
@@ -289,6 +305,7 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "14",
             "notes": ""
         },
         {
@@ -308,6 +325,7 @@
             "loyalty": "",
             "artist": "Maojin.Lee",
             "alias": "",
+            "position": "15",
             "notes": ""
         },
         {
@@ -327,6 +345,7 @@
             "loyalty": "",
             "artist": "Francois Gosselin",
             "alias": "",
+            "position": "16",
             "notes": ""
         },
         {
@@ -337,7 +356,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i]\u201cScan 3809: Complete.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -346,6 +365,7 @@
             "loyalty": "",
             "artist": "Mike Patrick",
             "alias": "",
+            "position": "17",
             "notes": "!tokens Junk\n\n#white #common"
         },
         {
@@ -365,6 +385,7 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
+            "position": "18",
             "notes": "#white #common"
         },
         {
@@ -384,6 +405,7 @@
             "loyalty": "",
             "artist": "Mike Smith",
             "alias": "",
+            "position": "19",
             "notes": "#white #common"
         },
         {
@@ -403,6 +425,7 @@
             "loyalty": "",
             "artist": "Robert Chew",
             "alias": "",
+            "position": "20",
             "notes": "#white #common"
         },
         {
@@ -422,6 +445,7 @@
             "loyalty": "",
             "artist": "Raymond -hanhao",
             "alias": "",
+            "position": "21",
             "notes": "#white #common"
         },
         {
@@ -441,6 +465,7 @@
             "loyalty": "",
             "artist": "Kyle Martin",
             "alias": "",
+            "position": "22",
             "notes": "#white #common"
         },
         {
@@ -460,6 +485,7 @@
             "loyalty": "",
             "artist": "Al Brady",
             "alias": "",
+            "position": "23",
             "notes": "#white #common"
         },
         {
@@ -479,6 +505,7 @@
             "loyalty": "",
             "artist": "boris nenezic",
             "alias": "",
+            "position": "24",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #common"
         },
         {
@@ -498,6 +525,7 @@
             "loyalty": "",
             "artist": "Kenta Doi",
             "alias": "",
+            "position": "25",
             "notes": "#blue #common"
         },
         {
@@ -508,7 +536,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.",
+            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -517,6 +545,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "26",
             "notes": "!tokens Junk\n\n#blue #common"
         },
         {
@@ -536,6 +565,7 @@
             "loyalty": "",
             "artist": "Joakim Ericsson",
             "alias": "",
+            "position": "27",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #common"
         },
         {
@@ -555,6 +585,7 @@
             "loyalty": "",
             "artist": "Dmitri Gorbushin",
             "alias": "",
+            "position": "28",
             "notes": "#blue #common"
         },
         {
@@ -574,6 +605,7 @@
             "loyalty": "",
             "artist": "Longque Chen",
             "alias": "",
+            "position": "29",
             "notes": "#blue #uncommon"
         },
         {
@@ -593,6 +625,7 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
+            "position": "30",
             "notes": "#blue #common"
         },
         {
@@ -612,6 +645,7 @@
             "loyalty": "",
             "artist": "Papaya",
             "alias": "",
+            "position": "31",
             "notes": "#blue #common"
         },
         {
@@ -631,6 +665,7 @@
             "loyalty": "",
             "artist": "Tuomas Korpi",
             "alias": "",
+            "position": "32",
             "notes": "#blue #common"
         },
         {
@@ -650,6 +685,7 @@
             "loyalty": "",
             "artist": "Stijn Beerts",
             "alias": "",
+            "position": "33",
             "notes": "!tokens Treasure\n\n#blue #common"
         },
         {
@@ -669,6 +705,7 @@
             "loyalty": "",
             "artist": "Yugin Maffioli",
             "alias": "",
+            "position": "34",
             "notes": "#blue #common"
         },
         {
@@ -688,6 +725,7 @@
             "loyalty": "",
             "artist": "Darwin Cellis",
             "alias": "",
+            "position": "35",
             "notes": "#blue #common"
         },
         {
@@ -698,7 +736,7 @@
             "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -707,6 +745,7 @@
             "loyalty": "",
             "artist": "Vincent Delbarry",
             "alias": "",
+            "position": "36",
             "notes": "!tokens Junk\n\n#black #common"
         },
         {
@@ -726,6 +765,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "37",
             "notes": "!tokens Servo\n\n#black #common"
         },
         {
@@ -745,6 +785,7 @@
             "loyalty": "",
             "artist": "Sean Hughes",
             "alias": "",
+            "position": "38",
             "notes": "#black #common"
         },
         {
@@ -764,6 +805,7 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
+            "position": "39",
             "notes": "#black #common"
         },
         {
@@ -774,7 +816,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -783,6 +825,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "40",
             "notes": "!tokens Junk<2>\n\n#black #common"
         },
         {
@@ -802,6 +845,7 @@
             "loyalty": "",
             "artist": "Daimey",
             "alias": "",
+            "position": "41",
             "notes": "#black #common"
         },
         {
@@ -821,6 +865,7 @@
             "loyalty": "",
             "artist": "Antoine Wilmot",
             "alias": "",
+            "position": "42",
             "notes": "#black #uncommon"
         },
         {
@@ -840,6 +885,7 @@
             "loyalty": "",
             "artist": "Lamin Martin",
             "alias": "",
+            "position": "43",
             "notes": "!tokens Zombie\n\n#black #common"
         },
         {
@@ -859,6 +905,7 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
+            "position": "44",
             "notes": "!tokens Call The Beast Emblem\n\n#black #common"
         },
         {
@@ -878,6 +925,7 @@
             "loyalty": "",
             "artist": "Mingchen Shen",
             "alias": "",
+            "position": "45",
             "notes": "!tokens Call The Beast Emblem\n#black #common"
         },
         {
@@ -897,6 +945,7 @@
             "loyalty": "",
             "artist": "rupam raaj r",
             "alias": "",
+            "position": "46",
             "notes": "!tokens Call The Beast Emblem\n\n#black #common"
         },
         {
@@ -907,7 +956,7 @@
             "number": 152,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Haste\nWhen this creature dies, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Haste\nWhen this creature dies, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -916,6 +965,7 @@
             "loyalty": "",
             "artist": "Miguel Regod\u00f3n Harkness",
             "alias": "",
+            "position": "47",
             "notes": "!tokens Junk\n\n#red #common"
         },
         {
@@ -935,6 +985,7 @@
             "loyalty": "",
             "artist": "Joseph Kim",
             "alias": "",
+            "position": "48",
             "notes": "#red #common"
         },
         {
@@ -954,6 +1005,7 @@
             "loyalty": "",
             "artist": "zhu liu",
             "alias": "",
+            "position": "49",
             "notes": "#red #common"
         },
         {
@@ -973,6 +1025,7 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "50",
             "notes": "#red #common"
         },
         {
@@ -992,6 +1045,7 @@
             "loyalty": "",
             "artist": "Arrigo Verderosa",
             "alias": "",
+            "position": "51",
             "notes": "#red #common"
         },
         {
@@ -1011,6 +1065,7 @@
             "loyalty": "",
             "artist": "Melissa Buffaloe",
             "alias": "",
+            "position": "52",
             "notes": "!tokens Mercenary\n\n#red #common"
         },
         {
@@ -1030,6 +1085,7 @@
             "loyalty": "",
             "artist": "Wang Xian Kun",
             "alias": "",
+            "position": "53",
             "notes": "#red #common"
         },
         {
@@ -1040,7 +1096,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1049,6 +1105,7 @@
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
+            "position": "54",
             "notes": "!tokens Junk\n\n#red #common"
         },
         {
@@ -1059,7 +1116,7 @@
             "number": 160,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nCreate two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nCreate two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1068,6 +1125,7 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
+            "position": "55",
             "notes": "!tokens Junk<2>\n\n#red #common"
         },
         {
@@ -1087,6 +1145,7 @@
             "loyalty": "",
             "artist": "Daniel Schmelling",
             "alias": "",
+            "position": "56",
             "notes": "!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common"
         },
         {
@@ -1106,6 +1165,7 @@
             "loyalty": "",
             "artist": "Sebastian L\u00fcdke",
             "alias": "",
+            "position": "57",
             "notes": "#red #common"
         },
         {
@@ -1125,6 +1185,7 @@
             "loyalty": "",
             "artist": "Donato Giancola",
             "alias": "",
+            "position": "58",
             "notes": "#green #common"
         },
         {
@@ -1144,6 +1205,7 @@
             "loyalty": "",
             "artist": "Geoff Rosenthal",
             "alias": "",
+            "position": "59",
             "notes": "#green #common"
         },
         {
@@ -1163,6 +1225,7 @@
             "loyalty": "",
             "artist": "Xavier R",
             "alias": "",
+            "position": "60",
             "notes": "!tokens Treasure\n\n#green #common"
         },
         {
@@ -1182,6 +1245,7 @@
             "loyalty": "",
             "artist": "qiang zhou",
             "alias": "",
+            "position": "61",
             "notes": "#green #common"
         },
         {
@@ -1201,6 +1265,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "62",
             "notes": "!tokens Call The Beast Emblem\n\n#green #common"
         },
         {
@@ -1220,6 +1285,7 @@
             "loyalty": "",
             "artist": "Aaron Griffin",
             "alias": "",
+            "position": "63",
             "notes": "#green #common"
         },
         {
@@ -1239,6 +1305,7 @@
             "loyalty": "",
             "artist": "Seungjin Woo",
             "alias": "",
+            "position": "64",
             "notes": "#green #common"
         },
         {
@@ -1258,6 +1325,7 @@
             "loyalty": "",
             "artist": "Joakim Ericsson",
             "alias": "",
+            "position": "65",
             "notes": "#green #common"
         },
         {
@@ -1277,6 +1345,7 @@
             "loyalty": "",
             "artist": "Bal\u00e1zs Bartus",
             "alias": "",
+            "position": "66",
             "notes": "#green #common"
         },
         {
@@ -1287,7 +1356,7 @@
             "number": 198,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Destroy target artifact.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Destroy target artifact.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1296,6 +1365,7 @@
             "loyalty": "",
             "artist": "Daryl Mandryk",
             "alias": "",
+            "position": "67",
             "notes": "!tokens Junk\n\n#green #common"
         },
         {
@@ -1315,6 +1385,7 @@
             "loyalty": "",
             "artist": "Ken Liu",
             "alias": "",
+            "position": "68",
             "notes": "#red #uncommon"
         },
         {
@@ -1334,6 +1405,7 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "69",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
@@ -1353,6 +1425,7 @@
             "loyalty": "",
             "artist": "Matt Dixon",
             "alias": "",
+            "position": "70",
             "notes": "!tokens Servo\n\n#gold #uncommon #arcun"
         },
         {
@@ -1372,6 +1445,7 @@
             "loyalty": "",
             "artist": "Tymoteusz Chlisz",
             "alias": "",
+            "position": "71",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
@@ -1391,6 +1465,7 @@
             "loyalty": "",
             "artist": "Milan Nikolic",
             "alias": "",
+            "position": "72",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun"
         },
         {
@@ -1410,6 +1485,7 @@
             "loyalty": "",
             "artist": "Mark Ponczek",
             "alias": "",
+            "position": "73",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
@@ -1429,6 +1505,7 @@
             "loyalty": "",
             "artist": "Nikolay Georgiev",
             "alias": "",
+            "position": "74",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
@@ -1448,6 +1525,7 @@
             "loyalty": "",
             "artist": "Cameron Nissen",
             "alias": "",
+            "position": "75",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun"
         },
         {
@@ -1467,6 +1545,7 @@
             "loyalty": "",
             "artist": "Joshua Clarke",
             "alias": "",
+            "position": "76",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
@@ -1477,7 +1556,7 @@
             "number": 252,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this creature dies, each player creates a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature dies, each player creates a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1486,6 +1565,7 @@
             "loyalty": "",
             "artist": "Matt Dixon",
             "alias": "",
+            "position": "77",
             "notes": "!tokens Junk\n\n#colorless #common"
         },
         {
@@ -1505,6 +1585,7 @@
             "loyalty": "",
             "artist": "Eric Elwell",
             "alias": "",
+            "position": "78",
             "notes": "#colorless #common"
         },
         {
@@ -1524,6 +1605,7 @@
             "loyalty": "",
             "artist": "Marc Escachx",
             "alias": "",
+            "position": "79",
             "notes": "!tokens Call The Beast Emblem\n\n#colorless #common"
         },
         {
@@ -1543,6 +1625,7 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
+            "position": "80",
             "notes": "#colorless #common"
         },
         {
@@ -1562,6 +1645,7 @@
             "loyalty": "",
             "artist": "Niv Shpigel",
             "alias": "",
+            "position": "81",
             "notes": "#colorless #common"
         },
         {
@@ -1581,6 +1665,7 @@
             "loyalty": "",
             "artist": "Surya Prasetya",
             "alias": "",
+            "position": "82",
             "notes": "#green #common"
         },
         {
@@ -1600,6 +1685,7 @@
             "loyalty": "",
             "artist": "Sam Rowan",
             "alias": "",
+            "position": "83",
             "notes": "!tokens Call The Beast Emblem;Insect<2>\n\n#blue #common"
         },
         {
@@ -1619,6 +1705,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "84",
             "notes": "#green #common"
         },
         {
@@ -1638,6 +1725,7 @@
             "loyalty": "",
             "artist": "Veronica Voutila",
             "alias": "",
+            "position": "85",
             "notes": "#green #common"
         },
         {
@@ -1657,6 +1745,7 @@
             "loyalty": "",
             "artist": "Oleg Fedorov",
             "alias": "",
+            "position": "86",
             "notes": "#white #common"
         },
         {
@@ -1676,6 +1765,7 @@
             "loyalty": "",
             "artist": "Su Jian",
             "alias": "",
+            "position": "87",
             "notes": "#white #common"
         },
         {
@@ -1695,6 +1785,7 @@
             "loyalty": "",
             "artist": "Brandon Liao",
             "alias": "",
+            "position": "88",
             "notes": "#white #common"
         },
         {
@@ -1714,6 +1805,7 @@
             "loyalty": "",
             "artist": "Benedick Bana",
             "alias": "",
+            "position": "89",
             "notes": "#black #common"
         },
         {
@@ -1733,6 +1825,7 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
+            "position": "90",
             "notes": "!tokens Call The Beast Emblem\n\n#green #common"
         },
         {
@@ -1752,6 +1845,7 @@
             "loyalty": "",
             "artist": "Riley O'Kane",
             "alias": "",
+            "position": "91",
             "notes": "#red #common"
         },
         {
@@ -1771,6 +1865,7 @@
             "loyalty": "",
             "artist": "Matt Tkocz",
             "alias": "",
+            "position": "92",
             "notes": "!tokens Call The Beast Emblem;Servo<2>\n\n#white #common"
         },
         {
@@ -1790,6 +1885,7 @@
             "loyalty": "",
             "artist": "Jort van Welbergen",
             "alias": "",
+            "position": "93",
             "notes": "#red #common"
         },
         {
@@ -1809,6 +1905,7 @@
             "loyalty": "",
             "artist": "Neil Blevins",
             "alias": "",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1828,6 +1925,7 @@
             "loyalty": "",
             "artist": "John Mueller",
             "alias": "",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1847,6 +1945,7 @@
             "loyalty": "",
             "artist": "Dominic Harman",
             "alias": "",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1866,6 +1965,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1885,6 +1985,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "98",
             "notes": "#black #common"
         },
         {
@@ -1904,6 +2005,7 @@
             "loyalty": "",
             "artist": "Peter Rossa",
             "alias": "",
+            "position": "99",
             "notes": "#black #uncommon"
         },
         {
@@ -1923,6 +2025,7 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
+            "position": "100",
             "notes": "#black #uncommon"
         },
         {
@@ -1933,7 +2036,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nJunk tokens you control have \u201c{T}, Pay 1 life: Add {B}.\u201d",
+            "rules_text": "{1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nJunk tokens you control have \u201c{T}, Pay 1 life: Add {B}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1942,6 +2045,7 @@
             "loyalty": "",
             "artist": "Benjamin Clair",
             "alias": "",
+            "position": "101",
             "notes": "!tokens Junk\n\n#black #uncommon"
         },
         {
@@ -1961,6 +2065,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "102",
             "notes": "!tokens Call The Beast Emblem;Zombie\n\n#black #uncommon"
         },
         {
@@ -1980,6 +2085,7 @@
             "loyalty": "",
             "artist": "Danny Kundzinsh",
             "alias": "",
+            "position": "103",
             "notes": "#black #uncommon"
         },
         {
@@ -1999,6 +2105,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "104",
             "notes": "#black #uncommon"
         },
         {
@@ -2018,6 +2125,7 @@
             "loyalty": "",
             "artist": "Jan Klooster, van de",
             "alias": "",
+            "position": "105",
             "notes": "#black #uncommon"
         },
         {
@@ -2037,6 +2145,7 @@
             "loyalty": "",
             "artist": "Maxime Teppe",
             "alias": "",
+            "position": "106",
             "notes": "#black #uncommon"
         },
         {
@@ -2056,6 +2165,7 @@
             "loyalty": "",
             "artist": "Cole Miller",
             "alias": "",
+            "position": "107",
             "notes": "!tokens Call The Beast Emblem\n\n#black #uncommon"
         },
         {
@@ -2075,6 +2185,7 @@
             "loyalty": "",
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
+            "position": "108",
             "notes": "#black #uncommon"
         },
         {
@@ -2094,6 +2205,7 @@
             "loyalty": "",
             "artist": "Th\u00e9o DROULEZ",
             "alias": "",
+            "position": "109",
             "notes": "!exportname Pull em Out\n\n#black #uncommon"
         },
         {
@@ -2113,6 +2225,7 @@
             "loyalty": "",
             "artist": "Geoffrey Ernault",
             "alias": "",
+            "position": "110",
             "notes": "#black #uncommon"
         },
         {
@@ -2132,6 +2245,7 @@
             "loyalty": "",
             "artist": "Garret Post",
             "alias": "",
+            "position": "111",
             "notes": "#red #uncommon"
         },
         {
@@ -2151,6 +2265,7 @@
             "loyalty": "",
             "artist": "Germ\u00e1n Cid",
             "alias": "",
+            "position": "112",
             "notes": "!tokens Junk\n\n#red #uncommon"
         },
         {
@@ -2170,6 +2285,7 @@
             "loyalty": "",
             "artist": "Huy Van Triet",
             "alias": "",
+            "position": "113",
             "notes": "#red #uncommon"
         },
         {
@@ -2189,6 +2305,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
+            "position": "114",
             "notes": "#red #uncommon"
         },
         {
@@ -2208,6 +2325,7 @@
             "loyalty": "",
             "artist": "Vladimir Manyukhin",
             "alias": "",
+            "position": "115",
             "notes": "!exportname Yarders Uprising\n!tokens Mercenary<2>\n\n#red #uncommon"
         },
         {
@@ -2227,6 +2345,7 @@
             "loyalty": "",
             "artist": "Stoyan Stoyanov",
             "alias": "",
+            "position": "116",
             "notes": "#red #uncommon"
         },
         {
@@ -2246,6 +2365,7 @@
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
             "alias": "",
+            "position": "117",
             "notes": "#red #uncommon"
         },
         {
@@ -2265,6 +2385,7 @@
             "loyalty": "",
             "artist": "Victor Bravo",
             "alias": "",
+            "position": "118",
             "notes": "#red #uncommon"
         },
         {
@@ -2284,6 +2405,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "119",
             "notes": "!tokens Call The Beast Emblem\n\n#red #uncommon"
         },
         {
@@ -2303,6 +2425,7 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "120",
             "notes": "#red #uncommon"
         },
         {
@@ -2313,7 +2436,7 @@
             "number": 221,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.",
+            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2322,6 +2445,7 @@
             "loyalty": "",
             "artist": "Dylan Scher",
             "alias": "",
+            "position": "121",
             "notes": "!tokens Junk<2>\n\n#gold #uncommon #arcun"
         },
         {
@@ -2341,6 +2465,7 @@
             "loyalty": "",
             "artist": "Eric Elwell",
             "alias": "",
+            "position": "122",
             "notes": "#red #uncommon"
         },
         {
@@ -2351,7 +2476,7 @@
             "number": 144,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 1",
+            "rules_text": "Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 1",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2360,6 +2485,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "123",
             "notes": "!tokens Treasure;Junk\n\n#red #uncommon"
         },
         {
@@ -2379,6 +2505,7 @@
             "loyalty": "",
             "artist": "su jian",
             "alias": "",
+            "position": "124",
             "notes": "!tokens Nomad;Nomad<2>\n\n#green #uncommon"
         },
         {
@@ -2398,6 +2525,7 @@
             "loyalty": "",
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
+            "position": "125",
             "notes": "#green #uncommon"
         },
         {
@@ -2417,6 +2545,7 @@
             "loyalty": "",
             "artist": "Ben Hancock",
             "alias": "",
+            "position": "126",
             "notes": "#green #uncommon"
         },
         {
@@ -2436,6 +2565,7 @@
             "loyalty": "",
             "artist": "Cl\u00e9ment BRECHET",
             "alias": "",
+            "position": "127",
             "notes": "#colorless #uncommon"
         },
         {
@@ -2455,6 +2585,7 @@
             "loyalty": "",
             "artist": "Bo\u017cenka Jelonek",
             "alias": "",
+            "position": "128",
             "notes": "!tokens Treasure\n\n#green #uncommon"
         },
         {
@@ -2474,6 +2605,7 @@
             "loyalty": "",
             "artist": "KRIS",
             "alias": "",
+            "position": "129",
             "notes": "#green #uncommon"
         },
         {
@@ -2493,6 +2625,7 @@
             "loyalty": "",
             "artist": "Rienque LeVerite",
             "alias": "",
+            "position": "130",
             "notes": "#green #uncommon"
         },
         {
@@ -2512,6 +2645,7 @@
             "loyalty": "",
             "artist": "Xavier R",
             "alias": "",
+            "position": "131",
             "notes": "#green #uncommon"
         },
         {
@@ -2531,6 +2665,7 @@
             "loyalty": "",
             "artist": "\u6b27\u745f\u65af \u5de5\u4f5c\u5ba4",
             "alias": "",
+            "position": "132",
             "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon"
         },
         {
@@ -2550,6 +2685,7 @@
             "loyalty": "",
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
+            "position": "133",
             "notes": "!exportname ATV Hotshot\n\n#green #uncommon"
         },
         {
@@ -2569,6 +2705,7 @@
             "loyalty": "",
             "artist": "John Mueller",
             "alias": "",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2588,6 +2725,7 @@
             "loyalty": "",
             "artist": "Mateusz Wisniew",
             "alias": "",
+            "position": "135",
             "notes": "#white #uncommon"
         },
         {
@@ -2607,6 +2745,7 @@
             "loyalty": "",
             "artist": "Ciarian Lucas",
             "alias": "",
+            "position": "136",
             "notes": "#white #uncommon"
         },
         {
@@ -2626,6 +2765,7 @@
             "loyalty": "",
             "artist": "Ondrej Spanhel",
             "alias": "",
+            "position": "137",
             "notes": "#white #uncommon"
         },
         {
@@ -2645,6 +2785,7 @@
             "loyalty": "",
             "artist": "Jacob Kuhne",
             "alias": "",
+            "position": "138",
             "notes": "#white #uncommon"
         },
         {
@@ -2664,6 +2805,7 @@
             "loyalty": "",
             "artist": "benedykt szneider",
             "alias": "",
+            "position": "139",
             "notes": "#white #uncommon"
         },
         {
@@ -2683,6 +2825,7 @@
             "loyalty": "",
             "artist": "cheetz0",
             "alias": "",
+            "position": "140",
             "notes": "#white #uncommon"
         },
         {
@@ -2693,7 +2836,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one. You may choose both instead if you've cast another noncreature spell this turn.\n\u2022 Create two 1/1 colorless Servo artifact creature tokens.\n\u2022 Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Choose one. You may choose both instead if you've cast another noncreature spell this turn.\n\u2022 Create two 1/1 colorless Servo artifact creature tokens.\n\u2022 Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2702,6 +2845,7 @@
             "loyalty": "",
             "artist": "Grafit Studios",
             "alias": "",
+            "position": "141",
             "notes": "!tokens Servo<2>;Junk\n\n#white #uncommon"
         },
         {
@@ -2721,6 +2865,7 @@
             "loyalty": "",
             "artist": "Igor Artyomenko",
             "alias": "",
+            "position": "142",
             "notes": "#white #uncommon"
         },
         {
@@ -2731,7 +2876,7 @@
             "number": 83,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\nWhenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
+            "rules_text": "Flying\nWhenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2740,6 +2885,7 @@
             "loyalty": "",
             "artist": "Lo\u00efc Souquet",
             "alias": "",
+            "position": "143",
             "notes": "!tokens Junk\n\n#blue #uncommon"
         },
         {
@@ -2759,6 +2905,7 @@
             "loyalty": "",
             "artist": "Oliver Wetter",
             "alias": "",
+            "position": "144",
             "notes": "#blue #uncommon"
         },
         {
@@ -2778,6 +2925,7 @@
             "loyalty": "",
             "artist": "Geoffrey Amesse",
             "alias": "",
+            "position": "145",
             "notes": "#blue #uncommon"
         },
         {
@@ -2797,6 +2945,7 @@
             "loyalty": "",
             "artist": "David Savage",
             "alias": "",
+            "position": "146",
             "notes": "#blue #uncommon"
         },
         {
@@ -2816,6 +2965,7 @@
             "loyalty": "",
             "artist": "Athavan",
             "alias": "",
+            "position": "147",
             "notes": "#blue #uncommon"
         },
         {
@@ -2835,6 +2985,7 @@
             "loyalty": "",
             "artist": "Thomas Brissot",
             "alias": "",
+            "position": "148",
             "notes": "#blue #uncommon"
         },
         {
@@ -2854,6 +3005,7 @@
             "loyalty": "",
             "artist": "Fran Fdez",
             "alias": "",
+            "position": "149",
             "notes": "#blue #uncommon"
         },
         {
@@ -2873,6 +3025,7 @@
             "loyalty": "",
             "artist": "Jonathan Dawo",
             "alias": "",
+            "position": "150",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon"
         },
         {
@@ -2892,6 +3045,7 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
+            "position": "151",
             "notes": "#blue #uncommon"
         },
         {
@@ -2902,7 +3056,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i][i]Hoot n' Holler[/i][/i] \u2014 Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "[i][i]Hoot n' Holler[/i][/i] \u2014 Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2911,6 +3065,7 @@
             "loyalty": "",
             "artist": "Vael",
             "alias": "",
+            "position": "152",
             "notes": "!tokens Junk\n\n#blue #uncommon"
         },
         {
@@ -2930,6 +3085,7 @@
             "loyalty": "",
             "artist": "Lighting Luminoso",
             "alias": "",
+            "position": "153",
             "notes": "#blue #uncommon"
         },
         {
@@ -2949,6 +3105,7 @@
             "loyalty": "",
             "artist": "Federico Bentancor",
             "alias": "",
+            "position": "154",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land"
         },
         {
@@ -2968,6 +3125,7 @@
             "loyalty": "",
             "artist": "Jiri Horacek",
             "alias": "",
+            "position": "155",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land"
         },
         {
@@ -2987,6 +3145,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "156",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land"
         },
         {
@@ -3006,6 +3165,7 @@
             "loyalty": "",
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
+            "position": "157",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land"
         },
         {
@@ -3025,6 +3185,7 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "158",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land"
         },
         {
@@ -3044,6 +3205,7 @@
             "loyalty": "",
             "artist": "Illarstration",
             "alias": "",
+            "position": "159",
             "notes": "#colorless #uncommon"
         },
         {
@@ -3063,6 +3225,7 @@
             "loyalty": "",
             "artist": "Iain Hegoburu",
             "alias": "",
+            "position": "160",
             "notes": "!tokens Call The Beast Emblem\n\n#colorless #uncommon"
         },
         {
@@ -3082,6 +3245,7 @@
             "loyalty": "",
             "artist": "Jacob Houghton",
             "alias": "",
+            "position": "161",
             "notes": "#colorless #uncommon"
         },
         {
@@ -3101,6 +3265,7 @@
             "loyalty": "",
             "artist": "Franky Savant",
             "alias": "",
+            "position": "162",
             "notes": "#colorless #uncommon"
         },
         {
@@ -3120,6 +3285,7 @@
             "loyalty": "",
             "artist": "MoGi Group",
             "alias": "",
+            "position": "163",
             "notes": "#white #uncommon"
         },
         {
@@ -3139,6 +3305,7 @@
             "loyalty": "",
             "artist": "Christophe Durand Deshaies",
             "alias": "",
+            "position": "164",
             "notes": "#white #uncommon"
         },
         {
@@ -3158,6 +3325,7 @@
             "loyalty": "",
             "artist": "Svet Rezhet Glaza",
             "alias": "",
+            "position": "165",
             "notes": "#white #uncommon"
         },
         {
@@ -3177,6 +3345,7 @@
             "loyalty": "",
             "artist": "Boris Campistron",
             "alias": "",
+            "position": "166",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon"
         },
         {
@@ -3196,6 +3365,7 @@
             "loyalty": "",
             "artist": "Melanie Tan",
             "alias": "",
+            "position": "167",
             "notes": "#red #uncommon"
         },
         {
@@ -3215,6 +3385,7 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "168",
             "notes": "!tokens Zombie\n\n#black #uncommon"
         },
         {
@@ -3234,6 +3405,7 @@
             "loyalty": "",
             "artist": "Tyler Edlin",
             "alias": "",
+            "position": "169",
             "notes": "#green #uncommon"
         },
         {
@@ -3253,6 +3425,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "170",
             "notes": "!tokens Zombie\n\n#gold #mythic #junklord"
         },
         {
@@ -3272,6 +3445,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "171",
             "notes": "!tokens Servo\n\n#gold #mythic #junklord"
         },
         {
@@ -3291,6 +3465,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "172",
             "notes": "!tokens Phoenix\n\n#gold #mythic #junklord"
         },
         {
@@ -3310,6 +3485,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "173",
             "notes": "#gold #mythic #junklord"
         },
         {
@@ -3320,7 +3496,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Target nonland permanent's owner puts it on their choice of the top or bottom of their library.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Target nonland permanent's owner puts it on their choice of the top or bottom of their library.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3329,6 +3505,7 @@
             "loyalty": "",
             "artist": "Mario Brunner",
             "alias": "",
+            "position": "174",
             "notes": "!tokens Junk\n\n#blue #common"
         },
         {
@@ -3348,6 +3525,7 @@
             "loyalty": "",
             "artist": "Romain Thirion",
             "alias": "",
+            "position": "175",
             "notes": "!tokens Junk\n\n#green #rare"
         },
         {
@@ -3367,6 +3545,7 @@
             "loyalty": "",
             "artist": "Steven Noble",
             "alias": "",
+            "position": "176",
             "notes": "!tokens Gearbox\n\n#green #rare"
         },
         {
@@ -3386,6 +3565,7 @@
             "loyalty": "",
             "artist": "Mikael Yusifov",
             "alias": "",
+            "position": "177",
             "notes": "#green #rare"
         },
         {
@@ -3405,6 +3585,7 @@
             "loyalty": "",
             "artist": "Massimiliano Richieri",
             "alias": "",
+            "position": "178",
             "notes": "#green #rare"
         },
         {
@@ -3424,6 +3605,7 @@
             "loyalty": "",
             "artist": "D DB",
             "alias": "",
+            "position": "179",
             "notes": "!tokens Junk\n\n#green #rare"
         },
         {
@@ -3443,6 +3625,7 @@
             "loyalty": "",
             "artist": "Orphan RTG",
             "alias": "",
+            "position": "180",
             "notes": "#green #rare"
         },
         {
@@ -3462,6 +3645,7 @@
             "loyalty": "",
             "artist": "Lenar Shakirov",
             "alias": "",
+            "position": "181",
             "notes": "!tokens Call The Beast Emblem\n\n#green #rare"
         },
         {
@@ -3481,6 +3665,7 @@
             "loyalty": "",
             "artist": "Dan Morris",
             "alias": "",
+            "position": "182",
             "notes": "!exportname Garoths Charge\n\n#green #rare"
         },
         {
@@ -3500,6 +3685,7 @@
             "loyalty": "",
             "artist": "Space Goose",
             "alias": "",
+            "position": "183",
             "notes": "#red #rare"
         },
         {
@@ -3519,6 +3705,7 @@
             "loyalty": "",
             "artist": "Zhuolun Li",
             "alias": "",
+            "position": "184",
             "notes": "!tokens Puck\n\n#red #rare"
         },
         {
@@ -3538,6 +3725,7 @@
             "loyalty": "",
             "artist": "Zack Jones",
             "alias": "",
+            "position": "185",
             "notes": "#red #rare"
         },
         {
@@ -3557,6 +3745,7 @@
             "loyalty": "",
             "artist": "Erik Davis Heim",
             "alias": "",
+            "position": "186",
             "notes": "!tokens Goblin<2>\n\n#red #rare"
         },
         {
@@ -3576,6 +3765,7 @@
             "loyalty": "",
             "artist": "Matt Rhodes",
             "alias": "",
+            "position": "187",
             "notes": "#red #rare"
         },
         {
@@ -3595,6 +3785,7 @@
             "loyalty": "",
             "artist": "Tsvetelin Krastev",
             "alias": "",
+            "position": "188",
             "notes": "!exportname Vorricks Blast Array\n\n#red #rare"
         },
         {
@@ -3614,6 +3805,7 @@
             "loyalty": "",
             "artist": "Dima S-K",
             "alias": "",
+            "position": "189",
             "notes": "#red #rare"
         },
         {
@@ -3633,6 +3825,7 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "190",
             "notes": "#black #rare"
         },
         {
@@ -3652,6 +3845,7 @@
             "loyalty": "",
             "artist": "Amanda Diaz",
             "alias": "",
+            "position": "191",
             "notes": "#gold #rare"
         },
         {
@@ -3671,6 +3865,7 @@
             "loyalty": "",
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
+            "position": "192",
             "notes": "!tokens Junk<2>\n\n#gold #rare"
         },
         {
@@ -3690,6 +3885,7 @@
             "loyalty": "",
             "artist": "Brandon Liao",
             "alias": "",
+            "position": "193",
             "notes": "#gold #rare"
         },
         {
@@ -3709,6 +3905,7 @@
             "loyalty": "",
             "artist": "Philipp Kruse",
             "alias": "",
+            "position": "194",
             "notes": "#gold #rare"
         },
         {
@@ -3728,6 +3925,7 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "195",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #rare"
         },
         {
@@ -3747,6 +3945,7 @@
             "loyalty": "",
             "artist": "RUPAM RAAJ R.",
             "alias": "",
+            "position": "196",
             "notes": "#colorless #rare"
         },
         {
@@ -3766,6 +3965,7 @@
             "loyalty": "",
             "artist": "Tom\u00e1\u0161 M\u00fcller",
             "alias": "",
+            "position": "197",
             "notes": "!exportname Felisahs Recruiter\n\n#white #rare"
         },
         {
@@ -3785,6 +3985,7 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "198",
             "notes": "!tokens Junk;Mercenary\n\n#white #rare"
         },
         {
@@ -3804,6 +4005,7 @@
             "loyalty": "",
             "artist": "Paul Patricio",
             "alias": "",
+            "position": "199",
             "notes": "!exportname Lundquists Garage\n\n#white #rare"
         },
         {
@@ -3823,6 +4025,7 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "200",
             "notes": "#white #rare"
         },
         {
@@ -3842,6 +4045,7 @@
             "loyalty": "",
             "artist": "Sylvain Coutouly",
             "alias": "",
+            "position": "201",
             "notes": "#white #rare"
         },
         {
@@ -3861,6 +4065,7 @@
             "loyalty": "",
             "artist": "Chloe Beckett",
             "alias": "",
+            "position": "202",
             "notes": "!tokens Call The Beast Emblem\n\n#white #rare"
         },
         {
@@ -3880,6 +4085,7 @@
             "loyalty": "",
             "artist": "Christian Bravery",
             "alias": "",
+            "position": "203",
             "notes": "!tokens Servo\n\n#white #rare"
         },
         {
@@ -3899,6 +4105,7 @@
             "loyalty": "",
             "artist": "Reza Afshar",
             "alias": "",
+            "position": "204",
             "notes": "!tokens Junk;Servo;Insect;Mercenary;Nomad\n\n#gold #rare"
         },
         {
@@ -3918,6 +4125,7 @@
             "loyalty": "",
             "artist": "Radik Shaikhullin",
             "alias": "",
+            "position": "205",
             "notes": "#black #mythic"
         },
         {
@@ -3937,6 +4145,7 @@
             "loyalty": "",
             "artist": "Sylvain Coutouly",
             "alias": "",
+            "position": "206",
             "notes": "!exportname Azareths Dreadnought\n\n#black #mythic"
         },
         {
@@ -3956,6 +4165,7 @@
             "loyalty": "",
             "artist": "Izzy Medrano",
             "alias": "",
+            "position": "207",
             "notes": "#black #rare"
         },
         {
@@ -3975,6 +4185,7 @@
             "loyalty": "",
             "artist": "Hocheol Ryu Welz",
             "alias": "",
+            "position": "208",
             "notes": "#black #rare"
         },
         {
@@ -3994,6 +4205,7 @@
             "loyalty": "",
             "artist": "Darwin Cellis",
             "alias": "",
+            "position": "209",
             "notes": "!tokens Call The Beast Emblem\n\n#black #rare"
         },
         {
@@ -4013,6 +4225,7 @@
             "loyalty": "",
             "artist": "Typhaine Escande",
             "alias": "",
+            "position": "210",
             "notes": "#black #rare"
         },
         {
@@ -4032,6 +4245,7 @@
             "loyalty": "",
             "artist": "Vael",
             "alias": "",
+            "position": "211",
             "notes": "#black #rare"
         },
         {
@@ -4051,6 +4265,7 @@
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
             "alias": "",
+            "position": "212",
             "notes": "#blue #rare"
         },
         {
@@ -4070,6 +4285,7 @@
             "loyalty": "",
             "artist": "Cameron Nissen",
             "alias": "",
+            "position": "213",
             "notes": "#blue #rare"
         },
         {
@@ -4089,6 +4305,7 @@
             "loyalty": "",
             "artist": "sparth",
             "alias": "",
+            "position": "214",
             "notes": "!tokens Junk;Treasure;Servo\n\n#blue #rare"
         },
         {
@@ -4099,7 +4316,7 @@
             "number": 76,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4108,6 +4325,7 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
+            "position": "215",
             "notes": "!tokens Junk\n\n#blue #rare"
         },
         {
@@ -4127,6 +4345,7 @@
             "loyalty": "",
             "artist": "Athur Haas",
             "alias": "",
+            "position": "216",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #rare"
         },
         {
@@ -4146,6 +4365,7 @@
             "loyalty": "",
             "artist": "Dimitar Katsarov",
             "alias": "",
+            "position": "217",
             "notes": "#blue #rare"
         },
         {
@@ -4165,6 +4385,7 @@
             "loyalty": "",
             "artist": "Maxim Lingert",
             "alias": "",
+            "position": "218",
             "notes": "!tokens Junk\n\n#blue #rare"
         },
         {
@@ -4184,6 +4405,7 @@
             "loyalty": "",
             "artist": "WEI ShenGun",
             "alias": "",
+            "position": "219",
             "notes": "!exportname Shamuss Pontoon\n\n#blue #rare"
         },
         {
@@ -4203,6 +4425,7 @@
             "loyalty": "",
             "artist": "Glenn Porter",
             "alias": "",
+            "position": "220",
             "notes": "#gold #rare"
         },
         {
@@ -4222,6 +4445,7 @@
             "loyalty": "",
             "artist": "Afanur Rashid",
             "alias": "",
+            "position": "221",
             "notes": "!tokens Junk\n\n#gold #rare"
         },
         {
@@ -4241,6 +4465,7 @@
             "loyalty": "",
             "artist": "David Newton",
             "alias": "",
+            "position": "222",
             "notes": "!tokens Nomad\n\n#gold #rare"
         },
         {
@@ -4260,6 +4485,7 @@
             "loyalty": "",
             "artist": "Tatiana Novak",
             "alias": "",
+            "position": "223",
             "notes": "#colorless #rare"
         },
         {
@@ -4279,6 +4505,7 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "224",
             "notes": "#colorless #rare"
         },
         {
@@ -4289,7 +4516,7 @@
             "number": 240,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "Flying\nWhen The Brain enters, gain control of all nonartifact creatures for as long as you control The Brain.\nWhenever you attack with a creature you don't own, draw a card.\n{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it.",
+            "rules_text": "Flying\nWhen The Brain enters, if you cast it, gain control of all nonartifact creatures for as long as you control The Brain.\nWhenever you attack with a creature you don't own, draw a card.\n{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4298,6 +4525,7 @@
             "loyalty": "",
             "artist": "Gabriele Vaccaro",
             "alias": "",
+            "position": "225",
             "notes": "#colorless #rare"
         },
         {
@@ -4317,6 +4545,7 @@
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
             "alias": "",
+            "position": "226",
             "notes": "!tokens Junk\n\n#black #mythic"
         },
         {
@@ -4336,6 +4565,7 @@
             "loyalty": "",
             "artist": "Luca Maiorani",
             "alias": "",
+            "position": "227",
             "notes": "#green #mythic"
         },
         {
@@ -4355,6 +4585,7 @@
             "loyalty": "",
             "artist": "Riccardo Varisco",
             "alias": "",
+            "position": "228",
             "notes": "!exportname Recycle-o-Tron\n\n#green #mythic"
         },
         {
@@ -4374,6 +4605,7 @@
             "loyalty": "",
             "artist": "Andrzej Rybus",
             "alias": "",
+            "position": "229",
             "notes": "#red #mythic"
         },
         {
@@ -4393,6 +4625,7 @@
             "loyalty": "4",
             "artist": "Dimitar Katsarov",
             "alias": "",
+            "position": "230",
             "notes": "!tokens Junk\n\n#colorless #mythic #planeswalker"
         },
         {
@@ -4412,6 +4645,7 @@
             "loyalty": "",
             "artist": "Verena G",
             "alias": "",
+            "position": "231",
             "notes": "!tokens Call The Beast Emblem\n\n#white #mythic"
         },
         {
@@ -4431,6 +4665,7 @@
             "loyalty": "",
             "artist": "Maryse Heilig",
             "alias": "",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4450,6 +4685,7 @@
             "loyalty": "",
             "artist": "Huy Tran Viet",
             "alias": "",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4469,6 +4705,7 @@
             "loyalty": "",
             "artist": "Mohamed Abd Elsalam",
             "alias": "",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4488,6 +4725,7 @@
             "loyalty": "",
             "artist": "William McAusland",
             "alias": "",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4507,6 +4745,7 @@
             "loyalty": "",
             "artist": "Michal Kus",
             "alias": "",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4526,6 +4765,7 @@
             "loyalty": "",
             "artist": "Marvin B\u00fcte",
             "alias": "",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4536,7 +4776,7 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nJunks you control have \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d",
+            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nArtifacts you control have \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d",
             "flavor_text": "[i]\u201cI'm not sure if I'll be here tomorrow. But the Beetles? They'll live forever.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4545,6 +4785,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "238",
             "notes": "#blue #mythic"
         },
         {
@@ -4564,6 +4805,7 @@
             "loyalty": "",
             "artist": "Pepijn De Lange",
             "alias": "",
+            "position": "239",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #mythic"
         },
         {
@@ -4583,6 +4825,7 @@
             "loyalty": "",
             "artist": "Simon Douville",
             "alias": "",
+            "position": "240",
             "notes": "#blue #uncommon"
         },
         {
@@ -4602,6 +4845,7 @@
             "loyalty": "",
             "artist": "Robota",
             "alias": "",
+            "position": "241",
             "notes": "#white #uncommon"
         },
         {
@@ -4621,6 +4865,7 @@
             "loyalty": "",
             "artist": "Mikl\u00f3s Ligeti",
             "alias": "",
+            "position": "242",
             "notes": "#white #rare"
         },
         {
@@ -4640,6 +4885,7 @@
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
             "alias": "",
+            "position": "243",
             "notes": "#white #rare"
         },
         {
@@ -4659,6 +4905,7 @@
             "loyalty": "",
             "artist": "Michal Kus",
             "alias": "",
+            "position": "244",
             "notes": "#blue #uncommon"
         },
         {
@@ -4678,6 +4925,7 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
+            "position": "245",
             "notes": "#blue #common"
         },
         {
@@ -4688,7 +4936,7 @@
             "number": 191,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Trample\nWhen this Vehicle dies, create three Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
+            "rules_text": "Trample\nWhen this Vehicle dies, create three Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
             "flavor_text": "[i][/i]",
             "pt": "7/4",
             "special_text": "",
@@ -4697,6 +4945,7 @@
             "loyalty": "",
             "artist": "Kirill Udodov",
             "alias": "",
+            "position": "246",
             "notes": "!tokens Junk<3>\n\n#green #uncommon"
         },
         {
@@ -4716,6 +4965,7 @@
             "loyalty": "",
             "artist": "Daryl Mandryk",
             "alias": "",
+            "position": "247",
             "notes": "#colorless #common"
         },
         {
@@ -4735,6 +4985,7 @@
             "loyalty": "",
             "artist": "Victor Bravo",
             "alias": "",
+            "position": "248",
             "notes": "!exportname Hoarders Caravan\n\n#green #uncommon"
         },
         {
@@ -4754,6 +5005,7 @@
             "loyalty": "",
             "artist": "William Dylan Domeyer",
             "alias": "",
+            "position": "249",
             "notes": "!tokens Dog<2>\n\n#white #uncommon"
         },
         {
@@ -4773,6 +5025,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "250",
             "notes": "!exportname Junklords Hole Puncher\n\n#red #mythic"
         },
         {
@@ -4792,6 +5045,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "251",
             "notes": "#white #common"
         },
         {
@@ -4811,6 +5065,7 @@
             "loyalty": "",
             "artist": "Ignacio Bazan-Lazcano",
             "alias": "",
+            "position": "252",
             "notes": "#white #uncommon"
         },
         {
@@ -4830,6 +5085,7 @@
             "loyalty": "",
             "artist": "Sergey Orlyansky",
             "alias": "",
+            "position": "253",
             "notes": "#black #common"
         },
         {
@@ -4849,6 +5105,7 @@
             "loyalty": "",
             "artist": "Felicien Nourry",
             "alias": "",
+            "position": "254",
             "notes": "#white #common"
         },
         {
@@ -4868,6 +5125,7 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
+            "position": "255",
             "notes": "!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun"
         },
         {
@@ -4887,6 +5145,7 @@
             "loyalty": "",
             "artist": "Miguel Iterbe",
             "alias": "",
+            "position": "256",
             "notes": "#white #uncommon"
         },
         {
@@ -4906,6 +5165,7 @@
             "loyalty": "",
             "artist": "Daniel Ignacio",
             "alias": "",
+            "position": "257",
             "notes": "#blue #common"
         },
         {
@@ -4925,6 +5185,7 @@
             "loyalty": "",
             "artist": "Gunnar Feldmann",
             "alias": "",
+            "position": "258",
             "notes": "#blue #uncommon"
         },
         {
@@ -4944,6 +5205,7 @@
             "loyalty": "",
             "artist": "D4Disgruntled",
             "alias": "",
+            "position": "259",
             "notes": "#black #uncommon"
         },
         {
@@ -4963,6 +5225,7 @@
             "loyalty": "",
             "artist": "Piotr Kwasnicki",
             "alias": "",
+            "position": "260",
             "notes": "!tokens Treasure\n\n#red #uncommon"
         },
         {
@@ -4982,6 +5245,7 @@
             "loyalty": "",
             "artist": "Aster Reeve",
             "alias": "",
+            "position": "261",
             "notes": "#green #uncommon"
         },
         {
@@ -5001,6 +5265,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "262",
             "notes": "!tokens Junk\n\n#gold #mythic #junklord"
         },
         {
@@ -5020,6 +5285,7 @@
             "loyalty": "",
             "artist": "Dmitry Klyushkin",
             "alias": "",
+            "position": "263",
             "notes": "#green #uncommon"
         },
         {
@@ -5039,6 +5305,7 @@
             "loyalty": "",
             "artist": "Aleski Briclot",
             "alias": "",
+            "position": "264",
             "notes": "!tokens Mercenary\n\n#red #rare"
         },
         {
@@ -5058,6 +5325,7 @@
             "loyalty": "",
             "artist": "Philippe Ringuette",
             "alias": "",
+            "position": "265",
             "notes": "#red #rare"
         },
         {
@@ -5077,6 +5345,7 @@
             "loyalty": "",
             "artist": "Aboy Singh",
             "alias": "",
+            "position": "266",
             "notes": "!tokens Louie\n\n#black #uncommon"
         },
         {
@@ -5096,6 +5365,7 @@
             "loyalty": "",
             "artist": "Xu Tianhua",
             "alias": "",
+            "position": "267",
             "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon"
         },
         {
@@ -5115,6 +5385,7 @@
             "loyalty": "",
             "artist": "Mindgel",
             "alias": "",
+            "position": "268",
             "notes": "#white #mythic"
         },
         {
@@ -5134,6 +5405,7 @@
             "loyalty": "",
             "artist": "Patryk Jedraszek",
             "alias": "",
+            "position": "269",
             "notes": "landslot\n!tokens The Beast"
         },
         {
@@ -5153,6 +5425,7 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "270",
             "notes": "#black #common"
         },
         {
@@ -5172,6 +5445,7 @@
             "loyalty": "",
             "artist": "Travis Anderson",
             "alias": "",
+            "position": "271",
             "notes": "#black #common"
         },
         {
@@ -5191,6 +5465,7 @@
             "loyalty": "",
             "artist": "J Hua",
             "alias": "",
+            "position": "272",
             "notes": "!tokens Servo\n\n#red #common"
         },
         {
@@ -5210,6 +5485,7 @@
             "loyalty": "",
             "artist": "Pedro Otelcana",
             "alias": "",
+            "position": "273",
             "notes": "#black #rare"
         },
         {
@@ -5229,6 +5505,7 @@
             "loyalty": "",
             "artist": "Nick Storozhenko",
             "alias": "",
+            "position": "274",
             "notes": "#blue #mythic"
         },
         {
@@ -5248,6 +5525,7 @@
             "loyalty": "",
             "artist": "Bachana Botchorishvilli",
             "alias": "",
+            "position": "275",
             "notes": "#white #common"
         },
         {
@@ -5267,6 +5545,7 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "276",
             "notes": "!tokens Servo<2>\n\n#gold #mythic"
         },
         {
@@ -5286,6 +5565,7 @@
             "loyalty": "",
             "artist": "Jarrod Penfold",
             "alias": "",
+            "position": "277",
             "notes": "!tokens Servo\n\n#white #uncommon"
         },
         {
@@ -5305,6 +5585,7 @@
             "loyalty": "",
             "artist": "Alu\u00edsio Cervelle Santos",
             "alias": "",
+            "position": "278",
             "notes": "!tokens Call The Beast Emblem\n#blue #rare"
         },
         {
@@ -5324,6 +5605,7 @@
             "loyalty": "",
             "artist": "Joshua Carter",
             "alias": "",
+            "position": "279",
             "notes": "#gold #rare"
         },
         {
@@ -5343,6 +5625,7 @@
             "loyalty": "",
             "artist": "Aleksei Shatunov",
             "alias": "",
+            "position": "280",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #rare"
         },
         {
@@ -5362,6 +5645,7 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "281",
             "notes": "!tokens Call The Beast Emblem\n\n#black #rare"
         },
         {
@@ -5381,6 +5665,7 @@
             "loyalty": "",
             "artist": "LiXin Yin",
             "alias": "",
+            "position": "282",
             "notes": "!exportname The Junklords Gambit\n\n#colorless #mythic"
         },
         {
@@ -5400,6 +5685,7 @@
             "loyalty": "",
             "artist": "Jarrard Lee",
             "alias": "",
+            "position": "283",
             "notes": "#green #common"
         },
         {
@@ -5419,6 +5705,7 @@
             "loyalty": "",
             "artist": "Polina Semenova",
             "alias": "",
+            "position": "284",
             "notes": "!tokens Call The Beast Emblem\n\n#green #rare"
         },
         {
@@ -5438,6 +5725,7 @@
             "loyalty": "",
             "artist": "Wang Xian Kun",
             "alias": "",
+            "position": "285",
             "notes": "#red #uncommon"
         },
         {
@@ -5457,6 +5745,7 @@
             "loyalty": "",
             "artist": "Games Revolted",
             "alias": "",
+            "position": "286",
             "notes": "#green #uncommon"
         },
         {
@@ -5476,6 +5765,7 @@
             "loyalty": "",
             "artist": "Zhuolun Li",
             "alias": "",
+            "position": "287",
             "notes": "kinsley"
         },
         {
@@ -5495,6 +5785,7 @@
             "loyalty": "",
             "artist": "Jun Huang",
             "alias": "",
+            "position": "288",
             "notes": "#white #common"
         },
         {
@@ -5514,6 +5805,7 @@
             "loyalty": "",
             "artist": "Wojciech Kr\u00f3lik",
             "alias": "",
+            "position": "289",
             "notes": "#red #common"
         },
         {
@@ -5533,8 +5825,9 @@
             "loyalty": "",
             "artist": "Wenmo Zhang",
             "alias": "",
+            "position": "290",
             "notes": "#black #rare"
         }
     ],
-    "version": 1
+    "version": 2
 }

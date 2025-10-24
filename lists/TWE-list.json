@@ -3,487 +3,568 @@
         "card_name": "Artisan of Movement",
         "number": 2,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Celestial Realization",
         "number": 24,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Blood Ritual",
         "number": 40,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Brutal Negotiation",
         "number": 59,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Brightly-Colored Charger",
         "number": 77,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Crack the Sky",
         "number": 3,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Cog, the Trapped Piece",
         "number": 25,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Borthrau, In-Between",
         "number": 41,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Burning Vengeant",
         "number": 60,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Canine Anomaly",
         "number": 78,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Cumulus Dragon",
         "number": 4,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Crystalsight Entity",
         "number": 26,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Dark Geometry",
         "number": 42,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Careless Toymaker",
         "number": 61,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Canopy of Eyes",
         "number": 79,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Decisive Realization",
         "number": 5,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Disrupt the Flow",
         "number": 27,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Dege, the Corrupted Piece",
         "number": 43,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Contraband Hounds",
         "number": 62,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Churning Growth",
         "number": 80,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Final Call",
         "number": 6,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fist of Lightning",
         "number": 28,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Eloise, She Dances with Death",
         "number": 44,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Hemorrhagia",
         "number": 63,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "The Horror Within",
         "number": 81,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Golden Ribbons",
         "number": 7,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Manipulator of Reality",
         "number": 29,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Endless Night",
         "number": 45,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Isla, She Holds the Sun",
         "number": 64,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Joyous Realization",
         "number": 82,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Heavenly Armor",
         "number": 8,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Monstrous Djinn",
         "number": 30,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Erin, Pale Summoner",
         "number": 46,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Knight of True-Flame",
         "number": 65,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Mouths to Be Fed",
         "number": 83,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Horus, The Many Faced",
         "number": 9,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Pylas, The Librarian",
         "number": 31,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fade Into Shadows",
         "number": 47,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Relentless Advancement",
         "number": 66,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Nebulous Rampager",
         "number": 84,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Let Go",
         "number": 10,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Sail the Seas of Time",
         "number": 32,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Hypnotic Angel",
         "number": 48,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Ruina, the Burnt Piece",
         "number": 67,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Sapping Vines",
         "number": 85,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Mother of Time",
         "number": 11,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Silent Watcher",
         "number": 33,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Infernal Covenant",
         "number": 49,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Rumbling Terror",
         "number": 68,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Seek Harmony",
         "number": 86,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Naltan, the Tainted",
         "number": 12,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Sphinx of Games",
         "number": 34,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Leonne, the Remorseful",
         "number": 50,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Shayla, the Burning Edge",
         "number": 69,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Selt, the Withered Piece",
         "number": 87,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Orbs of Kel'amarth",
         "number": 13,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Tentacle's Grasp",
         "number": 35,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Magus of the Toxin",
         "number": 51,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Silent Flame",
         "number": 70,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Serene Hopper",
         "number": 88,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Radiance",
         "number": 14,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Through Time and Space",
         "number": 36,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Mournflock Tender",
         "number": 52,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Smokeskin Drakkon",
         "number": 71,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Silent Strength",
         "number": 89,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Silent Protector",
         "number": 15,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Time Moves Faster Still",
         "number": 37,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Painful Realization",
         "number": 53,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Spears Held Together",
         "number": 72,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Timberfall Titan",
         "number": 90,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Sisters of Night",
         "number": 16,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Tripolar Mitosis",
         "number": 38,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Silent Killer",
         "number": 54,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Stabbing Realization",
         "number": 73,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Timefalls Regisaur",
         "number": 91,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Steward of Destiny",
         "number": 17,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "We Forget Ourselves",
         "number": 39,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Soul Parasite",
         "number": 55,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Unholy Shrieker",
         "number": 74,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Undead Guardian",
         "number": 92,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Sunguard",
         "number": 18,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -492,25 +573,29 @@
         "card_name": "Still it Beats",
         "number": 56,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Wares from a World Away",
         "number": 75,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Walk Among Giants",
         "number": 93,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Tido, the Fractured Piece",
         "number": 19,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -519,13 +604,15 @@
         "card_name": "Thought-Catcher Tarantula",
         "number": 57,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Wrel, Called to War",
         "number": 76,
         "shape": "planeswalker",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -534,7 +621,8 @@
         "card_name": "Tido's Lightkeeper",
         "number": 20,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -543,7 +631,8 @@
         "card_name": "Your Last Moment",
         "number": 58,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -555,7 +644,8 @@
         "card_name": "Timeworn Sword",
         "number": 21,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -573,7 +663,8 @@
         "card_name": "Warden of the Night",
         "number": 22,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -591,7 +682,8 @@
         "card_name": "Withdraw Essence",
         "number": 23,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -622,7 +714,8 @@
         "card_name": "Return to the Negative Sun",
         "number": 101,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -631,7 +724,8 @@
         "card_name": "Ertys's Reaper",
         "number": 97,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -640,13 +734,15 @@
         "card_name": "Aethergear Sentinel",
         "number": 94,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Where Wind Meets the Sea",
         "number": 107,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -655,7 +751,8 @@
         "card_name": "Sinder, the White Blade",
         "number": 102,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -667,7 +764,8 @@
         "card_name": "Winding Water",
         "number": 108,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -685,7 +783,8 @@
         "card_name": "Frozen in Time",
         "number": 110,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -721,13 +820,15 @@
         "card_name": "Ortan, Leader of Dragons",
         "number": 100,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Darkwood Hart",
         "number": 95,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -742,13 +843,15 @@
         "card_name": "Spinning Planetarium",
         "number": 103,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Dr. Rolf, Otherside Broker",
         "number": 96,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -763,13 +866,15 @@
         "card_name": "Stoke the Timeforge",
         "number": 104,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Inseva, Master of Unlife",
         "number": 98,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -784,13 +889,15 @@
         "card_name": "Timedancer",
         "number": 105,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Mark of Inseva",
         "number": 99,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -805,13 +912,15 @@
         "card_name": "Touch the Sky",
         "number": 106,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Ester, Generous Matriarch",
         "number": 109,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -836,7 +945,8 @@
         "card_name": "Ertys, Arbiter of the Cosmos",
         "number": 1,
         "shape": "planeswalker",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -869,61 +979,71 @@
         "card_name": "Fading Shoreline",
         "number": 133,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Eerie Cemetery",
         "number": 125,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Burning Chasm",
         "number": 113,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Autumnal Wood",
         "number": 112,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Temple",
         "number": 134,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Grand Courtyard",
         "number": 137,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Dourland",
         "number": 127,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Core",
         "number": 126,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Peaks",
         "number": 131,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Moss-Covered Arches",
         "number": 140,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -944,61 +1064,71 @@
         "card_name": "Fading Ghostland",
         "number": 129,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Dazzling Auditorium",
         "number": 124,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Undergrowth",
         "number": 135,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Ancient Canyon",
         "number": 111,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Riverland",
         "number": 132,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Timeless Cavern",
         "number": 141,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Geyser Field",
         "number": 128,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Forgotten Mausoleum",
         "number": 136,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Fading Outcrop",
         "number": 130,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Hushed Brook",
         "number": 138,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1019,67 +1149,78 @@
         "card_name": "Castle of Artifice",
         "number": 114,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Contagions",
         "number": 115,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Dragons",
         "number": 116,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Heroes",
         "number": 117,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Memories",
         "number": 118,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Nightmares",
         "number": 119,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Scorn",
         "number": 120,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Serenities",
         "number": 121,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Trials",
         "number": 122,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Castle of Wonders",
         "number": 123,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "Lotus Nimbus",
         "number": 139,
         "shape": "normal",
-        "set": "TWE"
+        "set": "TWE",
+        "position": ""
     },
     {
         "card_name": "e"

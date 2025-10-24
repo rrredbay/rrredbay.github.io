@@ -3,451 +3,526 @@
         "card_name": "CW01 Doomed Traveler",
         "number": 2,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU01 Owl of Good Omens",
         "number": 17,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB01 Forlorn Rusalka",
         "number": 32,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR01 Heartwood Novice",
         "number": 47,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG01 Heartland Piper",
         "number": 62,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW02 Lightwell Pupil",
         "number": 3,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU02 Palemoor Merrow",
         "number": 18,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB02 Palemoor Wytch",
         "number": 33,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR02 Elusive Redfur",
         "number": 48,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG02 Gnarled Warden",
         "number": 63,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW03 Starsfall Cleric",
         "number": 4,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU03 Village Protector",
         "number": 19,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB03 Enthralled Ram",
         "number": 34,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR03 Scorned Sorceress",
         "number": 49,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG03 Greenleaf Traveler",
         "number": 64,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW04 Dour Statue",
         "number": 5,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU04 Frostwytch Initiate",
         "number": 20,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB04 Ghost Rider",
         "number": 35,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR04 Wytchblade Huntress",
         "number": 50,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG04 Timberborn Chief",
         "number": 65,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW05 Starry Strix",
         "number": 6,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU05 Brineborn Toad",
         "number": 21,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB05 Cunning Bogwytch",
         "number": 36,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR05 Goblin Wytchfolk",
         "number": 51,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG05 Borderland Ranger",
         "number": 66,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW06 Palemoor Cavalier",
         "number": 7,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU06 Chillblood Wytch",
         "number": 22,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB06 Greyblade Warden",
         "number": 37,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR06 Rambling Cottage",
         "number": 52,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG06 Elder Boulderhorn",
         "number": 67,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW07 Deepwood Infantry",
         "number": 8,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU07 Waterborn Mourner",
         "number": 23,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB07 Carrion Harpy",
         "number": 38,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR07 Borderland Shepherd",
         "number": 53,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG07 Enraged Sentinel",
         "number": 68,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW08 Inspiring Champion",
         "number": 9,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU08 Sphinx of Dread",
         "number": 24,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB08 Arachnibomination",
         "number": 39,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR08 Hellfire Instigator",
         "number": 54,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG08 Heartland Giantess",
         "number": 69,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW09 Priestess of the Haunting",
         "number": 10,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU09 Katya's Ire",
         "number": 25,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB09 Palemoor Alpha",
         "number": 40,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR09 Granitehand Giant",
         "number": 55,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG09 Summon Forest Guardian",
         "number": 70,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW10 Burdened Giant",
         "number": 11,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU10 Sinister Sabotage",
         "number": 26,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB10 Tormenting Wound",
         "number": 41,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR10 Flamedance Ritual",
         "number": 56,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG10 Deal with Trolls",
         "number": 71,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW11 Angel of the Blackened Sun",
         "number": 12,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU11 Broken Reflection",
         "number": 27,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB11 Curse of Broken Strings",
         "number": 42,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR11 Heartland Warpaint",
         "number": 57,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG11 Suffocating Growth",
         "number": 72,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW12 Pacifism",
         "number": 13,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU12 Curse of the Haunting Effigy",
         "number": 28,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB12 Deal with Wytches",
         "number": 43,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR12 Curse of Burning Branches",
         "number": 58,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG12 Eyes of a Predator",
         "number": 73,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW13 Curse of Occlusion",
         "number": 14,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU13 Hide Beneath",
         "number": 29,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB13 Fae Meddling",
         "number": 44,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR13 Burn the Past",
         "number": 59,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG13 Nature's Boon",
         "number": 74,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW14 Face Your Fears",
         "number": 15,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU14 Corrupted Soul",
         "number": 30,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB14 Wish You Away",
         "number": 45,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR14 Haunting Malice",
         "number": 60,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG14 Autumn Enclave",
         "number": 75,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CW15 Seeker's Lantern",
         "number": 16,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CU15 Deal with Spirits",
         "number": 31,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CB15 Power of the Altar",
         "number": 46,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CR15 Exorcise the Demons",
         "number": 61,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CG15 Curse of the Hunted",
         "number": 76,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -466,31 +541,36 @@
         "card_name": "CA01 Ancient Lorekeeper",
         "number": 1,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CA02 Rusted Knight",
         "number": 77,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CA03 Timeworn Guardian",
         "number": 78,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CA04 Helm of Bone",
         "number": 79,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CA05 Stone of Darkest Night",
         "number": 80,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -514,7 +594,8 @@
         "card_name": "CL01 Palemoor Bog",
         "number": 81,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -526,7 +607,8 @@
         "card_name": "CL05 Sleepy Village",
         "number": 85,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -550,19 +632,22 @@
         "card_name": "CL04 Forgotten City",
         "number": 84,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CL02 Deepwood Alcove",
         "number": 82,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "CL03 Lonely Cabin",
         "number": 83,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -586,7 +671,8 @@
         "card_name": "CL06 Abandoned Crossroads",
         "number": 86,
         "shape": "normal",
-        "set": "DWD"
+        "set": "DWD",
+        "position": ""
     },
     {
         "card_name": "e"

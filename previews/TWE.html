@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -192,7 +193,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="TWE"><img src="/sets/TWE-files/icon.png">Time Without End</a>
 	
@@ -212,236 +213,236 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TWE-files\img\2_Artisan of Movement.png" id="2_Artisan of Movement" data-flag="@X" onclick="openSidebar('2_Artisan of Movement',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\24_Celestial Realization.png" id="24_Celestial Realization" data-flag="@X" onclick="openSidebar('24_Celestial Realization',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\40_Blood Ritual.png" id="40_Blood Ritual" data-flag="@X" onclick="openSidebar('40_Blood Ritual',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\59_Brutal Negotiation.png" id="59_Brutal Negotiation" data-flag="@X" onclick="openSidebar('59_Brutal Negotiation',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\77_Brightly-Colored Charger.png" id="77_Brightly-Colored Charger" data-flag="@X" onclick="openSidebar('77_Brightly-Colored Charger',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\3_Crack the Sky.png" id="3_Crack the Sky" data-flag="@X" onclick="openSidebar('3_Crack the Sky',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\25_Cog, the Trapped Piece.png" id="25_Cog, the Trapped Piece" data-flag="@X" onclick="openSidebar('25_Cog, the Trapped Piece',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\41_Borthrau, In-Between.png" id="41_Borthrau, In-Between" data-flag="@X" onclick="openSidebar('41_Borthrau, In-Between',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\60_Burning Vengeant.png" id="60_Burning Vengeant" data-flag="@X" onclick="openSidebar('60_Burning Vengeant',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\78_Canine Anomaly.png" id="78_Canine Anomaly" data-flag="@X" onclick="openSidebar('78_Canine Anomaly',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\4_Cumulus Dragon.png" id="4_Cumulus Dragon" data-flag="@X" onclick="openSidebar('4_Cumulus Dragon',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\26_Crystalsight Entity.png" id="26_Crystalsight Entity" data-flag="@X" onclick="openSidebar('26_Crystalsight Entity',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\42_Dark Geometry.png" id="42_Dark Geometry" data-flag="@X" onclick="openSidebar('42_Dark Geometry',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\61_Careless Toymaker.png" id="61_Careless Toymaker" data-flag="@X" onclick="openSidebar('61_Careless Toymaker',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\79_Canopy of Eyes.png" id="79_Canopy of Eyes" data-flag="@X" onclick="openSidebar('79_Canopy of Eyes',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\5_Decisive Realization.png" id="5_Decisive Realization" data-flag="@X" onclick="openSidebar('5_Decisive Realization',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\27_Disrupt the Flow.png" id="27_Disrupt the Flow" data-flag="@X" onclick="openSidebar('27_Disrupt the Flow',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\43_Dege, the Corrupted Piece.png" id="43_Dege, the Corrupted Piece" data-flag="@X" onclick="openSidebar('43_Dege, the Corrupted Piece',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\62_Contraband Hounds.png" id="62_Contraband Hounds" data-flag="@X" onclick="openSidebar('62_Contraband Hounds',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\80_Churning Growth.png" id="80_Churning Growth" data-flag="@X" onclick="openSidebar('80_Churning Growth',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\6_Final Call.png" id="6_Final Call" data-flag="@X" onclick="openSidebar('6_Final Call',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\28_Fist of Lightning.png" id="28_Fist of Lightning" data-flag="@X" onclick="openSidebar('28_Fist of Lightning',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\44_Eloise, She Dances with Death.png" id="44_Eloise, She Dances with Death" data-flag="@X" onclick="openSidebar('44_Eloise, She Dances with Death',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\63_Hemorrhagia.png" id="63_Hemorrhagia" data-flag="@X" onclick="openSidebar('63_Hemorrhagia',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\81_The Horror Within.png" id="81_The Horror Within" data-flag="@X" onclick="openSidebar('81_The Horror Within',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\7_Golden Ribbons.png" id="7_Golden Ribbons" data-flag="@X" onclick="openSidebar('7_Golden Ribbons',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\29_Manipulator of Reality.png" id="29_Manipulator of Reality" data-flag="@X" onclick="openSidebar('29_Manipulator of Reality',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\45_Endless Night.png" id="45_Endless Night" data-flag="@X" onclick="openSidebar('45_Endless Night',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\64_Isla, She Holds the Sun.png" id="64_Isla, She Holds the Sun" data-flag="@X" onclick="openSidebar('64_Isla, She Holds the Sun',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\82_Joyous Realization.png" id="82_Joyous Realization" data-flag="@X" onclick="openSidebar('82_Joyous Realization',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\8_Heavenly Armor.png" id="8_Heavenly Armor" data-flag="@X" onclick="openSidebar('8_Heavenly Armor',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\30_Monstrous Djinn.png" id="30_Monstrous Djinn" data-flag="@X" onclick="openSidebar('30_Monstrous Djinn',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\46_Erin, Pale Summoner.png" id="46_Erin, Pale Summoner" data-flag="@X" onclick="openSidebar('46_Erin, Pale Summoner',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\65_Knight of True-Flame.png" id="65_Knight of True-Flame" data-flag="@X" onclick="openSidebar('65_Knight of True-Flame',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\83_Mouths to Be Fed.png" id="83_Mouths to Be Fed" data-flag="@X" onclick="openSidebar('83_Mouths to Be Fed',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\9_Horus, The Many Faced.png" id="9_Horus, The Many Faced" data-flag="@X" onclick="openSidebar('9_Horus, The Many Faced',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\31_Pylas, The Librarian.png" id="31_Pylas, The Librarian" data-flag="@X" onclick="openSidebar('31_Pylas, The Librarian',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\47_Fade Into Shadows.png" id="47_Fade Into Shadows" data-flag="@X" onclick="openSidebar('47_Fade Into Shadows',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\66_Relentless Advancement.png" id="66_Relentless Advancement" data-flag="@X" onclick="openSidebar('66_Relentless Advancement',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\84_Nebulous Rampager.png" id="84_Nebulous Rampager" data-flag="@X" onclick="openSidebar('84_Nebulous Rampager',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\10_Let Go.png" id="10_Let Go" data-flag="@X" onclick="openSidebar('10_Let Go',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\32_Sail the Seas of Time.png" id="32_Sail the Seas of Time" data-flag="@X" onclick="openSidebar('32_Sail the Seas of Time',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\48_Hypnotic Angel.png" id="48_Hypnotic Angel" data-flag="@X" onclick="openSidebar('48_Hypnotic Angel',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\67_Ruina, the Burnt Piece.png" id="67_Ruina, the Burnt Piece" data-flag="@X" onclick="openSidebar('67_Ruina, the Burnt Piece',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\85_Sapping Vines.png" id="85_Sapping Vines" data-flag="@X" onclick="openSidebar('85_Sapping Vines',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\11_Mother of Time.png" id="11_Mother of Time" data-flag="@X" onclick="openSidebar('11_Mother of Time',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\33_Silent Watcher.png" id="33_Silent Watcher" data-flag="@X" onclick="openSidebar('33_Silent Watcher',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\49_Infernal Covenant.png" id="49_Infernal Covenant" data-flag="@X" onclick="openSidebar('49_Infernal Covenant',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\68_Rumbling Terror.png" id="68_Rumbling Terror" data-flag="@X" onclick="openSidebar('68_Rumbling Terror',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\86_Seek Harmony.png" id="86_Seek Harmony" data-flag="@X" onclick="openSidebar('86_Seek Harmony',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\12_Naltan, the Tainted.png" id="12_Naltan, the Tainted" data-flag="@X" onclick="openSidebar('12_Naltan, the Tainted',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\34_Sphinx of Games.png" id="34_Sphinx of Games" data-flag="@X" onclick="openSidebar('34_Sphinx of Games',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\50_Leonne, the Remorseful.png" id="50_Leonne, the Remorseful" data-flag="@X" onclick="openSidebar('50_Leonne, the Remorseful',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\69_Shayla, the Burning Edge.png" id="69_Shayla, the Burning Edge" data-flag="@X" onclick="openSidebar('69_Shayla, the Burning Edge',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\87_Selt, the Withered Piece.png" id="87_Selt, the Withered Piece" data-flag="@X" onclick="openSidebar('87_Selt, the Withered Piece',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\13_Orbs of Kel'amarth.png" id="13_Orbs of Kelamarth" data-flag="@X" onclick="openSidebar('13_Orbs of Kelamarth',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\35_Tentacle's Grasp.png" id="35_Tentacles Grasp" data-flag="@X" onclick="openSidebar('35_Tentacles Grasp',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\51_Magus of the Toxin.png" id="51_Magus of the Toxin" data-flag="@X" onclick="openSidebar('51_Magus of the Toxin',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\70_Silent Flame.png" id="70_Silent Flame" data-flag="@X" onclick="openSidebar('70_Silent Flame',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\88_Serene Hopper.png" id="88_Serene Hopper" data-flag="@X" onclick="openSidebar('88_Serene Hopper',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\14_Radiance.png" id="14_Radiance" data-flag="@X" onclick="openSidebar('14_Radiance',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\36_Through Time and Space.png" id="36_Through Time and Space" data-flag="@X" onclick="openSidebar('36_Through Time and Space',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\52_Mournflock Tender.png" id="52_Mournflock Tender" data-flag="@X" onclick="openSidebar('52_Mournflock Tender',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\71_Smokeskin Drakkon.png" id="71_Smokeskin Drakkon" data-flag="@X" onclick="openSidebar('71_Smokeskin Drakkon',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\89_Silent Strength.png" id="89_Silent Strength" data-flag="@X" onclick="openSidebar('89_Silent Strength',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\15_Silent Protector.png" id="15_Silent Protector" data-flag="@X" onclick="openSidebar('15_Silent Protector',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\37_Time Moves Faster Still.png" id="37_Time Moves Faster Still" data-flag="@X" onclick="openSidebar('37_Time Moves Faster Still',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\53_Painful Realization.png" id="53_Painful Realization" data-flag="@X" onclick="openSidebar('53_Painful Realization',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\72_Spears Held Together.png" id="72_Spears Held Together" data-flag="@X" onclick="openSidebar('72_Spears Held Together',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\90_Timberfall Titan.png" id="90_Timberfall Titan" data-flag="@X" onclick="openSidebar('90_Timberfall Titan',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\16_Sisters of Night.png" id="16_Sisters of Night" data-flag="@X" onclick="openSidebar('16_Sisters of Night',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\38_Tripolar Mitosis.png" id="38_Tripolar Mitosis" data-flag="@X" onclick="openSidebar('38_Tripolar Mitosis',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\54_Silent Killer.png" id="54_Silent Killer" data-flag="@X" onclick="openSidebar('54_Silent Killer',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\73_Stabbing Realization.png" id="73_Stabbing Realization" data-flag="@X" onclick="openSidebar('73_Stabbing Realization',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\91_Timefalls Regisaur.png" id="91_Timefalls Regisaur" data-flag="@X" onclick="openSidebar('91_Timefalls Regisaur',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\17_Steward of Destiny.png" id="17_Steward of Destiny" data-flag="@X" onclick="openSidebar('17_Steward of Destiny',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\39_We Forget Ourselves.png" id="39_We Forget Ourselves" data-flag="@X" onclick="openSidebar('39_We Forget Ourselves',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\55_Soul Parasite.png" id="55_Soul Parasite" data-flag="@X" onclick="openSidebar('55_Soul Parasite',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\74_Unholy Shrieker.png" id="74_Unholy Shrieker" data-flag="@X" onclick="openSidebar('74_Unholy Shrieker',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\92_Undead Guardian.png" id="92_Undead Guardian" data-flag="@X" onclick="openSidebar('92_Undead Guardian',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\18_Sunguard.png" id="18_Sunguard" data-flag="@X" onclick="openSidebar('18_Sunguard',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\56_Still it Beats.png" id="56_Still it Beats" data-flag="@X" onclick="openSidebar('56_Still it Beats',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\75_Wares from a World Away.png" id="75_Wares from a World Away" data-flag="@X" onclick="openSidebar('75_Wares from a World Away',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\93_Walk Among Giants.png" id="93_Walk Among Giants" data-flag="@X" onclick="openSidebar('93_Walk Among Giants',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\19_Tido, the Fractured Piece.png" id="19_Tido, the Fractured Piece" data-flag="@X" onclick="openSidebar('19_Tido, the Fractured Piece',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\57_Thought-Catcher Tarantula.png" id="57_Thought-Catcher Tarantula" data-flag="@X" onclick="openSidebar('57_Thought-Catcher Tarantula',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\76_Wrel, Called to War.png" id="76_Wrel, Called to War" data-flag="@X" onclick="openSidebar('76_Wrel, Called to War',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\20_Tido's Lightkeeper.png" id="20_Tidos Lightkeeper" data-flag="@X" onclick="openSidebar('20_Tidos Lightkeeper',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\58_Your Last Moment.png" id="58_Your Last Moment" data-flag="@X" onclick="openSidebar('58_Your Last Moment',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\21_Timeworn Sword.png" id="21_Timeworn Sword" data-flag="@X" onclick="openSidebar('21_Timeworn Sword',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\22_Warden of the Night.png" id="22_Warden of the Night" data-flag="@X" onclick="openSidebar('22_Warden of the Night',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\23_Withdraw Essence.png" id="23_Withdraw Essence" data-flag="@X" onclick="openSidebar('23_Withdraw Essence',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\2_Artisan of Movement.png" id="2_Artisan of Movement" data-flag="@X" onclick="openSidebar('2_Artisan of Movement',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\24_Celestial Realization.png" id="24_Celestial Realization" data-flag="@X" onclick="openSidebar('24_Celestial Realization',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\40_Blood Ritual.png" id="40_Blood Ritual" data-flag="@X" onclick="openSidebar('40_Blood Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\59_Brutal Negotiation.png" id="59_Brutal Negotiation" data-flag="@X" onclick="openSidebar('59_Brutal Negotiation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\77_Brightly-Colored Charger.png" id="77_Brightly-Colored Charger" data-flag="@X" onclick="openSidebar('77_Brightly-Colored Charger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\3_Crack the Sky.png" id="3_Crack the Sky" data-flag="@X" onclick="openSidebar('3_Crack the Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\25_Cog, the Trapped Piece.png" id="25_Cog, the Trapped Piece" data-flag="@X" onclick="openSidebar('25_Cog, the Trapped Piece',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\41_Borthrau, In-Between.png" id="41_Borthrau, In-Between" data-flag="@X" onclick="openSidebar('41_Borthrau, In-Between',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\60_Burning Vengeant.png" id="60_Burning Vengeant" data-flag="@X" onclick="openSidebar('60_Burning Vengeant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\78_Canine Anomaly.png" id="78_Canine Anomaly" data-flag="@X" onclick="openSidebar('78_Canine Anomaly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\4_Cumulus Dragon.png" id="4_Cumulus Dragon" data-flag="@X" onclick="openSidebar('4_Cumulus Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\26_Crystalsight Entity.png" id="26_Crystalsight Entity" data-flag="@X" onclick="openSidebar('26_Crystalsight Entity',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\42_Dark Geometry.png" id="42_Dark Geometry" data-flag="@X" onclick="openSidebar('42_Dark Geometry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\61_Careless Toymaker.png" id="61_Careless Toymaker" data-flag="@X" onclick="openSidebar('61_Careless Toymaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\79_Canopy of Eyes.png" id="79_Canopy of Eyes" data-flag="@X" onclick="openSidebar('79_Canopy of Eyes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\5_Decisive Realization.png" id="5_Decisive Realization" data-flag="@X" onclick="openSidebar('5_Decisive Realization',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\27_Disrupt the Flow.png" id="27_Disrupt the Flow" data-flag="@X" onclick="openSidebar('27_Disrupt the Flow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\43_Dege, the Corrupted Piece.png" id="43_Dege, the Corrupted Piece" data-flag="@X" onclick="openSidebar('43_Dege, the Corrupted Piece',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\62_Contraband Hounds.png" id="62_Contraband Hounds" data-flag="@X" onclick="openSidebar('62_Contraband Hounds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\80_Churning Growth.png" id="80_Churning Growth" data-flag="@X" onclick="openSidebar('80_Churning Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\6_Final Call.png" id="6_Final Call" data-flag="@X" onclick="openSidebar('6_Final Call',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\28_Fist of Lightning.png" id="28_Fist of Lightning" data-flag="@X" onclick="openSidebar('28_Fist of Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\44_Eloise, She Dances with Death.png" id="44_Eloise, She Dances with Death" data-flag="@X" onclick="openSidebar('44_Eloise, She Dances with Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\63_Hemorrhagia.png" id="63_Hemorrhagia" data-flag="@X" onclick="openSidebar('63_Hemorrhagia',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\81_The Horror Within.png" id="81_The Horror Within" data-flag="@X" onclick="openSidebar('81_The Horror Within',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\7_Golden Ribbons.png" id="7_Golden Ribbons" data-flag="@X" onclick="openSidebar('7_Golden Ribbons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\29_Manipulator of Reality.png" id="29_Manipulator of Reality" data-flag="@X" onclick="openSidebar('29_Manipulator of Reality',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\45_Endless Night.png" id="45_Endless Night" data-flag="@X" onclick="openSidebar('45_Endless Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\64_Isla, She Holds the Sun.png" id="64_Isla, She Holds the Sun" data-flag="@X" onclick="openSidebar('64_Isla, She Holds the Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\82_Joyous Realization.png" id="82_Joyous Realization" data-flag="@X" onclick="openSidebar('82_Joyous Realization',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\8_Heavenly Armor.png" id="8_Heavenly Armor" data-flag="@X" onclick="openSidebar('8_Heavenly Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\30_Monstrous Djinn.png" id="30_Monstrous Djinn" data-flag="@X" onclick="openSidebar('30_Monstrous Djinn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\46_Erin, Pale Summoner.png" id="46_Erin, Pale Summoner" data-flag="@X" onclick="openSidebar('46_Erin, Pale Summoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\65_Knight of True-Flame.png" id="65_Knight of True-Flame" data-flag="@X" onclick="openSidebar('65_Knight of True-Flame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\83_Mouths to Be Fed.png" id="83_Mouths to Be Fed" data-flag="@X" onclick="openSidebar('83_Mouths to Be Fed',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\9_Horus, The Many Faced.png" id="9_Horus, The Many Faced" data-flag="@X" onclick="openSidebar('9_Horus, The Many Faced',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\31_Pylas, The Librarian.png" id="31_Pylas, The Librarian" data-flag="@X" onclick="openSidebar('31_Pylas, The Librarian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\47_Fade Into Shadows.png" id="47_Fade Into Shadows" data-flag="@X" onclick="openSidebar('47_Fade Into Shadows',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\66_Relentless Advancement.png" id="66_Relentless Advancement" data-flag="@X" onclick="openSidebar('66_Relentless Advancement',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\84_Nebulous Rampager.png" id="84_Nebulous Rampager" data-flag="@X" onclick="openSidebar('84_Nebulous Rampager',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\10_Let Go.png" id="10_Let Go" data-flag="@X" onclick="openSidebar('10_Let Go',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\32_Sail the Seas of Time.png" id="32_Sail the Seas of Time" data-flag="@X" onclick="openSidebar('32_Sail the Seas of Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\48_Hypnotic Angel.png" id="48_Hypnotic Angel" data-flag="@X" onclick="openSidebar('48_Hypnotic Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\67_Ruina, the Burnt Piece.png" id="67_Ruina, the Burnt Piece" data-flag="@X" onclick="openSidebar('67_Ruina, the Burnt Piece',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\85_Sapping Vines.png" id="85_Sapping Vines" data-flag="@X" onclick="openSidebar('85_Sapping Vines',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\11_Mother of Time.png" id="11_Mother of Time" data-flag="@X" onclick="openSidebar('11_Mother of Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\33_Silent Watcher.png" id="33_Silent Watcher" data-flag="@X" onclick="openSidebar('33_Silent Watcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\49_Infernal Covenant.png" id="49_Infernal Covenant" data-flag="@X" onclick="openSidebar('49_Infernal Covenant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\68_Rumbling Terror.png" id="68_Rumbling Terror" data-flag="@X" onclick="openSidebar('68_Rumbling Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\86_Seek Harmony.png" id="86_Seek Harmony" data-flag="@X" onclick="openSidebar('86_Seek Harmony',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\12_Naltan, the Tainted.png" id="12_Naltan, the Tainted" data-flag="@X" onclick="openSidebar('12_Naltan, the Tainted',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\34_Sphinx of Games.png" id="34_Sphinx of Games" data-flag="@X" onclick="openSidebar('34_Sphinx of Games',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\50_Leonne, the Remorseful.png" id="50_Leonne, the Remorseful" data-flag="@X" onclick="openSidebar('50_Leonne, the Remorseful',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\69_Shayla, the Burning Edge.png" id="69_Shayla, the Burning Edge" data-flag="@X" onclick="openSidebar('69_Shayla, the Burning Edge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\87_Selt, the Withered Piece.png" id="87_Selt, the Withered Piece" data-flag="@X" onclick="openSidebar('87_Selt, the Withered Piece',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\13_Orbs of Kel'amarth.png" id="13_Orbs of Kelamarth" data-flag="@X" onclick="openSidebar('13_Orbs of Kelamarth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\35_Tentacle's Grasp.png" id="35_Tentacles Grasp" data-flag="@X" onclick="openSidebar('35_Tentacles Grasp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\51_Magus of the Toxin.png" id="51_Magus of the Toxin" data-flag="@X" onclick="openSidebar('51_Magus of the Toxin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\70_Silent Flame.png" id="70_Silent Flame" data-flag="@X" onclick="openSidebar('70_Silent Flame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\88_Serene Hopper.png" id="88_Serene Hopper" data-flag="@X" onclick="openSidebar('88_Serene Hopper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\14_Radiance.png" id="14_Radiance" data-flag="@X" onclick="openSidebar('14_Radiance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\36_Through Time and Space.png" id="36_Through Time and Space" data-flag="@X" onclick="openSidebar('36_Through Time and Space',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\52_Mournflock Tender.png" id="52_Mournflock Tender" data-flag="@X" onclick="openSidebar('52_Mournflock Tender',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\71_Smokeskin Drakkon.png" id="71_Smokeskin Drakkon" data-flag="@X" onclick="openSidebar('71_Smokeskin Drakkon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\89_Silent Strength.png" id="89_Silent Strength" data-flag="@X" onclick="openSidebar('89_Silent Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\15_Silent Protector.png" id="15_Silent Protector" data-flag="@X" onclick="openSidebar('15_Silent Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\37_Time Moves Faster Still.png" id="37_Time Moves Faster Still" data-flag="@X" onclick="openSidebar('37_Time Moves Faster Still',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\53_Painful Realization.png" id="53_Painful Realization" data-flag="@X" onclick="openSidebar('53_Painful Realization',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\72_Spears Held Together.png" id="72_Spears Held Together" data-flag="@X" onclick="openSidebar('72_Spears Held Together',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\90_Timberfall Titan.png" id="90_Timberfall Titan" data-flag="@X" onclick="openSidebar('90_Timberfall Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\16_Sisters of Night.png" id="16_Sisters of Night" data-flag="@X" onclick="openSidebar('16_Sisters of Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\38_Tripolar Mitosis.png" id="38_Tripolar Mitosis" data-flag="@X" onclick="openSidebar('38_Tripolar Mitosis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\54_Silent Killer.png" id="54_Silent Killer" data-flag="@X" onclick="openSidebar('54_Silent Killer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\73_Stabbing Realization.png" id="73_Stabbing Realization" data-flag="@X" onclick="openSidebar('73_Stabbing Realization',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\91_Timefalls Regisaur.png" id="91_Timefalls Regisaur" data-flag="@X" onclick="openSidebar('91_Timefalls Regisaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\17_Steward of Destiny.png" id="17_Steward of Destiny" data-flag="@X" onclick="openSidebar('17_Steward of Destiny',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\39_We Forget Ourselves.png" id="39_We Forget Ourselves" data-flag="@X" onclick="openSidebar('39_We Forget Ourselves',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\55_Soul Parasite.png" id="55_Soul Parasite" data-flag="@X" onclick="openSidebar('55_Soul Parasite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\74_Unholy Shrieker.png" id="74_Unholy Shrieker" data-flag="@X" onclick="openSidebar('74_Unholy Shrieker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\92_Undead Guardian.png" id="92_Undead Guardian" data-flag="@X" onclick="openSidebar('92_Undead Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\18_Sunguard.png" id="18_Sunguard" data-flag="@X" onclick="openSidebar('18_Sunguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\56_Still it Beats.png" id="56_Still it Beats" data-flag="@X" onclick="openSidebar('56_Still it Beats',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\75_Wares from a World Away.png" id="75_Wares from a World Away" data-flag="@X" onclick="openSidebar('75_Wares from a World Away',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\93_Walk Among Giants.png" id="93_Walk Among Giants" data-flag="@X" onclick="openSidebar('93_Walk Among Giants',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\19_Tido, the Fractured Piece.png" id="19_Tido, the Fractured Piece" data-flag="@X" onclick="openSidebar('19_Tido, the Fractured Piece',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\57_Thought-Catcher Tarantula.png" id="57_Thought-Catcher Tarantula" data-flag="@X" onclick="openSidebar('57_Thought-Catcher Tarantula',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\76_Wrel, Called to War.png" id="76_Wrel, Called to War" data-flag="@X" onclick="openSidebar('76_Wrel, Called to War',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\20_Tido's Lightkeeper.png" id="20_Tidos Lightkeeper" data-flag="@X" onclick="openSidebar('20_Tidos Lightkeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\58_Your Last Moment.png" id="58_Your Last Moment" data-flag="@X" onclick="openSidebar('58_Your Last Moment',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\21_Timeworn Sword.png" id="21_Timeworn Sword" data-flag="@X" onclick="openSidebar('21_Timeworn Sword',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\22_Warden of the Night.png" id="22_Warden of the Night" data-flag="@X" onclick="openSidebar('22_Warden of the Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\23_Withdraw Essence.png" id="23_Withdraw Essence" data-flag="@X" onclick="openSidebar('23_Withdraw Essence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\101_Return to the Negative Sun.png" id="101_Return to the Negative Sun" data-flag="@X" onclick="openSidebar('101_Return to the Negative Sun',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\97_Ertys's Reaper.png" id="97_Ertyss Reaper" data-flag="@X" onclick="openSidebar('97_Ertyss Reaper',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\94_Aethergear Sentinel.png" id="94_Aethergear Sentinel" data-flag="@X" onclick="openSidebar('94_Aethergear Sentinel',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\107_Where Wind Meets the Sea.png" id="107_Where Wind Meets the Sea" data-flag="@X" onclick="openSidebar('107_Where Wind Meets the Sea',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\102_Sinder, the White Blade.png" id="102_Sinder, the White Blade" data-flag="@X" onclick="openSidebar('102_Sinder, the White Blade',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\108_Winding Water.png" id="108_Winding Water" data-flag="@X" onclick="openSidebar('108_Winding Water',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\110_Frozen in Time.png" id="110_Frozen in Time" data-flag="@X" onclick="openSidebar('110_Frozen in Time',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\100_Ortan, Leader of Dragons.png" id="100_Ortan, Leader of Dragons" data-flag="@X" onclick="openSidebar('100_Ortan, Leader of Dragons',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\95_Darkwood Hart.png" id="95_Darkwood Hart" data-flag="@X" onclick="openSidebar('95_Darkwood Hart',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\103_Spinning Planetarium.png" id="103_Spinning Planetarium" data-flag="@X" onclick="openSidebar('103_Spinning Planetarium',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\96_Dr. Rolf, Otherside Broker.png" id="96_Dr. Rolf, Otherside Broker" data-flag="@X" onclick="openSidebar('96_Dr. Rolf, Otherside Broker',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\104_Stoke the Timeforge.png" id="104_Stoke the Timeforge" data-flag="@X" onclick="openSidebar('104_Stoke the Timeforge',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\98_Inseva, Master of Unlife.png" id="98_Inseva, Master of Unlife" data-flag="@X" onclick="openSidebar('98_Inseva, Master of Unlife',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\105_Timedancer.png" id="105_Timedancer" data-flag="@X" onclick="openSidebar('105_Timedancer',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\99_Mark of Inseva.png" id="99_Mark of Inseva" data-flag="@X" onclick="openSidebar('99_Mark of Inseva',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\106_Touch the Sky.png" id="106_Touch the Sky" data-flag="@X" onclick="openSidebar('106_Touch the Sky',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\109_Ester, Generous Matriarch.png" id="109_Ester, Generous Matriarch" data-flag="@X" onclick="openSidebar('109_Ester, Generous Matriarch',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\101_Return to the Negative Sun.png" id="101_Return to the Negative Sun" data-flag="@X" onclick="openSidebar('101_Return to the Negative Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\97_Ertys's Reaper.png" id="97_Ertyss Reaper" data-flag="@X" onclick="openSidebar('97_Ertyss Reaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\94_Aethergear Sentinel.png" id="94_Aethergear Sentinel" data-flag="@X" onclick="openSidebar('94_Aethergear Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\107_Where Wind Meets the Sea.png" id="107_Where Wind Meets the Sea" data-flag="@X" onclick="openSidebar('107_Where Wind Meets the Sea',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\102_Sinder, the White Blade.png" id="102_Sinder, the White Blade" data-flag="@X" onclick="openSidebar('102_Sinder, the White Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\108_Winding Water.png" id="108_Winding Water" data-flag="@X" onclick="openSidebar('108_Winding Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\110_Frozen in Time.png" id="110_Frozen in Time" data-flag="@X" onclick="openSidebar('110_Frozen in Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\100_Ortan, Leader of Dragons.png" id="100_Ortan, Leader of Dragons" data-flag="@X" onclick="openSidebar('100_Ortan, Leader of Dragons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\95_Darkwood Hart.png" id="95_Darkwood Hart" data-flag="@X" onclick="openSidebar('95_Darkwood Hart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\103_Spinning Planetarium.png" id="103_Spinning Planetarium" data-flag="@X" onclick="openSidebar('103_Spinning Planetarium',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\96_Dr. Rolf, Otherside Broker.png" id="96_Dr. Rolf, Otherside Broker" data-flag="@X" onclick="openSidebar('96_Dr. Rolf, Otherside Broker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\104_Stoke the Timeforge.png" id="104_Stoke the Timeforge" data-flag="@X" onclick="openSidebar('104_Stoke the Timeforge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\98_Inseva, Master of Unlife.png" id="98_Inseva, Master of Unlife" data-flag="@X" onclick="openSidebar('98_Inseva, Master of Unlife',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\105_Timedancer.png" id="105_Timedancer" data-flag="@X" onclick="openSidebar('105_Timedancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\99_Mark of Inseva.png" id="99_Mark of Inseva" data-flag="@X" onclick="openSidebar('99_Mark of Inseva',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\106_Touch the Sky.png" id="106_Touch the Sky" data-flag="@X" onclick="openSidebar('106_Touch the Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\109_Ester, Generous Matriarch.png" id="109_Ester, Generous Matriarch" data-flag="@X" onclick="openSidebar('109_Ester, Generous Matriarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\1_Ertys, Arbiter of the Cosmos.png" id="1_Ertys, Arbiter of the Cosmos" data-flag="@X" onclick="openSidebar('1_Ertys, Arbiter of the Cosmos',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\133_Fading Shoreline.png" id="133_Fading Shoreline" data-flag="@X" onclick="openSidebar('133_Fading Shoreline',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\125_Eerie Cemetery.png" id="125_Eerie Cemetery" data-flag="@X" onclick="openSidebar('125_Eerie Cemetery',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\113_Burning Chasm.png" id="113_Burning Chasm" data-flag="@X" onclick="openSidebar('113_Burning Chasm',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\112_Autumnal Wood.png" id="112_Autumnal Wood" data-flag="@X" onclick="openSidebar('112_Autumnal Wood',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\134_Fading Temple.png" id="134_Fading Temple" data-flag="@X" onclick="openSidebar('134_Fading Temple',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\137_Grand Courtyard.png" id="137_Grand Courtyard" data-flag="@X" onclick="openSidebar('137_Grand Courtyard',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\127_Fading Dourland.png" id="127_Fading Dourland" data-flag="@X" onclick="openSidebar('127_Fading Dourland',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\126_Fading Core.png" id="126_Fading Core" data-flag="@X" onclick="openSidebar('126_Fading Core',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\131_Fading Peaks.png" id="131_Fading Peaks" data-flag="@X" onclick="openSidebar('131_Fading Peaks',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\140_Moss-Covered Arches.png" id="140_Moss-Covered Arches" data-flag="@X" onclick="openSidebar('140_Moss-Covered Arches',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\129_Fading Ghostland.png" id="129_Fading Ghostland" data-flag="@X" onclick="openSidebar('129_Fading Ghostland',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\124_Dazzling Auditorium.png" id="124_Dazzling Auditorium" data-flag="@X" onclick="openSidebar('124_Dazzling Auditorium',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\135_Fading Undergrowth.png" id="135_Fading Undergrowth" data-flag="@X" onclick="openSidebar('135_Fading Undergrowth',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\111_Ancient Canyon.png" id="111_Ancient Canyon" data-flag="@X" onclick="openSidebar('111_Ancient Canyon',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\132_Fading Riverland.png" id="132_Fading Riverland" data-flag="@X" onclick="openSidebar('132_Fading Riverland',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\141_Timeless Cavern.png" id="141_Timeless Cavern" data-flag="@X" onclick="openSidebar('141_Timeless Cavern',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\128_Fading Geyser Field.png" id="128_Fading Geyser Field" data-flag="@X" onclick="openSidebar('128_Fading Geyser Field',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\136_Forgotten Mausoleum.png" id="136_Forgotten Mausoleum" data-flag="@X" onclick="openSidebar('136_Forgotten Mausoleum',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\130_Fading Outcrop.png" id="130_Fading Outcrop" data-flag="@X" onclick="openSidebar('130_Fading Outcrop',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\138_Hushed Brook.png" id="138_Hushed Brook" data-flag="@X" onclick="openSidebar('138_Hushed Brook',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\114_Castle of Artifice.png" id="114_Castle of Artifice" data-flag="@X" onclick="openSidebar('114_Castle of Artifice',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\115_Castle of Contagions.png" id="115_Castle of Contagions" data-flag="@X" onclick="openSidebar('115_Castle of Contagions',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\116_Castle of Dragons.png" id="116_Castle of Dragons" data-flag="@X" onclick="openSidebar('116_Castle of Dragons',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\117_Castle of Heroes.png" id="117_Castle of Heroes" data-flag="@X" onclick="openSidebar('117_Castle of Heroes',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\118_Castle of Memories.png" id="118_Castle of Memories" data-flag="@X" onclick="openSidebar('118_Castle of Memories',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\119_Castle of Nightmares.png" id="119_Castle of Nightmares" data-flag="@X" onclick="openSidebar('119_Castle of Nightmares',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\120_Castle of Scorn.png" id="120_Castle of Scorn" data-flag="@X" onclick="openSidebar('120_Castle of Scorn',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\121_Castle of Serenities.png" id="121_Castle of Serenities" data-flag="@X" onclick="openSidebar('121_Castle of Serenities',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\122_Castle of Trials.png" id="122_Castle of Trials" data-flag="@X" onclick="openSidebar('122_Castle of Trials',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\123_Castle of Wonders.png" id="123_Castle of Wonders" data-flag="@X" onclick="openSidebar('123_Castle of Wonders',false)"></div>
-				<div class="container"><img alt="/sets\TWE-files\img\139_Lotus Nimbus.png" id="139_Lotus Nimbus" data-flag="@X" onclick="openSidebar('139_Lotus Nimbus',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\1_Ertys, Arbiter of the Cosmos.png" id="1_Ertys, Arbiter of the Cosmos" data-flag="@X" onclick="openSidebar('1_Ertys, Arbiter of the Cosmos',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\133_Fading Shoreline.png" id="133_Fading Shoreline" data-flag="@X" onclick="openSidebar('133_Fading Shoreline',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\125_Eerie Cemetery.png" id="125_Eerie Cemetery" data-flag="@X" onclick="openSidebar('125_Eerie Cemetery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\113_Burning Chasm.png" id="113_Burning Chasm" data-flag="@X" onclick="openSidebar('113_Burning Chasm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\112_Autumnal Wood.png" id="112_Autumnal Wood" data-flag="@X" onclick="openSidebar('112_Autumnal Wood',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\134_Fading Temple.png" id="134_Fading Temple" data-flag="@X" onclick="openSidebar('134_Fading Temple',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\137_Grand Courtyard.png" id="137_Grand Courtyard" data-flag="@X" onclick="openSidebar('137_Grand Courtyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\127_Fading Dourland.png" id="127_Fading Dourland" data-flag="@X" onclick="openSidebar('127_Fading Dourland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\126_Fading Core.png" id="126_Fading Core" data-flag="@X" onclick="openSidebar('126_Fading Core',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\131_Fading Peaks.png" id="131_Fading Peaks" data-flag="@X" onclick="openSidebar('131_Fading Peaks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\140_Moss-Covered Arches.png" id="140_Moss-Covered Arches" data-flag="@X" onclick="openSidebar('140_Moss-Covered Arches',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\129_Fading Ghostland.png" id="129_Fading Ghostland" data-flag="@X" onclick="openSidebar('129_Fading Ghostland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\124_Dazzling Auditorium.png" id="124_Dazzling Auditorium" data-flag="@X" onclick="openSidebar('124_Dazzling Auditorium',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\135_Fading Undergrowth.png" id="135_Fading Undergrowth" data-flag="@X" onclick="openSidebar('135_Fading Undergrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\111_Ancient Canyon.png" id="111_Ancient Canyon" data-flag="@X" onclick="openSidebar('111_Ancient Canyon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\132_Fading Riverland.png" id="132_Fading Riverland" data-flag="@X" onclick="openSidebar('132_Fading Riverland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\141_Timeless Cavern.png" id="141_Timeless Cavern" data-flag="@X" onclick="openSidebar('141_Timeless Cavern',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\128_Fading Geyser Field.png" id="128_Fading Geyser Field" data-flag="@X" onclick="openSidebar('128_Fading Geyser Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\136_Forgotten Mausoleum.png" id="136_Forgotten Mausoleum" data-flag="@X" onclick="openSidebar('136_Forgotten Mausoleum',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\130_Fading Outcrop.png" id="130_Fading Outcrop" data-flag="@X" onclick="openSidebar('130_Fading Outcrop',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\138_Hushed Brook.png" id="138_Hushed Brook" data-flag="@X" onclick="openSidebar('138_Hushed Brook',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\114_Castle of Artifice.png" id="114_Castle of Artifice" data-flag="@X" onclick="openSidebar('114_Castle of Artifice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\115_Castle of Contagions.png" id="115_Castle of Contagions" data-flag="@X" onclick="openSidebar('115_Castle of Contagions',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\116_Castle of Dragons.png" id="116_Castle of Dragons" data-flag="@X" onclick="openSidebar('116_Castle of Dragons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\117_Castle of Heroes.png" id="117_Castle of Heroes" data-flag="@X" onclick="openSidebar('117_Castle of Heroes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\118_Castle of Memories.png" id="118_Castle of Memories" data-flag="@X" onclick="openSidebar('118_Castle of Memories',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\119_Castle of Nightmares.png" id="119_Castle of Nightmares" data-flag="@X" onclick="openSidebar('119_Castle of Nightmares',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\120_Castle of Scorn.png" id="120_Castle of Scorn" data-flag="@X" onclick="openSidebar('120_Castle of Scorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\121_Castle of Serenities.png" id="121_Castle of Serenities" data-flag="@X" onclick="openSidebar('121_Castle of Serenities',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\122_Castle of Trials.png" id="122_Castle of Trials" data-flag="@X" onclick="openSidebar('122_Castle of Trials',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\123_Castle of Wonders.png" id="123_Castle of Wonders" data-flag="@X" onclick="openSidebar('123_Castle of Wonders',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TWE-files\img\139_Lotus Nimbus.png" id="139_Lotus Nimbus" data-flag="@X" onclick="openSidebar('139_Lotus Nimbus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -538,27 +539,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -570,17 +595,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -613,6 +640,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -622,6 +650,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

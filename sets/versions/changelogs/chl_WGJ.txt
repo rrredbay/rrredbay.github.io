@@ -1,4 +1,691 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Shoreline Midden
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{WU}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{WU}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Submerged Midden
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{UB}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+{UB}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Molten Midden
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+{BR}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {B} or {R}.
+{BR}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Brutal Midden
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{RG}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{RG}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Secluded Midden
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{GW}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{GW}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Foreboding Midden
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+{WB}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {W} or {B}.
+{WB}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Market Midden
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{UR}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{UR}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Forgotten Midden
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+{BG}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {B} or {G}.
+{BG}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Riffraff Midden
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{RW}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {R} or {W}.
+{RW}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Productive Midden
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{GU}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{GU}, Discard this card: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+The Beast
+rules_text: The Beast gets each ability noted with your Call The Beast emblem.
+The Beast gets +1/+1 for each card exiled with your Call The Beast emblem. => The Beast has each ability noted with your Call The Beast emblem.
+The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.
+
+Treasure
+
+Automated Scrapper
+rules_text: When this creature enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Priestess of Metal
+
+Paladin of the Heap
+
+Avionic Scavenger
+
+Convoy Wrecker
+
+Scrapheap Roc
+
+Catastrophic Failure
+
+Mechanohawk
+
+Lonely Wanderer
+
+Market Thief
+rules_text: When this creature enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn. => When this creature enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.
+
+Moonlight Yarder
+
+Swift Surveyor
+
+Scrap-Shell Hermit
+
+Hidden Goliath
+
+Recharge
+
+Search for Understanding
+
+Crushing Defeat
+
+Compacted
+
+Initiation Sequence
+
+Scrounging Vermin
+rules_text: When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Assault Bot
+
+Transmogrified Yarder
+
+Maiden of Junk
+
+Oculus Collector
+rules_text: When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Deadly Goliath
+
+Cast Down
+
+Failed Experiment
+
+Visions of Terror
+
+Decapitate
+
+Target Locked
+
+Nitwit Yarder
+rules_text: Haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Haste
+When this creature dies, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Fire Starter
+
+Yarder Vets
+
+Cunning Warband
+
+Scrapyard Mongrel
+
+Gangland Tagteam
+
+Rampaging Goliath
+
+Explosive Collision
+rules_text: Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Scrap Deals
+rules_text: As an additional cost to cast this spell, discard a card.
+Create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => As an additional cost to cast this spell, discard a card.
+Create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Tyrants Fire
+
+Sandstorm Dozer
+
+Android Visionary
+
+Happy Heaper
+
+Scaled Scrapper
+
+Swine Racer
+
+Daddy Swordlegs
+
+Grizzled Yarder
+
+Wasteland Goliath
+
+Survey the Ruins
+
+Field Crawler
+
+Overpower
+rules_text: Destroy target artifact.
+Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Destroy target artifact.
+Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Crafty Junker
+
+Fancy Refurbishments
+
+Friendly Trawler
+
+Heckler Raid Leader
+
+Drexil Acolyte
+
+Sand Skimmer
+
+Scrap-Pit Champion
+
+Trawl the Fields
+
+Robotic Reverence
+
+Plucky Scrapper
+rules_text: When this creature dies, each player creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature dies, each player creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Recommisioned Pounce-Bot
+
+Bursting Vat
+
+Dune Dasher
+
+Giving Tree
+
+Way of the Pipe
+
+Defend the Hive
+
+Ghastly Junker
+
+Hunger of the Heap
+
+Dirtbike Jouster
+
+Junkyard Sentry
+
+Lead the Charge
+
+Beetle Bot
+
+Beast Beckoner
+
+Wasteland Daredevils
+
+Alert Sentries
+
+Wasteland Flamerider
+
+Servo
+
+Mercenary
+
+Junk
+
+Nomad
+
+Power of the Beast
+
+Insidious Orb
+
+Skullface Wastelander
+
+Battery Thief
+rules_text: {1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junk tokens you control have “{T}, Pay 1 life: Add {B}.” => {1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junk tokens you control have “{T}, Pay 1 life: Add {B}.”
+
+The Heap Rises
+
+Remote Controlled Mechsuit
+
+Feed the Monster
+
+Putrefying Mists
+
+Scrounge for Parts
+
+Nightfall Approaches
+
+Hired Killer
+
+Pull em Out
+
+Fallen Paladin
+
+Rubbish Pack
+
+Anter, Wasteland Runner
+
+Hotwiring Hogs
+
+Furious Intimidator
+
+Yarders Uprising
+
+Double-Barreled Drakkon
+
+Grabby Claws
+
+Into Glory Ride
+
+Absolute Victory
+
+Trashfire Crawler
+
+Electric Junk Tower
+rules_text: When this artifact enters, create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent. => When this artifact enters, create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.
+
+Execution Tank
+
+Harpooner Wagon
+rules_text: Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 1 => Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 1
+
+Scavenger Party
+
+Out of the Wreckage
+
+Mecha Arachnid
+
+Colossus Opus
+
+Auto Recycler
+
+Shearing Winds
+
+Face Off
+
+Gorr, Heapbreaker
+
+Badlands Alpha
+
+ATV Hotshot
+
+Zombie
+
+Fearless Yarder
+
+Junkyard Riveter
+
+Robot Samurai
+
+Scrap Blast
+
+Bert, Parts Specialist
+
+Scrapyard Upgrade
+
+Required Assembly
+rules_text: Choose one. You may choose both instead if you've cast another noncreature spell this turn.
+• Create two 1/1 colorless Servo artifact creature tokens.
+• Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Choose one. You may choose both instead if you've cast another noncreature spell this turn.
+• Create two 1/1 colorless Servo artifact creature tokens.
+• Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Angel of Scrap
+
+Sky Trawler
+rules_text: Flying
+Whenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 2 => Flying
+Whenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 2
+
+Remove Visage
+
+Junk Tornado
+
+100,000 Volts
+
+Drexil Hiveguard
+
+Hotwire Mechanic
+
+Sky Scrapper
+
+Harbinger Drexil
+
+Hunt for Scraps
+
+Bandit Junker
+rules_text: [i][i]Hoot n' Holler[/i][/i] — Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => [i][i]Hoot n' Holler[/i][/i] — Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Rapid Materialization
+
+The Junkfields
+
+The Heap
+
+The Pit
+
+The Wasteland
+
+The Lost Sea
+
+Millikin
+
+Willing Automaton
+
+Charging Station
+
+Part Bot
+
+War-Javelin
+
+Bicycle Bastion
+
+Tarnishing Yarder
+
+Lose to the Heap
+
+Overcharge
+
+Recycling Engine
+
+Raid the Workshop
+
+Junklord Azareth
+
+Junklord Felisah
+
+Junklord Garoth
+
+Junklord Lundquist
+
+Gone Mag-Fishing
+rules_text: Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Techno Compies
+
+Danavan, the Exile
+
+Crazed Packmates
+
+Rustbucket
+
+Combustion Goliath
+
+Arachno-Killbot
+
+World on the Brink
+
+Garoths Charge
+
+Slag Dump
+
+Kinsley, Badlands Outcast
+
+Longshot Bot
+
+Goblin Express
+
+Lightspeed Racer
+
+Vorricks Blast Array
+
+Rager Blazer
+
+Plans Undone
+
+Erys, Hunted Marksman
+
+Azyra, Queen of the Forge
+
+Saryna, Bounty Hunter
+
+Artem, Solemn Traveler
+
+Speaker Lxtal
+
+Ninety-Four
+
+Felisahs Recruiter
+
+Sprawl Enforcers
+
+Lundquists Garage
+
+Survive Disaster
+
+March of the Goliaths
+
+Baited Trap
+
+The Citadel
+
+The Sprawl
+
+Regeneration Chamber
+
+Azareths Dreadnought
+
+Ory, Enhanced Outlander
+
+Drexil Hunters
+
+Tireless Consumption
+
+Caroline
+
+Pointed Interrogation
+
+Jump Junkers
+
+Seaside Goliath
+
+Lost Sea Haggling
+
+Sabotage the Machine
+rules_text: Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Seek the Laboratory
+
+Replicate Design
+
+Lev, Junker Genius
+
+Shamuss Pontoon
+
+Dreams of Incineration
+
+Dreams of Resilience
+
+Dreams of Restoration
+
+Welding Mask
+
+Buzzer-Walker
+
+The Brain
+rules_text: Flying
+When The Brain enters, gain control of all nonartifact creatures for as long as you control The Brain.
+Whenever you attack with a creature you don't own, draw a card.
+{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it. => Flying
+When The Brain enters, if you cast it, gain control of all nonartifact creatures for as long as you control The Brain.
+Whenever you attack with a creature you don't own, draw a card.
+{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it.
+
+The Spoon Man
+
+Garbage Gargantuan
+
+Recycle-o-Tron
+
+Electro Punch-Bot
+
+Sevrox, Ascended
+
+Gum-Gum, Heap Lackey
+
+Insect
+
+Louie
+
+Dog
+
+Goblin
+
+Gearbox
+
+Phoenix
+
+Beetle Junker-Merchant
+rules_text: When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Junks you control have “{T}, Sacrifice this artifact: Add one mana of any color.” => When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Artifacts you control have “{T}, Sacrifice this artifact: Add one mana of any color.”
+
+Throes of the Beast
+
+Junkyard Jetpacker
+
+Cloud Skimmer
+
+The Skyhorse
+
+Escape Vehicle
+
+Fishing Float
+
+Flying Fish
+
+Gunhead Rhino
+rules_text: Trample
+When this Vehicle dies, create three Junk tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 2 => Trample
+When this Vehicle dies, create three Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Crew 2
+
+Lundquist's Heavies
+
+Hoarders Caravan
+
+Howling Rover
+
+Junklords Hole Puncher
+
+Monowheel Interceptor
+
+Sidecar Cruiser
+
+Compactor Drones
+
+Wreckyard Crane
+
+Vorricks Radicals
+
+Innovative Find
+
+Collector of Finds
+
+Wondrous Find
+
+Broken Find
+
+Stolen Find
+
+Massive Find
+
+Junklord Vorrick
+
+Rippen, the Scarred
+
+Merc Squad
+
+As Seen on TV
+
+Marus, Calculated Killer
+
+Willing Offerings
+
+VAL, Automated Locomotive
+
+Call The Beast Emblem
+
+Toxic-Tail Bot
+
+Ghastly Scrapbeast
+
+Rig Sparks
+
+Shiny Taker
+
+Lost Sea Watcher
+
+Disassemble
+
+Machines Rule the World
+
+Processing Point
+
+Pulsing Hedron
+
+Dreams of Progress
+
+Dreams of Exploitation
+
+Towering Killbot
+
+The Junklords Gambit
+
+Garoth's Sentries
+
+Acidic Acolyte
+
+Pit-Burster Mech
+
+Bulked Guardian
+
+Puck
+
+Armored Goliath
+
+Flamethrower Battle-Wagon
+
+Unyielding Husk
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

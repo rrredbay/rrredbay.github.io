@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -192,7 +193,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="DWD"><img src="/sets/DWD-files/icon.png">Deadwood</a>
 	
@@ -212,126 +213,126 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\DWD-files\img\2_CW01 Doomed Traveler.png" id="2_CW01 Doomed Traveler" data-flag="@X" onclick="openSidebar('2_CW01 Doomed Traveler',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\17_CU01 Owl of Good Omens.png" id="17_CU01 Owl of Good Omens" data-flag="@X" onclick="openSidebar('17_CU01 Owl of Good Omens',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\32_CB01 Forlorn Rusalka.png" id="32_CB01 Forlorn Rusalka" data-flag="@X" onclick="openSidebar('32_CB01 Forlorn Rusalka',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\47_CR01 Heartwood Novice.png" id="47_CR01 Heartwood Novice" data-flag="@X" onclick="openSidebar('47_CR01 Heartwood Novice',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\62_CG01 Heartland Piper.png" id="62_CG01 Heartland Piper" data-flag="@X" onclick="openSidebar('62_CG01 Heartland Piper',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\3_CW02 Lightwell Pupil.png" id="3_CW02 Lightwell Pupil" data-flag="@X" onclick="openSidebar('3_CW02 Lightwell Pupil',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\18_CU02 Palemoor Merrow.png" id="18_CU02 Palemoor Merrow" data-flag="@X" onclick="openSidebar('18_CU02 Palemoor Merrow',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\33_CB02 Palemoor Wytch.png" id="33_CB02 Palemoor Wytch" data-flag="@X" onclick="openSidebar('33_CB02 Palemoor Wytch',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\48_CR02 Elusive Redfur.png" id="48_CR02 Elusive Redfur" data-flag="@X" onclick="openSidebar('48_CR02 Elusive Redfur',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\63_CG02 Gnarled Warden.png" id="63_CG02 Gnarled Warden" data-flag="@X" onclick="openSidebar('63_CG02 Gnarled Warden',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\4_CW03 Starsfall Cleric.png" id="4_CW03 Starsfall Cleric" data-flag="@X" onclick="openSidebar('4_CW03 Starsfall Cleric',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\19_CU03 Village Protector.png" id="19_CU03 Village Protector" data-flag="@X" onclick="openSidebar('19_CU03 Village Protector',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\34_CB03 Enthralled Ram.png" id="34_CB03 Enthralled Ram" data-flag="@X" onclick="openSidebar('34_CB03 Enthralled Ram',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\49_CR03 Scorned Sorceress.png" id="49_CR03 Scorned Sorceress" data-flag="@X" onclick="openSidebar('49_CR03 Scorned Sorceress',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\64_CG03 Greenleaf Traveler.png" id="64_CG03 Greenleaf Traveler" data-flag="@X" onclick="openSidebar('64_CG03 Greenleaf Traveler',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\5_CW04 Dour Statue.png" id="5_CW04 Dour Statue" data-flag="@X" onclick="openSidebar('5_CW04 Dour Statue',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\20_CU04 Frostwytch Initiate.png" id="20_CU04 Frostwytch Initiate" data-flag="@X" onclick="openSidebar('20_CU04 Frostwytch Initiate',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\35_CB04 Ghost Rider.png" id="35_CB04 Ghost Rider" data-flag="@X" onclick="openSidebar('35_CB04 Ghost Rider',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\50_CR04 Wytchblade Huntress.png" id="50_CR04 Wytchblade Huntress" data-flag="@X" onclick="openSidebar('50_CR04 Wytchblade Huntress',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\65_CG04 Timberborn Chief.png" id="65_CG04 Timberborn Chief" data-flag="@X" onclick="openSidebar('65_CG04 Timberborn Chief',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\6_CW05 Starry Strix.png" id="6_CW05 Starry Strix" data-flag="@X" onclick="openSidebar('6_CW05 Starry Strix',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\21_CU05 Brineborn Toad.png" id="21_CU05 Brineborn Toad" data-flag="@X" onclick="openSidebar('21_CU05 Brineborn Toad',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\36_CB05 Cunning Bogwytch.png" id="36_CB05 Cunning Bogwytch" data-flag="@X" onclick="openSidebar('36_CB05 Cunning Bogwytch',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\51_CR05 Goblin Wytchfolk.png" id="51_CR05 Goblin Wytchfolk" data-flag="@X" onclick="openSidebar('51_CR05 Goblin Wytchfolk',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\66_CG05 Borderland Ranger.png" id="66_CG05 Borderland Ranger" data-flag="@X" onclick="openSidebar('66_CG05 Borderland Ranger',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\7_CW06 Palemoor Cavalier.png" id="7_CW06 Palemoor Cavalier" data-flag="@X" onclick="openSidebar('7_CW06 Palemoor Cavalier',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\22_CU06 Chillblood Wytch.png" id="22_CU06 Chillblood Wytch" data-flag="@X" onclick="openSidebar('22_CU06 Chillblood Wytch',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\37_CB06 Greyblade Warden.png" id="37_CB06 Greyblade Warden" data-flag="@X" onclick="openSidebar('37_CB06 Greyblade Warden',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\52_CR06 Rambling Cottage.png" id="52_CR06 Rambling Cottage" data-flag="@X" onclick="openSidebar('52_CR06 Rambling Cottage',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\67_CG06 Elder Boulderhorn.png" id="67_CG06 Elder Boulderhorn" data-flag="@X" onclick="openSidebar('67_CG06 Elder Boulderhorn',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\8_CW07 Deepwood Infantry.png" id="8_CW07 Deepwood Infantry" data-flag="@X" onclick="openSidebar('8_CW07 Deepwood Infantry',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\23_CU07 Waterborn Mourner.png" id="23_CU07 Waterborn Mourner" data-flag="@X" onclick="openSidebar('23_CU07 Waterborn Mourner',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\38_CB07 Carrion Harpy.png" id="38_CB07 Carrion Harpy" data-flag="@X" onclick="openSidebar('38_CB07 Carrion Harpy',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\53_CR07 Borderland Shepherd.png" id="53_CR07 Borderland Shepherd" data-flag="@X" onclick="openSidebar('53_CR07 Borderland Shepherd',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\68_CG07 Enraged Sentinel.png" id="68_CG07 Enraged Sentinel" data-flag="@X" onclick="openSidebar('68_CG07 Enraged Sentinel',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\9_CW08 Inspiring Champion.png" id="9_CW08 Inspiring Champion" data-flag="@X" onclick="openSidebar('9_CW08 Inspiring Champion',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\24_CU08 Sphinx of Dread.png" id="24_CU08 Sphinx of Dread" data-flag="@X" onclick="openSidebar('24_CU08 Sphinx of Dread',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\39_CB08 Arachnibomination.png" id="39_CB08 Arachnibomination" data-flag="@X" onclick="openSidebar('39_CB08 Arachnibomination',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\54_CR08 Hellfire Instigator.png" id="54_CR08 Hellfire Instigator" data-flag="@X" onclick="openSidebar('54_CR08 Hellfire Instigator',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\69_CG08 Heartland Giantess.png" id="69_CG08 Heartland Giantess" data-flag="@X" onclick="openSidebar('69_CG08 Heartland Giantess',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\10_CW09 Priestess of the Haunting.png" id="10_CW09 Priestess of the Haunting" data-flag="@X" onclick="openSidebar('10_CW09 Priestess of the Haunting',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\25_CU09 Katya's Ire.png" id="25_CU09 Katyas Ire" data-flag="@X" onclick="openSidebar('25_CU09 Katyas Ire',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\40_CB09 Palemoor Alpha.png" id="40_CB09 Palemoor Alpha" data-flag="@X" onclick="openSidebar('40_CB09 Palemoor Alpha',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\55_CR09 Granitehand Giant.png" id="55_CR09 Granitehand Giant" data-flag="@X" onclick="openSidebar('55_CR09 Granitehand Giant',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\70_CG09 Summon Forest Guardian.png" id="70_CG09 Summon Forest Guardian" data-flag="@X" onclick="openSidebar('70_CG09 Summon Forest Guardian',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\11_CW10 Burdened Giant.png" id="11_CW10 Burdened Giant" data-flag="@X" onclick="openSidebar('11_CW10 Burdened Giant',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\26_CU10 Sinister Sabotage.png" id="26_CU10 Sinister Sabotage" data-flag="@X" onclick="openSidebar('26_CU10 Sinister Sabotage',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\41_CB10 Tormenting Wound.png" id="41_CB10 Tormenting Wound" data-flag="@X" onclick="openSidebar('41_CB10 Tormenting Wound',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\56_CR10 Flamedance Ritual.png" id="56_CR10 Flamedance Ritual" data-flag="@X" onclick="openSidebar('56_CR10 Flamedance Ritual',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\71_CG10 Deal with Trolls.png" id="71_CG10 Deal with Trolls" data-flag="@X" onclick="openSidebar('71_CG10 Deal with Trolls',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\12_CW11 Angel of the Blackened Sun.png" id="12_CW11 Angel of the Blackened Sun" data-flag="@X" onclick="openSidebar('12_CW11 Angel of the Blackened Sun',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\27_CU11 Broken Reflection.png" id="27_CU11 Broken Reflection" data-flag="@X" onclick="openSidebar('27_CU11 Broken Reflection',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\42_CB11 Curse of Broken Strings.png" id="42_CB11 Curse of Broken Strings" data-flag="@X" onclick="openSidebar('42_CB11 Curse of Broken Strings',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\57_CR11 Heartland Warpaint.png" id="57_CR11 Heartland Warpaint" data-flag="@X" onclick="openSidebar('57_CR11 Heartland Warpaint',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\72_CG11 Suffocating Growth.png" id="72_CG11 Suffocating Growth" data-flag="@X" onclick="openSidebar('72_CG11 Suffocating Growth',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\13_CW12 Pacifism.png" id="13_CW12 Pacifism" data-flag="@X" onclick="openSidebar('13_CW12 Pacifism',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\28_CU12 Curse of the Haunting Effigy.png" id="28_CU12 Curse of the Haunting Effigy" data-flag="@X" onclick="openSidebar('28_CU12 Curse of the Haunting Effigy',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\43_CB12 Deal with Wytches.png" id="43_CB12 Deal with Wytches" data-flag="@X" onclick="openSidebar('43_CB12 Deal with Wytches',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\58_CR12 Curse of Burning Branches.png" id="58_CR12 Curse of Burning Branches" data-flag="@X" onclick="openSidebar('58_CR12 Curse of Burning Branches',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\73_CG12 Eyes of a Predator.png" id="73_CG12 Eyes of a Predator" data-flag="@X" onclick="openSidebar('73_CG12 Eyes of a Predator',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\14_CW13 Curse of Occlusion.png" id="14_CW13 Curse of Occlusion" data-flag="@X" onclick="openSidebar('14_CW13 Curse of Occlusion',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\29_CU13 Hide Beneath.png" id="29_CU13 Hide Beneath" data-flag="@X" onclick="openSidebar('29_CU13 Hide Beneath',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\44_CB13 Fae Meddling.png" id="44_CB13 Fae Meddling" data-flag="@X" onclick="openSidebar('44_CB13 Fae Meddling',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\59_CR13 Burn the Past.png" id="59_CR13 Burn the Past" data-flag="@X" onclick="openSidebar('59_CR13 Burn the Past',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\74_CG13 Nature's Boon.png" id="74_CG13 Natures Boon" data-flag="@X" onclick="openSidebar('74_CG13 Natures Boon',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\15_CW14 Face Your Fears.png" id="15_CW14 Face Your Fears" data-flag="@X" onclick="openSidebar('15_CW14 Face Your Fears',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\30_CU14 Corrupted Soul.png" id="30_CU14 Corrupted Soul" data-flag="@X" onclick="openSidebar('30_CU14 Corrupted Soul',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\45_CB14 Wish You Away.png" id="45_CB14 Wish You Away" data-flag="@X" onclick="openSidebar('45_CB14 Wish You Away',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\60_CR14 Haunting Malice.png" id="60_CR14 Haunting Malice" data-flag="@X" onclick="openSidebar('60_CR14 Haunting Malice',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\75_CG14 Autumn Enclave.png" id="75_CG14 Autumn Enclave" data-flag="@X" onclick="openSidebar('75_CG14 Autumn Enclave',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\16_CW15 Seeker's Lantern.png" id="16_CW15 Seekers Lantern" data-flag="@X" onclick="openSidebar('16_CW15 Seekers Lantern',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\31_CU15 Deal with Spirits.png" id="31_CU15 Deal with Spirits" data-flag="@X" onclick="openSidebar('31_CU15 Deal with Spirits',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\46_CB15 Power of the Altar.png" id="46_CB15 Power of the Altar" data-flag="@X" onclick="openSidebar('46_CB15 Power of the Altar',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\61_CR15 Exorcise the Demons.png" id="61_CR15 Exorcise the Demons" data-flag="@X" onclick="openSidebar('61_CR15 Exorcise the Demons',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\76_CG15 Curse of the Hunted.png" id="76_CG15 Curse of the Hunted" data-flag="@X" onclick="openSidebar('76_CG15 Curse of the Hunted',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\2_CW01 Doomed Traveler.png" id="2_CW01 Doomed Traveler" data-flag="@X" onclick="openSidebar('2_CW01 Doomed Traveler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\17_CU01 Owl of Good Omens.png" id="17_CU01 Owl of Good Omens" data-flag="@X" onclick="openSidebar('17_CU01 Owl of Good Omens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\32_CB01 Forlorn Rusalka.png" id="32_CB01 Forlorn Rusalka" data-flag="@X" onclick="openSidebar('32_CB01 Forlorn Rusalka',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\47_CR01 Heartwood Novice.png" id="47_CR01 Heartwood Novice" data-flag="@X" onclick="openSidebar('47_CR01 Heartwood Novice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\62_CG01 Heartland Piper.png" id="62_CG01 Heartland Piper" data-flag="@X" onclick="openSidebar('62_CG01 Heartland Piper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\3_CW02 Lightwell Pupil.png" id="3_CW02 Lightwell Pupil" data-flag="@X" onclick="openSidebar('3_CW02 Lightwell Pupil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\18_CU02 Palemoor Merrow.png" id="18_CU02 Palemoor Merrow" data-flag="@X" onclick="openSidebar('18_CU02 Palemoor Merrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\33_CB02 Palemoor Wytch.png" id="33_CB02 Palemoor Wytch" data-flag="@X" onclick="openSidebar('33_CB02 Palemoor Wytch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\48_CR02 Elusive Redfur.png" id="48_CR02 Elusive Redfur" data-flag="@X" onclick="openSidebar('48_CR02 Elusive Redfur',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\63_CG02 Gnarled Warden.png" id="63_CG02 Gnarled Warden" data-flag="@X" onclick="openSidebar('63_CG02 Gnarled Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\4_CW03 Starsfall Cleric.png" id="4_CW03 Starsfall Cleric" data-flag="@X" onclick="openSidebar('4_CW03 Starsfall Cleric',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\19_CU03 Village Protector.png" id="19_CU03 Village Protector" data-flag="@X" onclick="openSidebar('19_CU03 Village Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\34_CB03 Enthralled Ram.png" id="34_CB03 Enthralled Ram" data-flag="@X" onclick="openSidebar('34_CB03 Enthralled Ram',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\49_CR03 Scorned Sorceress.png" id="49_CR03 Scorned Sorceress" data-flag="@X" onclick="openSidebar('49_CR03 Scorned Sorceress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\64_CG03 Greenleaf Traveler.png" id="64_CG03 Greenleaf Traveler" data-flag="@X" onclick="openSidebar('64_CG03 Greenleaf Traveler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\5_CW04 Dour Statue.png" id="5_CW04 Dour Statue" data-flag="@X" onclick="openSidebar('5_CW04 Dour Statue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\20_CU04 Frostwytch Initiate.png" id="20_CU04 Frostwytch Initiate" data-flag="@X" onclick="openSidebar('20_CU04 Frostwytch Initiate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\35_CB04 Ghost Rider.png" id="35_CB04 Ghost Rider" data-flag="@X" onclick="openSidebar('35_CB04 Ghost Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\50_CR04 Wytchblade Huntress.png" id="50_CR04 Wytchblade Huntress" data-flag="@X" onclick="openSidebar('50_CR04 Wytchblade Huntress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\65_CG04 Timberborn Chief.png" id="65_CG04 Timberborn Chief" data-flag="@X" onclick="openSidebar('65_CG04 Timberborn Chief',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\6_CW05 Starry Strix.png" id="6_CW05 Starry Strix" data-flag="@X" onclick="openSidebar('6_CW05 Starry Strix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\21_CU05 Brineborn Toad.png" id="21_CU05 Brineborn Toad" data-flag="@X" onclick="openSidebar('21_CU05 Brineborn Toad',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\36_CB05 Cunning Bogwytch.png" id="36_CB05 Cunning Bogwytch" data-flag="@X" onclick="openSidebar('36_CB05 Cunning Bogwytch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\51_CR05 Goblin Wytchfolk.png" id="51_CR05 Goblin Wytchfolk" data-flag="@X" onclick="openSidebar('51_CR05 Goblin Wytchfolk',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\66_CG05 Borderland Ranger.png" id="66_CG05 Borderland Ranger" data-flag="@X" onclick="openSidebar('66_CG05 Borderland Ranger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\7_CW06 Palemoor Cavalier.png" id="7_CW06 Palemoor Cavalier" data-flag="@X" onclick="openSidebar('7_CW06 Palemoor Cavalier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\22_CU06 Chillblood Wytch.png" id="22_CU06 Chillblood Wytch" data-flag="@X" onclick="openSidebar('22_CU06 Chillblood Wytch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\37_CB06 Greyblade Warden.png" id="37_CB06 Greyblade Warden" data-flag="@X" onclick="openSidebar('37_CB06 Greyblade Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\52_CR06 Rambling Cottage.png" id="52_CR06 Rambling Cottage" data-flag="@X" onclick="openSidebar('52_CR06 Rambling Cottage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\67_CG06 Elder Boulderhorn.png" id="67_CG06 Elder Boulderhorn" data-flag="@X" onclick="openSidebar('67_CG06 Elder Boulderhorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\8_CW07 Deepwood Infantry.png" id="8_CW07 Deepwood Infantry" data-flag="@X" onclick="openSidebar('8_CW07 Deepwood Infantry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\23_CU07 Waterborn Mourner.png" id="23_CU07 Waterborn Mourner" data-flag="@X" onclick="openSidebar('23_CU07 Waterborn Mourner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\38_CB07 Carrion Harpy.png" id="38_CB07 Carrion Harpy" data-flag="@X" onclick="openSidebar('38_CB07 Carrion Harpy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\53_CR07 Borderland Shepherd.png" id="53_CR07 Borderland Shepherd" data-flag="@X" onclick="openSidebar('53_CR07 Borderland Shepherd',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\68_CG07 Enraged Sentinel.png" id="68_CG07 Enraged Sentinel" data-flag="@X" onclick="openSidebar('68_CG07 Enraged Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\9_CW08 Inspiring Champion.png" id="9_CW08 Inspiring Champion" data-flag="@X" onclick="openSidebar('9_CW08 Inspiring Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\24_CU08 Sphinx of Dread.png" id="24_CU08 Sphinx of Dread" data-flag="@X" onclick="openSidebar('24_CU08 Sphinx of Dread',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\39_CB08 Arachnibomination.png" id="39_CB08 Arachnibomination" data-flag="@X" onclick="openSidebar('39_CB08 Arachnibomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\54_CR08 Hellfire Instigator.png" id="54_CR08 Hellfire Instigator" data-flag="@X" onclick="openSidebar('54_CR08 Hellfire Instigator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\69_CG08 Heartland Giantess.png" id="69_CG08 Heartland Giantess" data-flag="@X" onclick="openSidebar('69_CG08 Heartland Giantess',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\10_CW09 Priestess of the Haunting.png" id="10_CW09 Priestess of the Haunting" data-flag="@X" onclick="openSidebar('10_CW09 Priestess of the Haunting',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\25_CU09 Katya's Ire.png" id="25_CU09 Katyas Ire" data-flag="@X" onclick="openSidebar('25_CU09 Katyas Ire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\40_CB09 Palemoor Alpha.png" id="40_CB09 Palemoor Alpha" data-flag="@X" onclick="openSidebar('40_CB09 Palemoor Alpha',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\55_CR09 Granitehand Giant.png" id="55_CR09 Granitehand Giant" data-flag="@X" onclick="openSidebar('55_CR09 Granitehand Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\70_CG09 Summon Forest Guardian.png" id="70_CG09 Summon Forest Guardian" data-flag="@X" onclick="openSidebar('70_CG09 Summon Forest Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\11_CW10 Burdened Giant.png" id="11_CW10 Burdened Giant" data-flag="@X" onclick="openSidebar('11_CW10 Burdened Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\26_CU10 Sinister Sabotage.png" id="26_CU10 Sinister Sabotage" data-flag="@X" onclick="openSidebar('26_CU10 Sinister Sabotage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\41_CB10 Tormenting Wound.png" id="41_CB10 Tormenting Wound" data-flag="@X" onclick="openSidebar('41_CB10 Tormenting Wound',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\56_CR10 Flamedance Ritual.png" id="56_CR10 Flamedance Ritual" data-flag="@X" onclick="openSidebar('56_CR10 Flamedance Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\71_CG10 Deal with Trolls.png" id="71_CG10 Deal with Trolls" data-flag="@X" onclick="openSidebar('71_CG10 Deal with Trolls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\12_CW11 Angel of the Blackened Sun.png" id="12_CW11 Angel of the Blackened Sun" data-flag="@X" onclick="openSidebar('12_CW11 Angel of the Blackened Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\27_CU11 Broken Reflection.png" id="27_CU11 Broken Reflection" data-flag="@X" onclick="openSidebar('27_CU11 Broken Reflection',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\42_CB11 Curse of Broken Strings.png" id="42_CB11 Curse of Broken Strings" data-flag="@X" onclick="openSidebar('42_CB11 Curse of Broken Strings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\57_CR11 Heartland Warpaint.png" id="57_CR11 Heartland Warpaint" data-flag="@X" onclick="openSidebar('57_CR11 Heartland Warpaint',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\72_CG11 Suffocating Growth.png" id="72_CG11 Suffocating Growth" data-flag="@X" onclick="openSidebar('72_CG11 Suffocating Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\13_CW12 Pacifism.png" id="13_CW12 Pacifism" data-flag="@X" onclick="openSidebar('13_CW12 Pacifism',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\28_CU12 Curse of the Haunting Effigy.png" id="28_CU12 Curse of the Haunting Effigy" data-flag="@X" onclick="openSidebar('28_CU12 Curse of the Haunting Effigy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\43_CB12 Deal with Wytches.png" id="43_CB12 Deal with Wytches" data-flag="@X" onclick="openSidebar('43_CB12 Deal with Wytches',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\58_CR12 Curse of Burning Branches.png" id="58_CR12 Curse of Burning Branches" data-flag="@X" onclick="openSidebar('58_CR12 Curse of Burning Branches',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\73_CG12 Eyes of a Predator.png" id="73_CG12 Eyes of a Predator" data-flag="@X" onclick="openSidebar('73_CG12 Eyes of a Predator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\14_CW13 Curse of Occlusion.png" id="14_CW13 Curse of Occlusion" data-flag="@X" onclick="openSidebar('14_CW13 Curse of Occlusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\29_CU13 Hide Beneath.png" id="29_CU13 Hide Beneath" data-flag="@X" onclick="openSidebar('29_CU13 Hide Beneath',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\44_CB13 Fae Meddling.png" id="44_CB13 Fae Meddling" data-flag="@X" onclick="openSidebar('44_CB13 Fae Meddling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\59_CR13 Burn the Past.png" id="59_CR13 Burn the Past" data-flag="@X" onclick="openSidebar('59_CR13 Burn the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\74_CG13 Nature's Boon.png" id="74_CG13 Natures Boon" data-flag="@X" onclick="openSidebar('74_CG13 Natures Boon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\15_CW14 Face Your Fears.png" id="15_CW14 Face Your Fears" data-flag="@X" onclick="openSidebar('15_CW14 Face Your Fears',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\30_CU14 Corrupted Soul.png" id="30_CU14 Corrupted Soul" data-flag="@X" onclick="openSidebar('30_CU14 Corrupted Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\45_CB14 Wish You Away.png" id="45_CB14 Wish You Away" data-flag="@X" onclick="openSidebar('45_CB14 Wish You Away',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\60_CR14 Haunting Malice.png" id="60_CR14 Haunting Malice" data-flag="@X" onclick="openSidebar('60_CR14 Haunting Malice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\75_CG14 Autumn Enclave.png" id="75_CG14 Autumn Enclave" data-flag="@X" onclick="openSidebar('75_CG14 Autumn Enclave',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\16_CW15 Seeker's Lantern.png" id="16_CW15 Seekers Lantern" data-flag="@X" onclick="openSidebar('16_CW15 Seekers Lantern',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\31_CU15 Deal with Spirits.png" id="31_CU15 Deal with Spirits" data-flag="@X" onclick="openSidebar('31_CU15 Deal with Spirits',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\46_CB15 Power of the Altar.png" id="46_CB15 Power of the Altar" data-flag="@X" onclick="openSidebar('46_CB15 Power of the Altar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\61_CR15 Exorcise the Demons.png" id="61_CR15 Exorcise the Demons" data-flag="@X" onclick="openSidebar('61_CR15 Exorcise the Demons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\76_CG15 Curse of the Hunted.png" id="76_CG15 Curse of the Hunted" data-flag="@X" onclick="openSidebar('76_CG15 Curse of the Hunted',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\1_CA01 Ancient Lorekeeper.png" id="1_CA01 Ancient Lorekeeper" data-flag="@X" onclick="openSidebar('1_CA01 Ancient Lorekeeper',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\77_CA02 Rusted Knight.png" id="77_CA02 Rusted Knight" data-flag="@X" onclick="openSidebar('77_CA02 Rusted Knight',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\78_CA03 Timeworn Guardian.png" id="78_CA03 Timeworn Guardian" data-flag="@X" onclick="openSidebar('78_CA03 Timeworn Guardian',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\79_CA04 Helm of Bone.png" id="79_CA04 Helm of Bone" data-flag="@X" onclick="openSidebar('79_CA04 Helm of Bone',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\80_CA05 Stone of Darkest Night.png" id="80_CA05 Stone of Darkest Night" data-flag="@X" onclick="openSidebar('80_CA05 Stone of Darkest Night',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\81_CL01 Palemoor Bog.png" id="81_CL01 Palemoor Bog" data-flag="@X" onclick="openSidebar('81_CL01 Palemoor Bog',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\85_CL05 Sleepy Village.png" id="85_CL05 Sleepy Village" data-flag="@X" onclick="openSidebar('85_CL05 Sleepy Village',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\84_CL04 Forgotten City.png" id="84_CL04 Forgotten City" data-flag="@X" onclick="openSidebar('84_CL04 Forgotten City',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\82_CL02 Deepwood Alcove.png" id="82_CL02 Deepwood Alcove" data-flag="@X" onclick="openSidebar('82_CL02 Deepwood Alcove',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\83_CL03 Lonely Cabin.png" id="83_CL03 Lonely Cabin" data-flag="@X" onclick="openSidebar('83_CL03 Lonely Cabin',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\DWD-files\img\86_CL06 Abandoned Crossroads.png" id="86_CL06 Abandoned Crossroads" data-flag="@X" onclick="openSidebar('86_CL06 Abandoned Crossroads',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\1_CA01 Ancient Lorekeeper.png" id="1_CA01 Ancient Lorekeeper" data-flag="@X" onclick="openSidebar('1_CA01 Ancient Lorekeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\77_CA02 Rusted Knight.png" id="77_CA02 Rusted Knight" data-flag="@X" onclick="openSidebar('77_CA02 Rusted Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\78_CA03 Timeworn Guardian.png" id="78_CA03 Timeworn Guardian" data-flag="@X" onclick="openSidebar('78_CA03 Timeworn Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\79_CA04 Helm of Bone.png" id="79_CA04 Helm of Bone" data-flag="@X" onclick="openSidebar('79_CA04 Helm of Bone',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\80_CA05 Stone of Darkest Night.png" id="80_CA05 Stone of Darkest Night" data-flag="@X" onclick="openSidebar('80_CA05 Stone of Darkest Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\81_CL01 Palemoor Bog.png" id="81_CL01 Palemoor Bog" data-flag="@X" onclick="openSidebar('81_CL01 Palemoor Bog',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\85_CL05 Sleepy Village.png" id="85_CL05 Sleepy Village" data-flag="@X" onclick="openSidebar('85_CL05 Sleepy Village',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\84_CL04 Forgotten City.png" id="84_CL04 Forgotten City" data-flag="@X" onclick="openSidebar('84_CL04 Forgotten City',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\82_CL02 Deepwood Alcove.png" id="82_CL02 Deepwood Alcove" data-flag="@X" onclick="openSidebar('82_CL02 Deepwood Alcove',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\83_CL03 Lonely Cabin.png" id="83_CL03 Lonely Cabin" data-flag="@X" onclick="openSidebar('83_CL03 Lonely Cabin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\DWD-files\img\86_CL06 Abandoned Crossroads.png" id="86_CL06 Abandoned Crossroads" data-flag="@X" onclick="openSidebar('86_CL06 Abandoned Crossroads',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -428,27 +429,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -460,17 +485,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -503,6 +530,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -512,6 +540,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

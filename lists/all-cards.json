@@ -19138,7 +19138,7 @@
             "number": 268,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{WU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{WU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19147,8 +19147,10 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "0",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Submerged Midden",
@@ -19158,7 +19160,7 @@
             "number": 270,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{UB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{UB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19167,8 +19169,10 @@
             "loyalty": "",
             "artist": "Giulia Gentilini",
             "alias": "",
+            "position": "1",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Molten Midden",
@@ -19178,7 +19182,7 @@
             "number": 263,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{BR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{BR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19187,8 +19191,10 @@
             "loyalty": "",
             "artist": "Phil Saunders",
             "alias": "",
+            "position": "2",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brutal Midden",
@@ -19198,7 +19204,7 @@
             "number": 256,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{RG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{RG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19207,8 +19213,10 @@
             "loyalty": "",
             "artist": "Aboy Ningthouja",
             "alias": "",
+            "position": "3",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Secluded Midden",
@@ -19218,7 +19226,7 @@
             "number": 267,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{GW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{GW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19227,8 +19235,10 @@
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
             "alias": "",
+            "position": "4",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Foreboding Midden",
@@ -19238,7 +19248,7 @@
             "number": 257,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{WB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{WB}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19247,8 +19257,10 @@
             "loyalty": "",
             "artist": "Max Bedulenko",
             "alias": "",
+            "position": "5",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Market Midden",
@@ -19258,7 +19270,7 @@
             "number": 262,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{UR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{UR}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19267,8 +19279,10 @@
             "loyalty": "",
             "artist": "Forrest White",
             "alias": "",
+            "position": "6",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgotten Midden",
@@ -19278,7 +19292,7 @@
             "number": 258,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{BG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{BG}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19287,8 +19301,10 @@
             "loyalty": "",
             "artist": "Anna Semykina",
             "alias": "",
+            "position": "7",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Riffraff Midden",
@@ -19298,7 +19314,7 @@
             "number": 266,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{RW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{RW}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19307,8 +19323,10 @@
             "loyalty": "",
             "artist": "Wayne haag",
             "alias": "",
+            "position": "8",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Productive Midden",
@@ -19318,7 +19336,7 @@
             "number": 265,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{GU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{GU}, Discard this card: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19327,8 +19345,10 @@
             "loyalty": "",
             "artist": "Dmitry Vishnevsk",
             "alias": "",
+            "position": "9",
             "notes": "!tokens Junk\n\n#common #midden",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Beast",
@@ -19338,7 +19358,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "The Beast gets each ability noted with your Call The Beast emblem.\nThe Beast gets +1/+1 for each card exiled with your Call The Beast emblem.",
+            "rules_text": "The Beast has each ability noted with your Call The Beast emblem.\nThe Beast gets +1/+1 for each card exiled with your Call The Beast emblem.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -19347,8 +19367,10 @@
             "loyalty": "",
             "artist": "Huy Tran Viet",
             "alias": "",
+            "position": "10",
             "notes": "landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -19367,8 +19389,10 @@
             "loyalty": "",
             "artist": "Joel Pigou",
             "alias": "",
+            "position": "11",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -19387,8 +19411,10 @@
             "loyalty": "",
             "artist": "Emmanuel Shiu",
             "alias": "",
+            "position": "12",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -19407,8 +19433,10 @@
             "loyalty": "",
             "artist": "Kevin Fl\u00f3rez Ram\u00edrez",
             "alias": "",
+            "position": "13",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -19427,8 +19455,10 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "14",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -19447,8 +19477,10 @@
             "loyalty": "",
             "artist": "Maojin.Lee",
             "alias": "",
+            "position": "15",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure",
@@ -19467,8 +19499,10 @@
             "loyalty": "",
             "artist": "Francois Gosselin",
             "alias": "",
+            "position": "16",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Automated Scrapper",
@@ -19478,7 +19512,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i]\u201cScan 3809: Complete.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -19487,8 +19521,10 @@
             "loyalty": "",
             "artist": "Mike Patrick",
             "alias": "",
+            "position": "17",
             "notes": "!tokens Junk\n\n#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Priestess of Metal",
@@ -19507,8 +19543,10 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
+            "position": "18",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paladin of the Heap",
@@ -19527,8 +19565,10 @@
             "loyalty": "",
             "artist": "Mike Smith",
             "alias": "",
+            "position": "19",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avionic Scavenger",
@@ -19547,8 +19587,10 @@
             "loyalty": "",
             "artist": "Robert Chew",
             "alias": "",
+            "position": "20",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Convoy Wrecker",
@@ -19567,8 +19609,10 @@
             "loyalty": "",
             "artist": "Raymond -hanhao",
             "alias": "",
+            "position": "21",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapheap Roc",
@@ -19587,8 +19631,10 @@
             "loyalty": "",
             "artist": "Kyle Martin",
             "alias": "",
+            "position": "22",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Catastrophic Failure",
@@ -19607,8 +19653,10 @@
             "loyalty": "",
             "artist": "Al Brady",
             "alias": "",
+            "position": "23",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mechanohawk",
@@ -19627,8 +19675,10 @@
             "loyalty": "",
             "artist": "boris nenezic",
             "alias": "",
+            "position": "24",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lonely Wanderer",
@@ -19647,8 +19697,10 @@
             "loyalty": "",
             "artist": "Kenta Doi",
             "alias": "",
+            "position": "25",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Market Thief",
@@ -19658,7 +19710,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.",
+            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -19667,8 +19719,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "26",
             "notes": "!tokens Junk\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moonlight Yarder",
@@ -19687,8 +19741,10 @@
             "loyalty": "",
             "artist": "Joakim Ericsson",
             "alias": "",
+            "position": "27",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swift Surveyor",
@@ -19707,8 +19763,10 @@
             "loyalty": "",
             "artist": "Dmitri Gorbushin",
             "alias": "",
+            "position": "28",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrap-Shell Hermit",
@@ -19727,8 +19785,10 @@
             "loyalty": "",
             "artist": "Longque Chen",
             "alias": "",
+            "position": "29",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hidden Goliath",
@@ -19747,8 +19807,10 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
+            "position": "30",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recharge",
@@ -19767,8 +19829,10 @@
             "loyalty": "",
             "artist": "Papaya",
             "alias": "",
+            "position": "31",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Search for Understanding",
@@ -19787,8 +19851,10 @@
             "loyalty": "",
             "artist": "Tuomas Korpi",
             "alias": "",
+            "position": "32",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crushing Defeat",
@@ -19807,8 +19873,10 @@
             "loyalty": "",
             "artist": "Stijn Beerts",
             "alias": "",
+            "position": "33",
             "notes": "!tokens Treasure\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Compacted",
@@ -19827,8 +19895,10 @@
             "loyalty": "",
             "artist": "Yugin Maffioli",
             "alias": "",
+            "position": "34",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Initiation Sequence",
@@ -19847,8 +19917,10 @@
             "loyalty": "",
             "artist": "Darwin Cellis",
             "alias": "",
+            "position": "35",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrounging Vermin",
@@ -19858,7 +19930,7 @@
             "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, each opponent discards a card. If a player can't, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -19867,8 +19939,10 @@
             "loyalty": "",
             "artist": "Vincent Delbarry",
             "alias": "",
+            "position": "36",
             "notes": "!tokens Junk\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Assault Bot",
@@ -19887,8 +19961,10 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "37",
             "notes": "!tokens Servo\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Transmogrified Yarder",
@@ -19907,8 +19983,10 @@
             "loyalty": "",
             "artist": "Sean Hughes",
             "alias": "",
+            "position": "38",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Maiden of Junk",
@@ -19927,8 +20005,10 @@
             "loyalty": "",
             "artist": "Denis Zhbankov",
             "alias": "",
+            "position": "39",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oculus Collector",
@@ -19938,7 +20018,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -19947,8 +20027,10 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "40",
             "notes": "!tokens Junk<2>\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deadly Goliath",
@@ -19967,8 +20049,10 @@
             "loyalty": "",
             "artist": "Daimey",
             "alias": "",
+            "position": "41",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cast Down",
@@ -19987,8 +20071,10 @@
             "loyalty": "",
             "artist": "Antoine Wilmot",
             "alias": "",
+            "position": "42",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Failed Experiment",
@@ -20007,8 +20093,10 @@
             "loyalty": "",
             "artist": "Lamin Martin",
             "alias": "",
+            "position": "43",
             "notes": "!tokens Zombie\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Visions of Terror",
@@ -20027,8 +20115,10 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
+            "position": "44",
             "notes": "!tokens Call The Beast Emblem\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Decapitate",
@@ -20047,8 +20137,10 @@
             "loyalty": "",
             "artist": "Mingchen Shen",
             "alias": "",
+            "position": "45",
             "notes": "!tokens Call The Beast Emblem\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Target Locked",
@@ -20067,8 +20159,10 @@
             "loyalty": "",
             "artist": "rupam raaj r",
             "alias": "",
+            "position": "46",
             "notes": "!tokens Call The Beast Emblem\n\n#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nitwit Yarder",
@@ -20078,7 +20172,7 @@
             "number": 152,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Haste\nWhen this creature dies, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Haste\nWhen this creature dies, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -20087,8 +20181,10 @@
             "loyalty": "",
             "artist": "Miguel Regod\u00f3n Harkness",
             "alias": "",
+            "position": "47",
             "notes": "!tokens Junk\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fire Starter",
@@ -20107,8 +20203,10 @@
             "loyalty": "",
             "artist": "Joseph Kim",
             "alias": "",
+            "position": "48",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yarder Vets",
@@ -20127,8 +20225,10 @@
             "loyalty": "",
             "artist": "zhu liu",
             "alias": "",
+            "position": "49",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cunning Warband",
@@ -20147,8 +20247,10 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "50",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapyard Mongrel",
@@ -20167,8 +20269,10 @@
             "loyalty": "",
             "artist": "Arrigo Verderosa",
             "alias": "",
+            "position": "51",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gangland Tagteam",
@@ -20187,8 +20291,10 @@
             "loyalty": "",
             "artist": "Melissa Buffaloe",
             "alias": "",
+            "position": "52",
             "notes": "!tokens Mercenary\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rampaging Goliath",
@@ -20207,8 +20313,10 @@
             "loyalty": "",
             "artist": "Wang Xian Kun",
             "alias": "",
+            "position": "53",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Explosive Collision",
@@ -20218,7 +20326,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -20227,8 +20335,10 @@
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
+            "position": "54",
             "notes": "!tokens Junk\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrap Deals",
@@ -20238,7 +20348,7 @@
             "number": 160,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nCreate two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nCreate two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -20247,8 +20357,10 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
+            "position": "55",
             "notes": "!tokens Junk<2>\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tyrants Fire",
@@ -20267,8 +20379,10 @@
             "loyalty": "",
             "artist": "Daniel Schmelling",
             "alias": "",
+            "position": "56",
             "notes": "!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sandstorm Dozer",
@@ -20287,8 +20401,10 @@
             "loyalty": "",
             "artist": "Sebastian L\u00fcdke",
             "alias": "",
+            "position": "57",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Android Visionary",
@@ -20307,8 +20423,10 @@
             "loyalty": "",
             "artist": "Donato Giancola",
             "alias": "",
+            "position": "58",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Happy Heaper",
@@ -20327,8 +20445,10 @@
             "loyalty": "",
             "artist": "Geoff Rosenthal",
             "alias": "",
+            "position": "59",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scaled Scrapper",
@@ -20347,8 +20467,10 @@
             "loyalty": "",
             "artist": "Xavier R",
             "alias": "",
+            "position": "60",
             "notes": "!tokens Treasure\n\n#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swine Racer",
@@ -20367,8 +20489,10 @@
             "loyalty": "",
             "artist": "qiang zhou",
             "alias": "",
+            "position": "61",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Daddy Swordlegs",
@@ -20387,8 +20511,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "62",
             "notes": "!tokens Call The Beast Emblem\n\n#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grizzled Yarder",
@@ -20407,8 +20533,10 @@
             "loyalty": "",
             "artist": "Aaron Griffin",
             "alias": "",
+            "position": "63",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wasteland Goliath",
@@ -20427,8 +20555,10 @@
             "loyalty": "",
             "artist": "Seungjin Woo",
             "alias": "",
+            "position": "64",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Survey the Ruins",
@@ -20447,8 +20577,10 @@
             "loyalty": "",
             "artist": "Joakim Ericsson",
             "alias": "",
+            "position": "65",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Field Crawler",
@@ -20467,8 +20599,10 @@
             "loyalty": "",
             "artist": "Bal\u00e1zs Bartus",
             "alias": "",
+            "position": "66",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overpower",
@@ -20478,7 +20612,7 @@
             "number": 198,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Destroy target artifact.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Destroy target artifact.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -20487,8 +20621,10 @@
             "loyalty": "",
             "artist": "Daryl Mandryk",
             "alias": "",
+            "position": "67",
             "notes": "!tokens Junk\n\n#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crafty Junker",
@@ -20507,8 +20643,10 @@
             "loyalty": "",
             "artist": "Ken Liu",
             "alias": "",
+            "position": "68",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fancy Refurbishments",
@@ -20527,8 +20665,10 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "69",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Friendly Trawler",
@@ -20547,8 +20687,10 @@
             "loyalty": "",
             "artist": "Matt Dixon",
             "alias": "",
+            "position": "70",
             "notes": "!tokens Servo\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heckler Raid Leader",
@@ -20567,8 +20709,10 @@
             "loyalty": "",
             "artist": "Tymoteusz Chlisz",
             "alias": "",
+            "position": "71",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drexil Acolyte",
@@ -20587,8 +20731,10 @@
             "loyalty": "",
             "artist": "Milan Nikolic",
             "alias": "",
+            "position": "72",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sand Skimmer",
@@ -20607,8 +20753,10 @@
             "loyalty": "",
             "artist": "Mark Ponczek",
             "alias": "",
+            "position": "73",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrap-Pit Champion",
@@ -20627,8 +20775,10 @@
             "loyalty": "",
             "artist": "Nikolay Georgiev",
             "alias": "",
+            "position": "74",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trawl the Fields",
@@ -20647,8 +20797,10 @@
             "loyalty": "",
             "artist": "Cameron Nissen",
             "alias": "",
+            "position": "75",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Robotic Reverence",
@@ -20667,8 +20819,10 @@
             "loyalty": "",
             "artist": "Joshua Clarke",
             "alias": "",
+            "position": "76",
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plucky Scrapper",
@@ -20678,7 +20832,7 @@
             "number": 252,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this creature dies, each player creates a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature dies, each player creates a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -20687,8 +20841,10 @@
             "loyalty": "",
             "artist": "Matt Dixon",
             "alias": "",
+            "position": "77",
             "notes": "!tokens Junk\n\n#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recommisioned Pounce-Bot",
@@ -20707,8 +20863,10 @@
             "loyalty": "",
             "artist": "Eric Elwell",
             "alias": "",
+            "position": "78",
             "notes": "#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bursting Vat",
@@ -20727,8 +20885,10 @@
             "loyalty": "",
             "artist": "Marc Escachx",
             "alias": "",
+            "position": "79",
             "notes": "!tokens Call The Beast Emblem\n\n#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dune Dasher",
@@ -20747,8 +20907,10 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
+            "position": "80",
             "notes": "#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Giving Tree",
@@ -20767,8 +20929,10 @@
             "loyalty": "",
             "artist": "Niv Shpigel",
             "alias": "",
+            "position": "81",
             "notes": "#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Way of the Pipe",
@@ -20787,8 +20951,10 @@
             "loyalty": "",
             "artist": "Surya Prasetya",
             "alias": "",
+            "position": "82",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Defend the Hive",
@@ -20807,8 +20973,10 @@
             "loyalty": "",
             "artist": "Sam Rowan",
             "alias": "",
+            "position": "83",
             "notes": "!tokens Call The Beast Emblem;Insect<2>\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghastly Junker",
@@ -20827,8 +20995,10 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "84",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunger of the Heap",
@@ -20847,8 +21017,10 @@
             "loyalty": "",
             "artist": "Veronica Voutila",
             "alias": "",
+            "position": "85",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dirtbike Jouster",
@@ -20867,8 +21039,10 @@
             "loyalty": "",
             "artist": "Oleg Fedorov",
             "alias": "",
+            "position": "86",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junkyard Sentry",
@@ -20887,8 +21061,10 @@
             "loyalty": "",
             "artist": "Su Jian",
             "alias": "",
+            "position": "87",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lead the Charge",
@@ -20907,8 +21083,10 @@
             "loyalty": "",
             "artist": "Brandon Liao",
             "alias": "",
+            "position": "88",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beetle Bot",
@@ -20927,8 +21105,10 @@
             "loyalty": "",
             "artist": "Benedick Bana",
             "alias": "",
+            "position": "89",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast Beckoner",
@@ -20947,8 +21127,10 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
+            "position": "90",
             "notes": "!tokens Call The Beast Emblem\n\n#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wasteland Daredevils",
@@ -20967,8 +21149,10 @@
             "loyalty": "",
             "artist": "Riley O'Kane",
             "alias": "",
+            "position": "91",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alert Sentries",
@@ -20987,8 +21171,10 @@
             "loyalty": "",
             "artist": "Matt Tkocz",
             "alias": "",
+            "position": "92",
             "notes": "!tokens Call The Beast Emblem;Servo<2>\n\n#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wasteland Flamerider",
@@ -21007,8 +21193,10 @@
             "loyalty": "",
             "artist": "Jort van Welbergen",
             "alias": "",
+            "position": "93",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Servo",
@@ -21027,8 +21215,10 @@
             "loyalty": "",
             "artist": "Neil Blevins",
             "alias": "",
+            "position": "94",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary",
@@ -21047,8 +21237,10 @@
             "loyalty": "",
             "artist": "John Mueller",
             "alias": "",
+            "position": "95",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junk",
@@ -21067,8 +21259,10 @@
             "loyalty": "",
             "artist": "Dominic Harman",
             "alias": "",
+            "position": "96",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nomad",
@@ -21087,8 +21281,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "97",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Power of the Beast",
@@ -21107,8 +21303,10 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "98",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insidious Orb",
@@ -21127,8 +21325,10 @@
             "loyalty": "",
             "artist": "Peter Rossa",
             "alias": "",
+            "position": "99",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skullface Wastelander",
@@ -21147,8 +21347,10 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
+            "position": "100",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Battery Thief",
@@ -21158,7 +21360,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nJunk tokens you control have \u201c{T}, Pay 1 life: Add {B}.\u201d",
+            "rules_text": "{1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nJunk tokens you control have \u201c{T}, Pay 1 life: Add {B}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -21167,8 +21369,10 @@
             "loyalty": "",
             "artist": "Benjamin Clair",
             "alias": "",
+            "position": "101",
             "notes": "!tokens Junk\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Heap Rises",
@@ -21187,8 +21391,10 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "102",
             "notes": "!tokens Call The Beast Emblem;Zombie\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remote Controlled Mechsuit",
@@ -21207,8 +21413,10 @@
             "loyalty": "",
             "artist": "Danny Kundzinsh",
             "alias": "",
+            "position": "103",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feed the Monster",
@@ -21227,8 +21435,10 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "104",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Putrefying Mists",
@@ -21247,8 +21457,10 @@
             "loyalty": "",
             "artist": "Jan Klooster, van de",
             "alias": "",
+            "position": "105",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrounge for Parts",
@@ -21267,8 +21479,10 @@
             "loyalty": "",
             "artist": "Maxime Teppe",
             "alias": "",
+            "position": "106",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nightfall Approaches",
@@ -21287,8 +21501,10 @@
             "loyalty": "",
             "artist": "Cole Miller",
             "alias": "",
+            "position": "107",
             "notes": "!tokens Call The Beast Emblem\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hired Killer",
@@ -21307,8 +21523,10 @@
             "loyalty": "",
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
+            "position": "108",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pull em Out",
@@ -21327,8 +21545,10 @@
             "loyalty": "",
             "artist": "Th\u00e9o DROULEZ",
             "alias": "",
+            "position": "109",
             "notes": "!exportname Pull em Out\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fallen Paladin",
@@ -21347,8 +21567,10 @@
             "loyalty": "",
             "artist": "Geoffrey Ernault",
             "alias": "",
+            "position": "110",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rubbish Pack",
@@ -21367,8 +21589,10 @@
             "loyalty": "",
             "artist": "Garret Post",
             "alias": "",
+            "position": "111",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anter, Wasteland Runner",
@@ -21387,8 +21611,10 @@
             "loyalty": "",
             "artist": "Germ\u00e1n Cid",
             "alias": "",
+            "position": "112",
             "notes": "!tokens Junk\n\n#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hotwiring Hogs",
@@ -21407,8 +21633,10 @@
             "loyalty": "",
             "artist": "Huy Van Triet",
             "alias": "",
+            "position": "113",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Furious Intimidator",
@@ -21427,8 +21655,10 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
+            "position": "114",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yarders Uprising",
@@ -21447,8 +21677,10 @@
             "loyalty": "",
             "artist": "Vladimir Manyukhin",
             "alias": "",
+            "position": "115",
             "notes": "!exportname Yarders Uprising\n!tokens Mercenary<2>\n\n#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Double-Barreled Drakkon",
@@ -21467,8 +21699,10 @@
             "loyalty": "",
             "artist": "Stoyan Stoyanov",
             "alias": "",
+            "position": "116",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grabby Claws",
@@ -21487,8 +21721,10 @@
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
             "alias": "",
+            "position": "117",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Into Glory Ride",
@@ -21507,8 +21743,10 @@
             "loyalty": "",
             "artist": "Victor Bravo",
             "alias": "",
+            "position": "118",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Absolute Victory",
@@ -21527,8 +21765,10 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "119",
             "notes": "!tokens Call The Beast Emblem\n\n#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trashfire Crawler",
@@ -21547,8 +21787,10 @@
             "loyalty": "",
             "artist": "Alejandro Burdisio",
             "alias": "",
+            "position": "120",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Electric Junk Tower",
@@ -21558,7 +21800,7 @@
             "number": 221,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.",
+            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -21567,8 +21809,10 @@
             "loyalty": "",
             "artist": "Dylan Scher",
             "alias": "",
+            "position": "121",
             "notes": "!tokens Junk<2>\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Execution Tank",
@@ -21587,8 +21831,10 @@
             "loyalty": "",
             "artist": "Eric Elwell",
             "alias": "",
+            "position": "122",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harpooner Wagon",
@@ -21598,7 +21844,7 @@
             "number": 144,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 1",
+            "rules_text": "Whenever this Vehicle attacks, exile the top card of defending player's library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 1",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -21607,8 +21853,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "123",
             "notes": "!tokens Treasure;Junk\n\n#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scavenger Party",
@@ -21627,8 +21875,10 @@
             "loyalty": "",
             "artist": "su jian",
             "alias": "",
+            "position": "124",
             "notes": "!tokens Nomad;Nomad<2>\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Out of the Wreckage",
@@ -21647,8 +21897,10 @@
             "loyalty": "",
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
+            "position": "125",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mecha Arachnid",
@@ -21667,8 +21919,10 @@
             "loyalty": "",
             "artist": "Ben Hancock",
             "alias": "",
+            "position": "126",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Colossus Opus",
@@ -21687,8 +21941,10 @@
             "loyalty": "",
             "artist": "Cl\u00e9ment BRECHET",
             "alias": "",
+            "position": "127",
             "notes": "#colorless #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Auto Recycler",
@@ -21707,8 +21963,10 @@
             "loyalty": "",
             "artist": "Bo\u017cenka Jelonek",
             "alias": "",
+            "position": "128",
             "notes": "!tokens Treasure\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shearing Winds",
@@ -21727,8 +21985,10 @@
             "loyalty": "",
             "artist": "KRIS",
             "alias": "",
+            "position": "129",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Face Off",
@@ -21747,8 +22007,10 @@
             "loyalty": "",
             "artist": "Rienque LeVerite",
             "alias": "",
+            "position": "130",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gorr, Heapbreaker",
@@ -21767,8 +22029,10 @@
             "loyalty": "",
             "artist": "Xavier R",
             "alias": "",
+            "position": "131",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Badlands Alpha",
@@ -21787,8 +22051,10 @@
             "loyalty": "",
             "artist": "\u6b27\u745f\u65af \u5de5\u4f5c\u5ba4",
             "alias": "",
+            "position": "132",
             "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "ATV Hotshot",
@@ -21807,8 +22073,10 @@
             "loyalty": "",
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
+            "position": "133",
             "notes": "!exportname ATV Hotshot\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie",
@@ -21827,8 +22095,10 @@
             "loyalty": "",
             "artist": "John Mueller",
             "alias": "",
+            "position": "134",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fearless Yarder",
@@ -21847,8 +22117,10 @@
             "loyalty": "",
             "artist": "Mateusz Wisniew",
             "alias": "",
+            "position": "135",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junkyard Riveter",
@@ -21867,8 +22139,10 @@
             "loyalty": "",
             "artist": "Ciarian Lucas",
             "alias": "",
+            "position": "136",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Robot Samurai",
@@ -21887,8 +22161,10 @@
             "loyalty": "",
             "artist": "Ondrej Spanhel",
             "alias": "",
+            "position": "137",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrap Blast",
@@ -21907,8 +22183,10 @@
             "loyalty": "",
             "artist": "Jacob Kuhne",
             "alias": "",
+            "position": "138",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bert, Parts Specialist",
@@ -21927,8 +22205,10 @@
             "loyalty": "",
             "artist": "benedykt szneider",
             "alias": "",
+            "position": "139",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapyard Upgrade",
@@ -21947,8 +22227,10 @@
             "loyalty": "",
             "artist": "cheetz0",
             "alias": "",
+            "position": "140",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Required Assembly",
@@ -21958,7 +22240,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one. You may choose both instead if you've cast another noncreature spell this turn.\n\u2022 Create two 1/1 colorless Servo artifact creature tokens.\n\u2022 Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Choose one. You may choose both instead if you've cast another noncreature spell this turn.\n\u2022 Create two 1/1 colorless Servo artifact creature tokens.\n\u2022 Create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -21967,8 +22249,10 @@
             "loyalty": "",
             "artist": "Grafit Studios",
             "alias": "",
+            "position": "141",
             "notes": "!tokens Servo<2>;Junk\n\n#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angel of Scrap",
@@ -21987,8 +22271,10 @@
             "loyalty": "",
             "artist": "Igor Artyomenko",
             "alias": "",
+            "position": "142",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sky Trawler",
@@ -21998,7 +22284,7 @@
             "number": 83,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\nWhenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
+            "rules_text": "Flying\nWhenever this Vehicle attacks, you may put a card from your graveyard on the bottom of your library. If you do, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -22007,8 +22293,10 @@
             "loyalty": "",
             "artist": "Lo\u00efc Souquet",
             "alias": "",
+            "position": "143",
             "notes": "!tokens Junk\n\n#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remove Visage",
@@ -22027,8 +22315,10 @@
             "loyalty": "",
             "artist": "Oliver Wetter",
             "alias": "",
+            "position": "144",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junk Tornado",
@@ -22047,8 +22337,10 @@
             "loyalty": "",
             "artist": "Geoffrey Amesse",
             "alias": "",
+            "position": "145",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "100,000 Volts",
@@ -22067,8 +22359,10 @@
             "loyalty": "",
             "artist": "David Savage",
             "alias": "",
+            "position": "146",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drexil Hiveguard",
@@ -22087,8 +22381,10 @@
             "loyalty": "",
             "artist": "Athavan",
             "alias": "",
+            "position": "147",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hotwire Mechanic",
@@ -22107,8 +22403,10 @@
             "loyalty": "",
             "artist": "Thomas Brissot",
             "alias": "",
+            "position": "148",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sky Scrapper",
@@ -22127,8 +22425,10 @@
             "loyalty": "",
             "artist": "Fran Fdez",
             "alias": "",
+            "position": "149",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harbinger Drexil",
@@ -22147,8 +22447,10 @@
             "loyalty": "",
             "artist": "Jonathan Dawo",
             "alias": "",
+            "position": "150",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunt for Scraps",
@@ -22167,8 +22469,10 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
+            "position": "151",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bandit Junker",
@@ -22178,7 +22482,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i][i]Hoot n' Holler[/i][/i] \u2013 Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "[i][i]Hoot n' Holler[/i][/i] \u2013 Whenever this creature or a Vehicle it crewed this turn attacks, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -22187,8 +22491,10 @@
             "loyalty": "",
             "artist": "Vael",
             "alias": "",
+            "position": "152",
             "notes": "!tokens Junk\n\n#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rapid Materialization",
@@ -22207,8 +22513,10 @@
             "loyalty": "",
             "artist": "Lighting Luminoso",
             "alias": "",
+            "position": "153",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Junkfields",
@@ -22227,8 +22535,10 @@
             "loyalty": "",
             "artist": "Federico Bentancor",
             "alias": "",
+            "position": "154",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Heap",
@@ -22247,8 +22557,10 @@
             "loyalty": "",
             "artist": "Jiri Horacek",
             "alias": "",
+            "position": "155",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Pit",
@@ -22267,8 +22579,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "156",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Wasteland",
@@ -22287,8 +22601,10 @@
             "loyalty": "",
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
+            "position": "157",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Lost Sea",
@@ -22307,8 +22623,10 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "158",
             "notes": "!tokens Call The Beast Emblem\n\n#uncommon #CTB-Land",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Millikin",
@@ -22327,8 +22645,10 @@
             "loyalty": "",
             "artist": "Illarstration",
             "alias": "",
+            "position": "159",
             "notes": "#colorless #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Willing Automaton",
@@ -22347,8 +22667,10 @@
             "loyalty": "",
             "artist": "Iain Hegoburu",
             "alias": "",
+            "position": "160",
             "notes": "!tokens Call The Beast Emblem\n\n#colorless #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charging Station",
@@ -22367,8 +22689,10 @@
             "loyalty": "",
             "artist": "Jacob Houghton",
             "alias": "",
+            "position": "161",
             "notes": "#colorless #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Part Bot",
@@ -22387,8 +22711,10 @@
             "loyalty": "",
             "artist": "Franky Savant",
             "alias": "",
+            "position": "162",
             "notes": "#colorless #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "War-Javelin",
@@ -22407,8 +22733,10 @@
             "loyalty": "",
             "artist": "MoGi Group",
             "alias": "",
+            "position": "163",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bicycle Bastion",
@@ -22427,8 +22755,10 @@
             "loyalty": "",
             "artist": "Christophe Durand Deshaies",
             "alias": "",
+            "position": "164",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tarnishing Yarder",
@@ -22447,8 +22777,10 @@
             "loyalty": "",
             "artist": "Svet Rezhet Glaza",
             "alias": "",
+            "position": "165",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lose to the Heap",
@@ -22467,8 +22799,10 @@
             "loyalty": "",
             "artist": "Boris Campistron",
             "alias": "",
+            "position": "166",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overcharge",
@@ -22487,8 +22821,10 @@
             "loyalty": "",
             "artist": "Melanie Tan",
             "alias": "",
+            "position": "167",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recycling Engine",
@@ -22507,8 +22843,10 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "168",
             "notes": "!tokens Zombie\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Raid the Workshop",
@@ -22527,8 +22865,10 @@
             "loyalty": "",
             "artist": "Tyler Edlin",
             "alias": "",
+            "position": "169",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklord Azareth",
@@ -22547,8 +22887,10 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "170",
             "notes": "!tokens Zombie\n\n#gold #mythic #junklord",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklord Felisah",
@@ -22567,8 +22909,10 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "171",
             "notes": "!tokens Servo\n\n#gold #mythic #junklord",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklord Garoth",
@@ -22587,8 +22931,10 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "172",
             "notes": "!tokens Phoenix\n\n#gold #mythic #junklord",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklord Lundquist",
@@ -22607,8 +22953,10 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "173",
             "notes": "#gold #mythic #junklord",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gone Mag-Fishing",
@@ -22618,7 +22966,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Target nonland permanent's owner puts it on their choice of the top or bottom of their library.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Target nonland permanent's owner puts it on their choice of the top or bottom of their library.\nCreate a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -22627,8 +22975,10 @@
             "loyalty": "",
             "artist": "Mario Brunner",
             "alias": "",
+            "position": "174",
             "notes": "!tokens Junk\n\n#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Techno Compies",
@@ -22647,8 +22997,10 @@
             "loyalty": "",
             "artist": "Romain Thirion",
             "alias": "",
+            "position": "175",
             "notes": "!tokens Junk\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Danavan, the Exile",
@@ -22667,8 +23019,10 @@
             "loyalty": "",
             "artist": "Steven Noble",
             "alias": "",
+            "position": "176",
             "notes": "!tokens Gearbox\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crazed Packmates",
@@ -22687,8 +23041,10 @@
             "loyalty": "",
             "artist": "Mikael Yusifov",
             "alias": "",
+            "position": "177",
             "notes": "#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rustbucket",
@@ -22707,8 +23063,10 @@
             "loyalty": "",
             "artist": "Massimiliano Richieri",
             "alias": "",
+            "position": "178",
             "notes": "#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Combustion Goliath",
@@ -22727,8 +23085,10 @@
             "loyalty": "",
             "artist": "D DB",
             "alias": "",
+            "position": "179",
             "notes": "!tokens Junk\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arachno-Killbot",
@@ -22747,8 +23107,10 @@
             "loyalty": "",
             "artist": "Orphan RTG",
             "alias": "",
+            "position": "180",
             "notes": "#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "World on the Brink",
@@ -22767,8 +23129,10 @@
             "loyalty": "",
             "artist": "Lenar Shakirov",
             "alias": "",
+            "position": "181",
             "notes": "!tokens Call The Beast Emblem\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garoths Charge",
@@ -22787,8 +23151,10 @@
             "loyalty": "",
             "artist": "Dan Morris",
             "alias": "",
+            "position": "182",
             "notes": "!exportname Garoths Charge\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slag Dump",
@@ -22807,8 +23173,10 @@
             "loyalty": "",
             "artist": "Space Goose",
             "alias": "",
+            "position": "183",
             "notes": "#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinsley, Badlands Outcast",
@@ -22827,8 +23195,10 @@
             "loyalty": "",
             "artist": "Zhuolun Li",
             "alias": "",
+            "position": "184",
             "notes": "!tokens Puck\n\n#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Longshot Bot",
@@ -22847,8 +23217,10 @@
             "loyalty": "",
             "artist": "Zack Jones",
             "alias": "",
+            "position": "185",
             "notes": "#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goblin Express",
@@ -22867,8 +23239,10 @@
             "loyalty": "",
             "artist": "Erik Davis Heim",
             "alias": "",
+            "position": "186",
             "notes": "!tokens Goblin<2>\n\n#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lightspeed Racer",
@@ -22887,8 +23261,10 @@
             "loyalty": "",
             "artist": "Matt Rhodes",
             "alias": "",
+            "position": "187",
             "notes": "#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vorricks Blast Array",
@@ -22907,8 +23283,10 @@
             "loyalty": "",
             "artist": "Tsvetelin Krastev",
             "alias": "",
+            "position": "188",
             "notes": "!exportname Vorricks Blast Array\n\n#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rager Blazer",
@@ -22927,8 +23305,10 @@
             "loyalty": "",
             "artist": "Dima S-K",
             "alias": "",
+            "position": "189",
             "notes": "#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plans Undone",
@@ -22947,8 +23327,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "190",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Erys, Hunted Marksman",
@@ -22967,8 +23349,10 @@
             "loyalty": "",
             "artist": "Amanda Diaz",
             "alias": "",
+            "position": "191",
             "notes": "#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azyra, Queen of the Forge",
@@ -22987,8 +23371,10 @@
             "loyalty": "",
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
+            "position": "192",
             "notes": "!tokens Junk<2>\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Saryna, Bounty Hunter",
@@ -23007,8 +23393,10 @@
             "loyalty": "",
             "artist": "Brandon Liao",
             "alias": "",
+            "position": "193",
             "notes": "#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Artem, Solemn Traveler",
@@ -23027,8 +23415,10 @@
             "loyalty": "",
             "artist": "Philipp Kruse",
             "alias": "",
+            "position": "194",
             "notes": "#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Speaker Lxtal",
@@ -23047,8 +23437,10 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "195",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ninety-Four",
@@ -23067,8 +23459,10 @@
             "loyalty": "",
             "artist": "RUPAM RAAJ R.",
             "alias": "",
+            "position": "196",
             "notes": "#colorless #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Felisahs Recruiter",
@@ -23087,8 +23481,10 @@
             "loyalty": "",
             "artist": "Tom\u00e1\u0161 M\u00fcller",
             "alias": "",
+            "position": "197",
             "notes": "!exportname Felisahs Recruiter\n\n#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sprawl Enforcers",
@@ -23107,8 +23503,10 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "198",
             "notes": "!tokens Junk;Mercenary\n\n#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lundquists Garage",
@@ -23127,8 +23525,10 @@
             "loyalty": "",
             "artist": "Paul Patricio",
             "alias": "",
+            "position": "199",
             "notes": "!exportname Lundquists Garage\n\n#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Survive Disaster",
@@ -23147,8 +23547,10 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "200",
             "notes": "#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "March of the Goliaths",
@@ -23167,8 +23569,10 @@
             "loyalty": "",
             "artist": "Sylvain Coutouly",
             "alias": "",
+            "position": "201",
             "notes": "#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Baited Trap",
@@ -23187,8 +23591,10 @@
             "loyalty": "",
             "artist": "Chloe Beckett",
             "alias": "",
+            "position": "202",
             "notes": "!tokens Call The Beast Emblem\n\n#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Citadel",
@@ -23207,8 +23613,10 @@
             "loyalty": "",
             "artist": "Christian Bravery",
             "alias": "",
+            "position": "203",
             "notes": "!tokens Servo\n\n#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Sprawl",
@@ -23227,8 +23635,10 @@
             "loyalty": "",
             "artist": "Reza Afshar",
             "alias": "",
+            "position": "204",
             "notes": "!tokens Junk;Servo;Insect;Mercenary;Nomad\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Regeneration Chamber",
@@ -23247,8 +23657,10 @@
             "loyalty": "",
             "artist": "Radik Shaikhullin",
             "alias": "",
+            "position": "205",
             "notes": "#black #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azareths Dreadnought",
@@ -23267,8 +23679,10 @@
             "loyalty": "",
             "artist": "Sylvain Coutouly",
             "alias": "",
+            "position": "206",
             "notes": "!exportname Azareths Dreadnought\n\n#black #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ory, Enhanced Outlander",
@@ -23287,8 +23701,10 @@
             "loyalty": "",
             "artist": "Izzy Medrano",
             "alias": "",
+            "position": "207",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drexil Hunters",
@@ -23307,8 +23723,10 @@
             "loyalty": "",
             "artist": "Hocheol Ryu Welz",
             "alias": "",
+            "position": "208",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tireless Consumption",
@@ -23327,8 +23745,10 @@
             "loyalty": "",
             "artist": "Darwin Cellis",
             "alias": "",
+            "position": "209",
             "notes": "!tokens Call The Beast Emblem\n\n#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Caroline",
@@ -23347,8 +23767,10 @@
             "loyalty": "",
             "artist": "Typhaine Escande",
             "alias": "",
+            "position": "210",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pointed Interrogation",
@@ -23367,8 +23789,10 @@
             "loyalty": "",
             "artist": "Vael",
             "alias": "",
+            "position": "211",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jump Junkers",
@@ -23387,8 +23811,10 @@
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
             "alias": "",
+            "position": "212",
             "notes": "#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seaside Goliath",
@@ -23407,8 +23833,10 @@
             "loyalty": "",
             "artist": "Cameron Nissen",
             "alias": "",
+            "position": "213",
             "notes": "#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost Sea Haggling",
@@ -23427,8 +23855,10 @@
             "loyalty": "",
             "artist": "sparth",
             "alias": "",
+            "position": "214",
             "notes": "!tokens Junk;Treasure;Servo\n\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sabotage the Machine",
@@ -23438,7 +23868,7 @@
             "number": 76,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -23447,8 +23877,10 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
+            "position": "215",
             "notes": "!tokens Junk\n\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seek the Laboratory",
@@ -23467,8 +23899,10 @@
             "loyalty": "",
             "artist": "Athur Haas",
             "alias": "",
+            "position": "216",
             "notes": "!tokens Call The Beast Emblem\n\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Replicate Design",
@@ -23487,8 +23921,10 @@
             "loyalty": "",
             "artist": "Dimitar Katsarov",
             "alias": "",
+            "position": "217",
             "notes": "#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lev, Junker Genius",
@@ -23507,8 +23943,10 @@
             "loyalty": "",
             "artist": "Maxim Lingert",
             "alias": "",
+            "position": "218",
             "notes": "!tokens Junk\n\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shamuss Pontoon",
@@ -23527,8 +23965,10 @@
             "loyalty": "",
             "artist": "WEI ShenGun",
             "alias": "",
+            "position": "219",
             "notes": "!exportname Shamuss Pontoon\n\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreams of Incineration",
@@ -23547,8 +23987,10 @@
             "loyalty": "",
             "artist": "Glenn Porter",
             "alias": "",
+            "position": "220",
             "notes": "#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreams of Resilience",
@@ -23567,8 +24009,10 @@
             "loyalty": "",
             "artist": "Afanur Rashid",
             "alias": "",
+            "position": "221",
             "notes": "!tokens Junk\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreams of Restoration",
@@ -23587,8 +24031,10 @@
             "loyalty": "",
             "artist": "David Newton",
             "alias": "",
+            "position": "222",
             "notes": "!tokens Nomad\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Welding Mask",
@@ -23607,8 +24053,10 @@
             "loyalty": "",
             "artist": "Tatiana Novak",
             "alias": "",
+            "position": "223",
             "notes": "#colorless #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Buzzer-Walker",
@@ -23627,8 +24075,10 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "224",
             "notes": "#colorless #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Brain",
@@ -23638,7 +24088,7 @@
             "number": 240,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "Flying\nWhen The Brain enters, gain control of all nonartifact creatures for as long as you control The Brain.\nWhenever you attack with a creature you don't own, draw a card.\n{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it.",
+            "rules_text": "Flying\nWhen The Brain enters, if you cast it, gain control of all nonartifact creatures for as long as you control The Brain.\nWhenever you attack with a creature you don't own, draw a card.\n{2}, Sacrifice a creature: The Brain gains indestructible until end of turn. Tap it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -23647,8 +24097,10 @@
             "loyalty": "",
             "artist": "Gabriele Vaccaro",
             "alias": "",
+            "position": "225",
             "notes": "#colorless #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Spoon Man",
@@ -23667,8 +24119,10 @@
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
             "alias": "",
+            "position": "226",
             "notes": "!tokens Junk\n\n#black #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garbage Gargantuan",
@@ -23687,8 +24141,10 @@
             "loyalty": "",
             "artist": "Luca Maiorani",
             "alias": "",
+            "position": "227",
             "notes": "#green #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recycle-o-Tron",
@@ -23707,8 +24163,10 @@
             "loyalty": "",
             "artist": "Riccardo Varisco",
             "alias": "",
+            "position": "228",
             "notes": "!exportname Recycle-o-Tron\n\n#green #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Electro Punch-Bot",
@@ -23727,8 +24185,10 @@
             "loyalty": "",
             "artist": "Andrzej Rybus",
             "alias": "",
+            "position": "229",
             "notes": "#red #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sevrox, Ascended",
@@ -23747,8 +24207,10 @@
             "loyalty": "4",
             "artist": "Dimitar Katsarov",
             "alias": "",
+            "position": "230",
             "notes": "!tokens Junk\n\n#colorless #mythic #planeswalker",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gum-Gum, Heap Lackey",
@@ -23767,8 +24229,10 @@
             "loyalty": "",
             "artist": "Verena G",
             "alias": "",
+            "position": "231",
             "notes": "!tokens Call The Beast Emblem\n\n#white #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insect",
@@ -23787,8 +24251,10 @@
             "loyalty": "",
             "artist": "Maryse Heilig",
             "alias": "",
+            "position": "232",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Louie",
@@ -23807,8 +24273,10 @@
             "loyalty": "",
             "artist": "Huy Tran Viet",
             "alias": "",
+            "position": "233",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dog",
@@ -23827,8 +24295,10 @@
             "loyalty": "",
             "artist": "Mohamed Abd Elsalam",
             "alias": "",
+            "position": "234",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goblin",
@@ -23847,8 +24317,10 @@
             "loyalty": "",
             "artist": "William McAusland",
             "alias": "",
+            "position": "235",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gearbox",
@@ -23867,8 +24339,10 @@
             "loyalty": "",
             "artist": "Michal Kus",
             "alias": "",
+            "position": "236",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phoenix",
@@ -23887,8 +24361,10 @@
             "loyalty": "",
             "artist": "Marvin B\u00fcte",
             "alias": "",
+            "position": "237",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beetle Junker-Merchant",
@@ -23898,7 +24374,7 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nJunks you control have \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d",
+            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nArtifacts you control have \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d",
             "flavor_text": "[i]\u201cI'm not sure if I'll be here tomorrow. But the Beetles? They'll live forever.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -23907,8 +24383,10 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
+            "position": "238",
             "notes": "#blue #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Throes of the Beast",
@@ -23927,8 +24405,10 @@
             "loyalty": "",
             "artist": "Pepijn De Lange",
             "alias": "",
+            "position": "239",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junkyard Jetpacker",
@@ -23947,8 +24427,10 @@
             "loyalty": "",
             "artist": "Simon Douville",
             "alias": "",
+            "position": "240",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloud Skimmer",
@@ -23967,8 +24449,10 @@
             "loyalty": "",
             "artist": "Robota",
             "alias": "",
+            "position": "241",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Skyhorse",
@@ -23987,8 +24471,10 @@
             "loyalty": "",
             "artist": "Mikl\u00f3s Ligeti",
             "alias": "",
+            "position": "242",
             "notes": "#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Escape Vehicle",
@@ -24007,8 +24493,10 @@
             "loyalty": "",
             "artist": "Nikolai Lockertsen",
             "alias": "",
+            "position": "243",
             "notes": "#white #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fishing Float",
@@ -24027,8 +24515,10 @@
             "loyalty": "",
             "artist": "Michal Kus",
             "alias": "",
+            "position": "244",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flying Fish",
@@ -24047,8 +24537,10 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
+            "position": "245",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gunhead Rhino",
@@ -24058,7 +24550,7 @@
             "number": 191,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Trample\nWhen this Vehicle dies, create three Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
+            "rules_text": "Trample\nWhen this Vehicle dies, create three Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nCrew 2",
             "flavor_text": "[i][/i]",
             "pt": "7/4",
             "special_text": "",
@@ -24067,8 +24559,10 @@
             "loyalty": "",
             "artist": "Kirill Udodov",
             "alias": "",
+            "position": "246",
             "notes": "!tokens Junk<3>\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lundquist's Heavies",
@@ -24087,8 +24581,10 @@
             "loyalty": "",
             "artist": "Daryl Mandryk",
             "alias": "",
+            "position": "247",
             "notes": "#colorless #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hoarders Caravan",
@@ -24107,8 +24603,10 @@
             "loyalty": "",
             "artist": "Victor Bravo",
             "alias": "",
+            "position": "248",
             "notes": "!exportname Hoarders Caravan\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Howling Rover",
@@ -24127,8 +24625,10 @@
             "loyalty": "",
             "artist": "William Dylan Domeyer",
             "alias": "",
+            "position": "249",
             "notes": "!tokens Dog<2>\n\n#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklords Hole Puncher",
@@ -24147,8 +24647,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "250",
             "notes": "!exportname Junklords Hole Puncher\n\n#red #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Monowheel Interceptor",
@@ -24167,8 +24669,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "251",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sidecar Cruiser",
@@ -24187,8 +24691,10 @@
             "loyalty": "",
             "artist": "Ignacio Bazan-Lazcano",
             "alias": "",
+            "position": "252",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Compactor Drones",
@@ -24207,8 +24713,10 @@
             "loyalty": "",
             "artist": "Sergey Orlyansky",
             "alias": "",
+            "position": "253",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wreckyard Crane",
@@ -24227,8 +24735,10 @@
             "loyalty": "",
             "artist": "Felicien Nourry",
             "alias": "",
+            "position": "254",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vorricks Radicals",
@@ -24247,8 +24757,10 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
+            "position": "255",
             "notes": "!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Innovative Find",
@@ -24267,8 +24779,10 @@
             "loyalty": "",
             "artist": "Miguel Iterbe",
             "alias": "",
+            "position": "256",
             "notes": "#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Collector of Finds",
@@ -24287,8 +24801,10 @@
             "loyalty": "",
             "artist": "Daniel Ignacio",
             "alias": "",
+            "position": "257",
             "notes": "#blue #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wondrous Find",
@@ -24307,8 +24823,10 @@
             "loyalty": "",
             "artist": "Gunnar Feldmann",
             "alias": "",
+            "position": "258",
             "notes": "#blue #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Broken Find",
@@ -24327,8 +24845,10 @@
             "loyalty": "",
             "artist": "D4Disgruntled",
             "alias": "",
+            "position": "259",
             "notes": "#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stolen Find",
@@ -24347,8 +24867,10 @@
             "loyalty": "",
             "artist": "Piotr Kwasnicki",
             "alias": "",
+            "position": "260",
             "notes": "!tokens Treasure\n\n#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Massive Find",
@@ -24367,8 +24889,10 @@
             "loyalty": "",
             "artist": "Aster Reeve",
             "alias": "",
+            "position": "261",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Junklord Vorrick",
@@ -24387,8 +24911,10 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "262",
             "notes": "!tokens Junk\n\n#gold #mythic #junklord",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rippen, the Scarred",
@@ -24407,8 +24933,10 @@
             "loyalty": "",
             "artist": "Dmitry Klyushkin",
             "alias": "",
+            "position": "263",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merc Squad",
@@ -24427,8 +24955,10 @@
             "loyalty": "",
             "artist": "Aleski Briclot",
             "alias": "",
+            "position": "264",
             "notes": "!tokens Mercenary\n\n#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "As Seen on TV",
@@ -24447,8 +24977,10 @@
             "loyalty": "",
             "artist": "Philippe Ringuette",
             "alias": "",
+            "position": "265",
             "notes": "#red #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marus, Calculated Killer",
@@ -24467,8 +24999,10 @@
             "loyalty": "",
             "artist": "Aboy Singh",
             "alias": "",
+            "position": "266",
             "notes": "!tokens Louie\n\n#black #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Willing Offerings",
@@ -24487,8 +25021,10 @@
             "loyalty": "",
             "artist": "Xu Tianhua",
             "alias": "",
+            "position": "267",
             "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "VAL, Automated Locomotive",
@@ -24507,8 +25043,10 @@
             "loyalty": "",
             "artist": "Mindgel",
             "alias": "",
+            "position": "268",
             "notes": "#white #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Call The Beast Emblem",
@@ -24527,8 +25065,10 @@
             "loyalty": "",
             "artist": "Patryk Jedraszek",
             "alias": "",
+            "position": "269",
             "notes": "landslot\n!tokens The Beast",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Toxic-Tail Bot",
@@ -24547,8 +25087,10 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "270",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghastly Scrapbeast",
@@ -24567,8 +25109,10 @@
             "loyalty": "",
             "artist": "Travis Anderson",
             "alias": "",
+            "position": "271",
             "notes": "#black #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rig Sparks",
@@ -24587,8 +25131,10 @@
             "loyalty": "",
             "artist": "J Hua",
             "alias": "",
+            "position": "272",
             "notes": "!tokens Servo\n\n#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiny Taker",
@@ -24607,8 +25153,10 @@
             "loyalty": "",
             "artist": "Pedro Otelcana",
             "alias": "",
+            "position": "273",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost Sea Watcher",
@@ -24627,8 +25175,10 @@
             "loyalty": "",
             "artist": "Nick Storozhenko",
             "alias": "",
+            "position": "274",
             "notes": "#blue #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disassemble",
@@ -24647,8 +25197,10 @@
             "loyalty": "",
             "artist": "Bachana Botchorishvilli",
             "alias": "",
+            "position": "275",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Machines Rule the World",
@@ -24667,8 +25219,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "276",
             "notes": "!tokens Servo<2>\n\n#gold #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Processing Point",
@@ -24687,8 +25241,10 @@
             "loyalty": "",
             "artist": "Jarrod Penfold",
             "alias": "",
+            "position": "277",
             "notes": "!tokens Servo\n\n#white #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pulsing Hedron",
@@ -24707,8 +25263,10 @@
             "loyalty": "",
             "artist": "Alu\u00edsio Cervelle Santos",
             "alias": "",
+            "position": "278",
             "notes": "!tokens Call The Beast Emblem\n#blue #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreams of Progress",
@@ -24727,8 +25285,10 @@
             "loyalty": "",
             "artist": "Joshua Carter",
             "alias": "",
+            "position": "279",
             "notes": "#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreams of Exploitation",
@@ -24747,8 +25307,10 @@
             "loyalty": "",
             "artist": "Aleksei Shatunov",
             "alias": "",
+            "position": "280",
             "notes": "!tokens Call The Beast Emblem\n\n#gold #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Towering Killbot",
@@ -24767,8 +25329,10 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
+            "position": "281",
             "notes": "!tokens Call The Beast Emblem\n\n#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Junklords Gambit",
@@ -24787,8 +25351,10 @@
             "loyalty": "",
             "artist": "LiXin Yin",
             "alias": "",
+            "position": "282",
             "notes": "!exportname The Junklords Gambit\n\n#colorless #mythic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garoth's Sentries",
@@ -24807,8 +25373,10 @@
             "loyalty": "",
             "artist": "Jarrard Lee",
             "alias": "",
+            "position": "283",
             "notes": "#green #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Acidic Acolyte",
@@ -24827,8 +25395,10 @@
             "loyalty": "",
             "artist": "Polina Semenova",
             "alias": "",
+            "position": "284",
             "notes": "!tokens Call The Beast Emblem\n\n#green #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pit-Burster Mech",
@@ -24847,8 +25417,10 @@
             "loyalty": "",
             "artist": "Wang Xian Kun",
             "alias": "",
+            "position": "285",
             "notes": "#red #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bulked Guardian",
@@ -24867,8 +25439,10 @@
             "loyalty": "",
             "artist": "Games Revolted",
             "alias": "",
+            "position": "286",
             "notes": "#green #uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Puck",
@@ -24887,8 +25461,10 @@
             "loyalty": "",
             "artist": "Zhuolun Li",
             "alias": "",
+            "position": "287",
             "notes": "kinsley",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Armored Goliath",
@@ -24907,8 +25483,10 @@
             "loyalty": "",
             "artist": "Jun Huang",
             "alias": "",
+            "position": "288",
             "notes": "#white #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flamethrower Battle-Wagon",
@@ -24927,8 +25505,10 @@
             "loyalty": "",
             "artist": "Wojciech Kr\u00f3lik",
             "alias": "",
+            "position": "289",
             "notes": "#red #common",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unyielding Husk",
@@ -24947,8 +25527,10 @@
             "loyalty": "",
             "artist": "Wenmo Zhang",
             "alias": "",
+            "position": "290",
             "notes": "#black #rare",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }
