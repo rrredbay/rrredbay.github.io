@@ -2690,7 +2690,7 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/268.png"
 			}
 		},
-		{
+{
 			"name": "Call The Beast Emblem",
 			"rarity": "common",
 			"mana_cost": "",
@@ -3186,7 +3186,6 @@
 	8 Compactor Drones
 	8 Wreckyard Crane
 	8 Collector of Finds
-	8 Call The Beast Emblem
 	8 Toxic-Tail Bot
 	8 Ghastly Scrapbeast
 	8 Rig Sparks
@@ -3738,5 +3737,5 @@
 	6 Armored Goliath
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
-	[Landslot(1)]
-	30 Call The Beast Emblem
+[Tokenslot(1)]
+	30 Call the Beast Emblem

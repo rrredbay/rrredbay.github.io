@@ -1,29 +1,9 @@
 ﻿{
     "sets": [
         {
-            "set_code": "DWD",
-            "set_name": "Deadwood",
-            "formats": ""
-        },
-        {
-            "set_code": "POP",
-            "set_name": "Popcorn",
-            "formats": "Cube"
-        },
-        {
             "set_code": "SOC",
             "set_name": "Stars of Cinesterra",
             "formats": "Standard"
-        },
-        {
-            "set_code": "TLC",
-            "set_name": "The Last Cosmonaut",
-            "formats": "Microset"
-        },
-        {
-            "set_code": "TWE",
-            "set_name": "Time Without End",
-            "formats": "Cube"
         },
         {
             "set_code": "WGJ",

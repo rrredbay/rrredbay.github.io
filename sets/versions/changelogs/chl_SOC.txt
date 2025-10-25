@@ -1,4 +1,550 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Portal Opener
+
+Ninja in the Wings
+
+Deep Space Navigator
+
+Cephalid Sidekick
+
+Time Traveling Cop
+
+Greatspan Kaiju
+
+The Prestige
+
+Plot Armor
+
+Anticipate
+
+Horizons Unfolding
+
+Face in a Crowd
+
+Banishing Portal
+
+Training Session
+
+Wild Rider
+
+Scene Crasher
+
+Gamblin' Gal
+
+Family Man
+
+Grinning Captive
+
+Couple o' Escapees
+
+Killer in the Streets
+
+Wandering Dreadmaw
+
+Cool Guys Don't Look at Explosions
+
+Fastest Shot in the West
+
+Forbidden Rendezvous
+
+Stagecoach Robbery
+
+Hero's Rage
+
+Plasma Shield Defender
+
+Brave Little Toadster
+
+Wooden Slasher
+
+Pining Suitor
+
+Young Lovers
+
+Eight-Legged Freak
+
+Killer Croc
+
+Armored Kaiju
+
+Two-Headed Goliath
+
+Monster's Fury
+
+Ominous Warpgate
+
+Stronger Together
+
+Altar of Heroes
+
+Hulking Growth
+
+Flashblade Ninja
+
+Unconventional Mentor
+
+Villain's Underling
+
+Pendant Thief
+
+Brash Detective
+
+Odd Pair
+
+Sole Survivor
+
+Brave Explorer
+
+Chosen One
+
+Power Player
+
+Protocol Angel
+
+Fight for Your Life
+
+Zero to Hero
+
+Hero's Stand
+
+Broken Seal
+
+Recurring Antagonist
+
+Hyena Hooligans
+
+Targeted Gumshoe
+
+Killer Clown
+
+Bone-Dry Bandit
+
+Happy Camper
+
+Spectre of Hate
+
+Red Dawn Ninja
+
+Wolf of Boxer Street
+
+Climactic Demise
+
+Upstage
+
+Set up the Sequel
+
+Interrogation Scene
+
+Flying Front Kick
+
+Harder They Fall
+
+Camera Thopter
+
+Actress Stand-in
+
+Studio Director
+
+Collector's Item
+
+Makeup and Effects
+
+Find the McGuffin
+
+Banishing Light
+
+Terror of the Darkwood
+
+Adventurous Couple
+
+Lightning Bug
+
+Shyla Montgomery
+
+Combat Experts
+
+Eager Audience
+
+Unlikely Betrayal
+
+Deus Ex Machina
+
+Buggy Shieldbearer
+
+Lady, Arthouse Star
+
+Tia Otumbo
+
+Altered Brain
+
+Selfless Partner
+
+Tactical Strike Team
+
+Twist Villain
+
+Charismatic Speaker
+
+Soaring Woman
+
+Pharmaceutical Expeditioners
+
+Alien Anatomist
+
+The Big Friendly Beast
+
+Vengeful Shinobi
+
+Bloodbutcher
+
+Terrifying New Villain
+
+Relentless Assassin
+
+Sidekick
+
+Bulked Star
+
+Dreadmaw Matriarch
+
+Endangered Species
+
+Find the Sacred Place
+
+Turned Ally
+
+Colossal Greatcrab
+
+Micromancer
+
+Friend 'til the End
+
+Fight for Survival
+
+Break Trust
+
+Write Back In
+
+Close the Wormhole
+
+CGI Animals
+
+Lifeforce Ship
+
+Into the Maw of Greatness
+
+Dark Horde Rising
+
+Cornered Lover
+
+Raze the Castle
+
+Punch the Turtle
+
+Romantic Tension
+
+The Scheme Unfolds
+
+Dark Ending
+
+Femme Fatale
+
+Low Point
+
+Team Up!
+
+Stand Off
+
+Incidental Destruction
+
+Explore the Depths
+
+Loving Beast
+
+Hubris of Discovery
+
+The Thunder Squad
+
+Makeup Artist
+
+Space Pilgrim
+
+Paragon Battery
+
+Redrin Greyfur
+
+Khazra
+
+Erupting Sandmaw
+
+Citybreaker Kaiju
+
+Electric Explosion
+
+Super Hero Squad
+
+Deep Space Defender
+
+Cloning Chamber
+
+Clean-up Crew
+
+Imperial Defense System
+
+Roll the Dice
+
+The Final Reveal
+
+Shock and Awe
+
+Harvest Killer
+
+Master in the Marsh
+
+Confident Criminal
+
+Alliance of Passion
+
+Magician Adept
+
+Terrifying Slash
+
+Dragged Back to the Shadows
+
+Split
+
+Strange Beacon
+
+Martial Arts Training
+
+Gravity Anomaly
+
+Compact Multitool
+
+Break from Tradition
+
+Consider the Possibilities
+
+Bird
+
+Horse
+
+Soldier
+
+Skeleton
+
+Human
+
+Rogue
+
+Treasure
+
+Leading Role
+
+Refurbisher
+
+Lost Sentinel
+
+POV Camera
+
+Sentient Car
+
+Unnamed Hero
+
+Film Stage
+
+Location Scouting
+
+Cornered Mobster
+
+Buggy Vanguard
+
+Mother Mon-Mon
+
+Collete Klide
+
+Captain Marvelous
+
+Green Knight
+
+Illuminate the Night
+
+Sharktomus Prime
+
+Big Bad Tree
+
+Completely Surrounded
+
+Wayne Barnes
+
+Volnir's Phoenix
+
+Helm of Volnir
+
+Dr. Archibald Ratticus
+
+Leaky Futuretron
+
+End of the Line
+
+Holly Drake
+
+Planetary Disaster
+
+Ghost of Stage 10
+
+Temporal Anomaly
+
+Blue Spectre
+
+VAL1000
+
+Tyde Turner
+
+Four Dimensional Beast
+
+Sensei Ira
+
+Message Received
+
+Final Torment
+
+Kill Your Darlings
+
+Last Kiss
+
+Hound Conjurer
+
+Postal Carrier
+
+Special Bond
+
+Elder of the Guild
+
+Growing Little Terrors
+
+Angry Primordial
+
+Dr. Zenus Prime
+
+Fates Foretold
+
+Tommy Bones
+
+Our Love is Forever
+
+Detective Fluffles
+
+Alternate Timelines
+
+It's a Crossover!
+
+Cosmic Horror
+
+City of Heroes
+
+Kaiju Homeworld
+
+Shootout Gully
+
+Intergalactic Spaceport
+
+Adventurer's Village
+
+Anguish
+
+Forgotten Master
+
+Film Editing
+
+X-11, The Gargantuan
+
+The Stone of Kings
+
+Two is Better
+
+Masked Vigilante
+
+Uncapped Rage
+
+Heroic Weakness
+
+Takedown of Bai-Ran
+
+Unravel the Code
+
+Deceiving Fist
+
+Never Found the Body
+
+Charming Minotaur
+
+Reset Protocol
+
+Toxin
+
+Seth, Breaking Through
+
+Cohen, Archvillain
+
+Virtuous Knight
+
+Search the Universe
+
+Admiral Joseph
+
+Mantle of the Empire
+
+Siege Mastodon
+
+Kal Rod'r
+
+The Illusionist
+
+Lyndy
+
+Ratrisha Rocket
+
+Germinating Grub
+
+Morgril, the Devastator
+
+Skelly Boy Beatdown
+
+Ortesian Sneak
+
+Stormbringer Behemoth
+
+Monitor Room
+
+Family Friendly Hero
+
+Hellbreach Heroine
+
+Colossal Kaiju
+
+One by One
+
+Guppy
+
+The Big Screen
+
+Dimensional Antenna
+
+Hero's Rise
+
+Third Act
+
+Detective
+
+Mikandros
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Red Dawn Ninja added.
