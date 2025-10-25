@@ -3738,4 +3738,4 @@
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
 [Tokenslot(1)]
-	30 Call the Beast Emblem
+	30 Call The Beast Emblem
