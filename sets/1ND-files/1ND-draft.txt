@@ -1,0 +1,1028 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Skyline Daredevil",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/0.png"
+			}
+		},
+		{
+			"name": "Hands Outstretched",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/1.png"
+			}
+		},
+		{
+			"name": "Aquila, the Outfitter",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/2.png"
+			}
+		},
+		{
+			"name": "Harmonious Viola",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/3.png"
+			}
+		},
+		{
+			"name": "Under Cover of Darkness",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/4.png"
+			}
+		},
+		{
+			"name": "Gleaming Trinket",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/5.png"
+			}
+		},
+		{
+			"name": "Perils of the Vault",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/6.png"
+			}
+		},
+		{
+			"name": "Bust Down the Door",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/7.png"
+			}
+		},
+		{
+			"name": "Concealer's Kit",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/8.png"
+			}
+		},
+		{
+			"name": "Starlight Matrix",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/9.png"
+			}
+		},
+		{
+			"name": "Errant Ransacker",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Shapeshifter Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/10.png"
+			}
+		},
+		{
+			"name": "Sequence Breaker",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/11.png"
+			}
+		},
+		{
+			"name": "Rooftop Rendezvous",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/12.png"
+			}
+		},
+		{
+			"name": "Head of Security",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/13.png"
+			}
+		},
+		{
+			"name": "Witches' Broom",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/14.png"
+			}
+		},
+		{
+			"name": "Watch from Above",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/15.png"
+			}
+		},
+		{
+			"name": "Lady Krata, the Financier",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/16.png"
+			}
+		},
+		{
+			"name": "Daring Defense",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/17.png"
+			}
+		},
+		{
+			"name": "Plan Unfolding",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/18.png"
+			}
+		},
+		{
+			"name": "Chairman Aggaloth",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Dragon Nightmare",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/19.png"
+			}
+		},
+		{
+			"name": "Gallica, Gentleman Thief",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/20.png"
+			}
+		},
+		{
+			"name": "Hoard",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/21.png"
+			}
+		},
+		{
+			"name": "Quicksilver Forger",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/22.png"
+			}
+		},
+		{
+			"name": "Stick-Up",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/23.png"
+			}
+		},
+		{
+			"name": "Digital Genesis",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/24.png"
+			}
+		},
+		{
+			"name": "Optix, Neural Encoder",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/25.png"
+			}
+		},
+		{
+			"name": "Lunar Larcenist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/26.png"
+			}
+		},
+		{
+			"name": "Orbital Viewstation",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ballroom Baroness",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/28.png"
+			}
+		},
+		{
+			"name": "Tranquilizer Miasma",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/29.png"
+			}
+		},
+		{
+			"name": "In Broad Daylight",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/30.png"
+			}
+		},
+		{
+			"name": "Combat Expert",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/31.png"
+			}
+		},
+		{
+			"name": "Pre-Job Soundtrack",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/32.png"
+			}
+		},
+		{
+			"name": "Synthetic Assistant",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/33.png"
+			}
+		},
+		{
+			"name": "Cut the Power",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/34.png"
+			}
+		},
+		{
+			"name": "Lock Away",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/35.png"
+			}
+		},
+		{
+			"name": "Moonlight Princess",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue Noble",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/36.png"
+			}
+		},
+		{
+			"name": "Rumor Brokers",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/37.png"
+			}
+		},
+		{
+			"name": "Siobhan, Master of Fate",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Siobhan",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/38.png"
+			}
+		},
+		{
+			"name": "Blood Chalice",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/39.png"
+			}
+		},
+		{
+			"name": "Iris, Sitting Pretty",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/40.png"
+			}
+		},
+		{
+			"name": "Prison Break",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/41.png"
+			}
+		},
+		{
+			"name": "Drake Egg",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Treasure Egg",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/42.png"
+			}
+		},
+		{
+			"name": "Suspicious Maître d'",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/43.png"
+			}
+		},
+		{
+			"name": "Vault Automaton",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/44.png"
+			}
+		},
+		{
+			"name": "Bunny, the Muscle",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/45.png"
+			}
+		},
+		{
+			"name": "Endless Labyrinth",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/46.png"
+			}
+		},
+		{
+			"name": "Morning Cleaners",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/47.png"
+			}
+		},
+		{
+			"name": "All the Way to the Top",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/48.png"
+			}
+		},
+		{
+			"name": "Cate, the Quartermaster",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/49.png"
+			}
+		},
+		{
+			"name": "The First Crew",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/50.png"
+			}
+		},
+		{
+			"name": "Get-Away Blimp",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/51.png"
+			}
+		},
+		{
+			"name": "Hela, the Maestro",
+			"rarity": "special",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/52.png"
+			}
+		},
+		{
+			"name": "NAME, Disguise Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/53.png"
+			}
+		},
+		{
+			"name": "Shrinking Suit",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/54.png"
+			}
+		},
+		{
+			"name": "The Team's All Here",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/55.png"
+			}
+		},
+		{
+			"name": "Vaultcracker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/56.png"
+			}
+		},
+		{
+			"name": "Aerial Observer",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/57.png"
+			}
+		},
+		{
+			"name": "Crystal Tiara",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Treasure",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/58.png"
+			}
+		},
+		{
+			"name": "Puppet Princess",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Toy Noble",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/59.png"
+			}
+		},
+		{
+			"name": "City at Night",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/60.png"
+			}
+		},
+		{
+			"name": "Magical Girl HQ",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/61.png"
+			}
+		},
+		{
+			"name": "Diffraction Cloak",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/62.png"
+			}
+		},
+		{
+			"name": "Dormant Vaultweaver",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/63.png"
+			}
+		},
+		{
+			"name": "Hare-Eared Handler",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Rabbit Scientist",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/64.png"
+			}
+		},
+		{
+			"name": "Trawl for Lost Treasures",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/65.png"
+			}
+		},
+		{
+			"name": "Vessel of the Thief-Saint",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/66.png"
+			}
+		},
+		{
+			"name": "Ordinary Security Guard",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/67.png"
+			}
+		},
+		{
+			"name": "Plan It Out",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/68.png"
+			}
+		},
+		{
+			"name": "Alert the Authorities",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/69.png"
+			}
+		},
+		{
+			"name": "Burglar's Cat",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/70.png"
+			}
+		},
+		{
+			"name": "Mysterious Mastermind",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/71.png"
+			}
+		},
+		{
+			"name": "Scrappy Starbreaker",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/72.png"
+			}
+		},
+		{
+			"name": "Advance Lookout",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/73.png"
+			}
+		},
+		{
+			"name": "Fantasize",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/74.png"
+			}
+		},
+		{
+			"name": "Hijacked Wyrmguard",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/75.png"
+			}
+		},
+		{
+			"name": "Power of Teamwork",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/76.png"
+			}
+		},
+		{
+			"name": "Sunborn Thrill-Seeker",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Mercenary",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/77.png"
+			}
+		},
+		{
+			"name": "Delicate Statuary",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Sculpture",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/78.png"
+			}
+		},
+		{
+			"name": "Flawless Gemstone",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/79.png"
+			}
+		},
+		{
+			"name": "Lightweaving",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/80.png"
+			}
+		},
+		{
+			"name": "Lookout's Rifle",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/81.png"
+			}
+		},
+		{
+			"name": "Portfolio Pilferer",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/82.png"
+			}
+		},
+		{
+			"name": "Tooth, Princess of the Vault",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Artifact Creature — Treasure",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/83.png"
+			}
+		},
+		{
+			"name": "Beautiful Entrance",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/84.png"
+			}
+		},
+		{
+			"name": "Dawn-Winged Lyricist",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/85.png"
+			}
+		},
+		{
+			"name": "Theft of Shape",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/86.png"
+			}
+		},
+		{
+			"name": "TsuCo Surveillance Matrix",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/87.png"
+			}
+		},
+		{
+			"name": "Valerie Night, Solo Act",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Elf Rogue",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/88.png"
+			}
+		},
+		{
+			"name": "Aggaloth's Vault",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/89.png"
+			}
+		},
+		{
+			"name": "Mini-Singularity",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/90.png"
+			}
+		},
+		{
+			"name": "Mox Astatine",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/91.png"
+			}
+		},
+		{
+			"name": "TsuCo Prototype Rover Model",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Drone Scout",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/92.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Skyline Daredevil
+	1 Hands Outstretched
+	1 Aquila, the Outfitter
+	1 Harmonious Viola
+	1 Under Cover of Darkness
+	1 Gleaming Trinket
+	1 Perils of the Vault
+	1 Bust Down the Door
+	1 Concealer's Kit
+	1 Starlight Matrix
+	1 Errant Ransacker
+	1 Sequence Breaker
+	1 Rooftop Rendezvous
+	1 Head of Security
+	1 Witches' Broom
+	1 Watch from Above
+	1 Lady Krata, the Financier
+	1 Daring Defense
+	1 Plan Unfolding
+	1 Chairman Aggaloth
+	1 Gallica, Gentleman Thief
+	1 Hoard
+	1 Quicksilver Forger
+	1 Stick-Up
+	1 Digital Genesis
+	1 Optix, Neural Encoder
+	1 Lunar Larcenist
+	1 Orbital Viewstation
+	1 Ballroom Baroness
+	1 Tranquilizer Miasma
+	1 In Broad Daylight
+	1 Combat Expert
+	1 Pre-Job Soundtrack
+	1 Synthetic Assistant
+	1 Cut the Power
+	1 Lock Away
+	1 Moonlight Princess
+	1 Rumor Brokers
+	1 Siobhan, Master of Fate
+	1 Blood Chalice
+	1 Iris, Sitting Pretty
+	1 Prison Break
+	1 Drake Egg
+	1 Suspicious Maître d'
+	1 Vault Automaton
+	1 Bunny, the Muscle
+	1 Endless Labyrinth
+	1 Morning Cleaners
+	1 All the Way to the Top
+	1 Cate, the Quartermaster
+	1 The First Crew
+	1 Get-Away Blimp
+	1 Hela, the Maestro
+	1 NAME, Disguise Artist
+	1 Shrinking Suit
+	1 The Team's All Here
+	1 Vaultcracker
+	1 Aerial Observer
+	1 Crystal Tiara
+	1 Puppet Princess
+	1 City at Night
+	1 Magical Girl HQ
+	1 Diffraction Cloak
+	1 Dormant Vaultweaver
+	1 Hare-Eared Handler
+	1 Trawl for Lost Treasures
+	1 Vessel of the Thief-Saint
+	1 Ordinary Security Guard
+	1 Plan It Out
+	1 Alert the Authorities
+	1 Burglar's Cat
+	1 Mysterious Mastermind
+	1 Scrappy Starbreaker
+	1 Advance Lookout
+	1 Fantasize
+	1 Hijacked Wyrmguard
+	1 Power of Teamwork
+	1 Sunborn Thrill-Seeker
+	1 Delicate Statuary
+	1 Flawless Gemstone
+	1 Lightweaving
+	1 Lookout's Rifle
+	1 Portfolio Pilferer
+	1 Tooth, Princess of the Vault
+	1 Beautiful Entrance
+	1 Dawn-Winged Lyricist
+	1 Theft of Shape
+	1 TsuCo Surveillance Matrix
+	1 Valerie Night, Solo Act
+	1 Aggaloth's Vault
+	1 Mini-Singularity
+	1 Mox Astatine
+	1 TsuCo Prototype Rover Model

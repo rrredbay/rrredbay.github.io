@@ -3224,7 +3224,7 @@
 	1 The Big Screen
 	1 Dimensional Antenna
 	1 Hero's Rise
-[wildcard(2)]
+[wildcard(1)]
 	6 Portal Opener
 	6 Ninja in the Wings
 	6 Deep Space Navigator
@@ -3484,6 +3484,3 @@
 	4 The Big Screen
 	4 Dimensional Antenna
 	4 Hero's Rise
-[Landslot(1)]
-	15 Leading Role
-	15 Third Act

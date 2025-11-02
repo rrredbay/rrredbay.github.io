@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "1ND",
+            "set_name": "One Night in the Dragon\u2019s Den",
+            "formats": "Cube"
+        },
+        {
             "set_code": "SOC",
             "set_name": "Stars of Cinesterra",
             "formats": "Standard"
