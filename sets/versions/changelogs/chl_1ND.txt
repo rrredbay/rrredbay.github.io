@@ -1,4 +1,53 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Mischievous Debutante added.
+Royal Puppet added.
+At Last, Reunited added.
+Glamorous Socialite added.
+TsuCo Guard-Dog added.
+Cosmic Heist added.
+Eons Away From the Vault added.
+Herald on the Tides added.
+Misdirect added.
+Operative Libra added.
+Among All the Stars added.
+Doubt Creeps In added.
+Horrific Watcher added.
+Mask of No Self added.
+A Thousand Lives' Agony added.
+Witchy Mastermind added.
+Calculated Risk added.
+Shimmering Vault Mantra added.
+Starblade Breacher added.
+Crystal Warden added.
+Prismatic Blade Emergence added.
+Prizes Most Overgrown added.
+Rugged Lock-Melter added.
+Sugar Rush! added.
+Tooth's Retainers added.
+Traveller's Tux added.
+Aggaloth's Prize added.
+Diamond Dame added.
+Eerie Wall-Walker added.
+Rabbit Rascal added.
+The Troublebreaker Circle added.
+Truth From the Grail added.
+Quicksilver Harbinger added.
+
+Moonlight Princess removed.
+Puppet Princess removed.
+
+Hoard
+
+Lock Away
+
+Delicate Statuary
+
+Viral Disruptor
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Fay, Disguise Artist added.
