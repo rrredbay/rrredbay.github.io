@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "45",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "63",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "33",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "86",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "13",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Shapeshifter Rogue",
-			"collector_number": "54",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Demon Soldier",
-			"collector_number": "27",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "34",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "72",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/16.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Dragon Nightmare",
-			"collector_number": "66",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "69",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "43",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "46",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "74",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "29",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "89",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "36",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/30.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "10",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rogue Noble",
-			"collector_number": "18",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "21",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Siobhan",
-			"collector_number": "23",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact",
-			"collector_number": "25",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "28",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "31",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Treasure Egg",
-			"collector_number": "38",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human",
-			"collector_number": "48",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Robot Soldier",
-			"collector_number": "49",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "50",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "53",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "58",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "65",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "68",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "70",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/51.png"
 			}
@@ -525,17 +525,17 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "71",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/52.png"
 			}
 		},
 		{
-			"name": "NAME, Disguise Artist",
+			"name": "Fay, Disguise Artist",
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "73",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "76",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "82",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Drone",
-			"collector_number": "83",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Treasure",
-			"collector_number": "85",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Toy Noble",
-			"collector_number": "90",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "92",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "93",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/61.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Rabbit Scientist",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "19",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/68.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "24",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/69.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Cat",
-			"collector_number": "26",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/70.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "30",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "32",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "35",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "40",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/75.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Elemental Mercenary",
-			"collector_number": "47",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Sculpture",
-			"collector_number": "51",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/78.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "55",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "56",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/80.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "57",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/81.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "59",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/82.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Artifact Creature — Treasure",
-			"collector_number": "60",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Elemental Performer",
-			"collector_number": "67",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/86.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "80",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/87.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Elf Rogue",
-			"collector_number": "81",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "84",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "87",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "88",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/91.png"
 			}
@@ -925,9 +925,319 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Drone Scout",
-			"collector_number": "91",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/1ND-files/img/92.png"
+			}
+		},
+		{
+			"name": "Flamepurging Angel",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/93.png"
+			}
+		},
+		{
+			"name": "Ismene, Order Analyst",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/94.png"
+			}
+		},
+		{
+			"name": "Larcenous Confluence",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/95.png"
+			}
+		},
+		{
+			"name": "Princess of the Ball",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/96.png"
+			}
+		},
+		{
+			"name": "Sacred Vault Guardian",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/97.png"
+			}
+		},
+		{
+			"name": "Undercover Guard",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/98.png"
+			}
+		},
+		{
+			"name": "Celestial Augury",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/99.png"
+			}
+		},
+		{
+			"name": "Mira, Starguided Prophet",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/100.png"
+			}
+		},
+		{
+			"name": "Mira's Foresight",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/101.png"
+			}
+		},
+		{
+			"name": "Peer Through Time",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/102.png"
+			}
+		},
+		{
+			"name": "Spymaster of Aggaloth",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/103.png"
+			}
+		},
+		{
+			"name": "Enticing Relics",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/104.png"
+			}
+		},
+		{
+			"name": "Grailseeker's Demise",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/105.png"
+			}
+		},
+		{
+			"name": "Out of Reach",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/106.png"
+			}
+		},
+		{
+			"name": "Sydney, Digital Infiltrator",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/107.png"
+			}
+		},
+		{
+			"name": "Sydney's Exposé",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/108.png"
+			}
+		},
+		{
+			"name": "Viral Disruptor",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/109.png"
+			}
+		},
+		{
+			"name": "Tooth's Liberation",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/110.png"
+			}
+		},
+		{
+			"name": "Treasured Spyglass",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/111.png"
+			}
+		},
+		{
+			"name": "Verdant Beauty Amidst Greed",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/112.png"
+			}
+		},
+		{
+			"name": "Ballroom Attire",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/113.png"
+			}
+		},
+		{
+			"name": "The Masquerade Ensemble",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/114.png"
+			}
+		},
+		{
+			"name": "Qoyan, Decoy Duplicator",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/115.png"
+			}
+		},
+		{
+			"name": "Radiant Unveiler",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/116.png"
+			}
+		},
+		{
+			"name": "Turning Off the Grid",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/117.png"
+			}
+		},
+		{
+			"name": "Valerie's Rampage",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/118.png"
+			}
+		},
+		{
+			"name": "Aquila's Endless Handbag",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/119.png"
+			}
+		},
+		{
+			"name": "Multifaceted Automaton",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/120.png"
+			}
+		},
+		{
+			"name": "Whispering Mask",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/121.png"
+			}
+		},
+		{
+			"name": "Cate's Armory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/122.png"
+			}
+		},
+		{
+			"name": "Observation Deck",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/1ND-files/img/123.png"
 			}
 		}
 	]
@@ -986,7 +1296,7 @@
 	1 The First Crew
 	1 Get-Away Blimp
 	1 Hela, the Maestro
-	1 NAME, Disguise Artist
+	1 Fay, Disguise Artist
 	1 Shrinking Suit
 	1 The Team's All Here
 	1 Vaultcracker
@@ -1026,3 +1336,34 @@
 	1 Mini-Singularity
 	1 Mox Astatine
 	1 TsuCo Prototype Rover Model
+	1 Flamepurging Angel
+	1 Ismene, Order Analyst
+	1 Larcenous Confluence
+	1 Princess of the Ball
+	1 Sacred Vault Guardian
+	1 Undercover Guard
+	1 Celestial Augury
+	1 Mira, Starguided Prophet
+	1 Mira's Foresight
+	1 Peer Through Time
+	1 Spymaster of Aggaloth
+	1 Enticing Relics
+	1 Grailseeker's Demise
+	1 Out of Reach
+	1 Sydney, Digital Infiltrator
+	1 Sydney's Exposé
+	1 Viral Disruptor
+	1 Tooth's Liberation
+	1 Treasured Spyglass
+	1 Verdant Beauty Amidst Greed
+	1 Ballroom Attire
+	1 The Masquerade Ensemble
+	1 Qoyan, Decoy Duplicator
+	1 Radiant Unveiler
+	1 Turning Off the Grid
+	1 Valerie's Rampage
+	1 Aquila's Endless Handbag
+	1 Multifaceted Automaton
+	1 Whispering Mask
+	1 Cate's Armory
+	1 Observation Deck
