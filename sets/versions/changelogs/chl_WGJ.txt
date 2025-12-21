@@ -1,6 +1,299 @@
 ﻿VERSION 2 CHANGELOG
 ====================
 
+Shoreline Midden added.
+Submerged Midden added.
+Molten Midden added.
+Brutal Midden added.
+Secluded Midden added.
+Foreboding Midden added.
+Market Midden added.
+Forgotten Midden added.
+Riffraff Midden added.
+Productive Midden added.
+The Beast added.
+Treasure added.
+Automated Scrapper added.
+Priestess of Metal added.
+Paladin of the Heap added.
+Avionic Scavenger added.
+Convoy Wrecker added.
+Scrapheap Roc added.
+Catastrophic Failure added.
+Mechanohawk added.
+Lonely Wanderer added.
+Market Thief added.
+Moonlight Yarder added.
+Swift Surveyor added.
+Scrap-Shell Hermit added.
+Hidden Goliath added.
+Recharge added.
+Search for Understanding added.
+Crushing Defeat added.
+Compacted added.
+Initiation Sequence added.
+Scrounging Vermin added.
+Assault Bot added.
+Transmogrified Yarder added.
+Maiden of Junk added.
+Oculus Collector added.
+Deadly Goliath added.
+Cast Down added.
+Failed Experiment added.
+Visions of Terror added.
+Decapitate added.
+Target Locked added.
+Nitwit Yarder added.
+Fire Starter added.
+Yarder Vets added.
+Cunning Warband added.
+Scrapyard Mongrel added.
+Gangland Tagteam added.
+Rampaging Goliath added.
+Explosive Collision added.
+Scrap Deals added.
+Tyrants Fire added.
+Sandstorm Dozer added.
+Android Visionary added.
+Happy Heaper added.
+Scaled Scrapper added.
+Swine Racer added.
+Daddy Swordlegs added.
+Grizzled Yarder added.
+Wasteland Goliath added.
+Survey the Ruins added.
+Field Crawler added.
+Overpower added.
+Crafty Junker added.
+Fancy Refurbishments added.
+Friendly Trawler added.
+Heckler Raid Leader added.
+Drexil Acolyte added.
+Sand Skimmer added.
+Scrap-Pit Champion added.
+Trawl the Fields added.
+Robotic Reverence added.
+Plucky Scrapper added.
+Recommisioned Pounce-Bot added.
+Bursting Vat added.
+Dune Dasher added.
+Giving Tree added.
+Way of the Pipe added.
+Defend the Hive added.
+Ghastly Junker added.
+Hunger of the Heap added.
+Dirtbike Jouster added.
+Junkyard Sentry added.
+Lead the Charge added.
+Beetle Bot added.
+Beast Beckoner added.
+Wasteland Daredevils added.
+Alert Sentries added.
+Wasteland Flamerider added.
+Servo added.
+Mercenary added.
+Junk added.
+Nomad added.
+Power of the Beast added.
+Insidious Orb added.
+Skullface Wastelander added.
+Battery Thief added.
+The Heap Rises added.
+Remote Controlled Mechsuit added.
+Feed the Monster added.
+Putrefying Mists added.
+Scrounge for Parts added.
+Nightfall Approaches added.
+Hired Killer added.
+Pull em Out added.
+Fallen Paladin added.
+Rubbish Pack added.
+Anter, Wasteland Runner added.
+Hotwiring Hogs added.
+Furious Intimidator added.
+Yarders Uprising added.
+Double-Barreled Drakkon added.
+Grabby Claws added.
+Into Glory Ride added.
+Absolute Victory added.
+Trashfire Crawler added.
+Electric Junk Tower added.
+Execution Tank added.
+Harpooner Wagon added.
+Scavenger Party added.
+Out of the Wreckage added.
+Mecha Arachnid added.
+Colossus Opus added.
+Auto Recycler added.
+Shearing Winds added.
+Face Off added.
+Gorr, Heapbreaker added.
+Badlands Alpha added.
+ATV Hotshot added.
+Zombie added.
+Fearless Yarder added.
+Junkyard Riveter added.
+Robot Samurai added.
+Scrap Blast added.
+Bert, Parts Specialist added.
+Scrapyard Upgrade added.
+Required Assembly added.
+Angel of Scrap added.
+Sky Trawler added.
+Remove Visage added.
+Junk Tornado added.
+100,000 Volts added.
+Drexil Hiveguard added.
+Hotwire Mechanic added.
+Sky Scrapper added.
+Harbinger Drexil added.
+Hunt for Scraps added.
+Bandit Junker added.
+Rapid Materialization added.
+The Junkfields added.
+The Heap added.
+The Pit added.
+The Wasteland added.
+The Lost Sea added.
+Millikin added.
+Willing Automaton added.
+Charging Station added.
+Part Bot added.
+War-Javelin added.
+Bicycle Bastion added.
+Tarnishing Yarder added.
+Lose to the Heap added.
+Overcharge added.
+Recycling Engine added.
+Raid the Workshop added.
+Junklord Azareth added.
+Junklord Felisah added.
+Junklord Garoth added.
+Junklord Lundquist added.
+Gone Mag-Fishing added.
+Techno Compies added.
+Danavan, the Exile added.
+Crazed Packmates added.
+Rustbucket added.
+Combustion Goliath added.
+Arachno-Killbot added.
+World on the Brink added.
+Garoths Charge added.
+Slag Dump added.
+Kinsley, Badlands Outcast added.
+Longshot Bot added.
+Goblin Express added.
+Lightspeed Racer added.
+Vorricks Blast Array added.
+Rager Blazer added.
+Plans Undone added.
+Erys, Hunted Marksman added.
+Azyra, Queen of the Forge added.
+Saryna, Bounty Hunter added.
+Artem, Solemn Traveler added.
+Speaker Lxtal added.
+Ninety-Four added.
+Felisahs Recruiter added.
+Sprawl Enforcers added.
+Lundquists Garage added.
+Survive Disaster added.
+March of the Goliaths added.
+Baited Trap added.
+The Citadel added.
+The Sprawl added.
+Regeneration Chamber added.
+Azareths Dreadnought added.
+Ory, Enhanced Outlander added.
+Drexil Hunters added.
+Tireless Consumption added.
+Caroline added.
+Pointed Interrogation added.
+Jump Junkers added.
+Seaside Goliath added.
+Lost Sea Haggling added.
+Sabotage the Machine added.
+Seek the Laboratory added.
+Replicate Design added.
+Lev, Junker Genius added.
+Shamuss Pontoon added.
+Dreams of Incineration added.
+Dreams of Resilience added.
+Dreams of Restoration added.
+Welding Mask added.
+Buzzer-Walker added.
+The Brain added.
+The Spoon Man added.
+Garbage Gargantuan added.
+Recycle-o-Tron added.
+Electro Punch-Bot added.
+Sevrox, Ascended added.
+Gum-Gum, Heap Lackey added.
+Insect added.
+Louie added.
+Dog added.
+Goblin added.
+Gearbox added.
+Phoenix added.
+Beetle Junker-Merchant added.
+Throes of the Beast added.
+Junkyard Jetpacker added.
+Cloud Skimmer added.
+The Skyhorse added.
+Escape Vehicle added.
+Fishing Float added.
+Flying Fish added.
+Gunhead Rhino added.
+Lundquist's Heavies added.
+Hoarders Caravan added.
+Howling Rover added.
+Junklords Hole Puncher added.
+Monowheel Interceptor added.
+Sidecar Cruiser added.
+Compactor Drones added.
+Wreckyard Crane added.
+Vorricks Radicals added.
+Innovative Find added.
+Collector of Finds added.
+Wondrous Find added.
+Broken Find added.
+Stolen Find added.
+Massive Find added.
+Junklord Vorrick added.
+Rippen, the Scarred added.
+Merc Squad added.
+Smelting Pit added.
+Marus, Calculated Killer added.
+Willing Offerings added.
+VAL, Automated Locomotive added.
+Call The Beast Emblem added.
+Toxic-Tail Bot added.
+Ghastly Scrapbeast added.
+Rig Sparks added.
+Shiny Taker added.
+Lost Sea Watcher added.
+Disassemble added.
+Machines Rule the World added.
+Processing Point added.
+Pulsing Hedron added.
+Dreams of Progress added.
+Dreams of Exploitation added.
+Towering Killbot added.
+The Junklords Gambit added.
+Garoth's Sentries added.
+Acidic Acolyte added.
+Pit-Burster Mech added.
+Bulked Guardian added.
+Puck added.
+Armored Goliath added.
+Flamethrower Battle-Wagon added.
+Unyielding Husk added.
+
+Scrapwork Mutt removed.
+
+
+VERSION 2 CHANGELOG
+====================
+
 
 
 Shoreline Midden
