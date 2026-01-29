@@ -18,6 +18,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -40,6 +41,7 @@
             "artist": "Giulia Gentilini",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -62,6 +64,7 @@
             "artist": "Phil Saunders",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -84,6 +87,7 @@
             "artist": "Aboy Ningthouja",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -106,6 +110,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -128,6 +133,7 @@
             "artist": "Max Bedulenko",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -150,6 +156,7 @@
             "artist": "Forrest White",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -172,6 +179,7 @@
             "artist": "Anna Semykina",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -194,6 +202,7 @@
             "artist": "Wayne haag",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -216,6 +225,7 @@
             "artist": "Dmitry Vishnevsk",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
@@ -238,6 +248,7 @@
             "artist": "Huy Tran Viet",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag The Beast WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -260,6 +271,7 @@
             "artist": "Joel Pigou",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -282,6 +294,7 @@
             "artist": "Emmanuel Shiu",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -304,6 +317,7 @@
             "artist": "Kevin Fl\u00f3rez Ram\u00edrez",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -326,6 +340,7 @@
             "artist": "Sung Choi",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -348,6 +363,7 @@
             "artist": "Maojin.Lee",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -370,6 +386,7 @@
             "artist": "Francois Gosselin",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Treasure WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -392,6 +409,7 @@
             "artist": "Mike Patrick",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -414,6 +432,7 @@
             "artist": "Alex Chow",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -436,6 +455,7 @@
             "artist": "Mike Smith",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "!tag anomaly\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -458,6 +478,7 @@
             "artist": "Robert Chew",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": "!tag anomaly\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -480,6 +501,7 @@
             "artist": "Raymond -hanhao",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "!tag tapper\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -502,6 +524,7 @@
             "artist": "Kyle Martin",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -524,6 +547,7 @@
             "artist": "Al Brady",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "!tag removal-creature\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -546,6 +570,7 @@
             "artist": "boris nenezic",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -568,6 +593,7 @@
             "artist": "Kenta Doi",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -590,6 +616,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -612,6 +639,7 @@
             "artist": "Joakim Ericsson",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -634,6 +662,7 @@
             "artist": "Dmitri Gorbushin",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -656,6 +685,7 @@
             "artist": "Longque Chen",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "!tag anomaly\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -678,6 +708,7 @@
             "artist": "Alexey Egorov",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -700,6 +731,7 @@
             "artist": "Papaya",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -722,6 +754,7 @@
             "artist": "Tuomas Korpi",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": "!tag cantrip\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -744,6 +777,7 @@
             "artist": "Stijn Beerts",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "!tag counterspell\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -766,6 +800,7 @@
             "artist": "Yugin Maffioli",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": "!tag tapper\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -788,6 +823,7 @@
             "artist": "Darwin Cellis",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": "#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -810,6 +846,7 @@
             "artist": "Vincent Delbarry",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "!tag hand-disruption-untargetted\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -832,6 +869,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "!tag anomaly\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -854,6 +892,7 @@
             "artist": "Sean Hughes",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag reanimate-self\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -876,6 +915,7 @@
             "artist": "Denis Zhbankov",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -898,6 +938,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -920,6 +961,7 @@
             "artist": "Daimey",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -942,6 +984,7 @@
             "artist": "Antoine Wilmot",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": "!tag removal-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -964,6 +1007,7 @@
             "artist": "Lamin Martin",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -986,6 +1030,7 @@
             "artist": "Sebastian Kowoll",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "!tag hand-disruption-targetted\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -1008,6 +1053,7 @@
             "artist": "Mingchen Shen",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -1030,6 +1076,7 @@
             "artist": "rupam raaj r",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "!tag removal-creature\n!tag removal-Vehicle\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -1052,6 +1099,7 @@
             "artist": "Miguel Regod\u00f3n Harkness",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1074,6 +1122,7 @@
             "artist": "Joseph Kim",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1096,6 +1145,7 @@
             "artist": "zhu liu",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1118,6 +1168,7 @@
             "artist": "Alejandro Burdisio",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1140,6 +1191,7 @@
             "artist": "Arrigo Verderosa",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1162,6 +1214,7 @@
             "artist": "Melissa Buffaloe",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "!tag anomaly\n!tokens Mercenary WGJ;1\n!related Mercenary WGJ\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1184,6 +1237,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "!tag anomaly\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1206,6 +1260,7 @@
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1228,6 +1283,7 @@
             "artist": "Tomasz Ryger",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1250,6 +1306,7 @@
             "artist": "Daniel Schmelling",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Tyrants Fire\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1272,6 +1329,7 @@
             "artist": "Sebastian L\u00fcdke",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -1294,6 +1352,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag cantrip\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1316,6 +1375,7 @@
             "artist": "Geoff Rosenthal",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "!tag anomaly\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1338,6 +1398,7 @@
             "artist": "Xavier R",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1360,6 +1421,7 @@
             "artist": "qiang zhou",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1382,6 +1444,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1404,6 +1467,7 @@
             "artist": "Aaron Griffin",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1426,6 +1490,7 @@
             "artist": "Seungjin Woo",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": "!tag anomaly\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1448,6 +1513,7 @@
             "artist": "Joakim Ericsson",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1470,6 +1536,7 @@
             "artist": "Bal\u00e1zs Bartus",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1492,6 +1559,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1514,6 +1582,7 @@
             "artist": "Ken Liu",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -1536,6 +1605,7 @@
             "artist": "Alejandro Burdisio",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1558,6 +1628,7 @@
             "artist": "Matt Dixon",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;1\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1580,6 +1651,7 @@
             "artist": "Tymoteusz Chlisz",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": "!tag card-advantage\n2c-arcun\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1602,6 +1674,7 @@
             "artist": "Milan Nikolic",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1624,6 +1697,7 @@
             "artist": "Mark Ponczek",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1646,6 +1720,7 @@
             "artist": "Nikolay Georgiev",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": "2c-arcun\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1668,6 +1743,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1690,6 +1766,7 @@
             "artist": "Joshua Clarke",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -1712,6 +1789,7 @@
             "artist": "Matt Dixon",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag cantrip\n!addtoken Junk WGJ;1\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -1734,6 +1812,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -1756,6 +1835,7 @@
             "artist": "Marc Escachx",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -1778,6 +1858,7 @@
             "artist": "Jason Behnke",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": "#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -1800,6 +1881,7 @@
             "artist": "Niv Shpigel",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": "#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -1822,6 +1904,7 @@
             "artist": "Surya Prasetya",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1844,6 +1927,7 @@
             "artist": "Sam Rowan",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1;Insect WGJ;2\n!related Insect WGJ<2>\n!related Call the Beast Emblem\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -1866,6 +1950,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1888,6 +1973,7 @@
             "artist": "Veronica Voutila",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": "!tag damage-creature\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -1910,6 +1996,7 @@
             "artist": "Oleg Fedorov",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -1932,6 +2019,7 @@
             "artist": "Su Jian",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -1954,6 +2042,7 @@
             "artist": "Brandon Liao",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -1976,6 +2065,7 @@
             "artist": "Benedick Bana",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -1998,6 +2088,7 @@
             "artist": "Jason Behnke",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -2020,6 +2111,7 @@
             "artist": "Riley O'Kane",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": "!tag regrowth-Vehicle\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -2042,6 +2134,7 @@
             "artist": "Matt Tkocz",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1;Servo WGJ;2\n!related Servo WGJ<2>\n!related Call the Beast Emblem\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -2064,6 +2157,7 @@
             "artist": "Jort van Welbergen",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": "#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -2086,6 +2180,7 @@
             "artist": "Neil Blevins",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Servo WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -2108,6 +2203,7 @@
             "artist": "John Mueller",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Mercenary WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -2130,6 +2226,7 @@
             "artist": "Dominic Harman",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Junk WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -2152,6 +2249,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Nomad WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -2174,6 +2272,7 @@
             "artist": "Nolan Lu",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -2196,6 +2295,7 @@
             "artist": "Peter Rossa",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag regrowth-artifact\n!tag regrowth-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2218,6 +2318,7 @@
             "artist": "Yerbol Bulentayev",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "!tag card-advantage\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2240,6 +2341,7 @@
             "artist": "Benjamin Clair",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": "!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2262,6 +2364,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1Zombie WGJ;1\n!related Call the Beast Emblem\n!related Zombie WGJ\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2284,6 +2387,7 @@
             "artist": "Danny Kundzinsh",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2306,6 +2410,7 @@
             "artist": "Nolan Lu",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": "!tag edict-creature\n!tag edict-planeswalker\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2328,6 +2433,7 @@
             "artist": "Jan Klooster, van de",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "!tag wrath\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2350,6 +2456,7 @@
             "artist": "Maxime Teppe",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": "!tag graveyard-hate\n#black #uncommon\n\nExile target card from a graveyard. If it was a creature card, you gain 3 life. If it was an artifact card, put a +1/+1 counter on up to one target creature you control.\nDraw a card.",
             "image_type": "png",
             "v_mana": ""
@@ -2372,6 +2479,7 @@
             "artist": "Cole Miller",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2394,6 +2502,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": "!tag removal-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2416,6 +2525,7 @@
             "artist": "Th\u00e9o DROULEZ",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "!tag regrowth-creature\n!exportname Pull em Out\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2438,6 +2548,7 @@
             "artist": "Geoffrey Ernault",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2460,6 +2571,7 @@
             "artist": "Garret Post",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2482,6 +2594,7 @@
             "artist": "Germ\u00e1n Cid",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": "!tag card-advantage\n!tag reanimate-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2504,6 +2617,7 @@
             "artist": "Huy Van Triet",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2526,6 +2640,7 @@
             "artist": "Borja Pindado",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2548,6 +2663,7 @@
             "artist": "Vladimir Manyukhin",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": "!exportname Yarders Uprising\n!addtoken Mercenary WGJ;2\n!related Mercnary WGJ<2>\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2570,6 +2686,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2592,6 +2709,7 @@
             "artist": "Nikolai Lockertsen",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2614,6 +2732,7 @@
             "artist": "Victor Bravo",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2636,6 +2755,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2658,6 +2778,7 @@
             "artist": "Alejandro Burdisio",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2680,6 +2801,7 @@
             "artist": "Dylan Scher",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -2702,6 +2824,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2724,6 +2847,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;1;Treasure WGJ;1\n!related Junk WGJ\n!related Treasure WGJ\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2746,6 +2870,7 @@
             "artist": "su jian",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": "!addtoken Nomad WGJ;2;Nomad WGJ;1\n!related Nomad WGJ<2>\n!related Nomad WGJ<1>\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2758,7 +2883,7 @@
             "number": 197,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Return target creature or Vehicle card from your graveyard to your hand. Until end of turn, the next creature or Vehicle spell you cast has \u201cWhen this permanent enters, it deals damage equal to its power to up to one target creature or planeswalker.\u201d",
+            "rules_text": "Return target creature card from your graveyard to your hand. Until end of turn, the next creature spell you cast has \u201cWhen this creature enters, it deals damage equal to its power to up to one target creature or planeswalker you don't control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2768,6 +2893,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag damage-planeswalker\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2790,6 +2916,7 @@
             "artist": "Ben Hancock",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": "!tag anomaly\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2812,6 +2939,7 @@
             "artist": "Cl\u00e9ment BRECHET",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2834,6 +2962,7 @@
             "artist": "Bo\u017cenka Jelonek",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2856,6 +2985,7 @@
             "artist": "KRIS",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag damage-creature\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2878,6 +3008,7 @@
             "artist": "Rienque LeVerite",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "!tag damage-creature\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2900,6 +3031,7 @@
             "artist": "Xavier R",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2922,6 +3054,7 @@
             "artist": "\u6b27\u745f\u65af \u5de5\u4f5c\u5ba4",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2944,6 +3077,7 @@
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "!exportname ATV Hotshot\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -2966,6 +3100,7 @@
             "artist": "John Mueller",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Zombie WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -2988,6 +3123,7 @@
             "artist": "Mateusz Wisniew",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3010,6 +3146,7 @@
             "artist": "Ciarian Lucas",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3032,6 +3169,7 @@
             "artist": "Ondrej Spanhel",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": "!tag anomaly\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3054,6 +3192,7 @@
             "artist": "Jacob Kuhne",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": "!tag damage-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3066,7 +3205,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Vigilance\n{X}, {T}: Exile target artifact card with mana value X or less from your graveyard. Put +1/+1 counters on target creature or Vehicle equal to the mana value of the exiled card. Activate only as a sorcery.",
+            "rules_text": "Vigilance\nWhen Bert enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nJunks you control have \u201c{T}, Sacrifice this artifact: Put a +1/+1 counter on target creature or Vehicle. Activate only as a sorcery.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3076,6 +3215,7 @@
             "artist": "benedykt szneider",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3098,6 +3238,7 @@
             "artist": "cheetz0",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3120,6 +3261,7 @@
             "artist": "Grafit Studios",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Servo WGJ;2;Junk WGJ;1\n!related Servo WGJ<2>\n!related Junk WGJ\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3142,6 +3284,7 @@
             "artist": "Igor Artyomenko",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag regrowth-creature\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3164,6 +3307,7 @@
             "artist": "Lo\u00efc Souquet",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3186,6 +3330,7 @@
             "artist": "Oliver Wetter",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": "!tag pacifism\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3208,6 +3353,7 @@
             "artist": "Geoffrey Amesse",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": "!tag bounce\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3230,6 +3376,7 @@
             "artist": "David Savage",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "!tag counterspell\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3252,6 +3399,7 @@
             "artist": "Athavan",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": "#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3274,6 +3422,7 @@
             "artist": "Thomas Brissot",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": "#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3296,6 +3445,7 @@
             "artist": "Fran Fdez",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": "!tag card-advantage\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3318,6 +3468,7 @@
             "artist": "Jonathan Dawo",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3340,6 +3491,7 @@
             "artist": "Huleeb",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "!tag cantrip\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3362,6 +3514,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3384,6 +3537,7 @@
             "artist": "Lighting Luminoso",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "!tag reanimate-creature\n!tag reanimate-artifact\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3406,6 +3560,7 @@
             "artist": "Federico Bentancor",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
@@ -3428,6 +3583,7 @@
             "artist": "Jiri Horacek",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
@@ -3450,6 +3606,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
@@ -3472,6 +3629,7 @@
             "artist": "\u5b9d\u6797\u672c\u8fdf",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
@@ -3494,6 +3652,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
@@ -3516,6 +3675,7 @@
             "artist": "Illarstration",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3538,6 +3698,7 @@
             "artist": "Iain Hegoburu",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag cantrip\n!addtoken Call The Beast Emblem;1\n\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3560,6 +3721,7 @@
             "artist": "Jacob Houghton",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": "#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3582,6 +3744,7 @@
             "artist": "Franky Savant",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3604,6 +3767,7 @@
             "artist": "MoGi Group",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": "!tag damage-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3626,6 +3790,7 @@
             "artist": "Christophe Durand Deshaies",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3648,6 +3813,7 @@
             "artist": "Svet Rezhet Glaza",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag removal-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3670,6 +3836,7 @@
             "artist": "Boris Campistron",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": "!tag tapper\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3692,6 +3859,7 @@
             "artist": "Melanie Tan",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": "!tag removal-artifact\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3714,6 +3882,7 @@
             "artist": "Sung Choi",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3736,6 +3905,7 @@
             "artist": "Tyler Edlin",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": "!tag regrowth\n!tag reanimate-land\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -3758,6 +3928,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": "!tag card-advantage\n!tokens Zombie WGJ\n!related Zombie WGJ\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
@@ -3780,6 +3951,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
@@ -3802,6 +3974,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": "!addtoken Phoenix WGJ;1\n!related Phoenix WGJ\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
@@ -3824,6 +3997,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
@@ -3846,6 +4020,7 @@
             "artist": "Mario Brunner",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": "!tag tuck\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -3868,6 +4043,7 @@
             "artist": "Romain Thirion",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -3890,6 +4066,7 @@
             "artist": "Steven Noble",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": "!addtoken Gearbox WGJ;1\n!related Gearbox WGJ\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -3912,6 +4089,7 @@
             "artist": "Mikael Yusifov",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -3934,6 +4112,7 @@
             "artist": "Massimiliano Richieri",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": "#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -3956,6 +4135,7 @@
             "artist": "D DB",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -3978,6 +4158,7 @@
             "artist": "Orphan RTG",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag damage-creature\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4000,6 +4181,7 @@
             "artist": "Lenar Shakirov",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4022,6 +4204,7 @@
             "artist": "Dan Morris",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": "!exportname Garoths Charge\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4044,6 +4227,7 @@
             "artist": "Space Goose",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4066,6 +4250,7 @@
             "artist": "Zhuolun Li",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "!addtoken Puck WGJ;1\n!related Puck WGJ\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4088,6 +4273,7 @@
             "artist": "Zack Jones",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4110,6 +4296,7 @@
             "artist": "Erik Davis Heim",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": "!addtoken Goblin WGJ;2\n!related Goblin WGJ<2>\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4132,6 +4319,7 @@
             "artist": "Matt Rhodes",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": "#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4154,6 +4342,7 @@
             "artist": "Tsvetelin Krastev",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "!tag damage-any\n!exportname Vorricks Blast Array\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4176,6 +4365,7 @@
             "artist": "Dima S-K",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": "#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4198,6 +4388,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": "!tag removal-creature\n!tag graveyard-hate\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4220,6 +4411,7 @@
             "artist": "Amanda Diaz",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "!tag hand-disruption-targetted\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4242,6 +4434,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4264,6 +4457,7 @@
             "artist": "Brandon Liao",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": "#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4286,6 +4480,7 @@
             "artist": "Philipp Kruse",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "!tag card-advantage\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4308,6 +4503,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "!tag edict-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4330,6 +4526,7 @@
             "artist": "RUPAM RAAJ R.",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": "#colorless #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4352,6 +4549,7 @@
             "artist": "Tom\u00e1\u0161 M\u00fcller",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "!tag card-advantage\n!exportname Felisahs Recruiter\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4374,6 +4572,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Junk WGJ;1;Mercenary WGJ;1\n!related Junk WGJ\n!related Mercenary WGJ\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4386,7 +4585,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]\nAt the beginning of your end step, exile Lundquist's Garage.",
+            "rules_text": "Vehicle spells you cast cost {1} less to cast.\nWhenever a Vehicle you control enters, put a +1/+1 counter on it.\n{T}, Exile two cards from your graveyard: Return target Vehicle card from your graveyard to the battlefield with a finality counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4396,7 +4595,8 @@
             "artist": "Paul Patricio",
             "alias": "",
             "position": "199",
-            "notes": "!tag reanimate-creature\n!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare",
+            "rotated": false,
+            "notes": "!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4418,6 +4618,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": "!tag wrath\n!tag reanimate-creature\n!tag regrowth-creature\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4440,6 +4641,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": "!tag reanimate-artifact\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4462,6 +4664,7 @@
             "artist": "Chloe Beckett",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": "!tag banish\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4484,6 +4687,7 @@
             "artist": "Christian Bravery",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4506,6 +4710,7 @@
             "artist": "Reza Afshar",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;1Insect WGJ;1;Mercenary WGJ;1;Nomad WGJ;1;Junk WGJ;1\n\n!related Call the Beast Emblem\n!related Servo WGJ\n!related Insect WGJ\n!related Mercenary WGJ\n!related Nomad WGJ\n!related Junk WGJ\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4528,6 +4733,7 @@
             "artist": "Radik Shaikhullin",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "!tag reanimate-creature\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -4550,6 +4756,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": "!tag removal\n!exportname Azareths Dreadnought\n\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -4572,6 +4779,7 @@
             "artist": "Izzy Medrano",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": "!tag graveyard-hate\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4594,6 +4802,7 @@
             "artist": "Hocheol Ryu Welz",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": "!tag card-advantage\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4616,6 +4825,7 @@
             "artist": "Darwin Cellis",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4638,6 +4848,7 @@
             "artist": "Typhaine Escande",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": "!tag reanimate-self\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4660,6 +4871,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": "!tag hand-disruption-targetted\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4682,6 +4894,7 @@
             "artist": "Rostyslav Zagornov",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "!tag regrowth-artifact\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4704,6 +4917,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag bounce\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4726,6 +4940,7 @@
             "artist": "sparth",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;1Junk WGJ;1;Treasure WGJ;1\n!related Servo WGJ\n!related Junk WGJ\n!related Treasure WGJ\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4748,6 +4963,7 @@
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "!tag counterspell\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4770,6 +4986,7 @@
             "artist": "Athur Haas",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4792,6 +5009,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": "!tag tapper\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4814,6 +5032,7 @@
             "artist": "Maxim Lingert",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4836,6 +5055,7 @@
             "artist": "WEI ShenGun",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": "!tag card-advantage\n!exportname Shamuss Pontoon\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4858,6 +5078,7 @@
             "artist": "Glenn Porter",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4880,6 +5101,7 @@
             "artist": "Afanur Rashid",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4902,6 +5124,7 @@
             "artist": "David Newton",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "!tag graveyard-hate\n!addtoken Nomad WGJ;1\n!related Nomad WGJ\n\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4924,6 +5147,7 @@
             "artist": "Tatiana Novak",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "!tag graveyard-hate\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4946,6 +5170,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n!tag wrath\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4968,6 +5193,7 @@
             "artist": "Gabriele Vaccaro",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag removal-creature\n!tag wrath\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
@@ -4990,6 +5216,7 @@
             "artist": "Maciej Laszkiewicz",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5012,6 +5239,7 @@
             "artist": "Luca Maiorani",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": "!tag anomaly\n#green #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5034,6 +5262,7 @@
             "artist": "Riccardo Varisco",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": "!tag anomaly\n!exportname Recycle-o-Tron\n\n#green #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5056,6 +5285,7 @@
             "artist": "Andrzej Rybus",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": "!tag anomaly\n#red #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5078,6 +5308,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": "!tag card-advantage\n!tag removal-creature\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#colorless #mythic #planeswalker",
             "image_type": "png",
             "v_mana": ""
@@ -5100,6 +5331,7 @@
             "artist": "Verena G",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5122,6 +5354,7 @@
             "artist": "Maryse Heilig",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Insect WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5144,6 +5377,7 @@
             "artist": "Huy Tran Viet",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Louie WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5166,6 +5400,7 @@
             "artist": "Mohamed Abd Elsalam",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Dog WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5188,6 +5423,7 @@
             "artist": "William McAusland",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Goblin WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5210,6 +5446,7 @@
             "artist": "Michal Kus",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Gearbox WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5232,6 +5469,7 @@
             "artist": "Marvin B\u00fcte",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Phoenix WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5254,6 +5492,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "!tag regrowth-artifact\n!tag card-advantage\n#blue #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5276,6 +5515,7 @@
             "artist": "Pepijn De Lange",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5298,6 +5538,7 @@
             "artist": "Simon Douville",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag cantrip\n!tag card-advantage\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5320,6 +5561,7 @@
             "artist": "Robota",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5342,6 +5584,7 @@
             "artist": "Mikl\u00f3s Ligeti",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": "!tag card-advantage\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -5364,6 +5607,7 @@
             "artist": "Nikolai Lockertsen",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": "!tag banish\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
@@ -5386,6 +5630,7 @@
             "artist": "Michal Kus",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": "!tag bounce-creature\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5408,6 +5653,7 @@
             "artist": "Marc Simonetti",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -5430,6 +5676,7 @@
             "artist": "Kirill Udodov",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;3\n!related Junk WGJ<3>\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5452,6 +5699,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
@@ -5474,6 +5722,7 @@
             "artist": "Victor Bravo",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": "!exportname Hoarders Caravan\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5496,6 +5745,7 @@
             "artist": "William Dylan Domeyer",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": "!addtoken Dog WGJ;2\n!related Dog WGJ<2>\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5518,6 +5768,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Junklords Hole Puncher\n\n#red #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5540,6 +5791,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -5562,6 +5814,7 @@
             "artist": "Ignacio Bazan-Lazcano",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5584,6 +5837,7 @@
             "artist": "Sergey Orlyansky",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": "#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -5606,6 +5860,7 @@
             "artist": "Felicien Nourry",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": "!tag banish\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -5628,6 +5883,7 @@
             "artist": "Garrett Post",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": "!tag card-advantage\n!damage-any\n!exportname Vorricks Radicals\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
@@ -5650,6 +5906,7 @@
             "artist": "ROBOTA",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": "!tag cantrip\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5672,6 +5929,7 @@
             "artist": "Daniel Ignacio",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": "!tag cantrip\n#blue #common",
             "image_type": "png",
             "v_mana": ""
@@ -5694,6 +5952,7 @@
             "artist": "Gunnar Feldmann",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": "!tag tapper\n!tag cantrip\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5716,6 +5975,7 @@
             "artist": "D4Disgruntled",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": "!tag removal-creature\n!tag cantrip\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5738,6 +5998,7 @@
             "artist": "Piotr Kwasnicki",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": "!tag cantrip\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5760,6 +6021,7 @@
             "artist": "Aster Reeve",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": "!tag cantrip\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5782,6 +6044,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "!tag card-advantage\n!tag damage-any\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
@@ -5804,6 +6067,7 @@
             "artist": "Dmitry Klyushkin",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5826,6 +6090,7 @@
             "artist": "Aleski Briclot",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -5848,6 +6113,7 @@
             "artist": "Michel Lanoie",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
@@ -5870,6 +6136,7 @@
             "artist": "Aboy Singh",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": "!addtoken Louie WGJ;1\n!related Louie WGJ\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5892,6 +6159,7 @@
             "artist": "Xu Tianhua",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -5914,6 +6182,7 @@
             "artist": "Mindgel",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": "#white #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -5936,6 +6205,7 @@
             "artist": "Patryk Jedraszek",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "!exportname Call The Beast Emblem\n!tokentag Call the Beast Emblem\n!addtoken The Beast WGJ;1\n!tokenshape\n!related The Beast WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -5958,6 +6228,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag removal-creature\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -5980,6 +6251,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
@@ -6002,6 +6274,7 @@
             "artist": "J Hua",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": "!tag damage-any\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -6024,6 +6297,7 @@
             "artist": "Pedro Otelcana",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": "!tag anomaly\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6046,6 +6320,7 @@
             "artist": "Nick Storozhenko",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": "!tag anomaly\n#blue #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -6068,6 +6343,7 @@
             "artist": "Bachana Botchorishvilli",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag graveyard-hate\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -6090,6 +6366,7 @@
             "artist": "DOFRESH .",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;2\n!related Servo WGJ<2>\n\n#gold #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -6112,6 +6389,7 @@
             "artist": "Jarrod Penfold",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -6134,6 +6412,7 @@
             "artist": "Alu\u00edsio Cervelle Santos",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6156,6 +6435,7 @@
             "artist": "Joshua Carter",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": "!tag wrath\n!tag wheel\n!tag regrowth-Vehicle\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6178,6 +6458,7 @@
             "artist": "Aleksei Shatunov",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n!addtoken Zombie WGJ;2\n!related Zombie WGJ<2>\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6200,6 +6481,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag removal-creature\n!addtoken Call The Beast Emblem;1\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6222,6 +6504,7 @@
             "artist": "LiXin Yin",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": "!tag wrath\n!exportname The Junklords Gambit\n\n#colorless #mythic",
             "image_type": "png",
             "v_mana": ""
@@ -6244,6 +6527,7 @@
             "artist": "Jarrard Lee",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
@@ -6266,6 +6550,7 @@
             "artist": "Polina Semenova",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
@@ -6288,6 +6573,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -6310,6 +6596,7 @@
             "artist": "Games Revolted",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": "!tag anomaly\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
@@ -6332,6 +6619,7 @@
             "artist": "Zhuolun Li",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": "!tokenshape\n!tokentag Puck WGJ",
             "image_type": "png",
             "v_mana": ""
@@ -6354,6 +6642,7 @@
             "artist": "Jun Huang",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": "!tag anomaly\n#white #common",
             "image_type": "png",
             "v_mana": ""
@@ -6376,6 +6665,7 @@
             "artist": "Wojciech Kr\u00f3lik",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": "!tag damage-any\n#red #common",
             "image_type": "png",
             "v_mana": ""
@@ -6398,6 +6688,7 @@
             "artist": "Wenmo Zhang",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": "!tag anomaly\n!tag reanimate-self\n#black #rare",
             "image_type": "png",
             "v_mana": ""
