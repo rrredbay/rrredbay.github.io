@@ -1,4 +1,80 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Battery Thief
+rules_text: {1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junk tokens you control have “{T}, Pay 1 life: Add {B}.” => {1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junks you control have “{T}, Pay 1 life: Add {B}.”
+
+Rapid Materialization
+rules_text: Choose target creature or artifact card that was put into your graveyard from anywhere this turn. Exile it. Create a token that is a copy of the exiled card, except it's an artifact in addition to its other types.
+Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i] => Choose target artifact or creature card that was put into your graveyard from anywhere this turn. Exile it. Create a token that is a copy of the exiled card, except it's an artifact in addition to its other types.
+Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+
+Junklord Azareth
+
+Junklord Felisah
+
+Junklord Garoth
+
+Junklord Lundquist
+
+Arachno-Killbot
+rules_text: Reach, deathtouch
+When you salvage this creature onto a permanent you control, that permanent deals damage equal to its power to target creature you don't control.
+Salvage {2}{G}{G} => Reach, deathtouch
+When you salvage this creature onto a permanent you control, that permanent deals damage equal to its power to target creature you don't control.
+Salvage {2}{G}{G} [i]({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature or Vehicle. Salvage only as a sorcery.)[/i]
+
+Rager Blazer
+
+Lundquists Garage
+rules_text: Vehicle spells you cast cost {1} less to cast.
+Whenever a Vehicle you control enters, put a +1/+1 counter on it.
+{T}, Exile two cards from your graveyard: Return target Vehicle card from your graveyard to the battlefield with a finality counter on it. => Vehicle spells you cast cost {1} less to cast.
+Whenever a Vehicle you control enters, put a +1/+1 counter on it and you draw a card. This ability triggers only once each turn.
+
+March of the Goliaths
+cost: {3}{W} => {2}{W}{W}
+
+The Sprawl
+
+Seaside Goliath
+rules_text: Vigilance
+When this creature enters or you salvage it onto a permanent you control, return target nonland permanent you don't control to its owner's hand.
+Salvage {4}{U}{U} => Vigilance
+When this creature enters or you salvage it onto a permanent you control, return target nonland permanent you don't control to its owner's hand.
+Salvage {4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature or Vehicle. Salvage only as a sorcery.)[/i]
+
+Shamuss Pontoon
+rules_text: At the beginning of combat on your turn, exile the top card of your library.
+Whenever Shamus's Pontoon deals combat damage to a player, put all cards you own exiled by it into your hand.
+Crew 2 => At the beginning of combat on your turn, exile the top card of your library.
+Whenever Shamus's Pontoon deals combat damage to a player, put all cards exiled by it into their owner's hand.
+Crew 2
+
+The Brain
+
+Electro Punch-Bot
+
+Vorricks Radicals
+rules_text: At the beginning of your upkeep, create a Junk token.
+At the beginning of your end step, this creature deals damage equal to the number of permanents you sacrificed this turn to any target. => At the beginning of your upkeep, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+At the beginning of your end step, this creature deals damage equal to the number of permanents you sacrificed this turn to any target.
+
+Junklord Vorrick
+
+Marus, Calculated Killer
+rules_text: When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.
+Whenever you attack, target token creature you control gets +1/+0 and gains deathtouch until end of turn. => When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.
+Whenever you attack, target attacking creature gains deathtouch until end of turn.
+
+The Junklords Gambit
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

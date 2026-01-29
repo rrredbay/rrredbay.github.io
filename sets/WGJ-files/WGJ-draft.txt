@@ -2013,7 +2013,7 @@
 		{
 			"name": "March of the Goliaths",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {

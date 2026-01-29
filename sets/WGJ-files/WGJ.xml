@@ -1797,7 +1797,7 @@ Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed this turn 
 		<card>
 			<name>Battery Thief</name>
 			<text>{1}, Sacrifice a nontoken artifact: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
-Junk tokens you control have &quot;{T}, Pay 1 life: Add {B}.&quot;</text>
+Junks you control have &quot;{T}, Pay 1 life: Add {B}.&quot;</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/101.png" num="88">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2731,7 +2731,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 		</card>
 		<card>
 			<name>Rapid Materialization</name>
-			<text>Choose target creature or artifact card that was put into your graveyard from anywhere this turn. Exile it. Create a token that is a copy of the exiled card, except it&apos;s an artifact in addition to its other types.
+			<text>Choose target artifact or creature card that was put into your graveyard from anywhere this turn. Exile it. Create a token that is a copy of the exiled card, except it&apos;s an artifact in addition to its other types.
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/153.png" num="72">WGJ</set>
 			<prop>
@@ -3218,7 +3218,7 @@ Sacrifice three Junk tokens: Return this card from your graveyard to the battlef
 			<name>Arachno-Killbot</name>
 			<text>Reach, deathtouch
 When you salvage this creature onto a permanent you control, that permanent deals damage equal to its power to target creature you don&apos;t control.
-Salvage {2}{G}{G}</text>
+Salvage {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature or Vehicle. Salvage only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/180.png" num="174">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3573,8 +3573,7 @@ At the beginning of combat on your turn, choose one that hasn&apos;t been chosen
 		<card>
 			<name>Lundquists Garage</name>
 			<text>Vehicle spells you cast cost {1} less to cast.
-Whenever a Vehicle you control enters, put a +1/+1 counter on it.
-{T}, Exile two cards from your graveyard: Return target Vehicle card from your graveyard to the battlefield with a finality counter on it.</text>
+Whenever a Vehicle you control enters, put a +1/+1 counter on it and you draw a card. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/199.png" num="25">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3615,7 +3614,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3W</manacost>
+				<manacost>2WW</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3677,7 +3676,6 @@ Crew 4</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Call the Beast Emblem</reverse_related>
 			<reverse_related>Servo WGJ</reverse_related>
 			<reverse_related>Insect WGJ</reverse_related>
 			<reverse_related>Mercenary WGJ</reverse_related>
@@ -3830,7 +3828,7 @@ Whenever this creature attacks, return target artifact card with mana value less
 			<name>Seaside Goliath</name>
 			<text>Vigilance
 When this creature enters or you salvage it onto a permanent you control, return target nonland permanent you don&apos;t control to its owner&apos;s hand.
-Salvage {4}{U}{U}</text>
+Salvage {4}{U}{U} ({4}{U}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature or Vehicle. Salvage only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/213.png" num="79">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3940,7 +3938,7 @@ Junks you control have &quot;{T}, Sacrifice this artifact: Target instant or sor
 		<card>
 			<name>Shamuss Pontoon</name>
 			<text>At the beginning of combat on your turn, exile the top card of your library.
-Whenever Shamus&apos;s Pontoon deals combat damage to a player, put all cards you own exiled by it into your hand.
+Whenever Shamus&apos;s Pontoon deals combat damage to a player, put all cards exiled by it into their owner&apos;s hand.
 Crew 2</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/219.png" num="81">WGJ</set>
 			<prop>
@@ -4611,7 +4609,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 		</card>
 		<card>
 			<name>Vorricks Radicals</name>
-			<text>At the beginning of your upkeep, create a Junk token.
+			<text>At the beginning of your upkeep, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
 At the beginning of your end step, this creature deals damage equal to the number of permanents you sacrificed this turn to any target.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/255.png" num="234">WGJ</set>
 			<prop>
@@ -4808,7 +4806,7 @@ Whenever an opponent sacrifices an artifact, Smelting Pit deals 2 damage to that
 		<card>
 			<name>Marus, Calculated Killer</name>
 			<text>When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.
-Whenever you attack, target token creature you control gets +1/+0 and gains deathtouch until end of turn.</text>
+Whenever you attack, target attacking creature gains deathtouch until end of turn.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/266.png" num="105">WGJ</set>
 			<prop>
 				<layout>normal</layout>
