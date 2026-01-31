@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-29</releasedate>
+			<releasedate>2026-01-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -464,7 +464,7 @@ Whenever you call The Beast, this creature gets +1/+0 until end of turn.
 		<card>
 			<name>Market Thief</name>
 			<text>When this creature enters, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
-Whenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can&apos;t be blocked until end of turn.</text>
+At the beginning of combat on your turn, if you exiled one or more cards from your library and/or graveyard this turn, this creature can&apos;t be blocked this turn.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/26.png" num="68">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -475,7 +475,7 @@ Whenever you exile one or more cards from your library and/or graveyard, this cr
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<reverse_related>Junk WGJ</reverse_related>
@@ -1348,7 +1348,7 @@ This creature&apos;s power is equal to the number of artifacts you control.</tex
 			<name>Trawl the Fields</name>
 			<text>Draw three cards, then discard a card.
 Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
-Jump-start. (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/75.png" num="233">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2157,7 +2157,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Electric Junk Tower</name>
 			<text>When this artifact enters, create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
-Whenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.</text>
+At the beginning of your end step, this artifact deals 2 damage to each opponent if you exiled one or more cards from your library and/or graveyard this turn.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/121.png" num="221">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3198,8 +3198,8 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Combustion Goliath</name>
-			<text>Whenever this creature deals damage to another creature, create a number of Junk tokens equal to the excess damage dealt this way.
-Sacrifice three Junk tokens: Return this card from your graveyard to the battlefield tapped.</text>
+			<text>Whenever this creature deals combat damage to another creature, create a number of Junk tokens equal to the excess damage dealt this way.
+Sacrifice four Junks: Return this card from your graveyard to the battlefield tapped.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/179.png" num="179">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3774,7 +3774,7 @@ As long as Ory has three or more +1/+1 counters on him, Ory has all activated ab
 			<text>Deathtouch, haste
 When you salvage this card onto a permanent you control, that permanent becomes a copy of Caroline.
 Crew 1
-Salvage {4}{B}{B}</text>
+Salvage {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature or Vehicle. Salvage only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/210.png" num="91">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3919,7 +3919,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 		<card>
 			<name>Lev, Junker Genius</name>
 			<text>{U}, Sacrifice a nontoken artifact: Create a Junk token.
-Junks you control have &quot;{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains jump-start until end of turn.&quot;</text>
+Junks you control have &quot;{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains jump-start until end of turn. Activate only as a sorcery.&quot;</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/218.png" num="63">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4127,8 +4127,9 @@ Whenever this creature becomes the target of a spell an opponent controls, you m
 		</card>
 		<card>
 			<name>Electro Punch-Bot</name>
-			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature for each noncreature spell you cast this turn.
-At the beginning of your end step, remove all +1/+1 counters from this creature. It deals that much damage to each opponent.</text>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+{T}, Remove X +1/+1 counters from this creature: Add X {R}.
+At the beginning of your end step, remove all +1/+1 counters from this creature.</text>
 			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/WGJ-files/img/229.png" num="134">WGJ</set>
 			<prop>
 				<layout>normal</layout>

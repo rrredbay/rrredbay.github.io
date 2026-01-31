@@ -561,9 +561,9 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this creature gets +1/+0 and can't be blocked until end of turn.",
+            "rules_text": "When this creature enters, create a Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nAt the beginning of combat on your turn, if you exiled one or more cards from your library and/or graveyard this turn, this creature can't be blocked this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "WGJ",
@@ -1590,7 +1590,7 @@
             "number": 233,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Draw three cards, then discard a card.\nCall The Beast. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]\nJump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]",
+            "rules_text": "Draw three cards, then discard a card.\nCall The Beast. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]\nJump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2556,7 +2556,7 @@
             "number": 221,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nWhenever you exile one or more cards from your library and/or graveyard, this artifact deals 1 damage to each opponent.",
+            "rules_text": "When this artifact enters, create two Junk tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]\nAt the beginning of your end step, this artifact deals 2 damage to each opponent if you exiled one or more cards from your library and/or graveyard this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3774,7 +3774,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
-            "rules_text": "Whenever this creature deals damage to another creature, create a number of Junk tokens equal to the excess damage dealt this way.\nSacrifice three Junk tokens: Return this card from your graveyard to the battlefield tapped.",
+            "rules_text": "Whenever this creature deals combat damage to another creature, create a number of Junk tokens equal to the excess damage dealt this way.\nSacrifice four Junks: Return this card from your graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "8/8",
             "special_text": "",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": "#red #rare\n!tag wishlist"
+            "notes": "#red #rare"
         },
         {
             "card_name": "Plans Undone",
@@ -4195,7 +4195,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Vehicle spells you cast cost {1} less to cast.\nWhenever a Vehicle you control enters, put a +1/+1 counter on it and you draw a card. This ability triggers only once each turn.",
-            "flavor_text": "[i]\u201cPrepare, prepare, prepare, prepare.\u201d[/i]",
+            "flavor_text": "[i]\u201cA thousand years of preparations, and yet I would still ask for a thousand more.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4205,7 +4205,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": "!tag wishlist\n!tag card-advantage\n\n!exportname Lundquists Garage\n\n#white #rare\n\n"
+            "notes": "!tag wishlist\n!tag card-advantage\n\n!exportname Lundquists Garage\n\n#white #rare"
         },
         {
             "card_name": "Survive Disaster",
@@ -4425,7 +4425,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Deathtouch, haste\nWhen you salvage this card onto a permanent you control, that permanent becomes a copy of Caroline.\nCrew 1\nSalvage {4}{B}{B}",
+            "rules_text": "Deathtouch, haste\nWhen you salvage this card onto a permanent you control, that permanent becomes a copy of Caroline.\nCrew 1\nSalvage {4}{B}{B} [i]({4}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature or Vehicle. Salvage only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -4593,7 +4593,7 @@
             "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "{U}, Sacrifice a nontoken artifact: Create a Junk token.\nJunks you control have \u201c{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains jump-start until end of turn.\u201d",
+            "rules_text": "{U}, Sacrifice a nontoken artifact: Create a Junk token.\nJunks you control have \u201c{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains jump-start until end of turn. Activate only as a sorcery.\u201d",
             "flavor_text": "[i]He brings a spark of ingenuity.[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -4824,7 +4824,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature for each noncreature spell you cast this turn.\nAt the beginning of your end step, remove all +1/+1 counters from this creature. It deals that much damage to each opponent.",
+            "rules_text": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.\n{T}, Remove X +1/+1 counters from this creature: Add X {R}.\nAt the beginning of your end step, remove all +1/+1 counters from this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4835,7 +4835,7 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag wishlist\n#red #mythic"
+            "notes": "!tag anomaly\n#red #mythic"
         },
         {
             "card_name": "Sevrox, Ascended",
@@ -5780,7 +5780,7 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": "!tag anomaly\n#blue #mythic"
+            "notes": "!tag anomaly\n!tag wishlist\n#blue #mythic"
         },
         {
             "card_name": "Disassemble",
