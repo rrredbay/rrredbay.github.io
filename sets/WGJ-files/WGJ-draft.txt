@@ -561,7 +561,7 @@
 			}
 		},
 		{
-			"name": "Tyrants Fire",
+			"name": "Tyrant's Fire",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
@@ -1151,7 +1151,7 @@
 			}
 		},
 		{
-			"name": "Yarders Uprising",
+			"name": "Yarder's Uprising",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
@@ -2551,7 +2551,7 @@
 			}
 		},
 		{
-			"name": "Vorricks Radicals",
+			"name": "Vorrick's Radicals",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Monkey Mutant Artificer",
@@ -2690,7 +2690,7 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/268.png"
 			}
 		},
-{
+		{
 			"name": "Call The Beast Emblem",
 			"rarity": "common",
 			"mana_cost": "",
@@ -3028,7 +3028,7 @@
 	4 Anter, Wasteland Runner
 	4 Hotwiring Hogs
 	4 Furious Intimidator
-	4 Yarders Uprising
+	4 Yarder's Uprising
 	4 Double-Barreled Drakkon
 	4 Grabby Claws
 	4 Into Glory Ride
@@ -3089,7 +3089,7 @@
 	4 Hoarders Caravan
 	4 Howling Rover
 	4 Sidecar Cruiser
-	4 Vorricks Radicals
+	4 Vorrick's Radicals
 	4 Innovative Find
 	4 Wondrous Find
 	4 Broken Find
@@ -3149,7 +3149,7 @@
 	8 Rampaging Goliath
 	8 Explosive Collision
 	8 Scrap Deals
-	8 Tyrants Fire
+	8 Tyrant's Fire
 	8 Sandstorm Dozer
 	8 Android Visionary
 	8 Happy Heaper
@@ -3241,7 +3241,7 @@
 	8 Rampaging Goliath
 	8 Explosive Collision
 	8 Scrap Deals
-	8 Tyrants Fire
+	8 Tyrant's Fire
 	8 Sandstorm Dozer
 	8 Android Visionary
 	8 Happy Heaper
@@ -3335,7 +3335,7 @@
 	12 Rampaging Goliath
 	12 Explosive Collision
 	12 Scrap Deals
-	12 Tyrants Fire
+	12 Tyrant's Fire
 	12 Sandstorm Dozer
 	12 Android Visionary
 	12 Happy Heaper
@@ -3390,7 +3390,7 @@
 	6 Anter, Wasteland Runner
 	6 Hotwiring Hogs
 	6 Furious Intimidator
-	6 Yarders Uprising
+	6 Yarder's Uprising
 	6 Double-Barreled Drakkon
 	6 Grabby Claws
 	6 Into Glory Ride
@@ -3523,7 +3523,7 @@
 	6 Sidecar Cruiser
 	12 Compactor Drones
 	12 Wreckyard Crane
-	6 Vorricks Radicals
+	6 Vorrick's Radicals
 	6 Innovative Find
 	12 Collector of Finds
 	6 Wondrous Find
@@ -3536,6 +3536,7 @@
 	2 Smelting Pit
 	6 Marus, Calculated Killer
 	6 Willing Offerings
+	1 VAL, Automated Locomotive
 	12 Toxic-Tail Bot
 	12 Ghastly Scrapbeast
 	12 Rig Sparks
@@ -3606,7 +3607,7 @@
 	6 Rampaging Goliath
 	6 Explosive Collision
 	6 Scrap Deals
-	6 Tyrants Fire
+	6 Tyrant's Fire
 	6 Sandstorm Dozer
 	6 Android Visionary
 	6 Happy Heaper
@@ -3661,7 +3662,7 @@
 	15 Anter, Wasteland Runner
 	15 Hotwiring Hogs
 	15 Furious Intimidator
-	15 Yarders Uprising
+	15 Yarder's Uprising
 	15 Double-Barreled Drakkon
 	15 Grabby Claws
 	15 Into Glory Ride
@@ -3794,7 +3795,7 @@
 	15 Sidecar Cruiser
 	6 Compactor Drones
 	6 Wreckyard Crane
-	15 Vorricks Radicals
+	15 Vorrick's Radicals
 	15 Innovative Find
 	6 Collector of Finds
 	15 Wondrous Find

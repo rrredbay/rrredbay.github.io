@@ -19,7 +19,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42,7 +42,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -65,7 +65,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -88,7 +88,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -111,7 +111,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n#common #midden",
+            "notes": "!tag cantrip\n\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -134,7 +134,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -157,7 +157,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -180,7 +180,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -203,7 +203,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -226,7 +226,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden",
+            "notes": "!tag cantrip\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -249,7 +249,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag The Beast WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -387,7 +387,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Treasure WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -410,7 +410,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#white #common",
+            "notes": "!tag anomaly\n!tag cantrip\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -571,7 +571,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common",
+            "notes": "!tag anomaly\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -617,7 +617,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common",
+            "notes": "!tag cantrip\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -640,7 +640,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common",
+            "notes": "#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -778,7 +778,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "!tag counterspell\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#blue #common",
+            "notes": "!tag counterspell\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -847,7 +847,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "!tag hand-disruption-untargetted\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #common",
+            "notes": "!tag hand-disruption\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -870,7 +870,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#black #common",
+            "notes": "!tag anomaly\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -939,7 +939,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#black #common",
+            "notes": "!tag card-advantage\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1008,7 +1008,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #common",
+            "notes": "!tag card-advantage\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1031,7 +1031,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "!tag hand-disruption-targetted\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#black #common",
+            "notes": "!tag hand-disruption\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1054,7 +1054,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common",
+            "notes": "!tag removal-creature\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1077,7 +1077,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag removal-Vehicle\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common",
+            "notes": "!tag removal-creature\n!tag removal-Vehicle\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1100,7 +1100,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common",
+            "notes": "!tag cantrip\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1261,7 +1261,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1284,12 +1284,12 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#red #common",
+            "notes": "!tag cantrip\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "Tyrants Fire",
+            "card_name": "Tyrant's Fire",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
@@ -1307,7 +1307,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Tyrants Fire\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #common",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1399,7 +1399,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #common",
+            "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1445,7 +1445,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n\n#green #common",
+            "notes": "!tag anomaly\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1560,7 +1560,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#green #common",
+            "notes": "!tag removal-artifact\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1629,7 +1629,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n\n#gold #uncommon #arcun",
+            "notes": "#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1675,7 +1675,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
+            "notes": "#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1744,7 +1744,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1767,7 +1767,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun",
+            "notes": "#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n!addtoken Junk WGJ;1\n\n#colorless #common",
+            "notes": "!tag anomaly\n!tag cantrip\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1836,7 +1836,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#colorless #common",
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1928,7 +1928,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1;Insect WGJ;2\n!related Insect WGJ<2>\n!related Call the Beast Emblem\n\n#blue #common",
+            "notes": "#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2089,7 +2089,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #common",
+            "notes": "#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2135,7 +2135,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1;Servo WGJ;2\n!related Servo WGJ<2>\n!related Call the Beast Emblem\n\n#white #common",
+            "notes": "#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2181,7 +2181,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Servo WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2204,7 +2204,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Mercenary WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2227,7 +2227,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Junk WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2250,7 +2250,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Nomad WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2342,7 +2342,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #uncommon",
+            "notes": "#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2365,7 +2365,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1Zombie WGJ;1\n!related Call the Beast Emblem\n!related Zombie WGJ\n\n#black #uncommon",
+            "notes": "#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2480,7 +2480,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #uncommon",
+            "notes": "!tag removal-creature\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2595,7 +2595,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag reanimate-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #uncommon",
+            "notes": "!tag card-advantage\n!tag reanimate-artifact\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2646,7 +2646,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Yarders Uprising",
+            "card_name": "Yarder's Uprising",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment",
@@ -2664,7 +2664,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "!exportname Yarders Uprising\n!addtoken Mercenary WGJ;2\n!related Mercnary WGJ<2>\n\n#red #uncommon",
+            "notes": "#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #uncommon",
+            "notes": "!tag removal-artifact\n!tag wrath\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2802,7 +2802,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2848,7 +2848,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1;Treasure WGJ;1\n!related Junk WGJ\n!related Treasure WGJ\n\n#red #uncommon",
+            "notes": "!tag card-advantage\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2871,7 +2871,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "!addtoken Nomad WGJ;2;Nomad WGJ;1\n!related Nomad WGJ<2>\n!related Nomad WGJ<1>\n\n#green #uncommon",
+            "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2963,7 +2963,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #uncommon",
+            "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3055,7 +3055,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #uncommon",
+            "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3101,7 +3101,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Zombie WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3262,7 +3262,7 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Servo WGJ;2;Junk WGJ;1\n!related Servo WGJ<2>\n!related Junk WGJ\n\n#white #uncommon",
+            "notes": "!tag cantrip\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3308,7 +3308,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon",
+            "notes": "!tag card-advantage\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3469,7 +3469,7 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon",
+            "notes": "#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3515,7 +3515,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon",
+            "notes": "!tag card-advantage\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3561,7 +3561,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
+            "notes": "#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3584,7 +3584,7 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
+            "notes": "#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3607,7 +3607,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
+            "notes": "#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3630,7 +3630,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
+            "notes": "#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3653,7 +3653,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land",
+            "notes": "#uncommon #CTB-Land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3699,7 +3699,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n!addtoken Call The Beast Emblem;1\n\n#colorless #uncommon",
+            "notes": "!tag anomaly\n!tag cantrip\n\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3837,7 +3837,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "!tag tapper\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon",
+            "notes": "!tag tapper\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3883,7 +3883,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #uncommon",
+            "notes": "!tag card-advantage\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3952,7 +3952,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Servo WGJ;1\n!related Servo WGJ\n!tag wishlist\n\n#gold #mythic #junklord",
+            "notes": "!tag card-advantage\n!tag wishlist\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3975,7 +3975,7 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": "!addtoken Phoenix WGJ;1\n!related Phoenix WGJ\n!tag wishlist\n\n#gold #mythic #junklord",
+            "notes": "!tag wishlist\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4021,7 +4021,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "!tag tuck\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common",
+            "notes": "!tag tuck\n!tag cantrip\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4044,7 +4044,7 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare",
+            "notes": "!tag anomaly\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4067,7 +4067,7 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": "!addtoken Gearbox WGJ;1\n!related Gearbox WGJ\n\n#green #rare",
+            "notes": "#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4136,7 +4136,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare",
+            "notes": "!tag anomaly\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4182,7 +4182,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare",
+            "notes": "#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4251,7 +4251,7 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": "!addtoken Puck WGJ;1\n!related Puck WGJ\n\n#red #rare",
+            "notes": "#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4297,7 +4297,7 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": "!addtoken Goblin WGJ;2\n!related Goblin WGJ<2>\n\n#red #rare",
+            "notes": "#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4435,7 +4435,7 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #rare",
+            "notes": "!tag anomaly\n!tag card-advantage\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4504,7 +4504,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "!tag edict-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #rare",
+            "notes": "!tag edict-creature\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4573,7 +4573,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1;Mercenary WGJ;1\n!related Junk WGJ\n!related Mercenary WGJ\n\n#white #rare",
+            "notes": "!tag cantrip\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4665,7 +4665,7 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": "!tag banish\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #rare",
+            "notes": "!tag banish\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4688,7 +4688,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #rare",
+            "notes": "#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4711,7 +4711,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1Insect WGJ;1;Mercenary WGJ;1;Nomad WGJ;1;Junk WGJ;1\n\n!related Servo WGJ\n!related Insect WGJ\n!related Mercenary WGJ\n!related Nomad WGJ\n!related Junk WGJ\n\n#gold #rare",
+            "notes": "#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4826,7 +4826,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #rare",
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4941,7 +4941,7 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1Junk WGJ;1;Treasure WGJ;1\n!related Servo WGJ\n!related Junk WGJ\n!related Treasure WGJ\n\n#blue #rare",
+            "notes": "#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4964,7 +4964,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": "!tag counterspell\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare",
+            "notes": "!tag counterspell\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4987,7 +4987,7 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare",
+            "notes": "!tag card-advantage\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5033,7 +5033,7 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare",
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5079,7 +5079,7 @@
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#gold #rare",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5102,7 +5102,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #rare",
+            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5125,7 +5125,7 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "!tag graveyard-hate\n!addtoken Nomad WGJ;1\n!related Nomad WGJ\n\n\n#gold #rare",
+            "notes": "!tag graveyard-hate\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5217,7 +5217,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #mythic",
+            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5309,7 +5309,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag removal-creature\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#colorless #mythic #planeswalker",
+            "notes": "!tag card-advantage\n!tag removal-creature\n\n#colorless #mythic #planeswalker",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5332,7 +5332,7 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #mythic",
+            "notes": "#white #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5355,7 +5355,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Insect WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5378,7 +5378,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Louie WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5401,7 +5401,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Dog WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5424,7 +5424,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Goblin WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5447,7 +5447,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Gearbox WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5470,7 +5470,7 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Phoenix WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5516,7 +5516,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #mythic",
+            "notes": "#gold #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5677,7 +5677,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;3\n!related Junk WGJ<3>\n\n#green #uncommon",
+            "notes": "!tag card-advantage\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5746,7 +5746,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "!addtoken Dog WGJ;2\n!related Dog WGJ<2>\n\n#white #uncommon",
+            "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5866,7 +5866,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Vorricks Radicals",
+            "card_name": "Vorrick's Radicals",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2013 Monkey Mutant Artificer",
@@ -5884,7 +5884,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "!tag card-advantage\n!damage-any\n!exportname Vorricks Radicals\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n!tag damage-any\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5999,7 +5999,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#red #uncommon",
+            "notes": "!tag cantrip\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6045,7 +6045,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag damage-any\n!addtoken Junk WGJ;1\n!related Junk WGJ\n!tag wishlist\n\n#gold #mythic #junklord",
+            "notes": "!tag card-advantage\n!tag damage-any\n!tag wishlist\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6091,7 +6091,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#red #rare",
+            "notes": "#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6114,7 +6114,7 @@
             "alias": "",
             "position": "265",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #rare",
+            "notes": "!tag card-advantage\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6126,7 +6126,7 @@
             "number": 105,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.\nWhenever you attack, target attacking creature gains deathtouch until end of turn.",
+            "rules_text": "When Marus enters, create Louie, a legendary 3/3 black Construct artifact creature token.\nWhenever you attack, target attacking creature gains deathtouch until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6137,7 +6137,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "!addtoken Louie WGJ;1\n!related Louie WGJ\n\n#black #uncommon",
+            "notes": "#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6160,7 +6160,7 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#green #uncommon",
+            "notes": "#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6206,7 +6206,7 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": "!exportname Call The Beast Emblem\n!tokentag Call the Beast Emblem\n!addtoken The Beast WGJ;1\n!tokenshape\n!related The Beast WGJ",
+            "notes": "!tokenshape",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6275,7 +6275,7 @@
             "alias": "",
             "position": "272",
             "rotated": false,
-            "notes": "!tag damage-any\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#red #common",
+            "notes": "!tag damage-any\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6367,7 +6367,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;2\n!related Servo WGJ<2>\n\n#gold #mythic",
+            "notes": "#gold #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6390,7 +6390,7 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #uncommon",
+            "notes": "#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6413,7 +6413,7 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare",
+            "notes": "!tag card-advantage\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6459,7 +6459,7 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n!addtoken Zombie WGJ;2\n!related Zombie WGJ<2>\n\n#gold #rare",
+            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6482,7 +6482,7 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag removal-creature\n!addtoken Call The Beast Emblem;1\n\n#black #rare",
+            "notes": "!tag anomaly\n!tag removal-creature\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6551,7 +6551,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6620,7 +6620,7 @@
             "alias": "",
             "position": "287",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Puck WGJ",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },

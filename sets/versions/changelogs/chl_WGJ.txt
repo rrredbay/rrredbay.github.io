@@ -1,4 +1,251 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Tyrant's Fire added.
+Yarder's Uprising added.
+Vorrick's Radicals added.
+
+Tyrants Fire removed.
+Yarders Uprising removed.
+Vorricks Radicals removed.
+
+Shoreline Midden
+
+Submerged Midden
+
+Molten Midden
+
+Brutal Midden
+
+Secluded Midden
+
+Foreboding Midden
+
+Market Midden
+
+Forgotten Midden
+
+Riffraff Midden
+
+Productive Midden
+
+The Beast
+
+Treasure
+
+Automated Scrapper
+
+Mechanohawk
+
+Market Thief
+
+Moonlight Yarder
+
+Crushing Defeat
+
+Scrounging Vermin
+
+Assault Bot
+
+Oculus Collector
+
+Failed Experiment
+
+Visions of Terror
+
+Decapitate
+
+Target Locked
+
+Nitwit Yarder
+
+Explosive Collision
+
+Scrap Deals
+
+Scaled Scrapper
+
+Daddy Swordlegs
+
+Overpower
+
+Friendly Trawler
+
+Drexil Acolyte
+
+Trawl the Fields
+
+Robotic Reverence
+
+Plucky Scrapper
+
+Bursting Vat
+
+Defend the Hive
+
+Beast Beckoner
+
+Alert Sentries
+
+Servo
+
+Mercenary
+
+Junk
+
+Nomad
+
+Battery Thief
+
+The Heap Rises
+
+Nightfall Approaches
+
+Anter, Wasteland Runner
+
+Absolute Victory
+
+Electric Junk Tower
+
+Harpooner Wagon
+
+Scavenger Party
+
+Auto Recycler
+
+Badlands Alpha
+
+Zombie
+
+Required Assembly
+
+Sky Trawler
+
+Harbinger Drexil
+
+Bandit Junker
+
+The Junkfields
+
+The Heap
+
+The Pit
+
+The Wasteland
+
+The Lost Sea
+
+Willing Automaton
+
+Lose to the Heap
+
+Recycling Engine
+
+Junklord Felisah
+
+Junklord Garoth
+
+Gone Mag-Fishing
+
+Techno Compies
+
+Danavan, the Exile
+
+Combustion Goliath
+
+World on the Brink
+
+Kinsley, Badlands Outcast
+
+Goblin Express
+
+Azyra, Queen of the Forge
+
+Speaker Lxtal
+
+Sprawl Enforcers
+
+Baited Trap
+
+The Citadel
+
+The Sprawl
+
+Tireless Consumption
+
+Lost Sea Haggling
+
+Sabotage the Machine
+
+Seek the Laboratory
+
+Lev, Junker Genius
+
+Dreams of Incineration
+
+Dreams of Resilience
+
+Dreams of Restoration
+
+The Spoon Man
+
+Sevrox, Ascended
+
+Gum-Gum, Heap Lackey
+
+Insect
+
+Louie
+
+Dog
+
+Goblin
+
+Gearbox
+
+Phoenix
+
+Throes of the Beast
+
+Gunhead Rhino
+
+Howling Rover
+
+Stolen Find
+
+Junklord Vorrick
+
+Merc Squad
+
+Smelting Pit
+
+Marus, Calculated Killer
+rules_text: When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.
+Whenever you attack, target attacking creature gains deathtouch until end of turn. => When Marus enters, create Louie, a legendary 3/3 black Construct artifact creature token.
+Whenever you attack, target attacking creature gains deathtouch until end of turn.
+
+Willing Offerings
+
+Call The Beast Emblem
+
+Rig Sparks
+
+Machines Rule the World
+
+Processing Point
+
+Pulsing Hedron
+
+Dreams of Exploitation
+
+Towering Killbot
+
+Acidic Acolyte
+
+Puck
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

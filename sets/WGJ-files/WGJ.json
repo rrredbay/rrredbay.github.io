@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Submerged Midden",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Molten Midden",
@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Brutal Midden",
@@ -89,7 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Secluded Midden",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n#common #midden"
+            "notes": "!tag cantrip\n\n\n#common #midden"
         },
         {
             "card_name": "Foreboding Midden",
@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Market Midden",
@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Forgotten Midden",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Riffraff Midden",
@@ -194,7 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "Productive Midden",
@@ -215,7 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#common #midden"
+            "notes": "!tag cantrip\n\n#common #midden"
         },
         {
             "card_name": "The Beast",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag The Beast WGJ"
+            "notes": ""
         },
         {
             "card_name": "Plains",
@@ -362,7 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Treasure WGJ"
+            "notes": ""
         },
         {
             "card_name": "Automated Scrapper",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#white #common"
+            "notes": "!tag anomaly\n!tag cantrip\n\n#white #common"
         },
         {
             "card_name": "Priestess of Metal",
@@ -530,7 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common"
+            "notes": "!tag anomaly\n\n#blue #common"
         },
         {
             "card_name": "Lonely Wanderer",
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common"
+            "notes": "!tag cantrip\n\n#blue #common"
         },
         {
             "card_name": "Moonlight Yarder",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #common"
+            "notes": "#blue #common"
         },
         {
             "card_name": "Swift Surveyor",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "!tag counterspell\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#blue #common"
+            "notes": "!tag counterspell\n\n#blue #common"
         },
         {
             "card_name": "Compacted",
@@ -782,7 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "!tag hand-disruption-untargetted\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #common"
+            "notes": "!tag hand-disruption\n\n#black #common"
         },
         {
             "card_name": "Assault Bot",
@@ -803,7 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#black #common"
+            "notes": "!tag anomaly\n\n#black #common"
         },
         {
             "card_name": "Transmogrified Yarder",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#black #common"
+            "notes": "!tag card-advantage\n\n#black #common"
         },
         {
             "card_name": "Deadly Goliath",
@@ -929,7 +929,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #common"
+            "notes": "!tag card-advantage\n\n#black #common"
         },
         {
             "card_name": "Visions of Terror",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "!tag hand-disruption-targetted\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#black #common"
+            "notes": "!tag hand-disruption\n\n#black #common"
         },
         {
             "card_name": "Decapitate",
@@ -971,7 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common"
+            "notes": "!tag removal-creature\n\n#black #common"
         },
         {
             "card_name": "Target Locked",
@@ -992,7 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag removal-Vehicle\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #common"
+            "notes": "!tag removal-creature\n!tag removal-Vehicle\n\n#black #common"
         },
         {
             "card_name": "Nitwit Yarder",
@@ -1013,7 +1013,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common"
+            "notes": "!tag cantrip\n\n#red #common"
         },
         {
             "card_name": "Fire Starter",
@@ -1160,7 +1160,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #common"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#red #common"
         },
         {
             "card_name": "Scrap Deals",
@@ -1181,10 +1181,10 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#red #common"
+            "notes": "!tag cantrip\n\n#red #common"
         },
         {
-            "card_name": "Tyrants Fire",
+            "card_name": "Tyrant's Fire",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Tyrants Fire\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #common"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n\n#red #common"
         },
         {
             "card_name": "Sandstorm Dozer",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #common"
+            "notes": "#green #common"
         },
         {
             "card_name": "Swine Racer",
@@ -1328,7 +1328,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Call The Beast Emblem;1\n\n#green #common"
+            "notes": "!tag anomaly\n\n#green #common"
         },
         {
             "card_name": "Grizzled Yarder",
@@ -1433,7 +1433,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#green #common"
+            "notes": "!tag removal-artifact\n\n#green #common"
         },
         {
             "card_name": "Crafty Junker",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n\n#gold #uncommon #arcun"
+            "notes": "#gold #uncommon #arcun"
         },
         {
             "card_name": "Heckler Raid Leader",
@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun"
+            "notes": "#gold #uncommon #arcun"
         },
         {
             "card_name": "Sand Skimmer",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Robotic Reverence",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #uncommon #arcun"
+            "notes": "#gold #uncommon #arcun"
         },
         {
             "card_name": "Plucky Scrapper",
@@ -1643,7 +1643,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n!addtoken Junk WGJ;1\n\n#colorless #common"
+            "notes": "!tag anomaly\n!tag cantrip\n\n#colorless #common"
         },
         {
             "card_name": "Recommisioned Pounce-Bot",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#colorless #common"
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n#colorless #common"
         },
         {
             "card_name": "Dune Dasher",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1;Insect WGJ;2\n!related Insect WGJ<2>\n!related Call the Beast Emblem\n\n#blue #common"
+            "notes": "#blue #common"
         },
         {
             "card_name": "Ghastly Junker",
@@ -1916,7 +1916,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #common"
+            "notes": "#green #common"
         },
         {
             "card_name": "Wasteland Daredevils",
@@ -1958,7 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1;Servo WGJ;2\n!related Servo WGJ<2>\n!related Call the Beast Emblem\n\n#white #common"
+            "notes": "#white #common"
         },
         {
             "card_name": "Wasteland Flamerider",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Servo WGJ"
+            "notes": ""
         },
         {
             "card_name": "Mercenary",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Mercenary WGJ"
+            "notes": ""
         },
         {
             "card_name": "Junk",
@@ -2042,7 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Junk WGJ"
+            "notes": ""
         },
         {
             "card_name": "Nomad",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Nomad WGJ"
+            "notes": ""
         },
         {
             "card_name": "Power of the Beast",
@@ -2147,7 +2147,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #uncommon"
+            "notes": "#black #uncommon"
         },
         {
             "card_name": "The Heap Rises",
@@ -2168,7 +2168,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1Zombie WGJ;1\n!related Call the Beast Emblem\n!related Zombie WGJ\n\n#black #uncommon"
+            "notes": "#black #uncommon"
         },
         {
             "card_name": "Remote Controlled Mechsuit",
@@ -2273,7 +2273,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "!tag removal-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #uncommon"
+            "notes": "!tag removal-creature\n\n#black #uncommon"
         },
         {
             "card_name": "Hired Killer",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag reanimate-artifact\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #uncommon"
+            "notes": "!tag card-advantage\n!tag reanimate-artifact\n\n#red #uncommon"
         },
         {
             "card_name": "Hotwiring Hogs",
@@ -2423,7 +2423,7 @@
             "notes": "#red #uncommon"
         },
         {
-            "card_name": "Yarders Uprising",
+            "card_name": "Yarder's Uprising",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment",
@@ -2441,7 +2441,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "!exportname Yarders Uprising\n!addtoken Mercenary WGJ;2\n!related Mercnary WGJ<2>\n\n#red #uncommon"
+            "notes": "#red #uncommon"
         },
         {
             "card_name": "Double-Barreled Drakkon",
@@ -2525,7 +2525,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#red #uncommon"
+            "notes": "!tag removal-artifact\n!tag wrath\n\n#red #uncommon"
         },
         {
             "card_name": "Trashfire Crawler",
@@ -2567,7 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Execution Tank",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1;Treasure WGJ;1\n!related Junk WGJ\n!related Treasure WGJ\n\n#red #uncommon"
+            "notes": "!tag card-advantage\n\n#red #uncommon"
         },
         {
             "card_name": "Scavenger Party",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "!addtoken Nomad WGJ;2;Nomad WGJ;1\n!related Nomad WGJ<2>\n!related Nomad WGJ<1>\n\n#green #uncommon"
+            "notes": "#green #uncommon"
         },
         {
             "card_name": "Out of the Wreckage",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#green #uncommon"
+            "notes": "#green #uncommon"
         },
         {
             "card_name": "Shearing Winds",
@@ -2798,7 +2798,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #uncommon"
+            "notes": "#green #uncommon"
         },
         {
             "card_name": "ATV Hotshot",
@@ -2840,7 +2840,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Zombie WGJ"
+            "notes": ""
         },
         {
             "card_name": "Fearless Yarder",
@@ -2987,7 +2987,7 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Servo WGJ;2;Junk WGJ;1\n!related Servo WGJ<2>\n!related Junk WGJ\n\n#white #uncommon"
+            "notes": "!tag cantrip\n\n#white #uncommon"
         },
         {
             "card_name": "Angel of Scrap",
@@ -3029,7 +3029,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon"
+            "notes": "!tag card-advantage\n\n#blue #uncommon"
         },
         {
             "card_name": "Remove Visage",
@@ -3176,7 +3176,7 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon"
+            "notes": "#blue #uncommon"
         },
         {
             "card_name": "Hunt for Scraps",
@@ -3218,7 +3218,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #uncommon"
+            "notes": "!tag card-advantage\n\n#blue #uncommon"
         },
         {
             "card_name": "Rapid Materialization",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land"
+            "notes": "#uncommon #CTB-Land"
         },
         {
             "card_name": "The Heap",
@@ -3281,7 +3281,7 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land"
+            "notes": "#uncommon #CTB-Land"
         },
         {
             "card_name": "The Pit",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land"
+            "notes": "#uncommon #CTB-Land"
         },
         {
             "card_name": "The Wasteland",
@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land"
+            "notes": "#uncommon #CTB-Land"
         },
         {
             "card_name": "The Lost Sea",
@@ -3344,7 +3344,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#uncommon #CTB-Land"
+            "notes": "#uncommon #CTB-Land"
         },
         {
             "card_name": "Millikin",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag cantrip\n!addtoken Call The Beast Emblem;1\n\n#colorless #uncommon"
+            "notes": "!tag anomaly\n!tag cantrip\n\n#colorless #uncommon"
         },
         {
             "card_name": "Charging Station",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "!tag tapper\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #uncommon"
+            "notes": "!tag tapper\n\n#blue #uncommon"
         },
         {
             "card_name": "Overcharge",
@@ -3554,7 +3554,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Zombie WGJ;1\n!related Zombie WGJ\n\n#black #uncommon"
+            "notes": "!tag card-advantage\n\n#black #uncommon"
         },
         {
             "card_name": "Raid the Workshop",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Servo WGJ;1\n!related Servo WGJ\n!tag wishlist\n\n#gold #mythic #junklord"
+            "notes": "!tag card-advantage\n!tag wishlist\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Junklord Garoth",
@@ -3638,7 +3638,7 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": "!addtoken Phoenix WGJ;1\n!related Phoenix WGJ\n!tag wishlist\n\n#gold #mythic #junklord"
+            "notes": "!tag wishlist\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Junklord Lundquist",
@@ -3680,7 +3680,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "!tag tuck\n!tag cantrip\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #common"
+            "notes": "!tag tuck\n!tag cantrip\n\n#blue #common"
         },
         {
             "card_name": "Techno Compies",
@@ -3701,7 +3701,7 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare"
+            "notes": "!tag anomaly\n\n#green #rare"
         },
         {
             "card_name": "Danavan, the Exile",
@@ -3722,7 +3722,7 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": "!addtoken Gearbox WGJ;1\n!related Gearbox WGJ\n\n#green #rare"
+            "notes": "#green #rare"
         },
         {
             "card_name": "Crazed Packmates",
@@ -3785,7 +3785,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "!tag anomaly\n!addtoken Junk WGJ;1\n\n#green #rare"
+            "notes": "!tag anomaly\n\n#green #rare"
         },
         {
             "card_name": "Arachno-Killbot",
@@ -3827,7 +3827,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare"
+            "notes": "#green #rare"
         },
         {
             "card_name": "Garoths Charge",
@@ -3890,7 +3890,7 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": "!addtoken Puck WGJ;1\n!related Puck WGJ\n\n#red #rare"
+            "notes": "#red #rare"
         },
         {
             "card_name": "Longshot Bot",
@@ -3932,7 +3932,7 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": "!addtoken Goblin WGJ;2\n!related Goblin WGJ<2>\n\n#red #rare"
+            "notes": "#red #rare"
         },
         {
             "card_name": "Lightspeed Racer",
@@ -4058,7 +4058,7 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag card-advantage\n!addtoken Junk WGJ;2\n!related Junk WGJ<2>\n\n#gold #rare"
+            "notes": "!tag anomaly\n!tag card-advantage\n\n#gold #rare"
         },
         {
             "card_name": "Saryna, Bounty Hunter",
@@ -4121,7 +4121,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "!tag edict-creature\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #rare"
+            "notes": "!tag edict-creature\n\n#gold #rare"
         },
         {
             "card_name": "Ninety-Four",
@@ -4184,7 +4184,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Junk WGJ;1;Mercenary WGJ;1\n!related Junk WGJ\n!related Mercenary WGJ\n\n#white #rare"
+            "notes": "!tag cantrip\n\n#white #rare"
         },
         {
             "card_name": "Lundquists Garage",
@@ -4268,7 +4268,7 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": "!tag banish\n\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #rare"
+            "notes": "!tag banish\n\n#white #rare"
         },
         {
             "card_name": "The Citadel",
@@ -4289,7 +4289,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #rare"
+            "notes": "#white #rare"
         },
         {
             "card_name": "The Sprawl",
@@ -4310,7 +4310,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1Insect WGJ;1;Mercenary WGJ;1;Nomad WGJ;1;Junk WGJ;1\n\n!related Servo WGJ\n!related Insect WGJ\n!related Mercenary WGJ\n!related Nomad WGJ\n!related Junk WGJ\n\n#gold #rare"
+            "notes": "#gold #rare"
         },
         {
             "card_name": "Regeneration Chamber",
@@ -4415,7 +4415,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#black #rare"
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n\n#black #rare"
         },
         {
             "card_name": "Caroline",
@@ -4520,7 +4520,7 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1Junk WGJ;1;Treasure WGJ;1\n!related Servo WGJ\n!related Junk WGJ\n!related Treasure WGJ\n\n#blue #rare"
+            "notes": "#blue #rare"
         },
         {
             "card_name": "Sabotage the Machine",
@@ -4541,7 +4541,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": "!tag counterspell\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare"
+            "notes": "!tag counterspell\n\n#blue #rare"
         },
         {
             "card_name": "Seek the Laboratory",
@@ -4562,7 +4562,7 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare"
+            "notes": "!tag card-advantage\n\n#blue #rare"
         },
         {
             "card_name": "Replicate Design",
@@ -4604,7 +4604,7 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#blue #rare"
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n#blue #rare"
         },
         {
             "card_name": "Shamuss Pontoon",
@@ -4646,7 +4646,7 @@
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#gold #rare"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#gold #rare"
         },
         {
             "card_name": "Dreams of Resilience",
@@ -4667,7 +4667,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #rare"
+            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n#gold #rare"
         },
         {
             "card_name": "Dreams of Restoration",
@@ -4688,7 +4688,7 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "!tag graveyard-hate\n!addtoken Nomad WGJ;1\n!related Nomad WGJ\n\n\n#gold #rare"
+            "notes": "!tag graveyard-hate\n\n#gold #rare"
         },
         {
             "card_name": "Welding Mask",
@@ -4772,7 +4772,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#black #mythic"
+            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n\n#black #mythic"
         },
         {
             "card_name": "Garbage Gargantuan",
@@ -4856,7 +4856,7 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag removal-creature\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#colorless #mythic #planeswalker"
+            "notes": "!tag card-advantage\n!tag removal-creature\n\n#colorless #mythic #planeswalker"
         },
         {
             "card_name": "Gum-Gum, Heap Lackey",
@@ -4877,7 +4877,7 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#white #mythic"
+            "notes": "#white #mythic"
         },
         {
             "card_name": "Insect",
@@ -4898,7 +4898,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Insect WGJ"
+            "notes": ""
         },
         {
             "card_name": "Louie",
@@ -4919,7 +4919,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Louie WGJ"
+            "notes": ""
         },
         {
             "card_name": "Dog",
@@ -4940,7 +4940,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Dog WGJ"
+            "notes": ""
         },
         {
             "card_name": "Goblin",
@@ -4961,7 +4961,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Goblin WGJ"
+            "notes": ""
         },
         {
             "card_name": "Gearbox",
@@ -4982,7 +4982,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Gearbox WGJ"
+            "notes": ""
         },
         {
             "card_name": "Phoenix",
@@ -5003,7 +5003,7 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Phoenix WGJ"
+            "notes": ""
         },
         {
             "card_name": "Beetle Junker-Merchant",
@@ -5045,7 +5045,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#gold #mythic"
+            "notes": "#gold #mythic"
         },
         {
             "card_name": "Junkyard Jetpacker",
@@ -5192,7 +5192,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;3\n!related Junk WGJ<3>\n\n#green #uncommon"
+            "notes": "!tag card-advantage\n\n#green #uncommon"
         },
         {
             "card_name": "Lundquist's Heavies",
@@ -5255,7 +5255,7 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": "!addtoken Dog WGJ;2\n!related Dog WGJ<2>\n\n#white #uncommon"
+            "notes": "#white #uncommon"
         },
         {
             "card_name": "Junklords Hole Puncher",
@@ -5363,7 +5363,7 @@
             "notes": "!tag banish\n#white #common"
         },
         {
-            "card_name": "Vorricks Radicals",
+            "card_name": "Vorrick's Radicals",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Monkey Mutant Artificer",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "!tag card-advantage\n!damage-any\n!exportname Vorricks Radicals\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n!tag damage-any\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Innovative Find",
@@ -5486,7 +5486,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "!tag cantrip\n!addtoken Treasure WGJ;1\n!related Treasure WGJ\n\n#red #uncommon"
+            "notes": "!tag cantrip\n\n#red #uncommon"
         },
         {
             "card_name": "Massive Find",
@@ -5528,7 +5528,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "!tag card-advantage\n!tag damage-any\n!addtoken Junk WGJ;1\n!related Junk WGJ\n!tag wishlist\n\n#gold #mythic #junklord"
+            "notes": "!tag card-advantage\n!tag damage-any\n!tag wishlist\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Rippen, the Scarred",
@@ -5570,7 +5570,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "!addtoken Mercenary WGJ;1\n!related Mercenary WGJ\n\n#red #rare"
+            "notes": "#red #rare"
         },
         {
             "card_name": "Smelting Pit",
@@ -5591,7 +5591,7 @@
             "alias": "",
             "position": "265",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Junk WGJ;1\n!related Junk WGJ\n\n#red #rare"
+            "notes": "!tag card-advantage\n\n#red #rare"
         },
         {
             "card_name": "Marus, Calculated Killer",
@@ -5601,7 +5601,7 @@
             "number": 105,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Marus, Calculated Killer enters, create Louie, a legendary 3/3 black Construct artifact creature.\nWhenever you attack, target attacking creature gains deathtouch until end of turn.",
+            "rules_text": "When Marus enters, create Louie, a legendary 3/3 black Construct artifact creature token.\nWhenever you attack, target attacking creature gains deathtouch until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5612,7 +5612,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "!addtoken Louie WGJ;1\n!related Louie WGJ\n\n#black #uncommon"
+            "notes": "#black #uncommon"
         },
         {
             "card_name": "Willing Offerings",
@@ -5633,7 +5633,7 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": "!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n#green #uncommon"
+            "notes": "#green #uncommon"
         },
         {
             "card_name": "VAL, Automated Locomotive",
@@ -5675,7 +5675,7 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": "!exportname Call The Beast Emblem\n!tokentag Call the Beast Emblem\n!addtoken The Beast WGJ;1\n!tokenshape\n!related The Beast WGJ"
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Toxic-Tail Bot",
@@ -5738,7 +5738,7 @@
             "alias": "",
             "position": "272",
             "rotated": false,
-            "notes": "!tag damage-any\n!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#red #common"
+            "notes": "!tag damage-any\n\n#red #common"
         },
         {
             "card_name": "Shiny Taker",
@@ -5822,7 +5822,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;2\n!related Servo WGJ<2>\n\n#gold #mythic"
+            "notes": "#gold #mythic"
         },
         {
             "card_name": "Processing Point",
@@ -5843,7 +5843,7 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": "!addtoken Servo WGJ;1\n!related Servo WGJ\n\n#white #uncommon"
+            "notes": "#white #uncommon"
         },
         {
             "card_name": "Pulsing Hedron",
@@ -5864,7 +5864,7 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": "!tag card-advantage\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#blue #rare"
+            "notes": "!tag card-advantage\n\n#blue #rare"
         },
         {
             "card_name": "Dreams of Progress",
@@ -5906,7 +5906,7 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n!addtoken Zombie WGJ;2\n!related Zombie WGJ<2>\n\n#gold #rare"
+            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n\n#gold #rare"
         },
         {
             "card_name": "Towering Killbot",
@@ -5927,7 +5927,7 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": "!tag anomaly\n!tag removal-creature\n!addtoken Call The Beast Emblem;1\n\n#black #rare"
+            "notes": "!tag anomaly\n!tag removal-creature\n\n#black #rare"
         },
         {
             "card_name": "The Junklords Gambit",
@@ -5990,7 +5990,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!addtoken Call The Beast Emblem;1\n!related Call the Beast Emblem\n\n#green #rare"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n#green #rare"
         },
         {
             "card_name": "Pit-Burster Mech",
@@ -6053,7 +6053,7 @@
             "alias": "",
             "position": "287",
             "rotated": false,
-            "notes": "!tokenshape\n!tokentag Puck WGJ"
+            "notes": ""
         },
         {
             "card_name": "Armored Goliath",
@@ -6119,5 +6119,5 @@
             "notes": "!tag anomaly\n!tag reanimate-self\n#black #rare"
         }
     ],
-    "version": 4
+    "version": 5
 }
