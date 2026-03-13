@@ -25,7 +25,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CB10 Marshal Forces</name>
@@ -43,7 +43,7 @@ Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CW07 Inspiring Revolutionary</name>
@@ -61,7 +61,7 @@ Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CR09 Rollicking Rider</name>
@@ -98,7 +98,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>The Watchtower</name>
@@ -113,6 +113,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>UW01</name>
@@ -202,7 +203,7 @@ Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CU11 Trippin&apos;</name>
@@ -309,7 +310,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CB01 Causless Ruffian</name>
@@ -345,7 +346,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CG06 Beefhead Bouncer</name>
@@ -417,7 +418,7 @@ When this creature enters, amass soldiers 1. (Put a +1/+1 counter on an Army you
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CW11 Court of Public Opinion</name>
@@ -487,7 +488,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CU10 Brain Rot</name>
@@ -522,7 +523,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CB02 Ratpack Kingpin</name>
@@ -612,7 +613,7 @@ Uprising — When this creature enters, if you control another Rebel, tap target
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CR11 Thrill of Possibility</name>
@@ -721,7 +722,7 @@ When this creature enters, Army creatures you control get +1/+1 and flying until
 				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CW13 Banishing Light</name>
@@ -843,7 +844,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CM02 Two-Wheel Bruiser</name>
@@ -915,7 +916,7 @@ Raid — If you attacked this turn, create a Treasure token.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CM06 Mind Tap</name>
@@ -933,7 +934,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 				<coloridentity>WUB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CM07 Let it Rip</name>
@@ -1002,7 +1003,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>WUG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CW03 Skid-Row Informant</name>
@@ -1177,7 +1178,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier Army</reverse_related>
+			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
 			<name>CU02 Hypno Bass</name>
@@ -1303,7 +1304,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CR14 Send a Message</name>
@@ -1321,7 +1322,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CR08 Short Kings</name>
@@ -1409,7 +1410,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CG07 Urban Artist</name>
@@ -1446,7 +1447,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CA01 Street Tag</name>
@@ -1509,7 +1510,7 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>The Watchtower</reverse_related>
+			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CL03 Embassy Row</name>

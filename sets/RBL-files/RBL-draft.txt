@@ -351,7 +351,7 @@
 			}
 		},
 		{
-			"name": "CB08 Dark-Alley Demon",
+			"name": "CB030 Dark-Alley Demon",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon Rebel",
@@ -531,7 +531,7 @@
 			}
 		},
 		{
-			"name": "CM08 Let Loose",
+			"name": "CM030 Let Loose",
 			"rarity": "common",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Instant",
@@ -601,7 +601,7 @@
 			}
 		},
 		{
-			"name": "CW08 Compromised Replicants",
+			"name": "CW030 Compromised Replicants",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact Creature — Construct Rebel",
@@ -741,7 +741,7 @@
 			}
 		},
 		{
-			"name": "CR08 Short Kings",
+			"name": "CR030 Short Kings",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dwarf Rebel",
@@ -901,7 +901,7 @@
 			}
 		},
 		{
-			"name": "CL08 Government Center",
+			"name": "CL030 Government Center",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
@@ -961,98 +961,99 @@
 			}
 		}
 	]
-[common(15)]
-	8 CG13 Start the Fight
-	8 CB10 Marshal Forces
-	8 CW07 Inspiring Revolutionary
-	8 CR09 Rollicking Rider
-	8 CU12 Under Observation
-	8 The Watchtower
-	8 CB03 Pilfering Amphibian
-	8 CR06 Street-Wise Combatants
-	8 CG04 Motorcycle Muscle
-	8 CW12 Show of Force
-	8 CU11 Trippin'
-	8 CB04 Reckless Rioter
-	8 CR02 Dancing Diva
-	8 CG11 Street Art
-	8 CR07 Night Rider
-	8 CB05 Hired Gun
-	8 CB01 Causless Ruffian
-	8 CG12
-	8 CG06 Beefhead Bouncer
-	8 CU07 Deprogrammed Replicant
-	8 CU08
-	8 CW04 Dropship Recruiter
-	8 CW11 Court of Public Opinion
-	8 CB09 Shred
-	8 CG14 Civil Deconstruction
-	8 CR10 Get Away
-	8 CU10 Brain Rot
-	8 CW10 Touch the Dataline
-	8 CB02 Ratpack Kingpin
-	8 CG09 Colossal Shredmaw
-	8 CR01 Rocket Hamster
-	8 CU03 Dynamo Defector
-	8 CW01 Mecho-Grunt
-	8 CR11 Thrill of Possibility
-	8 CB08 Dark-Alley Demon
-	8 CR04
-	8 CW09 Dogmatic Angel
-	8 CG02 Kick-Flip Koala
-	8 CU05 Underground DJ
-	8 CW13 Banishing Light
-	8 CU13 Data Tap
-	8 CU06
-	8 CR12 Rewire
-	8 CR03
-	8 CG08
-	8 CM01 Gather Forces
-	8 CM02 Two-Wheel Bruiser
-	8 CM03
-	8 CM04
-	8 CM05 Market Street Mob
-	8 CM06 Mind Tap
-	8 CM07 Let it Rip
-	8 CM08 Let Loose
-	8 CM09
-	8 CM10 Block Party
-	8 CW03 Skid-Row Informant
-	8 CW02 Neighborhood Watch
-	8 CW05 Skywise Rebel
-	8 CW06
-	8 CW08 Compromised Replicants
-	8 CW14 Cover Up
-	8 CU01 CCT Croaker
-	8 CU04
-	8 CU09 Find Your People
-	8 CU14 Dropship Detention
-	8 CU02 Hypno Bass
-	8 CB06 Entry Team
-	8 CB07
-	8 CB12 Word on the Street
-	8 CB11 Street Clash
-	8 CB13 Scream Core
-	8 CB14 Unplug
-	8 CR14 Send a Message
-	8 CR08 Short Kings
-	8 CR05 Expert Insurgent
-	8 CG01 Acid Drop Viper
-	8 CG03 Daring Dame
-	8 CG05 Wolf of Wall Street
-	8 CG07 Urban Artist
-	8 CG10 Party Ape
-	8 CA01 Street Tag
-	8 CR13 Giant Effin Slash
-	8 CL01 City Square
-	8 CL02 Back Alley
-	8 CL03 Embassy Row
-	8 CL04 Canal Town
-	8 CL05 Industrial Park
-	8 CL06 The Boonies
-	8 CL07 Arts District
-	8 CL08 Government Center
-	8 CL09 Dockworks
-	8 CL10 Public Works Yard
-	8 CL11 The Blocks
-	8 CL12 Trade Quarter
+[common(14)]
+	30 CG13 Start the Fight
+	30 CB10 Marshal Forces
+	30 CW07 Inspiring Revolutionary
+	30 CR09 Rollicking Rider
+	30 CU12 Under Observation
+	30 CB03 Pilfering Amphibian
+	30 CR06 Street-Wise Combatants
+	30 CG04 Motorcycle Muscle
+	30 CW12 Show of Force
+	30 CU11 Trippin'
+	30 CB04 Reckless Rioter
+	30 CR02 Dancing Diva
+	30 CG11 Street Art
+	30 CR07 Night Rider
+	30 CB05 Hired Gun
+	30 CB01 Causless Ruffian
+	30 CG12
+	30 CG06 Beefhead Bouncer
+	30 CU07 Deprogrammed Replicant
+	30 CU08
+	30 CW04 Dropship Recruiter
+	30 CW11 Court of Public Opinion
+	30 CB09 Shred
+	30 CG14 Civil Deconstruction
+	30 CR10 Get Away
+	30 CU10 Brain Rot
+	30 CW10 Touch the Dataline
+	30 CB02 Ratpack Kingpin
+	30 CG09 Colossal Shredmaw
+	30 CR01 Rocket Hamster
+	30 CU03 Dynamo Defector
+	30 CW01 Mecho-Grunt
+	30 CR11 Thrill of Possibility
+	30 CB030 Dark-Alley Demon
+	30 CR04
+	30 CW09 Dogmatic Angel
+	30 CG02 Kick-Flip Koala
+	30 CU05 Underground DJ
+	30 CW13 Banishing Light
+	30 CU13 Data Tap
+	30 CU06
+	30 CR12 Rewire
+	30 CR03
+	30 CG08
+	30 CM01 Gather Forces
+	30 CM02 Two-Wheel Bruiser
+	30 CM03
+	30 CM04
+	30 CM05 Market Street Mob
+	30 CM06 Mind Tap
+	30 CM07 Let it Rip
+	30 CM030 Let Loose
+	30 CM09
+	30 CM10 Block Party
+	30 CW03 Skid-Row Informant
+	30 CW02 Neighborhood Watch
+	30 CW05 Skywise Rebel
+	30 CW06
+	30 CW030 Compromised Replicants
+	30 CW14 Cover Up
+	30 CU01 CCT Croaker
+	30 CU04
+	30 CU09 Find Your People
+	30 CU14 Dropship Detention
+	30 CU02 Hypno Bass
+	30 CB06 Entry Team
+	30 CB07
+	30 CB12 Word on the Street
+	30 CB11 Street Clash
+	30 CB13 Scream Core
+	30 CB14 Unplug
+	30 CR14 Send a Message
+	30 CR030 Short Kings
+	30 CR05 Expert Insurgent
+	30 CG01 Acid Drop Viper
+	30 CG03 Daring Dame
+	30 CG05 Wolf of Wall Street
+	30 CG07 Urban Artist
+	30 CG10 Party Ape
+	30 CA01 Street Tag
+	30 CR13 Giant Effin Slash
+	30 CL01 City Square
+	30 CL02 Back Alley
+	30 CL03 Embassy Row
+	30 CL04 Canal Town
+	30 CL05 Industrial Park
+	30 CL06 The Boonies
+	30 CL07 Arts District
+	30 CL030 Government Center
+	30 CL09 Dockworks
+	30 CL10 Public Works Yard
+	30 CL11 The Blocks
+	30 CL12 Trade Quarter
+[landslot(1)]
+	30 The Watchtower

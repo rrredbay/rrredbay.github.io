@@ -19,7 +19,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -42,7 +42,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -65,7 +65,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -111,7 +111,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -134,7 +134,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "#tokenshape\n#exportname The Watchtower",
+            "notes": "!tokenshape\n!exportname The Watchtower",
             "image_type": "png",
             "v_mana": ""
         },
@@ -249,7 +249,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -387,7 +387,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -433,7 +433,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -525,7 +525,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -617,7 +617,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -663,7 +663,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -778,7 +778,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -916,7 +916,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1077,7 +1077,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1169,7 +1169,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1192,7 +1192,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1284,7 +1284,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1514,7 +1514,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "!related Soldier Army",
+            "notes": "!tokens Soldier Army RBL<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1675,7 +1675,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1698,7 +1698,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1813,7 +1813,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1859,7 +1859,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1951,7 +1951,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "!related The Watchtower",
+            "notes": "!tokens The Watchtower<1>",
             "image_type": "png",
             "v_mana": ""
         },

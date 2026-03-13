@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CB10 Marshal Forces",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CW07 Inspiring Revolutionary",
@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CR09 Rollicking Rider",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "The Watchtower",
@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "#tokenshape\n#exportname The Watchtower"
+            "notes": "!tokenshape\n!exportname The Watchtower"
         },
         {
             "card_name": "UW01",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CU11 Trippin'",
@@ -362,7 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CB01 Causless Ruffian",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CG06 Beefhead Bouncer",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CW11 Court of Public Opinion",
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CU10 Brain Rot",
@@ -614,7 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CB02 Ratpack Kingpin",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CR11 Thrill of Possibility",
@@ -845,7 +845,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CW13 Banishing Light",
@@ -992,7 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CM02 Two-Wheel Bruiser",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CM06 Mind Tap",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CM07 Let it Rip",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CW03 Skid-Row Informant",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "!related Soldier Army"
+            "notes": "!tokens Soldier Army RBL<1>"
         },
         {
             "card_name": "CU02 Hypno Bass",
@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CR14 Send a Message",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CR08 Short Kings",
@@ -1664,7 +1664,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CG07 Urban Artist",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CA01 Street Tag",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "!related The Watchtower"
+            "notes": "!tokens The Watchtower<1>"
         },
         {
             "card_name": "CL03 Embassy Row",
@@ -2024,5 +2024,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

@@ -1,4 +1,56 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+CG13 Start the Fight
+
+CB10 Marshal Forces
+
+CW07 Inspiring Revolutionary
+
+CU12 Under Observation
+
+The Watchtower
+
+CW12 Show of Force
+
+CB05 Hired Gun
+
+CG12
+
+CW04 Dropship Recruiter
+
+CR10 Get Away
+
+CW10 Touch the Dataline
+
+CW01 Mecho-Grunt
+
+CU05 Underground DJ
+
+CM01 Gather Forces
+
+CM05 Market Street Mob
+
+CM06 Mind Tap
+
+CM10 Block Party
+
+CU14 Dropship Detention
+
+CB14 Unplug
+
+CR14 Send a Message
+
+CG05 Wolf of Wall Street
+
+CG10 Party Ape
+
+CL02 Back Alley
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
