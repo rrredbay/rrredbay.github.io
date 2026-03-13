@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "RBL",
+            "set_name": "Rebels",
+            "formats": "Standard"
+        },
+        {
             "set_code": "WGJ",
             "set_name": "Wrenchmar: Gambit of the Junklords",
             "formats": "Standard"

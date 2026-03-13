@@ -1,0 +1,1349 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CG13 Start the Fight",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/0.png"
+			}
+		},
+		{
+			"name": "CB10 Marshal Forces",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW07 Inspiring Revolutionary",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/2.png"
+			}
+		},
+		{
+			"name": "CR09 Rollicking Rider",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Orc Rebel",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/3.png"
+			}
+		},
+		{
+			"name": "CU12 Under Observation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Watchtower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/5.png"
+			}
+		},
+		{
+			"name": "UW01",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/6.png"
+			}
+		},
+		{
+			"name": "CB03 Pilfering Amphibian",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Salamander Rebel",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/7.png"
+			}
+		},
+		{
+			"name": "CR06 Street-Wise Combatants",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/8.png"
+			}
+		},
+		{
+			"name": "CG04 Motorcycle Muscle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW12 Show of Force",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/10.png"
+			}
+		},
+		{
+			"name": "CU11 Trippin'",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/11.png"
+			}
+		},
+		{
+			"name": "CB04 Reckless Rioter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rebel Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/12.png"
+			}
+		},
+		{
+			"name": "CR02 Dancing Diva",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/13.png"
+			}
+		},
+		{
+			"name": "CG11 Street Art",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/14.png"
+			}
+		},
+		{
+			"name": "CR07 Night Rider",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/15.png"
+			}
+		},
+		{
+			"name": "CB05 Hired Gun",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/16.png"
+			}
+		},
+		{
+			"name": "CB01 Causless Ruffian",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/17.png"
+			}
+		},
+		{
+			"name": "CG12",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/18.png"
+			}
+		},
+		{
+			"name": "CG06 Beefhead Bouncer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU07 Deprogrammed Replicant",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Robot Rebel",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/21.png"
+			}
+		},
+		{
+			"name": "CW04 Dropship Recruiter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/22.png"
+			}
+		},
+		{
+			"name": "CW11 Court of Public Opinion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Aura",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/23.png"
+			}
+		},
+		{
+			"name": "CB09 Shred",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/24.png"
+			}
+		},
+		{
+			"name": "CG14 Civil Deconstruction",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/25.png"
+			}
+		},
+		{
+			"name": "CR10 Get Away",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/26.png"
+			}
+		},
+		{
+			"name": "CU10 Brain Rot",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/27.png"
+			}
+		},
+		{
+			"name": "CW10 Touch the Dataline",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/28.png"
+			}
+		},
+		{
+			"name": "CB02 Ratpack Kingpin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat Advisor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/29.png"
+			}
+		},
+		{
+			"name": "CG09 Colossal Shredmaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur Rebel",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/30.png"
+			}
+		},
+		{
+			"name": "CR01 Rocket Hamster",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hamster Rebel",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/31.png"
+			}
+		},
+		{
+			"name": "CU03 Dynamo Defector",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/32.png"
+			}
+		},
+		{
+			"name": "CW01 Mecho-Grunt",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/33.png"
+			}
+		},
+		{
+			"name": "CR11 Thrill of Possibility",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB08 Dark-Alley Demon",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Rebel",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/35.png"
+			}
+		},
+		{
+			"name": "CR04",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ifrit Rebel",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/36.png"
+			}
+		},
+		{
+			"name": "CW09 Dogmatic Angel",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/37.png"
+			}
+		},
+		{
+			"name": "CG02 Kick-Flip Koala",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast Rebel",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/38.png"
+			}
+		},
+		{
+			"name": "CU05 Underground DJ",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/39.png"
+			}
+		},
+		{
+			"name": "CW13 Banishing Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/40.png"
+			}
+		},
+		{
+			"name": "CU13 Data Tap",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/41.png"
+			}
+		},
+		{
+			"name": "CU06",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Zombie Rebel",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/42.png"
+			}
+		},
+		{
+			"name": "CR12 Rewire",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/43.png"
+			}
+		},
+		{
+			"name": "CR03",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/44.png"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Artificer Rebel",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/45.png"
+			}
+		},
+		{
+			"name": "CM01 Gather Forces",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/46.png"
+			}
+		},
+		{
+			"name": "CM02 Two-Wheel Bruiser",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/47.png"
+			}
+		},
+		{
+			"name": "CM03",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/48.png"
+			}
+		},
+		{
+			"name": "CM04",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/49.png"
+			}
+		},
+		{
+			"name": "CM05 Market Street Mob",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/50.png"
+			}
+		},
+		{
+			"name": "CM06 Mind Tap",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/51.png"
+			}
+		},
+		{
+			"name": "CM07 Let it Rip",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/52.png"
+			}
+		},
+		{
+			"name": "CM08 Let Loose",
+			"rarity": "common",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/53.png"
+			}
+		},
+		{
+			"name": "CM09",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/54.png"
+			}
+		},
+		{
+			"name": "CM10 Block Party",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/55.png"
+			}
+		},
+		{
+			"name": "CW03 Skid-Row Informant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Detective",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/56.png"
+			}
+		},
+		{
+			"name": "CW02 Neighborhood Watch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior Rebel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/57.png"
+			}
+		},
+		{
+			"name": "CW05 Skywise Rebel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/58.png"
+			}
+		},
+		{
+			"name": "CW06",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Detective",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/59.png"
+			}
+		},
+		{
+			"name": "CW08 Compromised Replicants",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Construct Rebel",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/60.png"
+			}
+		},
+		{
+			"name": "CW14 Cover Up",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/61.png"
+			}
+		},
+		{
+			"name": "CU01 CCT Croaker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Frog Citizen",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/62.png"
+			}
+		},
+		{
+			"name": "CU04",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/63.png"
+			}
+		},
+		{
+			"name": "CU09 Find Your People",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/64.png"
+			}
+		},
+		{
+			"name": "CU14 Dropship Detention",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/65.png"
+			}
+		},
+		{
+			"name": "CU02 Hypno Bass",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/66.png"
+			}
+		},
+		{
+			"name": "CB06 Entry Team",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/67.png"
+			}
+		},
+		{
+			"name": "CB07",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon Rebel",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/68.png"
+			}
+		},
+		{
+			"name": "CB12 Word on the Street",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/69.png"
+			}
+		},
+		{
+			"name": "CB11 Street Clash",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/70.png"
+			}
+		},
+		{
+			"name": "CB13 Scream Core",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/71.png"
+			}
+		},
+		{
+			"name": "CB14 Unplug",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/72.png"
+			}
+		},
+		{
+			"name": "CR14 Send a Message",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/73.png"
+			}
+		},
+		{
+			"name": "CR08 Short Kings",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dwarf Rebel",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/74.png"
+			}
+		},
+		{
+			"name": "CR05 Expert Insurgent",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Rebel Ninja",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/75.png"
+			}
+		},
+		{
+			"name": "CG01 Acid Drop Viper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Snake",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/76.png"
+			}
+		},
+		{
+			"name": "CG03 Daring Dame",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/77.png"
+			}
+		},
+		{
+			"name": "CG05 Wolf of Wall Street",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Fox Rebel",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/78.png"
+			}
+		},
+		{
+			"name": "CG07 Urban Artist",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/79.png"
+			}
+		},
+		{
+			"name": "CG10 Party Ape",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Ape Citizen",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/80.png"
+			}
+		},
+		{
+			"name": "CA01 Street Tag",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/81.png"
+			}
+		},
+		{
+			"name": "CR13 Giant Effin Slash",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/82.png"
+			}
+		},
+		{
+			"name": "CL01 City Square",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/83.png"
+			}
+		},
+		{
+			"name": "CL02 Back Alley",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/84.png"
+			}
+		},
+		{
+			"name": "CL03 Embassy Row",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/85.png"
+			}
+		},
+		{
+			"name": "CL04 Canal Town",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/86.png"
+			}
+		},
+		{
+			"name": "CL05 Industrial Park",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/87.png"
+			}
+		},
+		{
+			"name": "CL06 The Boonies",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/88.png"
+			}
+		},
+		{
+			"name": "CL07 Arts District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/89.png"
+			}
+		},
+		{
+			"name": "CL08 Government Center",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/90.png"
+			}
+		},
+		{
+			"name": "CL09 Dockworks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/91.png"
+			}
+		},
+		{
+			"name": "CL10 Public Works Yard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/92.png"
+			}
+		},
+		{
+			"name": "CL11 The Blocks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/93.png"
+			}
+		},
+		{
+			"name": "CL12 Trade Quarter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/94.png"
+			}
+		},
+		{
+			"name": "Soldier Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Army",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/95.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	4 UW01
+[common(6)]
+	8 CG13 Start the Fight
+	8 CB10 Marshal Forces
+	8 CW07 Inspiring Revolutionary
+	8 CR09 Rollicking Rider
+	8 CU12 Under Observation
+	8 The Watchtower
+	8 CB03 Pilfering Amphibian
+	8 CR06 Street-Wise Combatants
+	8 CG04 Motorcycle Muscle
+	8 CW12 Show of Force
+	8 CU11 Trippin'
+	8 CB04 Reckless Rioter
+	8 CR02 Dancing Diva
+	8 CG11 Street Art
+	8 CR07 Night Rider
+	8 CB05 Hired Gun
+	8 CB01 Causless Ruffian
+	8 CG12
+	8 CG06 Beefhead Bouncer
+	8 CU07 Deprogrammed Replicant
+	8 CU08
+	8 CW04 Dropship Recruiter
+	8 CW11 Court of Public Opinion
+	8 CB09 Shred
+	8 CG14 Civil Deconstruction
+	8 CR10 Get Away
+	8 CU10 Brain Rot
+	8 CW10 Touch the Dataline
+	8 CB02 Ratpack Kingpin
+	8 CG09 Colossal Shredmaw
+	8 CR01 Rocket Hamster
+	8 CU03 Dynamo Defector
+	8 CW01 Mecho-Grunt
+	8 CR11 Thrill of Possibility
+	8 CB08 Dark-Alley Demon
+	8 CR04
+	8 CW09 Dogmatic Angel
+	8 CG02 Kick-Flip Koala
+	8 CU05 Underground DJ
+	8 CW13 Banishing Light
+	8 CU13 Data Tap
+	8 CU06
+	8 CR12 Rewire
+	8 CR03
+	8 CG08
+	8 CM01 Gather Forces
+	8 CM02 Two-Wheel Bruiser
+	8 CM03
+	8 CM04
+	8 CM05 Market Street Mob
+	8 CM06 Mind Tap
+	8 CM07 Let it Rip
+	8 CM08 Let Loose
+	8 CM09
+	8 CM10 Block Party
+	8 CW03 Skid-Row Informant
+	8 CW02 Neighborhood Watch
+	8 CW05 Skywise Rebel
+	8 CW06
+	8 CW08 Compromised Replicants
+	8 CW14 Cover Up
+	8 CU01 CCT Croaker
+	8 CU04
+	8 CU09 Find Your People
+	8 CU14 Dropship Detention
+	8 CU02 Hypno Bass
+	8 CB06 Entry Team
+	8 CB07
+	8 CB12 Word on the Street
+	8 CB11 Street Clash
+	8 CB13 Scream Core
+	8 CB14 Unplug
+	8 CR14 Send a Message
+	8 CR08 Short Kings
+	8 CR05 Expert Insurgent
+	8 CG01 Acid Drop Viper
+	8 CG03 Daring Dame
+	8 CG05 Wolf of Wall Street
+	8 CG07 Urban Artist
+	8 CG10 Party Ape
+	8 CA01 Street Tag
+	8 CR13 Giant Effin Slash
+	8 CL01 City Square
+	8 CL02 Back Alley
+	8 CL03 Embassy Row
+	8 CL04 Canal Town
+	8 CL05 Industrial Park
+	8 CL06 The Boonies
+	8 CL07 Arts District
+	8 CL08 Government Center
+	8 CL09 Dockworks
+	8 CL10 Public Works Yard
+	8 CL11 The Blocks
+	8 CL12 Trade Quarter
+[common | masterpiece(1)]
+	8 CG13 Start the Fight
+	8 CB10 Marshal Forces
+	8 CW07 Inspiring Revolutionary
+	8 CR09 Rollicking Rider
+	8 CU12 Under Observation
+	8 The Watchtower
+	8 CB03 Pilfering Amphibian
+	8 CR06 Street-Wise Combatants
+	8 CG04 Motorcycle Muscle
+	8 CW12 Show of Force
+	8 CU11 Trippin'
+	8 CB04 Reckless Rioter
+	8 CR02 Dancing Diva
+	8 CG11 Street Art
+	8 CR07 Night Rider
+	8 CB05 Hired Gun
+	8 CB01 Causless Ruffian
+	8 CG12
+	8 CG06 Beefhead Bouncer
+	8 CU07 Deprogrammed Replicant
+	8 CU08
+	8 CW04 Dropship Recruiter
+	8 CW11 Court of Public Opinion
+	8 CB09 Shred
+	8 CG14 Civil Deconstruction
+	8 CR10 Get Away
+	8 CU10 Brain Rot
+	8 CW10 Touch the Dataline
+	8 CB02 Ratpack Kingpin
+	8 CG09 Colossal Shredmaw
+	8 CR01 Rocket Hamster
+	8 CU03 Dynamo Defector
+	8 CW01 Mecho-Grunt
+	8 CR11 Thrill of Possibility
+	8 CB08 Dark-Alley Demon
+	8 CR04
+	8 CW09 Dogmatic Angel
+	8 CG02 Kick-Flip Koala
+	8 CU05 Underground DJ
+	8 CW13 Banishing Light
+	8 CU13 Data Tap
+	8 CU06
+	8 CR12 Rewire
+	8 CR03
+	8 CG08
+	8 CM01 Gather Forces
+	8 CM02 Two-Wheel Bruiser
+	8 CM03
+	8 CM04
+	8 CM05 Market Street Mob
+	8 CM06 Mind Tap
+	8 CM07 Let it Rip
+	8 CM08 Let Loose
+	8 CM09
+	8 CM10 Block Party
+	8 CW03 Skid-Row Informant
+	8 CW02 Neighborhood Watch
+	8 CW05 Skywise Rebel
+	8 CW06
+	8 CW08 Compromised Replicants
+	8 CW14 Cover Up
+	8 CU01 CCT Croaker
+	8 CU04
+	8 CU09 Find Your People
+	8 CU14 Dropship Detention
+	8 CU02 Hypno Bass
+	8 CB06 Entry Team
+	8 CB07
+	8 CB12 Word on the Street
+	8 CB11 Street Clash
+	8 CB13 Scream Core
+	8 CB14 Unplug
+	8 CR14 Send a Message
+	8 CR08 Short Kings
+	8 CR05 Expert Insurgent
+	8 CG01 Acid Drop Viper
+	8 CG03 Daring Dame
+	8 CG05 Wolf of Wall Street
+	8 CG07 Urban Artist
+	8 CG10 Party Ape
+	8 CA01 Street Tag
+	8 CR13 Giant Effin Slash
+	8 CL01 City Square
+	8 CL02 Back Alley
+	8 CL03 Embassy Row
+	8 CL04 Canal Town
+	8 CL05 Industrial Park
+	8 CL06 The Boonies
+	8 CL07 Arts District
+	8 CL08 Government Center
+	8 CL09 Dockworks
+	8 CL10 Public Works Yard
+	8 CL11 The Blocks
+	8 CL12 Trade Quarter
+[foil(1)]
+	12 CG13 Start the Fight
+	12 CB10 Marshal Forces
+	12 CW07 Inspiring Revolutionary
+	12 CR09 Rollicking Rider
+	12 CU12 Under Observation
+	12 The Watchtower
+	6 UW01
+	12 CB03 Pilfering Amphibian
+	12 CR06 Street-Wise Combatants
+	12 CG04 Motorcycle Muscle
+	12 CW12 Show of Force
+	12 CU11 Trippin'
+	12 CB04 Reckless Rioter
+	12 CR02 Dancing Diva
+	12 CG11 Street Art
+	12 CR07 Night Rider
+	12 CB05 Hired Gun
+	12 CB01 Causless Ruffian
+	12 CG12
+	12 CG06 Beefhead Bouncer
+	12 CU07 Deprogrammed Replicant
+	12 CU08
+	12 CW04 Dropship Recruiter
+	12 CW11 Court of Public Opinion
+	12 CB09 Shred
+	12 CG14 Civil Deconstruction
+	12 CR10 Get Away
+	12 CU10 Brain Rot
+	12 CW10 Touch the Dataline
+	12 CB02 Ratpack Kingpin
+	12 CG09 Colossal Shredmaw
+	12 CR01 Rocket Hamster
+	12 CU03 Dynamo Defector
+	12 CW01 Mecho-Grunt
+	12 CR11 Thrill of Possibility
+	12 CB08 Dark-Alley Demon
+	12 CR04
+	12 CW09 Dogmatic Angel
+	12 CG02 Kick-Flip Koala
+	12 CU05 Underground DJ
+	12 CW13 Banishing Light
+	12 CU13 Data Tap
+	12 CU06
+	12 CR12 Rewire
+	12 CR03
+	12 CG08
+	12 CM01 Gather Forces
+	12 CM02 Two-Wheel Bruiser
+	12 CM03
+	12 CM04
+	12 CM05 Market Street Mob
+	12 CM06 Mind Tap
+	12 CM07 Let it Rip
+	12 CM08 Let Loose
+	12 CM09
+	12 CM10 Block Party
+	12 CW03 Skid-Row Informant
+	12 CW02 Neighborhood Watch
+	12 CW05 Skywise Rebel
+	12 CW06
+	12 CW08 Compromised Replicants
+	12 CW14 Cover Up
+	12 CU01 CCT Croaker
+	12 CU04
+	12 CU09 Find Your People
+	12 CU14 Dropship Detention
+	12 CU02 Hypno Bass
+	12 CB06 Entry Team
+	12 CB07
+	12 CB12 Word on the Street
+	12 CB11 Street Clash
+	12 CB13 Scream Core
+	12 CB14 Unplug
+	12 CR14 Send a Message
+	12 CR08 Short Kings
+	12 CR05 Expert Insurgent
+	12 CG01 Acid Drop Viper
+	12 CG03 Daring Dame
+	12 CG05 Wolf of Wall Street
+	12 CG07 Urban Artist
+	12 CG10 Party Ape
+	12 CA01 Street Tag
+	12 CR13 Giant Effin Slash
+	12 CL01 City Square
+	12 CL02 Back Alley
+	12 CL03 Embassy Row
+	12 CL04 Canal Town
+	12 CL05 Industrial Park
+	12 CL06 The Boonies
+	12 CL07 Arts District
+	12 CL08 Government Center
+	12 CL09 Dockworks
+	12 CL10 Public Works Yard
+	12 CL11 The Blocks
+	12 CL12 Trade Quarter
+[wildcard(1)]
+	6 CG13 Start the Fight
+	6 CB10 Marshal Forces
+	6 CW07 Inspiring Revolutionary
+	6 CR09 Rollicking Rider
+	6 CU12 Under Observation
+	6 The Watchtower
+	15 UW01
+	6 CB03 Pilfering Amphibian
+	6 CR06 Street-Wise Combatants
+	6 CG04 Motorcycle Muscle
+	6 CW12 Show of Force
+	6 CU11 Trippin'
+	6 CB04 Reckless Rioter
+	6 CR02 Dancing Diva
+	6 CG11 Street Art
+	6 CR07 Night Rider
+	6 CB05 Hired Gun
+	6 CB01 Causless Ruffian
+	6 CG12
+	6 CG06 Beefhead Bouncer
+	6 CU07 Deprogrammed Replicant
+	6 CU08
+	6 CW04 Dropship Recruiter
+	6 CW11 Court of Public Opinion
+	6 CB09 Shred
+	6 CG14 Civil Deconstruction
+	6 CR10 Get Away
+	6 CU10 Brain Rot
+	6 CW10 Touch the Dataline
+	6 CB02 Ratpack Kingpin
+	6 CG09 Colossal Shredmaw
+	6 CR01 Rocket Hamster
+	6 CU03 Dynamo Defector
+	6 CW01 Mecho-Grunt
+	6 CR11 Thrill of Possibility
+	6 CB08 Dark-Alley Demon
+	6 CR04
+	6 CW09 Dogmatic Angel
+	6 CG02 Kick-Flip Koala
+	6 CU05 Underground DJ
+	6 CW13 Banishing Light
+	6 CU13 Data Tap
+	6 CU06
+	6 CR12 Rewire
+	6 CR03
+	6 CG08
+	6 CM01 Gather Forces
+	6 CM02 Two-Wheel Bruiser
+	6 CM03
+	6 CM04
+	6 CM05 Market Street Mob
+	6 CM06 Mind Tap
+	6 CM07 Let it Rip
+	6 CM08 Let Loose
+	6 CM09
+	6 CM10 Block Party
+	6 CW03 Skid-Row Informant
+	6 CW02 Neighborhood Watch
+	6 CW05 Skywise Rebel
+	6 CW06
+	6 CW08 Compromised Replicants
+	6 CW14 Cover Up
+	6 CU01 CCT Croaker
+	6 CU04
+	6 CU09 Find Your People
+	6 CU14 Dropship Detention
+	6 CU02 Hypno Bass
+	6 CB06 Entry Team
+	6 CB07
+	6 CB12 Word on the Street
+	6 CB11 Street Clash
+	6 CB13 Scream Core
+	6 CB14 Unplug
+	6 CR14 Send a Message
+	6 CR08 Short Kings
+	6 CR05 Expert Insurgent
+	6 CG01 Acid Drop Viper
+	6 CG03 Daring Dame
+	6 CG05 Wolf of Wall Street
+	6 CG07 Urban Artist
+	6 CG10 Party Ape
+	6 CA01 Street Tag
+	6 CR13 Giant Effin Slash
+	6 CL01 City Square
+	6 CL02 Back Alley
+	6 CL03 Embassy Row
+	6 CL04 Canal Town
+	6 CL05 Industrial Park
+	6 CL06 The Boonies
+	6 CL07 Arts District
+	6 CL08 Government Center
+	6 CL09 Dockworks
+	6 CL10 Public Works Yard
+	6 CL11 The Blocks
+	6 CL12 Trade Quarter
