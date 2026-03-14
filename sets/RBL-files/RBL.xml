@@ -5,7 +5,7 @@
 			<name>RBL</name>
 			<longname>Rebels</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-13</releasedate>
+			<releasedate>2026-03-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>CG13 Start the Fight</name>
 			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.
 Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/0.png" num="71">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/0.png" num="70">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<name>CB10 Marshal Forces</name>
 			<text>You draw a card and lose 1 life.
 Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/1.png" num="40">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/1.png" num="39">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -67,7 +67,7 @@ Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a 
 			<name>CR09 Rollicking Rider</name>
 			<text>When this creature enters, it deals 2 damage to target creature or planeswalker you don&apos;t control.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/3.png" num="53">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/3.png" num="52">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<text>Choose one — 
 • Counter target spell.
 • Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/4.png" num="28">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/4.png" num="27">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -116,10 +116,10 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<related>ape</related>
 		</card>
 		<card>
-			<name>UW01</name>
-			<text>When this creature enters or when you cycle it, create a 1/1 red Rebel creature token.
-Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/6.png" num="16">RBL</set>
+			<name>CW02 Helpful Vigilante</name>
+			<text>Lifelink
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/6.png" num="3">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -129,14 +129,14 @@ Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)</text>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CB03 Pilfering Amphibian</name>
 			<text>Uprising — When this creature enters, target opponent reveals a number of cards from their hand equal to the number of other Rebels you control. You choose one of those cards. That player discards that card.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/7.png" num="33">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/7.png" num="32">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -154,7 +154,7 @@ Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)</text>
 			<name>CR06 Street-Wise Combatants</name>
 			<text>Haste
 Uprising — Whenever this creature attacks, if you control another Rebel, target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/8.png" num="50">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/8.png" num="49">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -172,7 +172,7 @@ Uprising — Whenever this creature attacks, if you control another Rebel, targe
 			<name>CG04 Motorcycle Muscle</name>
 			<text>When this creature enters or you cycle it, target creature you control gets +1/+1 until end of turn.
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/9.png" num="62">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/9.png" num="61">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -210,7 +210,7 @@ Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
 			<text>Enchant creature
 When this Aura enters, tap enchanted creature.
 Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses all other creature types.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/11.png" num="27">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/11.png" num="26">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -227,7 +227,7 @@ Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses a
 			<name>CB04 Reckless Rioter</name>
 			<text>Whenever this creature attacks, you draw a card and you lose 1 life.
 {R}: This creature gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/12.png" num="34">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/12.png" num="33">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -244,7 +244,7 @@ Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses a
 		<card>
 			<name>CR02 Dancing Diva</name>
 			<text>Whenever you discard one or more cards, this creature gets +1/+1 and gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/13.png" num="46">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/13.png" num="45">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -254,7 +254,7 @@ Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses a
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -262,7 +262,7 @@ Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses a
 			<name>CG11 Street Art</name>
 			<text>When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {3}{W}, Sacrifice this enchantment: Create two 1/1 white Bird creature tokens with flying. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/14.png" num="69">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/14.png" num="68">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +280,7 @@ Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses a
 			<text>Haste
 Whenever you discard one or more cards, this creature deals 1 damage to target player.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/15.png" num="51">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/15.png" num="50">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,9 +295,9 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB05 Hired Gun</name>
+			<name>CB05 Grunt Enforcer</name>
 			<text>When this creature dies, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/16.png" num="35">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/16.png" num="34">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -315,7 +315,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>CB01 Causless Ruffian</name>
 			<text>Whenever this creature attacks, each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/17.png" num="31">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/17.png" num="30">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -325,16 +325,16 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG12</name>
+			<name>CG12 Urban Vibrance</name>
 			<text>Enchant land
 Whenever enchanted land is tapped for mana, its controller adds an additional {G}.
 {4}{G}, Sacrifice this Aura: Take to the streets. You gain 3 life. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/18.png" num="70">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/18.png" num="69">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -352,7 +352,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 			<name>CG06 Beefhead Bouncer</name>
 			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
 Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/19.png" num="64">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/19.png" num="63">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -368,10 +368,10 @@ Raid — This creature enters with a +1/+1 counter on it if you attacked this tu
 		</card>
 		<card>
 			<name>CU07 Deprogrammed Replicant</name>
-			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Uprising — This creature can&apos;t attack unless you control another Rebel.
+			<text>Defender
+Whenever you take to the streets, this creature can attack this turn as though it didn&apos;t have defender.
 Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/20.png" num="23">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/20.png" num="22">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,21 +381,22 @@ Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/6</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU08</name>
-			<text>Uprising — Counter target noncreature spell unless its controller pays {1} plus an additional {1} for each Rebel you control.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/21.png" num="24">RBL</set>
+			<name>CU08 Censor</name>
+			<text>Counter target spell unless its controller pays {1}.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/21.png" num="23">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -442,7 +443,7 @@ Enchanted creature can&apos;t attack or block.
 			<name>CB09 Shred</name>
 			<text>Target creature gets -2/-2 until end of turn.
 Uprising — If you controlled a Rebel as you cast this spell, you gain 2 life.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/24.png" num="39">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/24.png" num="38">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -459,7 +460,7 @@ Uprising — If you controlled a Rebel as you cast this spell, you gain 2 life.<
 			<name>CG14 Civil Deconstruction</name>
 			<text>Destroy target artifact, enchantment, or creature with flying.
 Uprising — If you controlled a Rebel as you cast this spell, add one mana of any color.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/25.png" num="72">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/25.png" num="71">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -473,10 +474,10 @@ Uprising — If you controlled a Rebel as you cast this spell, add one mana of a
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR10 Get Away</name>
-			<text>Until end of turn, target creature you control gains haste and &quot;When this creature dies, create a 1/1 red Rebel creature token.&quot;
-Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/26.png" num="54">RBL</set>
+			<name>CR10 Smash and Grab</name>
+			<text>Smash and Grab deals 1 damage to any target.
+Raid — If you attacked this turn, draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/26.png" num="53">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -494,7 +495,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<name>CU10 Brain Rot</name>
 			<text>Up to one target creature gets -4/-0 until end of turn.
 Draw a card.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/27.png" num="26">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/27.png" num="25">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -528,7 +529,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 		<card>
 			<name>CB02 Ratpack Kingpin</name>
 			<text>{1}, {T}, Sacrifice another creature: Target player loses 1 life and you gain 1 life. If you sacrificed an Army this way, create a Treasure token.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/29.png" num="32">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/29.png" num="31">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -546,7 +547,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<name>CG09 Colossal Shredmaw</name>
 			<text>Trample
 When this creature enters, you gain 3 life.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/30.png" num="67">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/30.png" num="66">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -564,7 +565,7 @@ When this creature enters, you gain 3 life.</text>
 			<name>CR01 Rocket Hamster</name>
 			<text>Haste
 Whenever you discard one or more cards for the first time on your turn, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/31.png" num="45">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/31.png" num="44">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -579,20 +580,20 @@ Whenever you discard one or more cards for the first time on your turn, this cre
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU03 Dynamo Defector</name>
+			<name>CU06 Dynamo Defector</name>
 			<text>Flying
-Uprising — When this creature enters, if you control another Rebel, tap target creature you don&apos;t control and put a stun counter on it.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/32.png" num="19">RBL</set>
+When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/32.png" num="21">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Rebel</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -619,7 +620,7 @@ Uprising — When this creature enters, if you control another Rebel, tap target
 			<name>CR11 Thrill of Possibility</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/34.png" num="55">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/34.png" num="54">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -637,7 +638,7 @@ Draw two cards.</text>
 			<text>Flying
 When this creature enters, target opponent loses 2 life and you gain 2 life.
 Cycling {B} ({B}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/35.png" num="38">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/35.png" num="37">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -652,27 +653,27 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR04</name>
-			<text>Whenever this creature attacks, it deals 1 damage to target opponent or planeswalker.
-Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/36.png" num="48">RBL</set>
+			<name>CR03 Hired Gun</name>
+			<text>Reach
+Raid — When this creature enters, put a +1/+1 counter on it if you attacked this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/36.png" num="46">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Ifrit Rebel</type>
+				<type>Creature — Human Mercenary</type>
 				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW09 Dogmatic Angel</name>
 			<text>Flying, vigilance
-When this creature enters, Army creatures you control get +1/+1 and flying until end of turn.</text>
+When this creature enters, Army creatures you control get +1/+1 and gain flying until end of turn.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/37.png" num="10">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -690,8 +691,8 @@ When this creature enters, Army creatures you control get +1/+1 and flying until
 		<card>
 			<name>CG02 Kick-Flip Koala</name>
 			<text>Trample
-{4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if this creature attacked this turn. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/38.png" num="60">RBL</set>
+Raid — {4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if you attacked this turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/38.png" num="59">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -706,23 +707,21 @@ When this creature enters, Army creatures you control get +1/+1 and flying until
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU05 Underground DJ</name>
-			<text>Whenever this creature becomes tapped, up to one other target creature can&apos;t be blocked this turn.
-{2}{B}: Take to the streets. Activate only as a sorcery. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/39.png" num="21">RBL</set>
+			<name>CU03 Underground DJ</name>
+			<text>Whenever you discard one or more cards, this creature gets +1/+0 and can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/39.png" num="18">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>1/4</pt>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CW13 Banishing Light</name>
@@ -744,7 +743,7 @@ When this creature enters, Army creatures you control get +1/+1 and flying until
 			<name>CU13 Data Tap</name>
 			<text>Raid — This spell costs {2} less to cast if you attacked this turn.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/41.png" num="29">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/41.png" num="28">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -758,19 +757,19 @@ Draw two cards.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU06</name>
-			<text>Uprising — This spell costs {1} less to cast if you control a Rebel.
-When this creature enters, return target creature you don&apos;t control to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/42.png" num="22">RBL</set>
+			<name>CU05 Coldtouch Dissident</name>
+			<text>When this creature enters, tap target creature you don&apos;t control and put a stun counter on it.
+{2}{B}: Take to the streets. Activate only as a sorcery. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/42.png" num="20">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Zombie Rebel</type>
 				<maintype>Creature</maintype>
-				<manacost>4U</manacost>
-				<cmc>5</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
-				<coloridentity>U</coloridentity>
+				<coloridentity>UB</coloridentity>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -779,7 +778,7 @@ When this creature enters, return target creature you don&apos;t control to its 
 			<name>CR12 Rewire</name>
 			<text>Uprising — This spell costs {2} less to cast if you control a Rebel.
 Rewire deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/43.png" num="56">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/43.png" num="55">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,8 +792,9 @@ Rewire deals 3 damage to any target.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR03</name>
-			<text>{T}: Add {R}.
+			<name>CR04 Hotshot</name>
+			<text>Haste
+{T}: Add {R}.
 Whenever another Rebel you control enters, this creature deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/44.png" num="47">RBL</set>
 			<prop>
@@ -806,15 +806,15 @@ Whenever another Rebel you control enters, this creature deals 1 damage to each 
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG08</name>
+			<name>CG08 Mech Tech</name>
 			<text>Vigilance, reach
 Uprising — When this creature enters, if you control another Rebel, draw a card.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/45.png" num="66">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/45.png" num="65">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -832,7 +832,7 @@ Uprising — When this creature enters, if you control another Rebel, draw a car
 			<name>CM01 Gather Forces</name>
 			<text>Draw two cards.
 Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/46.png" num="73">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/46.png" num="72">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -851,7 +851,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 			<text>During turns other than yours, this Vehicle is an artifact creature.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/47.png" num="74">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/47.png" num="73">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -866,10 +866,10 @@ Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CM03</name>
+			<name>CM03 Katana Gang</name>
 			<text>Haste, menace
 Uprising — At the beginning of your end step, if you control another Rebel, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/48.png" num="75">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/48.png" num="74">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -879,15 +879,15 @@ Uprising — At the beginning of your end step, if you control another Rebel, pu
 				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CM04</name>
+			<name>CM04 Dataline Surfing</name>
 			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 Raid — If you attacked this turn, create a Treasure token.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/49.png" num="76">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/49.png" num="75">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -903,7 +903,7 @@ Raid — If you attacked this turn, create a Treasure token.</text>
 		<card>
 			<name>CM05 Market Street Mob</name>
 			<text>Whenever another creature you control enters, you gain 1 life and take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/50.png" num="77">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/50.png" num="76">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -922,7 +922,7 @@ Raid — If you attacked this turn, create a Treasure token.</text>
 			<name>CM06 Mind Tap</name>
 			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/51.png" num="78">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/51.png" num="77">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -939,7 +939,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 		<card>
 			<name>CM07 Let it Rip</name>
 			<text>Draw two cards. Then you may discard a nonland card. When you do, Let it Rip deals 5 damage to target creature.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/52.png" num="79">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/52.png" num="78">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +956,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 			<name>CM08 Let Loose</name>
 			<text>Destroy target creature or planeswalker.
 Uprising — If you controlled a Rebel as you cast this spell, put a +1/+1 counter on up to one target creature you control.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/53.png" num="80">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/53.png" num="79">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -970,10 +970,10 @@ Uprising — If you controlled a Rebel as you cast this spell, put a +1/+1 count
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CM09</name>
+			<name>CM09 Rockers of the Free World</name>
 			<text>Vigilance
 Raid — When this creature enters, if you attacked this turn, create two 1/1 red Rebel creature tokens.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/54.png" num="81">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/54.png" num="80">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -991,7 +991,7 @@ Raid — When this creature enters, if you attacked this turn, create two 1/1 re
 			<name>CM10 Block Party</name>
 			<text>Create three 2/2 white Rebel creature tokens with vigilance.
 Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/55.png" num="82">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/55.png" num="81">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1007,7 +1007,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 		</card>
 		<card>
 			<name>CW03 Skid-Row Informant</name>
-			<text>Whenever this creature becomes tapped, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<text>Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/56.png" num="4">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1023,28 +1023,10 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW02 Neighborhood Watch</name>
-			<text>Defender
-Whenever you take to the streets, this creature gets +3/+0 and can attack as though it didn&apos;t have defender until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/57.png" num="3">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Warrior Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>0/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CW05 Skywise Rebel</name>
 			<text>Flying
 Uprising — Whenever this creature attacks, if you control another Rebel, up to one other target creature gets +1/+0 and gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/58.png" num="6">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/57.png" num="6">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1059,9 +1041,9 @@ Uprising — Whenever this creature attacks, if you control another Rebel, up to
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW06</name>
+			<name>CW06 Unyielding Sycophant</name>
 			<text>Whenever this creature attacks, untap target creature you control. If that creature was an Army, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/59.png" num="7">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/58.png" num="7">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1078,7 +1060,7 @@ Uprising — Whenever this creature attacks, if you control another Rebel, up to
 		<card>
 			<name>CW08 Compromised Replicants</name>
 			<text>When this creature enters, creatures you control get +1/+1 until end of turn. Rebels you control gain first strike until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/60.png" num="9">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/59.png" num="9">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,7 +1078,7 @@ Uprising — Whenever this creature attacks, if you control another Rebel, up to
 			<name>CW14 Cover Up</name>
 			<text>Exile target creature or artifact.
 Raid — This spell costs {2} less to cast if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/61.png" num="15">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/60.png" num="15">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1113,7 +1095,7 @@ Raid — This spell costs {2} less to cast if you attacked this turn.</text>
 			<name>CU01 CCT Croaker</name>
 			<text>When this creature enters, scry 2.
 {2}{U}: This creature can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/62.png" num="17">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/61.png" num="16">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1128,10 +1110,10 @@ Raid — This spell costs {2} less to cast if you attacked this turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU04</name>
+			<name>CU04 Biker Tactician</name>
 			<text>Whenever this creature attacks, you may draw a card. If you do, discard a card.
 Cycling {U} ({U}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/63.png" num="20">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/62.png" num="19">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1149,7 +1131,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>CU09 Find Your People</name>
 			<text>Target creature you control gains hexproof until end of turn.
 Uprising — If you control a Rebel as you cast this spell, that creature gets +0/+3 until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/64.png" num="25">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/63.png" num="24">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1166,7 +1148,7 @@ Uprising — If you control a Rebel as you cast this spell, that creature gets +
 			<name>CU14 Dropship Detention</name>
 			<text>Target creature&apos;s controller puts it on the top or bottom of its owner&apos;s library.
 Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/65.png" num="30">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/64.png" num="29">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1184,7 +1166,7 @@ Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also
 			<name>CU02 Hypno Bass</name>
 			<text>Flash
 Whenever this creature becomes tapped, you may have target player mill two cards.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/66.png" num="18">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/65.png" num="17">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1203,7 +1185,7 @@ Whenever this creature becomes tapped, you may have target player mill two cards
 			<text>Flash
 When this creature enters, another target creature you don&apos;t control gets -1/-1 until end of turn.
 This creature has flying as long as it entered the battlefield this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/67.png" num="36">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/66.png" num="35">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1218,10 +1200,10 @@ This creature has flying as long as it entered the battlefield this turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB07</name>
+			<name>CB07 Diehard Dame</name>
 			<text>Flying
 Uprising — When this creature enters, if you control another Rebel, return target creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/68.png" num="37">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/67.png" num="36">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1231,7 +1213,7 @@ Uprising — When this creature enters, if you control another Rebel, return tar
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1239,7 +1221,7 @@ Uprising — When this creature enters, if you control another Rebel, return tar
 			<name>CB12 Word on the Street</name>
 			<text>Raid — If you attacked this turn, scry 2.
 You draw two cards and lose 2 life.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/69.png" num="42">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/68.png" num="41">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1254,11 +1236,11 @@ You draw two cards and lose 2 life.</text>
 		</card>
 		<card>
 			<name>CB11 Street Clash</name>
-			<text>Choose up to two —
+			<text>Choose one or both — 
 • Target creature gets -1/-1 until end of turn.
-• Put a +1/+1 counter on target Army you control.
-• Target Rebel you control gains deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/70.png" num="41">RBL</set>
+• Put a +1/+1 counter on target creature.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/69.png" num="40">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1275,7 +1257,7 @@ You draw two cards and lose 2 life.</text>
 			<name>CB13 Scream Core</name>
 			<text>Destroy target creature.
 Raid — If you attacked this turn, each opponent loses 2 life.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/71.png" num="43">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/70.png" num="42">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1292,7 +1274,7 @@ Raid — If you attacked this turn, each opponent loses 2 life.</text>
 			<name>CB14 Unplug</name>
 			<text>Destroy target creature.
 Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/72.png" num="44">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/71.png" num="43">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1310,7 +1292,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<name>CR14 Send a Message</name>
 			<text>Target creature you control gets +1/+0 and gains first strike until end of turn.
 Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/73.png" num="58">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/72.png" num="57">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1328,7 +1310,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 			<name>CR08 Short Kings</name>
 			<text>Haste
 Uprising — When this creature enters, if you control another Rebel, creatures you control get +1/+0 and gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/74.png" num="52">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/73.png" num="51">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1345,7 +1327,7 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 		<card>
 			<name>CR05 Expert Insurgent</name>
 			<text>Raid — When this creature enters, if you attacked this turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/75.png" num="49">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/74.png" num="48">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1362,7 +1344,7 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 		<card>
 			<name>CG01 Acid Drop Viper</name>
 			<text>When this creature attacks, it gets +1/+0 and gains deathtouch until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/76.png" num="59">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/75.png" num="58">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1379,7 +1361,7 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 		<card>
 			<name>CG03 Daring Dame</name>
 			<text>Whenever you take to the streets, this creature gets +1/+3 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/77.png" num="61">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/76.png" num="60">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1379,7 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 			<name>CG05 Wolf of Wall Street</name>
 			<text>Haste
 When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/78.png" num="63">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/77.png" num="62">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1416,7 +1398,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 			<name>CG07 Urban Artist</name>
 			<text>{T}: Add one mana of any color.
 At the beginning of your second main phase, if this creature attacked, untap it.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/79.png" num="65">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/78.png" num="64">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1434,7 +1416,7 @@ At the beginning of your second main phase, if this creature attacked, untap it.
 			<name>CG10 Party Ape</name>
 			<text>Reach
 When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/80.png" num="68">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/79.png" num="67">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1453,7 +1435,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 			<name>CA01 Street Tag</name>
 			<text>The artifact enters tapped.
 Raid — {1}, {T}: Add one mana of any color. This ability cost {1} less if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/81.png" num="83">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/80.png" num="82">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1468,7 +1450,7 @@ Raid — {1}, {T}: Add one mana of any color. This ability cost {1} less if you 
 		<card>
 			<name>CR13 Giant Effin Slash</name>
 			<text>Giant Effin Slash deals 6 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent&apos;s controller instead.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/82.png" num="57">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/81.png" num="56">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,10 +1464,11 @@ Raid — {1}, {T}: Add one mana of any color. This ability cost {1} less if you 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CL01 City Square</name>
-			<text>{T}: Add {C}.
-Raid — {T}: Add one mana of any color. Activate this ability only if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/83.png" num="84">RBL</set>
+			<name>UL01 City Square</name>
+			<text>This land enters tapped.
+When this land enters, return a land you control to its owner&apos;s hand. When you do, choose two different colors.
+{T}: Add two mana in any combination of the chosen colors.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/82.png" num="94">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1497,10 +1480,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL02 Back Alley</name>
+			<name>CL01 Back Alley</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {T}, Sacrifice this land: Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/84.png" num="85">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/83.png" num="83">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1513,10 +1496,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<related count="1">The Watchtower</related>
 		</card>
 		<card>
-			<name>CL03 Embassy Row</name>
+			<name>CL02 Embassy Row</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {U}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/85.png" num="86">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/84.png" num="84">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1529,10 +1512,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL04 Canal Town</name>
+			<name>CL03 Canal Town</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {U} or {B}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/86.png" num="87">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/85.png" num="85">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1545,10 +1528,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL05 Industrial Park</name>
+			<name>CL04 Industrial Park</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {B} or {R}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/87.png" num="88">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/86.png" num="86">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1561,10 +1544,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL06 The Boonies</name>
+			<name>CL05 The Boonies</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {R} or {G}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/88.png" num="89">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/87.png" num="87">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1577,10 +1560,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL07 Arts District</name>
+			<name>CL06 Arts District</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {G} or {W}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/89.png" num="90">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/88.png" num="88">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1593,10 +1576,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL08 Government Center</name>
+			<name>CL07 Government Center</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {B}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/90.png" num="91">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/89.png" num="89">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,10 +1592,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL09 Dockworks</name>
+			<name>CL08 Dockworks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {U} or {R}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/91.png" num="92">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/90.png" num="90">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1625,10 +1608,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL10 Public Works Yard</name>
+			<name>CL09 Public Works Yard</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {B} or {G}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/92.png" num="93">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/91.png" num="91">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1641,10 +1624,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL11 The Blocks</name>
+			<name>CL10 The Blocks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {R} or {W}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/93.png" num="94">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/92.png" num="92">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1657,10 +1640,10 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CL12 Trade Quarter</name>
+			<name>CL11 Trade Quarter</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {G} or {U}</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/94.png" num="95">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/93.png" num="93">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1675,7 +1658,7 @@ Raid — {T}: Add one mana of any color. Activate this ability only if you attac
 		<card>
 			<name>Soldier Army RBL</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/95.png" num="1">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/94.png" num="1">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

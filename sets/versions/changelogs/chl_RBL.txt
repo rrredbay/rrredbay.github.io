@@ -1,4 +1,149 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW02 Helpful Vigilante added.
+CB05 Grunt Enforcer added.
+CG12 Urban Vibrance added.
+CU08 Censor added.
+CR10 Smash and Grab added.
+CU06 Dynamo Defector added.
+CR03 Hired Gun added.
+CU03 Underground DJ added.
+CU05 Coldtouch Dissident added.
+CR04 Hotshot added.
+CG08 Mech Tech added.
+CM03 Katana Gang added.
+CM04 Dataline Surfing added.
+CM09 Rockers of the Free World added.
+CW06 Unyielding Sycophant added.
+CU04 Biker Tactician added.
+CB07 Diehard Dame added.
+UL01 City Square added.
+CL01 Back Alley added.
+CL02 Embassy Row added.
+CL03 Canal Town added.
+CL04 Industrial Park added.
+CL05 The Boonies added.
+CL06 Arts District added.
+CL07 Government Center added.
+CL08 Dockworks added.
+CL09 Public Works Yard added.
+CL10 The Blocks added.
+CL11 Trade Quarter added.
+
+UW01 removed.
+CB05 Hired Gun removed.
+CG12 removed.
+CU08 removed.
+CR10 Get Away removed.
+CU03 Dynamo Defector removed.
+CR04 removed.
+CU05 Underground DJ removed.
+CU06 removed.
+CR03 removed.
+CG08 removed.
+CM03 removed.
+CM04 removed.
+CM09 removed.
+CW02 Neighborhood Watch removed.
+CW06 removed.
+CU04 removed.
+CB07 removed.
+CL01 City Square removed.
+CL02 Back Alley removed.
+CL03 Embassy Row removed.
+CL04 Canal Town removed.
+CL05 Industrial Park removed.
+CL06 The Boonies removed.
+CL07 Arts District removed.
+CL08 Government Center removed.
+CL09 Dockworks removed.
+CL10 Public Works Yard removed.
+CL11 The Blocks removed.
+CL12 Trade Quarter removed.
+
+CR02 Dancing Diva
+pt: 2/1 => 2/2
+
+CB01 Causless Ruffian
+pt: 1/1 => 1/2
+
+CU07 Deprogrammed Replicant
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i][i]Uprising[/i] — [/i]This creature can't attack unless you control another Rebel.
+Cycling {1}{U} [i]({1}{U}, Discard this card: Draw a card.)[/i] => Defender
+Whenever you take to the streets, this creature can attack this turn as though it didn't have defender.
+Cycling {1}{U} [i]({1}{U}, Discard this card: Draw a card.)[/i]
+pt: 4/6 => 6/6
+
+CW09 Dogmatic Angel
+rules_text: Flying, vigilance
+When this creature enters, Army creatures you control get +1/+1 and flying until end of turn. => Flying, vigilance
+When this creature enters, Army creatures you control get +1/+1 and gain flying until end of turn.
+
+CG02 Kick-Flip Koala
+rules_text: Trample
+{4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if this creature attacked this turn. Activate only once each turn. => Trample
+[i]Raid[/i] — {4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if you attacked this turn. Activate only once each turn.
+
+CW03 Skid-Row Informant
+rules_text: Whenever this creature becomes tapped, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => Whenever this creature becomes tapped, you gain 1 life and scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+CW05 Skywise Rebel
+
+CW08 Compromised Replicants
+
+CW14 Cover Up
+
+CU01 CCT Croaker
+
+CU09 Find Your People
+
+CU14 Dropship Detention
+
+CU02 Hypno Bass
+
+CB06 Entry Team
+
+CB12 Word on the Street
+
+CB11 Street Clash
+rules_text: Choose up to two —
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target Army you control.
+• Target Rebel you control gains deathtouch until end of turn. => Choose one or both — 
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.
+Cycling {1}{B} [i]({1}{B}, Discard this card: Draw a card.)[/i]
+
+CB13 Scream Core
+
+CB14 Unplug
+
+CR14 Send a Message
+
+CR08 Short Kings
+
+CR05 Expert Insurgent
+
+CG01 Acid Drop Viper
+
+CG03 Daring Dame
+
+CG05 Wolf of Wall Street
+
+CG07 Urban Artist
+
+CG10 Party Ape
+
+CA01 Street Tag
+
+CR13 Giant Effin Slash
+
+Soldier Army
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
