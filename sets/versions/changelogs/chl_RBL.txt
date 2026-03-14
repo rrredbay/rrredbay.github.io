@@ -1,4 +1,16 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+CW11 Court of Public Opinion
+type: Enchantment Aura => Enchantment — Aura
+
+CR04 Hotshot
+cost: {1}{R} => {2}{R}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW02 Helpful Vigilante added.

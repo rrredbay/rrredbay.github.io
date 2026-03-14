@@ -430,8 +430,8 @@ Enchanted creature can&apos;t attack or block.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment Aura</type>
-				<maintype>Aura</maintype>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
@@ -802,8 +802,8 @@ Whenever another Rebel you control enters, this creature deals 1 damage to each 
 				<side>front</side>
 				<type>Creature — Human Rebel</type>
 				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>1/3</pt>

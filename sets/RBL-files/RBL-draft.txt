@@ -234,7 +234,7 @@
 			"name": "CW11 Court of Public Opinion",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment Aura",
+			"type": "Enchantment — Aura",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/23.png"
@@ -443,7 +443,7 @@
 		{
 			"name": "CR04 Hotshot",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "47",
 			"image_uris": {

@@ -62,7 +62,7 @@ python3 -m pip install pillow markdown
 This updates your buffer so you can upload all of your images with no timeout issues and installs required packages. Otherwise, git sometimes gets tired and quits somewhat arbitrarily. You only need to do this ONCE. Afterwards, execute:
 
 ```
-python3 scripts/build_site.py
+py scripts/build_site.py
 ```
 
 > :memo: **Note:** If at this point `python3` prompts you to install through the Windows Store, do so. It's the path of least resistance.
