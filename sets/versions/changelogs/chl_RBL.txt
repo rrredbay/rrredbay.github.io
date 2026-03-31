@@ -1,4 +1,170 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CB05 Pilfering Amphibian added.
+CB03 Grunt Enforcer added.
+CU10 Preventative Strike added.
+CM01 Call Spec Ops added.
+CM11 Special Task Force added.
+CM12 Canal Town Couriers added.
+CM13 Industrial Park Freerunner added.
+CM14 Boonies Homebrewer added.
+CM15 Art Distric Defiant added.
+
+CB03 Pilfering Amphibian removed.
+CB05 Grunt Enforcer removed.
+CU10 Brain Rot removed.
+CM01 Gather Forces removed.
+
+CW12 Show of Force
+type: Instant => Sorcery
+
+CB09 Shred
+rules_text: Target creature gets -2/-2 until end of turn.
+[i]Uprising[/i] — If you controlled a Rebel as you cast this spell, you gain 2 life. => As an additional cost to cast this spell, discard a card or pay {2}.
+Target creature gets -3/-3 until end of turn.
+
+CB02 Ratpack Kingpin
+rules_text: {1}, {T}, Sacrifice another creature: Target player loses 1 life and you gain 1 life. If you sacrificed an Army this way, create a Treasure token. => {1}, {T}, Sacrifice another creature: Target player loses 1 life and you gain 1 life. If you sacrificed a multicolored permanent this way, create a Treasure token.
+
+CR01 Rocket Hamster
+rules_text: Haste
+Whenever you discard one or more cards for the first time on your turn, this creature gets +1/+0 until end of turn. => Haste
+This creature gets +1/+1 as long as you control a multicolored permanent.
+
+CW01 Mecho-Grunt
+rules_text: {T}: Tap target creature with power 2 or less.
+{3}{U}, {T}, Sacrifice this creature: Amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i] => {T}: Tap target creature with power 2 or less.
+{3}{U}, {T}, Sacrifice this creature: Amass Soldiers 3. [i](Put three +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+
+CU05 Coldtouch Dissident
+
+CR12 Rewire
+
+CR04 Hotshot
+
+CG08 Mech Tech
+
+CM02 Two-Wheel Bruiser
+
+CM03 Katana Gang
+
+CM04 Dataline Surfing
+
+CM05 Market Street Mob
+
+CM06 Mind Tap
+
+CM07 Let it Rip
+
+CM08 Let Loose
+
+CM09 Rockers of the Free World
+
+CM10 Block Party
+
+CW03 Skid-Row Informant
+
+CW05 Skywise Rebel
+
+CW14 Cover Up
+
+CU01 CCT Croaker
+
+CU04 Biker Tactician
+
+CU09 Find Your People
+
+CU14 Dropship Detention
+
+CB06 Entry Team
+
+CB07 Diehard Dame
+
+CB12 Word on the Street
+
+CB11 Street Clash
+
+CB13 Scream Core
+rules_text: Destroy target creature.
+[i]Raid[/i] — If you attacked this turn, each opponent loses 2 life. => Destroy target creature. Put a +1/+1 counter on up to one target creature you control.
+
+CB14 Unplug
+
+CR14 Send a Message
+
+CR08 Short Kings
+
+CR05 Expert Insurgent
+
+CG01 Acid Drop Viper
+
+CG03 Daring Dame
+
+CG05 Wolf of Wall Street
+
+CG07 Urban Artist
+
+CG10 Party Ape
+pt: 7/7 => 8/5
+
+CA01 Street Tag
+rules_text: The artifact enters tapped.
+[i]Raid[/i] — {1}, {T}: Add one mana of any color. This ability cost {1} less if you attacked this turn. => The artifact enters tapped.
+When this artifact enters, draw a card.
+[i]Raid[/i] — {1}, {T}: Add one mana of any color. This ability cost {1} less to activate if you attacked this turn.
+
+CR13 Giant Effin Slash
+
+UL01 City Square
+
+CL01 Back Alley
+
+CL02 Embassy Row
+
+CL03 Canal Town
+
+CL04 Industrial Park
+
+CL05 The Boonies
+
+CL06 Arts District
+
+CL07 Government Center
+
+CL08 Dockworks
+
+CL09 Public Works Yard
+
+CL10 The Blocks
+
+CL11 Trade Quarter
+
+Soldier Army
+
+CU02 Hypno Bass
+rules_text: Flash
+Whenever this creature becomes tapped, you may have target player mill two cards. => Flash
+If you control a multicolored permanent, this creature has flying.
+
+CU13 Data Tap
+type: Instant => Sorcery
+cost: {3}{U} => {2}{U}
+rules_text: [i]Raid[/i] — This spell costs {2} less to cast if you attacked this turn.
+Draw two cards. => As an additional cost to cast this spell, you may remove a counter from a permanent you control.
+Scry 1 if you removed a counter from a permanent you controlled this turn.
+Draw two cards.
+
+CW06 Unyielding Sycophant
+rules_text: Whenever this creature attacks, untap target creature you control. If that creature was an Army, put a +1/+1 counter on it. => Flash
+Whenever this creature attacks, untap target creature you control.
+
+CW08 Compromised Replicants
+rules_text: When this creature enters, creatures you control get +1/+1 until end of turn. Rebels you control gain first strike until end of turn. => When this creature enters, put a +1/+1 counter on each of up to two creatures you control. Those creatures gain vigilance until end of turn.
+pt: 3/3 => 2/3
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
