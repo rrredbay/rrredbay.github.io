@@ -1,0 +1,5019 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SOC</name>
+			<longname>Stars of Cinesterra</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-04-03</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Portal Opener</name>
+			<text>When this creature enters, you mill three cards. You may put a permanent card from among the milled cards into your hand. If you put a card with mana value 5 or greater into your hand this way, you gain 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/0.png" num="183">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ninja in the Wings</name>
+			<text>Flying
+Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/1.png" num="64">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep Space Navigator</name>
+			<text>When this creature enters, surveil 1. Then if you control a legendary creature, draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/2.png" num="52">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cephalid Sidekick</name>
+			<text>When this creature enters, create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/3.png" num="48">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Octopus Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Time Traveling Cop</name>
+			<text>This creature can&apos;t be blocked as long as it has a counter on it.
+Sequel {U} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/4.png" num="75">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greatspan Kaiju</name>
+			<text>Flying
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/5.png" num="58">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Prestige</name>
+			<text>Blockbuster 6 (As an additional cost to cast this spell, you may tap six untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Exile target creature you control, then return it to the battlefield tapped. If this spell is a blockbuster, create a token that is a copy of that creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/6.png" num="68">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plot Armor</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Counter target spell unless its controller pays {2}. If this spell is a blockbuster, counter that spell unless its controller pays {4} instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/7.png" num="67">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anticipate</name>
+			<text>Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/8.png" num="43">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horizons Unfolding</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Draw two cards. If this spell is a blockbuster, draw three cards instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/9.png" num="60">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Face in a Crowd</name>
+			<text>Enchant creature
+Enchanted creature is a 1/1 colorless Extra creature. It can&apos;t block and it loses all other abilities.
+Whenever you produce a blockbuster, you may put enchanted creature on the bottom of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/10.png" num="53">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banishing Portal</name>
+			<text>This spell costs {2} less to cast if you control a legendary creature.
+The owner of target nonland permanent puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/11.png" num="44">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Training Session</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Target creature you control can&apos;t be blocked this turn. If this spell is a blockbuster, draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/12.png" num="76">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wild Rider</name>
+			<text>Haste
+{R}, Discard a card: Create a Leading Role token attached to this creature. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/13.png" num="155">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Scene Crasher</name>
+			<text>When this creature enters, it deals 2 damage to each opponent.
+Sequel {3}{R}{R} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/14.png" num="142">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gamblin&apos; Gal</name>
+			<text>When this creature enters, create a tapped Treasure token.
+Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/15.png" num="128">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Family Man</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+This creature has menace as long as you&apos;re in your third act.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/16.png" num="125">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Grinning Captive</name>
+			<text>This creature can&apos;t attack alone.
+When this creature dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/17.png" num="129">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Couple o&apos; Escapees</name>
+			<text>Haste
+When this creature enters, create a 1/1 red Rogue creature token.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/18.png" num="123">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Rogue SOC</reverse_related>
+		</card>
+		<card>
+			<name>Killer in the Streets</name>
+			<text>Trample
+{1}, Sacrifice another creature: Put a +1/+1 counter on this creature. If that creature was legendary, this creature gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/19.png" num="133">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Dreadmaw</name>
+			<text>Trample
+{2}{R}, Discard this card: Create two 1/1 red Rogue creature tokens.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/20.png" num="154">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related count="2">Rogue SOC</reverse_related>
+		</card>
+		<card>
+			<name>Cool Guys Don&apos;t Look at Explosions</name>
+			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Cool Guys Don&apos;t Look at Explosions deals 2 damage to any target. If this spell is a blockbuster, it deals 4 damage instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/21.png" num="122">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fastest Shot in the West</name>
+			<text>Create a Leading Role token attached to target creature you control. That creature gains first strike until end of turn. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/22.png" num="126">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Forbidden Rendezvous</name>
+			<text>When this enchantment enters, you may discard a card. If you do, draw two cards.
+Sacrifice this enchantment: Up to two target creatures you control each get +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/23.png" num="127">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stagecoach Robbery</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Creatures you control get +2/+0 until end of turn. If this spell is a blockbuster, creatures you control gain first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/24.png" num="146">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hero&apos;s Rage</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Hero&apos;s Rage deals 5 damage to target creature or planeswalker. If this spell is a blockbuster, that permanent loses indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/25.png" num="130">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plasma Shield Defender</name>
+			<text>Flash
+When this creature enters, create a Leading Role token attached to target creature you control. That creature gains hexproof until end of turn. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/26.png" num="66">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Brave Little Toadster</name>
+			<text>Reach
+When this creature enters, create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/27.png" num="160">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Wooden Slasher</name>
+			<text>As long as this creature has a counter on it, it has deathtouch.
+Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/28.png" num="192">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Tree Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pining Suitor</name>
+			<text>Whenever you attack with this creature and exactly one other creature, both those creatures each get +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/29.png" num="182">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Young Lovers</name>
+			<text>When this creature enters, create a 1/1 white Soldier creature token.
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/30.png" num="193">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Eight-Legged Freak</name>
+			<text>Reach
+Sequel {G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/31.png" num="163">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Killer Croc</name>
+			<text>Vigilance, trample
+Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/32.png" num="176">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armored Kaiju</name>
+			<text>Trample
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/33.png" num="158">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Two-Headed Goliath</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Reach
+When this creature enters, if you&apos;re in your third act, you gain 5 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/34.png" num="191">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Monster&apos;s Fury</name>
+			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Choose target creature you control. If this spell is a blockbuster, put two +1/+1 counters on that creature. Then it fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/35.png" num="178">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ominous Warpgate</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If this spell is a blockbuster, search your library for two basic lands instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/36.png" num="180">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stronger Together</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Up to two target creatures you control each get +1/+2 until end of turn. If you&apos;re in your third third act, those creatures gain indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/37.png" num="187">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Altar of Heroes</name>
+			<text>This artifact enters tapped.
+When this artifact enters, create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/38.png" num="156">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Hulking Growth</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Target creature gets +3/+3 until end of turn. If this spell is a blockbuster, that creature gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/39.png" num="172">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flashblade Ninja</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When this creature enters, tap target creature an opponent controls and put a stun counter on it. If you&apos;re in your third act, put two stun counters on it instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/40.png" num="55">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Unconventional Mentor</name>
+			<text>When this creature dies, create a Leading Role token attached to another creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/41.png" num="37">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Villain&apos;s Underling</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+This creature gets +3/+0 during your turn as long as you&apos;re in your third act.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/42.png" num="38">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Pendant Thief</name>
+			<text>When this creature dies, create a 1/1 black Skeleton creature token.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/43.png" num="26">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Skeleton SOC</reverse_related>
+		</card>
+		<card>
+			<name>Brash Detective</name>
+			<text>Vigilance
+At the beginning of combat on your turn, if a token you control entered this turn, this creature gets +0/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/44.png" num="5">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Odd Pair</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Choose one. If this spell is a blockbuster, you may choose both instead.
+• Create two 1/1 white Soldier creature tokens.
+• Distribute two +1/+1 counters among any number of creatures you control.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/45.png" num="25">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related count="2">Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Sole Survivor</name>
+			<text>This creature has double strike as long as it has a counter on it.
+Sequel {2}{W} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/46.png" num="32">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brave Explorer</name>
+			<text>Whenever this creature attacks, you may untap target creature you control.
+Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/47.png" num="6">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chosen One</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Whenever this creature attacks, if you&apos;re in your third act, put a +1/+1 counter on it. Untap it.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/48.png" num="12">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demigod Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Power Player</name>
+			<text>Whenever you produce a blockbuster during your turn, put a +1/+1 counter on each creature you control. This ability only triggers once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/49.png" num="28">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protocol Angel</name>
+			<text>Flying
+When this creature enters, exile another target creature you control. Return it to the battlefield at the beginning of the next end step with a Leading Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/50.png" num="29">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Fight for Your Life</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Fight for Your Life deals 2 damage to target attacking or blocking creature. Then if you&apos;re in your third act, you gain 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/51.png" num="19">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Zero to Hero</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block. If enchanted creature is legendary and you control it, it gains double strike instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/52.png" num="41">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hero&apos;s Stand</name>
+			<text>Target creature you control gets +2/+2 until end of turn. If that creature is legendary, it also gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/53.png" num="21">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Broken Seal</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Exile target artifact or enchantment. If this spell is a blockbuster, exile target nonland permanent instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/54.png" num="8">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recurring Antagonist</name>
+			<text>Menace
+Sequel {B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/55.png" num="106">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hyena Hooligans</name>
+			<text>When this creature enters, target player discards a card.
+Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/56.png" num="98">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hyena Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Targeted Gumshoe</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+This creature gets +2/+2 and has deathtouch during your turn as long as you&apos;re in your third act.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/57.png" num="113">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Killer Clown</name>
+			<text>When this creature enters, each player sacrifices a creature. If you sacrificed a creature other than Killer Clown this way, you gain 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/58.png" num="101">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Clown Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bone-Dry Bandit</name>
+			<text>When this creature enters, target player loses 1 life and you gain 1 life.
+{B}: Return this card from your graveyard to your hand. Activate this ability only if you produced a blockbuster this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/59.png" num="83">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Happy Camper</name>
+			<text>{1}{B}, Sacrifice a creature: Draw a card. If that creature wasn&apos;t legendary, you lose 1 life.
+Sequel {1}{B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/60.png" num="94">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectre of Hate</name>
+			<text>Whenever this creature attacks, you may sacrifice a nonland permanent or discard a card. If you do, this creature gains menace and indestructible until the end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/61.png" num="112">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red Dawn Ninja</name>
+			<text>Flash
+Flying
+When this creature enters, create a Treasure token.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/62.png" num="107">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Wolf of Boxer Street</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Menace
+This creature has haste as long as you&apos;re in your third act.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/63.png" num="117">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Climactic Demise</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Destroy target creature if its power is 3 or less or if this spell is a blockbuster.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/64.png" num="85">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Upstage</name>
+			<text>Create a Leading Role token attached to target creature you control. Up to one other target creature gets -1/-1 until end of turn. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/65.png" num="115">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Set up the Sequel</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Surveil 1, then draw a card and you lose 1 life. If this spell is a blockbuster, draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/66.png" num="111">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Interrogation Scene</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Target player discard two cards. If this spell is a blockbuster, exile that players graveyard.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/67.png" num="99">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flying Front Kick</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Destroy target creature or planeswalker. Then if you&apos;re in your third act, that permanent&apos;s controller loses 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/68.png" num="93">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Harder They Fall</name>
+			<text>This spell costs {3} less to cast if it targets a legendary creature.
+Exile target creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/69.png" num="95">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Camera Thopter</name>
+			<text>Flying
+When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/70.png" num="241">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Actress Stand-in</name>
+			<text>{3}, {T}, Sacrifice this creature: It deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/71.png" num="240">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Studio Director</name>
+			<text>At the beginning of your second main phase, untap this creature if it didn&apos;t attack this turn.
+Whenever you tap this creature to produce a blockbuster, scry 1.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/72.png" num="250">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Doll</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collector&apos;s Item</name>
+			<text>Equipped creature gets +1/+1
+Equip {3}
+Equip legendary creature {1}</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/73.png" num="242">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Makeup and Effects</name>
+			<text>{T}: Add one mana of any color
+{2}, {T}: Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/74.png" num="245">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Find the McGuffin</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+If this spell is a blockbuster, destroy target nonland permanent you don&apos;t control.
+Create a Treasure token.
+Draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/75.png" num="3">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Banishing Light</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/76.png" num="4">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terror of the Darkwood</name>
+			<text>When this creature dies, it deals damage equal to its power to target creature or planeswalker you don&apos;t control.
+Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/77.png" num="149">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adventurous Couple</name>
+			<text>Whenever you attack with this creature and exactly one other creature, exile the top two cards of your library. Until end of turn, you may play one of those cards.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/78.png" num="119">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Bug</name>
+			<text>Haste
+Legendary creatures you control have haste.
+{R}: This creature can&apos;t be blocked this turn except by creatures with haste.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/79.png" num="136">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shyla Montgomery</name>
+			<text>Whenever this creature attacks, create a Treasure token.
+Whenever you produce a blockbuster, Shyla gains first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/80.png" num="143">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Combat Experts</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Create three 1/1 white Soldier creature tokens. Then if you&apos;re in your third act, those creature gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/81.png" num="121">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="3">Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Eager Audience</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Target creature you control gains trample and haste until end of turn. If this spell is a blockbuster, each creature you control gains trample and haste until end of turn instead.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/82.png" num="124">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unlikely Betrayal</name>
+			<text>This spell costs {2} more to cast if it targets a legendary creature.
+Gain control of target creature until end of turn. Untap that creature. It gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/83.png" num="151">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deus Ex Machina</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Return each creature card with mana value 3 or less from your graveyard to the battlefield. Then if you&apos;re in your third act, those creatures gain haste until end of turn.
+Exile Deus Ex Machina.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/84.png" num="206">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RWW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Buggy Shieldbearer</name>
+			<text>Flying
+{W}, Pay 2 life: Create a Leading Role token attached to this creature if it doesn&apos;t have one. Otherwise, it gains indestructible until end of turn. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/85.png" num="9">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Lady, Arthouse Star</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When Lady enters, create two 1/1 white Bird creature tokens with flying.
+When Lady dies, if you&apos;re in your third act, create two 1/1 white Bird creature tokens with flying.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/86.png" num="23">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="2">Bird SOC</reverse_related>
+		</card>
+		<card>
+			<name>Tia Otumbo</name>
+			<text>When Tia enters, create a 1/1 white Horse creature token.
+Whenever Tia attacks, create a Leading Role token attached to target non-Human creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/87.png" num="238">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+			<reverse_related>Horse SOC</reverse_related>
+		</card>
+		<card>
+			<name>Altered Brain</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Target opponent reveals their hand. If this spell is a blockbuster, choose a nonland card from it. Otherwise, choose an artifact or creature card. That player discards the chosen card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/88.png" num="80">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Selfless Partner</name>
+			<text>{1}, Sacrifice Selfless Partner: Target creature you control gains indestructible until end of turn. Create a Leading Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/89.png" num="31">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Tactical Strike Team</name>
+			<text>Defender
+Whenever you produce a blockbuster, untap this creature. It can attack this turn as though it didn&apos;t have defender.
+{2}, {T}: Tap target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/90.png" num="34">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twist Villain</name>
+			<text>Legendary creatures you control get +1/+1.
+Whenever a legendary creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/91.png" num="36">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charismatic Speaker</name>
+			<text>Whenever an Aura you control enters, create a 1/1 white Soldier creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/92.png" num="11">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Soaring Woman</name>
+			<text>Flying
+When this creature enters, if you control another creature with flying or produced a blockbuster this turn, draw card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/93.png" num="70">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pharmaceutical Expeditioners</name>
+			<text>When this creature enters, mill three cards. You may put a nonland, noncreature card from among the cards milled this way into your hand. If you don&apos;t, create a Leading Role token attached to this creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/94.png" num="65">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Alien Anatomist</name>
+			<text>{1}, {T}: Draw a card, then discard a card. This ability cost {1} less to activate if you produced a blockbuster this turn.
+Whenever you discard a card with mana value 5 or greater, create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/95.png" num="42">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>The Big Friendly Beast</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+This creature has hexproof as long as it&apos;s untapped or if you&apos;re in your third act.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/96.png" num="45">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Vengeful Shinobi</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Deathtouch
+At the beginning of your end step, if you&apos;re in you third act, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/97.png" num="116">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Bloodbutcher</name>
+			<text>When this creature enters, up to one other target creature gets -X/-X until end of turn, where X is this creature&apos;s power.
+Sequel {B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/98.png" num="82">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrifying New Villain</name>
+			<text>{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield with a finality counter on it.
+Sequel {3}{B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/99.png" num="114">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Assassin</name>
+			<text>Flash
+{1}{B}, Discard a card: Return this card from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/100.png" num="108">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sidekick</name>
+			<text>First strike
+This creature gets +1/+0 if you control a legendary creature</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/101.png" num="144">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ape Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bulked Star</name>
+			<text>Menace
+At the beginning of combat on your turn, if you produced a blockbuster this turn, this creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/102.png" num="120">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadmaw Matriarch</name>
+			<text>{X}{G}{G}: Create an X/X green Dinosaur token. X must equal this creature&apos;s power. 
+Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/103.png" num="162">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Dinosaur SOC</reverse_related>
+		</card>
+		<card>
+			<name>Endangered Species</name>
+			<text>Whenever you attack with this creature and exactly one other creature, add {G}{G}{G}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/104.png" num="165">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Find the Sacred Place</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If this spell is a blockbuster, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/105.png" num="167">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Turned Ally</name>
+			<text>When this creature enters, you mill four cards.
+Creature spells you cast from your graveyard cost {1} less to cast.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/106.png" num="189">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Greatcrab</name>
+			<text>You may cast this spell for {1}{U}. If you do, it enters tapped with six stun counters on it.
+Whenever you cast a spell with mana value 5 or greater or produce a blockbuster, untap this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/107.png" num="50">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Micromancer</name>
+			<text>When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/108.png" num="63">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Friend &apos;til the End</name>
+			<text>Whenever this creature attacks, another target creature you control gets +X/+X and gains trample until end of turn, where X is this creature&apos;s power.
+Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/109.png" num="169">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Survive the Onslaught</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Target creature you control gains indestructible until end of turn. If this spell is a blockbuster, each creature you control gains indestructible until end of turn instead.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/110.png" num="33">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Break Trust</name>
+			<text>Choose one — 
+• Each opponent sacrifices a legendary creature.
+• Each opponent sacrifices a planeswalker.
+• Each opponent sacrifices a nonlegendary creature with the greatest power among creatures they control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/111.png" num="84">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Write Back In</name>
+			<text>Return target creature card from your graveyard to the battlefield. Create a Leading Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/112.png" num="118">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Close the Wormhole</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Counter target spell if you&apos;re in your third act or if it&apos;s a noncreature spell.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/113.png" num="49">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>CGI Animals</name>
+			<text>Vigilance
+Whenever you cast a spell with mana value 5 or greater or produce a blockbuster, create a token that&apos;s a copy of this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/114.png" num="161">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lifeforce Ship</name>
+			<text>Whenever this Vehicle attacks, create a tapped Treasure token. Surveil 1.
+Pay 2 life: This Vehicle becomes an artifact creature until end of turn. Activate this ability only during your turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/115.png" num="102">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Into the Maw of Greatness</name>
+			<text>When this enchantment enters, create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)
+Whenever you attack, put a +1/+1 counter on up to one target attacking legendary creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/116.png" num="175">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Dark Horde Rising</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When this enchantment enters, mill four cards. Create a 1/1 black Skeleton creature token for each creature card milled this way.
+Skeletons you control get +1/+1 as long as you&apos;re in your third act.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/117.png" num="89">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Skeleton SOC</reverse_related>
+		</card>
+		<card>
+			<name>Cornered Lover</name>
+			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures get +1/+1 and have trample.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/118.png" num="201">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raze the Castle</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Choose one. You may choose both instead if this spell is a blockbuster.
+• Destroy target artifact you don&apos;t control.
+• Raze the Castle deals 2 damage to each creature without flying.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/119.png" num="140">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Punch the Turtle</name>
+			<text>Create a Leading Role token attached to target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don&apos;t control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/120.png" num="184">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Romantic Tension</name>
+			<text>Tap two untapped creatures you control: This enchantment deals 1 damage to target opponent. Then if this enchantment has dealt 3 or more damage to an opponent this turn, sacrifice it. When you do, discard your hand and draw three cards.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/121.png" num="141">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Scheme Unfolds</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Mill three cards. You may return a creature card from your graveyard to your hand. If you&apos;re in your third act, each opponent loses life equal to that creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/122.png" num="109">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Dark Ending</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+All creatures get -2/-2 until end of turn. If this spell is a blockbuster, creatures your opponents control get -2/-2 until end of turn instead.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/123.png" num="88">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Femme Fatale</name>
+			<text>Deathtouch
+When this creature enters, destroy target legendary creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/124.png" num="91">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Low Point</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2.
+At the beginning of the upkeep of enchanted creature&apos;s controller, that player loses 2 life. If the enchanted creature is legendary, that player loses 3 life instead.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/125.png" num="103">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Team Up!</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Choose one. If this spell is a blockbuster, you may choose both instead.
+• Create two 1/1 red Rogue creature tokens.
+• Team Up! deals damage to target creature or planeswalker equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/126.png" num="148">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related count="2">Rogue SOC</reverse_related>
+		</card>
+		<card>
+			<name>Stand Off</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. If this spell is a blockbuster, repeat this process once.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/127.png" num="147">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incidental Destruction</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Destroy target artifact, enchantment, or land. If this spell is a blockbuster, creatures you control get +2/+2 and trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/128.png" num="174">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explore the Depths</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Choose up to three target permanent cards in your graveyard. If you&apos;re in your third act, you may return each card chosen this way to your hand. Otherwise, return two of the cards chosen this way to your hand instead.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/129.png" num="166">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Loving Beast</name>
+			<text>When this creature attacks with exactly one other creature, put a +1/+1 counter on each of those creatures.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/130.png" num="177">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hubris of Discovery</name>
+			<text>Whenever you cast a spell with mana value 5 or greater, draw a card.
+Whenever a permanent you control with mana value 5 or greater dies, draw a card.
+When you draw your third card in a turn, sacrifice this enchantment.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/131.png" num="171">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Thunder Squad</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+At the beginning of your end step, if you&apos;re in your third act, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/132.png" num="35">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Makeup Artist</name>
+			<text>{T}: Create a Leading Role token attached to another target creature you control that doesn&apos;t have one. Activate this ability only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/133.png" num="24">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Space Pilgrim</name>
+			<text>Vigilance
+Whenever you produce a blockbuster, create a 1/1 colorless Drone artifact creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/134.png" num="234">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Drone SOC</reverse_related>
+		</card>
+		<card>
+			<name>Paragon Battery</name>
+			<text>This artifact enters tapped. When it does, tap target creature you don&apos;t control and put a stun counter on it.
+{T}: Add {C}{C}. Spend this mana only to cast noncreature spells.
+Warp 1{WU} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/135.png" num="227">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Redrin Greyfur // Pledge Fealty</name>
+			<text>Trample
+At the beginning of your end step, if you control another legendary creature, draw a card.
+
+---
+
+Create a Leading Role token attached to target creature. (Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/136.png" num="229">SOC</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Knight // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW // 1G/W</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Khazra</name>
+			<text>First strike
+When Khazra enters, create Mikandros, a legendary 4/4 red Dragon creature token with flying.
+Other legendary creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/137.png" num="220">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Mikandros SOC</reverse_related>
+		</card>
+		<card>
+			<name>Erupting Sandmaw</name>
+			<text>Flash
+When this creature enters, you may tap it. If you do, choose one — 
+• Destroy target creature with flying.
+• Return another target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/138.png" num="210">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citybreaker Kaiju</name>
+			<text>Trample
+When this creature enters or becomes monstrous, draw a card for each permanent you control with mana value 5 or greater, then discard a card.
+{5}{G}{U}: Monstrosity 3. (If this creature isn&apos;t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/139.png" num="199">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Electric Explosion</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+When you cast this spell, if it&apos;s a blockbuster, copy it. You may choose new targets for the copy.
+Electric Explosion deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/140.png" num="209">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Super Hero Squad</name>
+			<text>Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
+First strike
+When this creature attacks, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/141.png" num="236">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Deep Space Defender</name>
+			<text>Flying
+{2}{W}, Exile this card from your graveyard: Return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/142.png" num="17">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloning Chamber</name>
+			<text>When this artifact enters, create a copy of target token creature you control.
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/143.png" num="14">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clean-up Crew</name>
+			<text>Flash
+When this creature enters, create a 1/1 white Soldier creature token for each tapped creature you control and each creature you controlled that died under your control this turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/144.png" num="13">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Imperial Defense System</name>
+			<text>Flying
+Whenever you produce a blockbuster on your turn, you may have this Vehicle become an artifact creature until end of turn.
+Whenever this Vehicle attacks, you may draw a card. If you do, discard a card.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/145.png" num="61">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roll the Dice</name>
+			<text>As an additional cost to cast this spell, discard a card or sacrifice a creature.
+Draw two cards and create a Treasure token. Roll the Dice deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/146.png" num="231">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>The Final Reveal</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Return target creature card from your graveyard to the battlefield if its mana value is 3 or less or if this spell is a blockbuster.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/147.png" num="212">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shock and Awe</name>
+			<text>Blockbuster 1 (As an additional cost to cast this spell, you may tap an untapped non-Aura permanent you control. If you do, this spell is a blockbuster.)
+Shock and Awe deals 2 damage divided as you choose among one or two targets.
+If this spell is a blockbuster, draw a card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/148.png" num="233">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvest Killer</name>
+			<text>Whenever this creature or another creature you control enters, if it entered from your graveyard or if you cast it from your graveyard, put two +1/+1 counters on it.
+Sequel {BG} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/149.png" num="215">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master in the Marsh</name>
+			<text>Ninjutsu {1}{U}{B} ({1}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever this creature deals combat damage to a player, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/150.png" num="223">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confident Criminal</name>
+			<text>Menace, trample
+Whenever you commit a crime, create a Treasure token. This ability only triggers once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/151.png" num="200">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
+		</card>
+		<card>
+			<name>Alliance of Passion</name>
+			<text>When this enchantment enters, create two 2/2 red Human creature tokens.
+Whenever you attack with exactly two creatures, creatures you control gain menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/152.png" num="195">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related count="2">Human SOC</reverse_related>
+		</card>
+		<card>
+			<name>Magician Adept</name>
+			<text>Spectacle {3}{U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Prowess
+When this creature enters, if you paid its spectacle cost, create a token that is a copy of it.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/153.png" num="222">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrifying Slash</name>
+			<text>Destroy target permanent.
+Manifest dread (Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/154.png" num="237">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BBGG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragged Back to the Shadows</name>
+			<text>As an additional cost to cast this spell, discard a card or pay 3 life.
+Put target creature on the bottom of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/155.png" num="208">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Split</name>
+			<text>Exile target creature. Create two tokens that are each copies of it, except they both have base power and toughness 1/1. Sacrifice them at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/156.png" num="235">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strange Beacon</name>
+			<text>Whenever you produce a blockbuster or cast a spell with mana value 5 or greater, untap this artifact.
+{U}, {T}: Target player mills two cards.
+{3}{U}, {T}: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/157.png" num="72">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Martial Arts Training</name>
+			<text>When this enchantment enters, tap target nonland permanent you don&apos;t control and put a stun counter on it.
+Whenever you produce a blockbuster, you may return this enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/158.png" num="62">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gravity Anomaly</name>
+			<text>Blockbuster 6 (As an additional cost to cast this spell, you may tap six untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+If this spell is a blockbuster, copy it. You may choose new targets for the copy.
+Return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/159.png" num="57">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Compact Multitool</name>
+			<text>When this equipment enters, attach it to a creature you control.
+At the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike until end of turn.
+Equipped creature gets +2/+2. 
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/160.png" num="15">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Break from Tradition</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/161.png" num="7">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Consider the Possibilities</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+If you&apos;re in your third act, surveil 3.
+Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/162.png" num="51">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Bird SOC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/163.png" num="2">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Horse SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/164.png" num="4">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Soldier SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/165.png" num="5">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Skeleton SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/166.png" num="8">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Human SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/167.png" num="10">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Rogue SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/168.png" num="12">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Treasure SOC</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/169.png" num="17">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Leading Role SOC</name>
+			<text>Enchant creature
+Enchanted creature is legendary, gets +1/+1, and has vigilance.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/170.png" num="1">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura Role</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Refurbisher</name>
+			<text>{3}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/171.png" num="247">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Sentinel</name>
+			<text>Third Act. (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When this creature enters, if you&apos;re in your third act, put a shield counter on target creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/172.png" num="244">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>POV Camera</name>
+			<text>Whenever you produce a blockbuster or cast a spell with mana value 5 or greater, you gain 1 life.
+Pay 1 life, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/173.png" num="246">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentient Car</name>
+			<text>Haste
+Sequel {2} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/174.png" num="248">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unnamed Hero</name>
+			<text>Reach
+Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/175.png" num="152">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Film Stage</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}, {T}, Sacrifice this land: Draw a card. Activate this ability only if you&apos;re in your third act.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/176.png" num="254">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Location Scouting</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If you control three or more basic lands with different types, untap that land.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/177.png" num="257">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cornered Mobster</name>
+			<text>Vigilance, deathtouch
+At the beginning each of combat, any opponent may collect evidence 8. If they do, tap this creature and put two +1/+1 counters on it. (To collect evidence 8, exile cards with total mana value 8 or greater from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/178.png" num="202">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Buggy Vanguard</name>
+			<text>Flying
+When this creature enters, other creatures you control get +X/+X until end of turn, where X is its power.
+Sequel {1}{W} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/179.png" num="10">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mother Mon-Mon</name>
+			<text>Trample
+At the beginning of combat on your turn, another target creature with mana value 5 or greater gains trample until end of turn.
+Sequel {G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/180.png" num="179">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Collete Klide</name>
+			<text>When Collete Klide enters, create a 2/2 white Detective creature token.
+Whenever you produce a blockbuster or a creature you controls dies, target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/181.png" num="87">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Tiefling Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Detective SOC</reverse_related>
+		</card>
+		<card>
+			<name>Captain Marvelous</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Flying
+Whenever Captain Marvelous deals combat damage to a player, draw a card. Then discard a card unless you&apos;re in your third act.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/182.png" num="47">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Green Knight</name>
+			<text>When this creature enters, if you control a legendary creature, draw a card.
+This creature can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/183.png" num="170">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illuminate the Night</name>
+			<text>Blockbuster 2 (As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Illuminate the Night deals 1 damage to each creature your opponents control. If this spell is a blockbuster, those creatures can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/184.png" num="132">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sharktomus Prime</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When this creature enters, return target creature an opponent controls to its owner&apos;s hand. If you&apos;re in your third act, put that creature on top of its owner&apos;s library instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/185.png" num="69">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Big Bad Tree</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Reach, trample
+This creature enters with four +1/+1 counters on it if you&apos;re in your third act.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/186.png" num="159">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Completely Surrounded</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Destroy target creature if it has power 4 or greater or if you&apos;re in your third act.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/187.png" num="16">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Wayne Barnes</name>
+			<text>Flying
+Whenever Wayne Barnes or another creature you control dies, you may pay {2}. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/188.png" num="40">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Owl Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volnir&apos;s Phoenix</name>
+			<text>Flying, haste
+When this creature enters, it deals damage to each opponent equal to the number of nonbasic lands they control.
+Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/189.png" num="153">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helm of Volnir</name>
+			<text>At the beginning of your end step, each opponent loses 2 life unless they discard a card or sacrifice a permanent.
+Whenever an opponent loses life for the first time during your turn, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/190.png" num="97">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dr. Archibald Ratticus</name>
+			<text>Deathtouch
+Other legendary creatures you control have deathtouch.
+{2}, Discard a card: Create a Leading Role token attached to another target creature you control. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/191.png" num="90">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Leaky Futuretron</name>
+			<text>When this creature dies, it deals 3 damage to target creature or planeswalker an opponent controls. If you produced a blockbuster this turn, it deals 3 damage to each creature and each planeswalker instead.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/192.png" num="135">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>End of the Line</name>
+			<text>When this enchantment enters, choose a creature card name.
+Creatures with the chosen name are 1/1s and have no abilities.
+Creatures with the chosen name aren&apos;t legendary and can&apos;t become legendary.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/193.png" num="18">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Holly Drake</name>
+			<text>Aura and Equipment spells you cast cost {1} less to cast.
+When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/194.png" num="22">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planetary Disaster</name>
+			<text>Choose up to one artifact. Destroy all other nonland permanents.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/195.png" num="27">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ghost of Stage 10</name>
+			<text>Flying, lifelink
+When this creature enters, exile target nonland permanent an opponent controls until this creature leaves the battlefield.
+Sequel {4}{W}{W} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/196.png" num="20">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temporal Anomaly</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+For each creature you control, create a token that is a copy of that creature. Then if this spell is a blockbuster, take an extra turn after this one.
+Exile Temporal Anomaly.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/197.png" num="74">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blue Spectre</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Blue Spectre can&apos;t be blocked as long as you&apos;re in your third act.
+{1}{U}, Discard a card: Exile Blue Spectre. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/198.png" num="46">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>VAL1000</name>
+			<text>At the beginning of your upkeep, look at the top card of your library. If it&apos;s an instant or sorcery card, you may exile it. It gains blockbuster 2.
+During your turn, you may cast cards exiled by VAL1000 by paying their blockbuster costs in addition to their mana costs.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/199.png" num="79">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tyde Turner</name>
+			<text>Third Act
+Flash
+Flying
+When Tyde Turner enters, return target spell to its owner&apos;s hand. Then if you&apos;re in your third act, create a copy of that spell. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/200.png" num="77">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Four Dimensional Beast</name>
+			<text>When you cast this spell, create X copies of it. You may cast the copies without paying their mana costs.
+When this creature enters, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/201.png" num="56">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Mutant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>XXUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sensei Ira</name>
+			<text>Whenever Sensei Ira deals combat damage to a player, reveal the top card of your library. Put that card into your hand. You lose life equal to its mana value.
+{2}{B}{B}, Sacrifice an unblocked attacking creature: Return Sensei Ira from your graveyard to the battlefield tapped and attacking.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/202.png" num="110">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Message Received</name>
+			<text>Destroy each creature with mana value 3 or less.
+Until your next turn, all creatures have &quot;When this creature enters, discard a card.&quot;</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/203.png" num="105">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Final Torment</name>
+			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Target player discards their hand. Then if this spell is a blockbuster, you may return a creature card that was discarded this way from the graveyard to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/204.png" num="92">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kill Your Darlings</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Destroy target creature if it&apos;s legendary or if this spell is a blockbuster.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/205.png" num="100">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Last Kiss</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Choose two creatures you control. Last Kiss deals 3 damage to each other creature. If you&apos;re in your third act, after this phase, there is an additional combat phase. At the beginning of your next end step, sacrifice each creature you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/206.png" num="134">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hound Conjurer</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+When this creature enters, create X 1/1 red Dog creature tokens with haste, where X is the number of instant and sorcery cards in your graveyard. Sacrifice them at the beginning of your next end step unless you&apos;re in your third act.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/207.png" num="131">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Dog SOC</reverse_related>
+		</card>
+		<card>
+			<name>Postal Carrier</name>
+			<text>This creature can&apos;t block.
+When this creature enters, if you control no other untapped creatures, create a Leading Role token attached to this creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/208.png" num="139">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Halfling Coward</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Special Bond</name>
+			<text>Choose two target creatures you control. They each get +X/+X until end of turn, where X is their total power. Then the creature with the greatest power among creatures you control must be blocked this turn if able.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/209.png" num="186">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elder of the Guild</name>
+			<text>Legendary creatures you control have trample.
+Landfall — Whenever a land you control enters, create a Leading Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/210.png" num="164">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Hungry Little Terrors</name>
+			<text>When this creature enters, destroy up to one target artifact you don&apos;t control. When you do, put a +1/+1 counter on this creature.
+When you cast this card from your graveyard, create two tokens that are each copies of it.
+Sequel {4}{G}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/211.png" num="173">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angry Primordial</name>
+			<text>When this creature enters, destroy target noncreature permanent you don&apos;t control.
+This creature gets +5/+5 if it has a counter on it.
+Sequel {5}{G}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/212.png" num="157">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dr. Zenus Prime</name>
+			<text>At the beginning of your upkeep, gain control of target creature or artifact you don&apos;t control until end of turn. Untap it. If it&apos;s a creature, it can&apos;t attack or block for as long as you control it.
+Whenever you tap a permanent that you control but don&apos;t own, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/213.png" num="207">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fates Foretold</name>
+			<text>Whenever one or more legendary creatures you control attack, scry 1. Until end of turn, you may look at the top card of your library any time and you may cast creature spells from the top of your library.
+{4}{G}{W}: Creatures you control get +2/+2 until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/214.png" num="211">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tommy Bones</name>
+			<text>Haste
+You may cast Tommy Bones from your graveyard by sacrificing a nonland permanent in addition to paying its other costs.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/215.png" num="239">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Our Love is Forever</name>
+			<text>Search your library and/or graveyard for exactly two creature cards with total mana value of 6 or less and put them onto the battlefield. Those creatures gain haste and indestructible until end of turn. If you searched your library this way, shuffle.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/216.png" num="226">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RG</manacost>
+				<cmc>7</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Detective Fluffles</name>
+			<text>When this creature enters, look at target opponent&apos;s hand. You may choose an instant or sorcery card from it. Exile that card.
+Sequel {3}{W}{B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/217.png" num="205">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alternate Timelines</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Choose a creature. Create a token that is a copy of the chosen creature. Then if this spell is a blockbuster, Alternate Timelines deals 4 damage to the chosen creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/218.png" num="196">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>It&apos;s a Crossover!</name>
+			<text>Once during each of your turns, you may cast a creature card from your graveyard by milling three cards in addition to paying its other costs.
+At the beginning of your upkeep, if you control ten or more creatures and have ten or more creature cards in your graveyard, you win the game.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/219.png" num="218">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Horror</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, if you&apos;re in your third act, create a token that is a copy of enchanted creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/220.png" num="203">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>City of Heroes</name>
+			<text>Third Act
+This land enters tapped unless you&apos;re in your third act.
+{T}: Add {R}.
+{3}{R}, {T}, Sacrifice this land: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/221.png" num="253">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Kaiju Homeworld</name>
+			<text>Third Act
+This land enters tapped unless you&apos;re in your third act.
+{T}: Add {G}.
+{5}{G}, {T}, Sacrifice this land: Create a 5/5 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/222.png" num="256">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Beast SOC</reverse_related>
+		</card>
+		<card>
+			<name>Shootout Gully</name>
+			<text>Third Act
+This land enters tapped unless you&apos;re in your third act.
+{T}: Add {B}.
+{3}{B}, {T}, Sacrifice this land: Each opponent loses 3 life. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/223.png" num="259">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Intergalactic Spaceport</name>
+			<text>Third Act
+This land enters tapped unless you&apos;re in your third act.
+{T}: Add {U}.
+{1}{U}, {T}, Sacrifice this land: Surveil 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/224.png" num="255">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Adventurer&apos;s Village</name>
+			<text>Third Act
+This land enters tapped unless you&apos;re in your third act.
+{T}: Add {W}.
+{2}{W}, {T}, Sacrifice this land: Create two 1/1 white Soldier creature tokens.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/225.png" num="252">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="2">Soldier SOC</reverse_related>
+		</card>
+		<card>
+			<name>Anguish</name>
+			<text>Menace
+When this creature enters, you draw cards equal to its power and lose that much life.
+Sequel {1}{B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/226.png" num="81">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Master</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+{T}: Add one mana of any color.
+This creature has base power and toughness 4/4 as long as you&apos;re in your third act.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/227.png" num="168">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Film Editing</name>
+			<text>Reveal the top five cards of your library. You may put up to one land card and up to one colorless nonland card from among them into your hand. Exile the rest.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/228.png" num="2">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>X-11, The Gargantuan</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Trample
+X-11 is an artifact creature as long as you&apos;re in your third act.
+Crew 3</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/229.png" num="251">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>The Stone of Kings</name>
+			<text>{T}: Add X mana in any combination of colors, where X is the number of legendary permanents you control.
+At the beginning of your end step, if you control three or more legendary permanents, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/230.png" num="249">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Two is Better</name>
+			<text>When this enchantment enters, up to two target creatures you control each get +2/+2 and gain trample until end of turn.
+Whenever you attack with exactly two creatures, exile up to two target cards from any graveyard. Put a +1/+1 counter on target creature you control for each creature card exiled this way.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/231.png" num="190">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Masked Vigilante</name>
+			<text>When this creature enters, exile the top card of your library. You may play that card this turn.
+Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/232.png" num="137">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncapped Rage</name>
+			<text>Blockbuster 7 (As an additional cost to cast this spell, you may tap seven untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+This spell can&apos;t be countered.
+Uncapped Rage deals 3 damage to any target. If this spell is a blockbuster, it deals 10 damage to that permanent or player and that damage can&apos;t be prevented.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/233.png" num="150">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heroic Weakness</name>
+			<text>Choose one —
+• Counter target spell with mana value 1.
+• Return target creature to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/234.png" num="59">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Takedown of Bai-Ran</name>
+			<text>When this enchantment enters, target creature you control can&apos;t be blocked this turn.
+Whenever one or more creatures you control deal combat damage to an opponent, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/235.png" num="73">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unravel the Code</name>
+			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Return target instant or sorcery card from your graveyard to your hand. If this spell is a blockbuster, create two copies of that card. You may cast the copies without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/236.png" num="78">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deceiving Fist</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Counter target spell. If you&apos;re in your third act, exile its controller&apos;s graveyard. Until the end of your next turn, you may cast cards exiled this way and you may spend mana as though it were mana of any color to cast them.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/237.png" num="204">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UUB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Never Found the Body</name>
+			<text>Third Act
+Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of your next end step unless you&apos;re in your third act.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/238.png" num="224">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Charming Minotaur</name>
+			<text>Trample
+Whenever you attack with this creature and exactly one other creature, create a Leading Role token attached to up to one target attacking creature. Untap it. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/239.png" num="198">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Reset Protocol</name>
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Return all creatures and planeswalkers to their owner&apos;s hands. If this spell is a blockbuster, each player shuffles their hand and graveyard into their library, then draws seven cards.
+Exile Reset Protocol.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/240.png" num="230">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toxin</name>
+			<text>Trample
+When Toxin enters, return up to two target non-Mutant permanent cards from your graveyard to your hand.
+Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This ability triggers only twice each turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/241.png" num="188">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seth, Breaking Through</name>
+			<text>Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once. Activate only as a sorcery.
+[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
+[-3]: Seth deals 2 damage to any target.
+[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/242.png" num="232">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Seth</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cohen, Archvillain</name>
+			<text>{5}{B}{B}: Return Cohen from your graveyard to the battlefield with a finality counter. Activate only as a sorcery.
+[+1]: Create a Blood token.
+[0]: Until end of turn, Cohen becomes a 4/4 Vampire creature with flying, lifelink, and indestructible.
+[-7]: You get an emblem with &quot;Whenever a creature dies, target opponent loses 1 life and you gain 1 life.&quot; Then destroy all creatures.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/243.png" num="86">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Cohen</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Blood SOC</reverse_related>
+			<reverse_related>Cohen Archvillain Emblem SOC</reverse_related>
+		</card>
+		<card>
+			<name>Virtuous Knight</name>
+			<text>{W}: Create a Leading Role token attached to this creature if it doesn&apos;t have one.
+{W}{W}: Put two +1/+1 counters on this creature if it&apos;s legendary and it has no counters on it.
+{W}{W}{W}, {T}: Destroy target creature with power 4 or greater. Activate this ability only if this creature has power 4 or greater and only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/244.png" num="39">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Leading Role SOC</reverse_related>
+		</card>
+		<card>
+			<name>Search the Universe</name>
+			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+Search your library for a legendary creature or planeswalker card, reveal it, put it into your hand, then shuffle. If this spell is a blockbuster, search your library for two legendary creature and/or planeswalker cards instead.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/245.png" num="30">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Admiral Joseph</name>
+			<text>Vigilance, ward {2}
+You may sacrifice another creature rather than pay the blockbuster cost of spells you control. If you sacrifice a creature this way, that spell can&apos;t be countered and you draw a card.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/246.png" num="194">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>5WB</manacost>
+				<cmc>7</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantle of the Empire</name>
+			<text>As an additional cost to cast spells from your hand, you may pay X life and discard X cards. Spells cast this way cost {X} less to cast.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/247.png" num="104">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Siege Mastodon</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+If you would create one or more creature tokens, if you&apos;re in your third act, instead create those tokens plus an additional two 1/1 white Soldier creature tokens.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/248.png" num="185">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Kal Rod&apos;r</name>
+			<text>{T}: Put a program counter on target creature. It&apos;s an artifact in addition to its other types.
+{B}, {T}: Destroy target artifact creature.
+{1}{W}, {T}: Exile target artifact creature. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/249.png" num="219">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Illusionist</name>
+			<text>The Illusionist can&apos;t be blocked.
+Whenever The Illusionist deals combat damage to a player, put a +1/+1 counter on it. Then you may phase it out.
+When The Illusionist phases in, remove all +1/+1 counters from it and draw that many cards.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/250.png" num="217">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Illusion Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lyndy</name>
+			<text>Menace
+When Lyndy enters, put a +1/+1 counter on her for each creature card in your graveyard.
+Sequel {1}{B}{G} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/251.png" num="221">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ratrisha Rocket</name>
+			<text>Third Act
+Flying, first strike
+Whenever Ratrisha Rocket attacks, discard a card. When you do, exile the top card of target opponent&apos;s library. You may play that card this turn. If you&apos;re in your third act, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/252.png" num="228">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Germinating Grub</name>
+			<text>{1}{G}{U}, Exile this card from your hand with a cocoon counter on it: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+You may cast this card from exile as long as it has a cocoon counter and you control seven or more lands.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/253.png" num="213">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morgril, the Devastator</name>
+			<text>Third Act
+Trample
+At the beginning of your upkeep, discard a card. When you do, Morgril deals 2 damage to each player.
+Morgril can&apos;t attack or block unless you&apos;re in your third act.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/254.png" num="138">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Skelly Boy Beatdown</name>
+			<text>Blockbuster X (As an additional cost to cast this spell, you may tap X untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+If this spell is a blockbuster, create X 1/1 black Skeleton creature tokens.
+Choose a creature you don&apos;t control at random. Skelly Boy Beatdown deals damage to that target equal to the number of creatures you control.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/255.png" num="145">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse_related>Skeleton SOC</reverse_related>
+		</card>
+		<card>
+			<name>Ortesian Sneak</name>
+			<text>Trample
+Whenever this creature attacks, look at the top card of your library. You may put that card onto the battlefield tapped if it&apos;s a land. Otherwise, surveil 1.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/256.png" num="181">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormbringer Behemoth</name>
+			<text>Flash
+This spell can&apos;t be countered.
+Whenever you cast a spell, draw cards equal to that spell&apos;s mana value. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/257.png" num="71">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monitor Room</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color among legendary creatures you control.
+{4}, {T}, Sacrifice this land: Return target legendary card from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/258.png" num="258">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Family Friendly Hero</name>
+			<text>When this creature enters, return another target creature to its owner&apos;s hand.
+Sequel {3}{U}{U} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/259.png" num="54">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellbreach Heroine</name>
+			<text>When this creature enters, if it entered from your graveyard or you cast it from your graveyard, create two 1/1 black Horror creature tokens with deathtouch.
+Sequel {3}{B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/260.png" num="96">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse_related count="2">Horror SOC</reverse_related>
+		</card>
+		<card>
+			<name>Colossal Kaiju</name>
+			<text>Vigilance, menace, reach, trample
+Sacrifice a land: This creature gains indestructible until end of turn.
+Sequel {3} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/261.png" num="1">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>One by One</name>
+			<text>Enchant creature
+At the beginning of each end step, if a creature didn&apos;t die this turn, enchanted creature&apos;s controller sacrifices it. Then that creature&apos;s controller chooses target creature. Return this enchantment from its owner&apos;s graveyard enchanting that creature.
+When there are one or fewer creatures on the battlefield, sacrifice this enchantment.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/262.png" num="225">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guppy</name>
+			<text>At the beginning of your upkeep, exile another target creature. Return the exiled creature to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Guppy has all activated abilities of creatures exiled with it.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/263.png" num="214">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legedary Artifact Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Big Screen</name>
+			<text>When this battle enters, return target instant or sorcery card from your graveyard to your hand.
+Lands you control have &quot;{T}: Add two mana of any one color.&quot;
+At the beginning of combat on your turn, choose from lifelink, flying, deathtouch, haste, and trample. Creatures you control gain the chosen ability until end of turn.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/264.png" num="197">SOC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle</type>
+				<maintype>Battle</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<loyalty>7</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dimensional Antenna</name>
+			<text>When this artifact enters, you may exile any number of cards from your hand. If you do, put that many cards you own from outside the game on top of your library.
+At the beginning of your upkeep, draw a card.
+Spells you cast cost {2} less to cast.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/265.png" num="243">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hero&apos;s Rise</name>
+			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
+Creatures you control get +1/+1.
+At the beginning of combat on your turn, creatures you control gain flying until end of turn if you&apos;re in your third act.</text>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/SOC-files/img/266.png" num="216">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse_related>Third Act SOC</reverse_related>
+		</card>
+		<card>
+			<name>Third Act</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/267.png" num="1">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Detective SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/268.png" num="3">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Detective</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Beast SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/269.png" num="13">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Blood SOC</name>
+			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/270.png" num="15">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Dinosaur SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/271.png" num="14">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Drone SOC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/272.png" num="16">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Horror SOC</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/273.png" num="7">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Dog SOC</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/274.png" num="9">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Mikandros SOC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/275.png" num="11">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Cohen, Archvillain Emblem SOC</name>
+			<text>Whenever a creature dies, target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/276.png" num="6">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

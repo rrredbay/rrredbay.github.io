@@ -6,6 +6,11 @@
             "formats": "Standard"
         },
         {
+            "set_code": "SOC",
+            "set_name": "Stars of Cinesterra",
+            "formats": "Standard"
+        },
+        {
             "set_code": "WGJ",
             "set_name": "Wrenchmar: Gambit of the Junklords",
             "formats": "Standard"
