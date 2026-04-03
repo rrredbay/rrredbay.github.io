@@ -3378,6 +3378,266 @@
 	1 The Big Screen
 	1 Dimensional Antenna
 	1 Hero's Rise
-[wildcard(1)]
+[wildcard(2)]
+	6 Portal Opener
+	6 Ninja in the Wings
+	6 Deep Space Navigator
+	6 Cephalid Sidekick
+	6 Time Traveling Cop
+	6 Greatspan Kaiju
+	6 The Prestige
+	6 Plot Armor
+	6 Anticipate
+	6 Horizons Unfolding
+	6 Face in a Crowd
+	6 Banishing Portal
+	6 Training Session
+	6 Wild Rider
+	6 Scene Crasher
+	6 Gamblin' Gal
+	6 Family Man
+	6 Grinning Captive
+	6 Couple o' Escapees
+	6 Killer in the Streets
+	6 Wandering Dreadmaw
+	6 Cool Guys Don't Look at Explosions
+	6 Fastest Shot in the West
+	6 Forbidden Rendezvous
+	6 Stagecoach Robbery
+	6 Hero's Rage
+	6 Plasma Shield Defender
+	6 Brave Little Toadster
+	6 Wooden Slasher
+	6 Pining Suitor
+	6 Young Lovers
+	6 Eight-Legged Freak
+	6 Killer Croc
+	6 Armored Kaiju
+	6 Two-Headed Goliath
+	6 Monster's Fury
+	6 Ominous Warpgate
+	6 Stronger Together
+	6 Altar of Heroes
+	6 Hulking Growth
+	6 Flashblade Ninja
+	6 Unconventional Mentor
+	6 Villain's Underling
+	6 Pendant Thief
+	6 Brash Detective
+	6 Odd Pair
+	6 Sole Survivor
+	6 Brave Explorer
+	6 Chosen One
+	6 Power Player
+	6 Protocol Angel
+	6 Fight for Your Life
+	6 Zero to Hero
+	6 Hero's Stand
+	6 Broken Seal
+	6 Recurring Antagonist
+	6 Hyena Hooligans
+	6 Targeted Gumshoe
+	6 Killer Clown
+	6 Bone-Dry Bandit
+	6 Happy Camper
+	6 Spectre of Hate
+	6 Red Dawn Ninja
+	6 Wolf of Boxer Street
+	6 Climactic Demise
+	6 Upstage
+	6 Set up the Sequel
+	6 Interrogation Scene
+	6 Flying Front Kick
+	6 Harder They Fall
+	6 Camera Thopter
+	6 Actress Stand-in
+	6 Studio Director
+	6 Collector's Item
+	6 Makeup and Effects
+	6 Find the McGuffin
+	6 Banishing Light
+	15 Terror of the Darkwood
+	15 Adventurous Couple
+	15 Lightning Bug
+	15 Shyla Montgomery
+	15 Combat Experts
+	15 Eager Audience
+	15 Unlikely Betrayal
+	7 Deus Ex Machina
+	15 Buggy Shieldbearer
+	7 Lady, Arthouse Star
+	7 Tia Otumbo
+	15 Altered Brain
+	15 Selfless Partner
+	15 Tactical Strike Team
+	15 Twist Villain
+	15 Charismatic Speaker
+	15 Soaring Woman
+	15 Pharmaceutical Expeditioners
+	15 Alien Anatomist
+	15 The Big Friendly Beast
+	15 Vengeful Shinobi
+	15 Bloodbutcher
+	15 Terrifying New Villain
+	15 Relentless Assassin
+	15 Sidekick
+	15 Bulked Star
+	15 Dreadmaw Matriarch
+	15 Endangered Species
+	15 Find the Sacred Place
+	15 Turned Ally
+	15 Colossal Greatcrab
+	15 Micromancer
+	15 Friend 'til the End
+	15 Survive the Onslaught
+	15 Break Trust
+	15 Write Back In
+	15 Close the Wormhole
+	15 CGI Animals
+	15 Lifeforce Ship
+	15 Into the Maw of Greatness
+	15 Dark Horde Rising
+	15 Cornered Lover
+	15 Raze the Castle
+	15 Punch the Turtle
+	15 Romantic Tension
+	15 The Scheme Unfolds
+	15 Dark Ending
+	15 Femme Fatale
+	15 Low Point
+	15 Team Up!
+	15 Stand Off
+	15 Incidental Destruction
+	15 Explore the Depths
+	15 Loving Beast
+	15 Hubris of Discovery
+	15 The Thunder Squad
+	15 Makeup Artist
+	15 Space Pilgrim
+	15 Paragon Battery
+	15 Redrin Greyfur
+	15 Khazra
+	15 Erupting Sandmaw
+	15 Citybreaker Kaiju
+	15 Electric Explosion
+	15 Super Hero Squad
+	15 Deep Space Defender
+	15 Cloning Chamber
+	7 Clean-up Crew
+	15 Imperial Defense System
+	15 Roll the Dice
+	15 The Final Reveal
+	15 Shock and Awe
+	15 Harvest Killer
+	15 Master in the Marsh
+	15 Confident Criminal
+	15 Alliance of Passion
+	15 Magician Adept
+	15 Terrifying Slash
+	15 Dragged Back to the Shadows
+	7 Split
+	15 Strange Beacon
+	15 Martial Arts Training
+	15 Gravity Anomaly
+	15 Compact Multitool
+	15 Break from Tradition
+	15 Consider the Possibilities
+	15 Refurbisher
+	15 Lost Sentinel
+	15 POV Camera
+	15 Sentient Car
+	6 Unnamed Hero
+	6 Film Stage
+	6 Location Scouting
+	15 Cornered Mobster
+	15 Buggy Vanguard
+	15 Mother Mon-Mon
+	15 Collete Klide
+	15 Captain Marvelous
+	6 Green Knight
+	6 Illuminate the Night
+	6 Sharktomus Prime
+	15 Big Bad Tree
+	15 Completely Surrounded
+	7 Wayne Barnes
+	7 Volnir's Phoenix
+	7 Helm of Volnir
+	7 Dr. Archibald Ratticus
+	7 Leaky Futuretron
+	7 End of the Line
+	7 Holly Drake
+	7 Planetary Disaster
+	7 Ghost of Stage 10
+	4 Temporal Anomaly
+	7 Blue Spectre
+	7 VAL1000
+	7 Tyde Turner
+	7 Four Dimensional Beast
+	7 Sensei Ira
+	7 Message Received
+	7 Final Torment
+	7 Kill Your Darlings
+	7 Last Kiss
+	7 Hound Conjurer
+	7 Postal Carrier
+	7 Special Bond
+	7 Elder of the Guild
+	7 Hungry Little Terrors
+	7 Angry Primordial
+	7 Dr. Zenus Prime
+	7 Fates Foretold
+	7 Tommy Bones
+	7 Our Love is Forever
+	7 Detective Fluffles
+	7 Alternate Timelines
+	7 It's a Crossover!
+	7 Cosmic Horror
+	7 City of Heroes
+	7 Kaiju Homeworld
+	7 Shootout Gully
+	7 Intergalactic Spaceport
+	7 Adventurer's Village
+	7 Anguish
+	7 Forgotten Master
+	7 Film Editing
+	7 X-11, The Gargantuan
+	7 The Stone of Kings
+	7 Two is Better
+	7 Masked Vigilante
+	7 Uncapped Rage
+	7 Heroic Weakness
+	7 Takedown of Bai-Ran
+	7 Unravel the Code
+	7 Deceiving Fist
+	7 Never Found the Body
+	7 Charming Minotaur
+	7 Reset Protocol
+	7 Toxin
+	4 Seth, Breaking Through
+	4 Cohen, Archvillain
+	4 Virtuous Knight
+	4 Search the Universe
+	4 Admiral Joseph
+	4 Mantle of the Empire
+	4 Siege Mastodon
+	7 Kal Rod'r
+	7 The Illusionist
+	7 Lyndy
+	7 Ratrisha Rocket
+	7 Germinating Grub
+	4 Morgril, the Devastator
+	4 Skelly Boy Beatdown
+	4 Ortesian Sneak
+	4 Stormbringer Behemoth
+	4 Monitor Room
+	15 Family Friendly Hero
+	4 Hellbreach Heroine
+	4 Colossal Kaiju
+	4 One by One
+	4 Guppy
+	4 The Big Screen
+	4 Dimensional Antenna
+	4 Hero's Rise
+[Tokenslot(1)]
 	30 Third Act
 	30 Leading Role
