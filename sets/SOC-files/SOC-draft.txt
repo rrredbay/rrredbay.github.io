@@ -3638,6 +3638,6 @@
 	4 The Big Screen
 	4 Dimensional Antenna
 	4 Hero's Rise
-[Tokenslot(1)]
+[tokenslot(1)]
 	30 Third Act
 	30 Leading Role

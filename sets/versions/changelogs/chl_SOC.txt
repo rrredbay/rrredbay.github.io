@@ -1,4 +1,43 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Face in a Crowd
+rules_text: Enchant creature
+Enchanted creature is a 1/1 colorless Extra creature. It can't block and it loses all other abilities.
+Whenever you produce a blockbuster, you may put enchanted creature on the bottom of its owner's library. => Enchant creature
+Enchanted creature is a 1/1 colorless Extra creature. It loses all other abilities.
+Whenever you produce a blockbuster, you may put enchanted creature on the bottom of its owner's library.
+
+Sidekick
+rules_text: First strike
+This creature gets +1/+0 if you control a legendary creature => First strike
+This creature gets +1/+0 if you control a legendary creature.
+
+Imperial Defense System
+rules_text: Flying
+Whenever you produce a blockbuster on your turn, you may have this Vehicle become an artifact creature until end of turn.
+Whenever this Vehicle attacks, you may draw a card. If you do, discard a card.
+Crew 2 => Flying
+Whenever you produce a blockbuster on your turn, you may have this Vehicle become an artifact creature until end of turn. Untap it.
+Whenever this Vehicle attacks, you may draw a card. If you do, discard a card.
+Crew 2
+
+Big Bad Tree
+rules_text: Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]
+Reach, trample
+This creature enters with four +1/+1 counters on it if you're in your third act. => Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]
+Reach, trample
+This creature enters with two +1/+1 counters on it if you're in your third act.
+
+VAL1000
+rules_text: At the beginning of your upkeep, look at the top card of your library. If it's an instant or sorcery card, you may exile it. It gains blockbuster 2.
+During your turn, you may cast cards exiled by VAL1000 by paying their blockbuster costs in addition to their mana costs. => At the beginning of your upkeep, look at the top card of your library. If it's an instant or sorcery card, you may exile it. If it doesn't have blockbuster, it gains blockbuster 2.
+During your turn, you may cast cards exiled by VAL1000 by paying their blockbuster costs in addition to their mana costs.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

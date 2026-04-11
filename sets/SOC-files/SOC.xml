@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>Stars of Cinesterra</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-03</releasedate>
+			<releasedate>2026-04-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -185,7 +185,7 @@ Draw two cards. If this spell is a blockbuster, draw three cards instead.</text>
 		<card>
 			<name>Face in a Crowd</name>
 			<text>Enchant creature
-Enchanted creature is a 1/1 colorless Extra creature. It can&apos;t block and it loses all other abilities.
+Enchanted creature is a 1/1 colorless Extra creature. It loses all other abilities.
 Whenever you produce a blockbuster, you may put enchanted creature on the bottom of its owner&apos;s library.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/SOC-files/img/10.png" num="53">SOC</set>
 			<prop>
@@ -1819,7 +1819,7 @@ Sequel {3}{B} (You may cast this card from your graveyard for its sequel cost. I
 		<card>
 			<name>Sidekick</name>
 			<text>First strike
-This creature gets +1/+0 if you control a legendary creature</text>
+This creature gets +1/+0 if you control a legendary creature.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/101.png" num="144">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2624,7 +2624,7 @@ When this creature enters, create a 1/1 white Soldier creature token for each ta
 		<card>
 			<name>Imperial Defense System</name>
 			<text>Flying
-Whenever you produce a blockbuster on your turn, you may have this Vehicle become an artifact creature until end of turn.
+Whenever you produce a blockbuster on your turn, you may have this Vehicle become an artifact creature until end of turn. Untap it.
 Whenever this Vehicle attacks, you may draw a card. If you do, discard a card.
 Crew 2</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/145.png" num="61">SOC</set>
@@ -3361,7 +3361,7 @@ When this creature enters, return target creature an opponent controls to its ow
 			<name>Big Bad Tree</name>
 			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
 Reach, trample
-This creature enters with four +1/+1 counters on it if you&apos;re in your third act.</text>
+This creature enters with two +1/+1 counters on it if you&apos;re in your third act.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/SOC-files/img/186.png" num="159">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3597,7 +3597,7 @@ Blue Spectre can&apos;t be blocked as long as you&apos;re in your third act.
 		</card>
 		<card>
 			<name>VAL1000</name>
-			<text>At the beginning of your upkeep, look at the top card of your library. If it&apos;s an instant or sorcery card, you may exile it. It gains blockbuster 2.
+			<text>At the beginning of your upkeep, look at the top card of your library. If it&apos;s an instant or sorcery card, you may exile it. If it doesn&apos;t have blockbuster, it gains blockbuster 2.
 During your turn, you may cast cards exiled by VAL1000 by paying their blockbuster costs in addition to their mana costs.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SOC-files/img/199.png" num="79">SOC</set>
 			<prop>

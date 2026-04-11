@@ -5,7 +5,7 @@
 			<name>RBL</name>
 			<longname>Rebels</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-31</releasedate>
+			<releasedate>2026-04-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -304,8 +304,8 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 				<side>front</side>
 				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>2/2</pt>
@@ -511,8 +511,8 @@ Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a 
 		</card>
 		<card>
 			<name>CW10 Touch the Dataline</name>
-			<text>Target creature you control gains flying and indestructible until end of turn.
-Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<text>Target creature you control gains flying until end of turn.
+Draw a card.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/28.png" num="11">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -525,7 +525,6 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CB02 Ratpack Kingpin</name>
@@ -600,8 +599,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 		</card>
 		<card>
 			<name>CW01 Mecho-Grunt</name>
-			<text>{T}: Tap target creature with power 2 or less.
-{3}{U}, {T}, Sacrifice this creature: Amass Soldiers 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<text>When this creature dies, put a +1/+1 counter on target creature you control. If that creature is an Army, put an additional +1/+1 counter on it.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/33.png" num="2">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -611,7 +609,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 				<manacost>W</manacost>
 				<cmc>1</cmc>
 				<colors>W</colors>
-				<coloridentity>WU</coloridentity>
+				<coloridentity>W</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -897,7 +895,7 @@ Raid — If you attacked this turn, create a Treasure token.</text>
 				<cmc>3</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">The Watchtower</related>
@@ -1026,8 +1024,8 @@ Uprising — Whenever this creature attacks, if you control another Rebel, up to
 		</card>
 		<card>
 			<name>CW14 Cover Up</name>
-			<text>Exile target creature or artifact.
-Raid — This spell costs {2} less to cast if you attacked this turn.</text>
+			<text>Raid — This spell costs {2} less to cast if you attacked this turn.
+Exile target creature or artifact.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/57.png" num="15">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1043,8 +1041,8 @@ Raid — This spell costs {2} less to cast if you attacked this turn.</text>
 		</card>
 		<card>
 			<name>CU01 CCT Croaker</name>
-			<text>When this creature enters, scry 2.
-{2}{U}: This creature can&apos;t be blocked this turn.</text>
+			<text>Whenever you take to the streets, put a +1/+1 counter on this creature.
+This creature is a Rebel in addition to its other types as long as it has two or more counters on it.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/58.png" num="16">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1055,7 +1053,7 @@ Raid — This spell costs {2} less to cast if you attacked this turn.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1170,8 +1168,7 @@ You draw two cards and lose 2 life.</text>
 			<name>CB11 Street Clash</name>
 			<text>Choose one or both — 
 • Target creature gets -1/-1 until end of turn.
-• Put a +1/+1 counter on target creature.
-Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+• Put a +1/+1 counter on target creature. If that creature is an Army, put an additional +1/+1 counter on it.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/65.png" num="40">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1187,15 +1184,16 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>CB13 Scream Core</name>
-			<text>Destroy target creature. Put a +1/+1 counter on up to one target creature you control.</text>
+			<text>Until end of turn, target creature gains deathtouch and &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+Raid — If you attacked this turn, target opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/66.png" num="42">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1BB</manacost>
-				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -1211,8 +1209,8 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -1221,8 +1219,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 		</card>
 		<card>
 			<name>CR14 Send a Message</name>
-			<text>Target creature you control gets +1/+0 and gains first strike until end of turn.
-Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<text>Target creature you control gets +1/+0 and gains first strike until end of turn.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/68.png" num="57">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1235,7 +1232,6 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">The Watchtower</related>
 		</card>
 		<card>
 			<name>CR08 Short Kings</name>
@@ -1381,7 +1377,7 @@ Raid — {1}, {T}: Add one mana of any color. This ability cost {1} less to acti
 		</card>
 		<card>
 			<name>CR13 Giant Effin Slash</name>
-			<text>Giant Effin Slash deals 6 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent&apos;s controller instead.</text>
+			<text>Giant Effin Slash deals 5 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent&apos;s controller instead.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/77.png" num="56">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1679,7 +1675,7 @@ This creature can&apos;t be blocked by token creatures.</text>
 		<card>
 			<name>CM15 Art Distric Defiant</name>
 			<text>Vigilance
-When this creature dies, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+When this creature enters or dies, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/95.png" num="86">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1714,17 +1710,16 @@ If you control a multicolored permanent, this creature has flying.</text>
 		</card>
 		<card>
 			<name>CU13 Data Tap</name>
-			<text>As an additional cost to cast this spell, you may remove a counter from a permanent you control.
-Scry 1 if you removed a counter from a permanent you controlled this turn.
-Draw two cards.</text>
+			<text>Surveil 1, then draw a card.
+Raid — You may cast this spell from your graveyard as long as you attacked this turn. When you do, exile it as it resolves.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/97.png" num="28">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>

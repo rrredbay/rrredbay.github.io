@@ -1,4 +1,73 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+CB03 Grunt Enforcer
+cost: {3}{B} => {2}{B}
+
+CW10 Touch the Dataline
+rules_text: Target creature you control gains flying and indestructible until end of turn.
+Take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Target creature you control gains flying until end of turn.
+Draw a card.
+
+CW01 Mecho-Grunt
+rules_text: {T}: Tap target creature with power 2 or less.
+{3}{U}, {T}, Sacrifice this creature: Amass Soldiers 3. [i](Put three +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i] => When this creature dies, put a +1/+1 counter on target creature you control. If that creature is an Army, put an additional +1/+1 counter on it.
+
+CM05 Market Street Mob
+pt: 3/3 => 2/2
+
+CW14 Cover Up
+rules_text: Exile target creature or artifact.
+[i]Raid[/i] — This spell costs {2} less to cast if you attacked this turn. => [i]Raid[/i] — This spell costs {2} less to cast if you attacked this turn.
+Exile target creature or artifact.
+
+CU01 CCT Croaker
+rules_text: When this creature enters, scry 2.
+{2}{U}: This creature can't be blocked this turn. => Whenever you take to the streets, put a +1/+1 counter on this creature.
+This creature is a Rebel in addition to its other types as long as it has two or more counters on it.
+pt: 1/3 => 1/1
+
+CB11 Street Clash
+rules_text: Choose one or both — 
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.
+Cycling {1}{B} [i]({1}{B}, Discard this card: Draw a card.)[/i] => Choose one or both — 
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature. If that creature is an Army, put an additional +1/+1 counter on it.
+
+CB13 Scream Core
+type: Sorcery => Instant
+cost: {1}{B}{B} => {1}{B}
+rules_text: Destroy target creature. Put a +1/+1 counter on up to one target creature you control. => Until end of turn, target creature gains deathtouch and “When this creature dies, return it to the battlefield tapped under its owner's control.”
+[i]Raid[/i] — If you attacked this turn, target opponent loses 2 life and you gain 2 life.
+
+CB14 Unplug
+cost: {4}{B} => {3}{B}
+
+CR14 Send a Message
+rules_text: Target creature you control gets +1/+0 and gains first strike until end of turn.
+Take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Target creature you control gets +1/+0 and gains first strike until end of turn.
+
+CR13 Giant Effin Slash
+rules_text: Giant Effin Slash deals 6 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent's controller instead. => Giant Effin Slash deals 5 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent's controller instead.
+
+CM15 Art Distric Defiant
+rules_text: Vigilance
+When this creature dies, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Vigilance
+When this creature enters or dies, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+
+CU13 Data Tap
+type: Sorcery => Instant
+cost: {2}{U} => {1}{U}
+rules_text: As an additional cost to cast this spell, you may remove a counter from a permanent you control.
+Scry 1 if you removed a counter from a permanent you controlled this turn.
+Draw two cards. => Surveil 1, then draw a card.
+[i]Raid[/i] — You may cast this spell from your graveyard as long as you attacked this turn. When you do, exile it as it resolves.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CB05 Pilfering Amphibian added.
