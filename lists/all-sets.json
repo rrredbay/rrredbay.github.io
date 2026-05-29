@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "POP1",
+            "set_name": "Popcorn",
+            "formats": "Standard"
+        },
+        {
             "set_code": "RBL",
             "set_name": "Rebels",
             "formats": "Standard"
