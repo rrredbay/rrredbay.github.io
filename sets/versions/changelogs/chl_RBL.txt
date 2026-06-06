@@ -1,4 +1,329 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UR12 Smash and Grab added.
+UM01 City Surfer added.
+UM03 Doctor Antavious added.
+UM05 Revolution Engine added.
+UM09 Goofy Foot Cherub added.
+UM07 Painter Gator added.
+UM11 Surveilance State added.
+UM02 Stun Zapper added.
+UM13 Lydia, Rider of Mayhem added.
+UM04 Lazarus Protocol added.
+UM15 Parkland Witch added.
+UM06 Run It Back added.
+UM17 Party Girl added.
+UM08 Double or Nothing added.
+UM19 Inviting Influencer added.
+UM10 Recombinating added.
+UM12 Clayton, Embassy Informant added.
+UM14 Jessica, Undercity Fence added.
+UM16 DeSean, Community Cultivator added.
+UM18 Bart, Boon Town Machinist added.
+UM20 Dex, Well-Connected added.
+UW01 Public Artist added.
+UB01 Captain Bones added.
+UR08 Feel the Music added.
+UG01 Market Street Racer added.
+UU01 Skyward Hare added.
+UW02 Market Street Tagger added.
+UW03 Block Enforcer added.
+UW04 Extra Legal Armorer added.
+UW05 Go Up in Smoke added.
+UU02 Cybernet Tiefling added.
+UU03 Like Just a Big Robot Dude added.
+UU04 Kira, Double Agent added.
+UB09 Rise Above the Masses added.
+UB10 Rough Questioning added.
+UB11 Cursed Kicks added.
+UB02 Data Weaver added.
+UB03 Reprogrammed Killbot added.
+UR02 Dataline Detective added.
+UR10 Find the LAN Party added.
+UR03 The Champ added.
+UR01 Digital Artist added.
+UR13 Send It! added.
+UR04 Smoking Dragon added.
+UG02 Inline Ostrich added.
+UG10 Break from the Rat Race added.
+UG12 Food Truck added.
+UG11 Earth Within added.
+UW06 Reconnaisance Leader added.
+UU08 Evade Authorities added.
+UG06 Bunny, the Muscle added.
+UB04 Pain-Killer added.
+RR01 Delivery Boy added.
+RC01 Spreading Art added.
+UC01 Rainbow Road added.
+UL02 The Citadel added.
+UL03 Neon Circuit added.
+UL05 Aurora Ward added.
+UL04 The Red Front added.
+UL06 Podunk Town added.
+UW08 Dildobot added.
+UW07 Embassy Healer added.
+UU09 Brain Dead added.
+UB05 Hackomancer added.
+UR05 Night Life Ender added.
+UG07 F.A.R.M. Squad added.
+UU14 Embassy Row Cycle added.
+UW14 Market Street Cycle added.
+UB14 Canal Town Cycle added.
+UR14 Industrial Park Cycle added.
+UG14 Boonies Cycle added.
+UG08 Bold Outsider added.
+UW09 Hardcore Mummy added.
+UU10 Breakdown added.
+UR11 Bear it All added.
+UW10 Calm the Elite added.
+UR06 Rebel Yell added.
+UU05 Duck Coolidge added.
+UW11 Dance Party! added.
+UU06 Energized Militant added.
+UU07 Embassy Extractor added.
+UB06 Steel Street Assassin added.
+UB07 Tracy, Murder Matriarch added.
+UB08 Rundown in the Street added.
+UR07 Rebellious Dinosaur added.
+UG13 Shrimphead Mural added.
+UG09 Cozy Vagabond added.
+RB01 added.
+RB02 Extermination added.
+UU11 Blue Tag added.
+UU12 Energize added.
+UU13 Intel Gathering added.
+UB12 Checkpoint added.
+UC04 Runaway Service Vehicle added.
+UC02 Quiet Plant Store added.
+UC03 Gas Mask added.
+CR10 Hit the Pavement added.
+UW12 White Tag added.
+UR09 Red Tag added.
+UB13 Black Tag added.
+UW13 Breach! added.
+UW15 Remote Command Center added.
+UU16 Spray Dancer added.
+UU15 Recon added.
+UR15 Monster Truck Gang added.
+UG15 Streetwise Guardian added.
+UG16 Grow Up on the Streets added.
+UG17 Local Artists added.
+RedRebel added.
+WhiteRebel added.
+Bear added.
+Bird added.
+
+CR10 Smash and Grab removed.
+
+CG13 Start the Fight
+
+CB10 Marshal Forces
+
+CW07 Inspiring Revolutionary
+
+CR09 Rollicking Rider
+
+CU12 Under Observation
+
+CW02 Helpful Vigilante
+
+CB05 Pilfering Amphibian
+
+CR06 Street-Wise Combatants
+
+CG04 Motorcycle Muscle
+
+CW12 Show of Force
+
+CU11 Trippin'
+
+CB04 Reckless Rioter
+
+CR02 Dancing Diva
+
+CG11 Street Art
+rules_text: When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{3}{W}, Sacrifice this enchantment: Create two 1/1 white Bird creature tokens with flying. Activate only as a sorcery. => When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{3}{W}, Sacrifice this enchantment: Create two 1/1 black Bird creature tokens with flying. Activate only as a sorcery.
+
+CR07 Night Rider
+
+CB03 Grunt Enforcer
+
+CB01 Causless Ruffian
+
+CG12 Urban Vibrance
+
+CG06 Beefhead Bouncer
+
+CU07 Deprogrammed Replicant
+
+CU08 Censor
+
+CW04 Dropship Recruiter
+
+CW11 Court of Public Opinion
+
+CB09 Shred
+
+CG14 Civil Deconstruction
+
+CU10 Preventative Strike
+
+CW10 Touch the Dataline
+
+CB02 Ratpack Kingpin
+
+CG09 Colossal Shredmaw
+
+CR01 Rocket Hamster
+
+CU06 Dynamo Defector
+
+CW01 Mecho-Grunt
+
+CR11 Thrill of Possibility
+
+CB08 Dark-Alley Demon
+
+CR03 Hired Gun
+
+CW09 Dogmatic Angel
+
+CG02 Kick-Flip Koala
+
+CU03 Underground DJ
+
+CW13 Banishing Light
+
+CU05 Coldtouch Dissident
+
+CR12 Rewire
+
+CR04 Hotshot
+
+CG08 Mech Tech
+
+CM01 Call Spec Ops
+
+CM02 Two-Wheel Bruiser
+
+CM03 Katana Gang
+
+CM04 Dataline Surfing
+
+CM05 Market Street Mob
+
+CM06 Mind Tap
+
+CM07 Let it Rip
+
+CM08 Let Loose
+
+CM09 Rockers of the Free World
+
+CM10 Block Party
+
+CW03 Skid-Row Informant
+
+CW05 Skywise Rebel
+
+CW14 Cover Up
+
+CU01 CCT Croaker
+
+CU04 Biker Tactician
+
+CU09 Find Your People
+
+CU14 Dropship Detention
+
+CB06 Entry Team
+rules_text: Flash
+When this creature enters, another target creature you don't control gets -1/-1 until end of turn.
+This creature has flying as long as it entered the battlefield this turn. => Flash
+This creature has flying as long as it entered the battlefield this turn.
+pt: 4/1 => 5/2
+
+CB07 Diehard Dame
+
+CB12 Word on the Street
+
+CB11 Street Clash
+
+CB13 Scream Core
+
+CB14 Unplug
+
+CR14 Send a Message
+
+CR08 Short Kings
+
+CR05 Expert Insurgent
+
+CG01 Acid Drop Viper
+
+CG03 Daring Dame
+
+CG05 Wolf of Wall Street
+
+CG07 Urban Artist
+
+CG10 Party Ape
+
+CA01 Street Tag
+
+CR13 Giant Effin Slash
+
+UL01 City Square
+
+CL01 Back Alley
+
+CL02 Embassy Row
+
+CL03 Canal Town
+
+CL04 Industrial Park
+
+CL05 The Boonies
+
+CL06 Arts District
+
+CL07 Government Center
+
+CL08 Dockworks
+
+CL09 Public Works Yard
+
+CL10 The Blocks
+
+CL11 Trade Quarter
+
+Soldier Army
+
+CM11 Special Task Force
+
+CM12 Canal Town Couriers
+
+CM13 Industrial Park Freerunner
+
+CM14 Boonies Homebrewer
+
+CM15 Art Distric Defiant
+
+CU02 Hypno Bass
+
+CU13 Data Tap
+
+CW06 Unyielding Sycophant
+
+CW08 Compromised Replicants
+
+The Watchtower
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

@@ -4072,7 +4072,7 @@
 		}
 	]
 
-[cube(14)]
+[cube(15)]
 	1 Graft Hydra
 	1 Growth Begets Growth
 	1 Zaime, History's Watcher
@@ -4439,10 +4439,3 @@
 	1 Snow-Clad Valley
 	1 Snowman's Land
 	1 Oranthese, Who Stands Ancient
-[Landslot(2)]
-	30 Snow-Covered Plains
-	30 Snow-Covered Island
-	30 Snow-Covered Swamp
-	30 Snow-Covered Mountain
-	30 Snow-Covered Forest
-	30 Snow-Covered Wastes
