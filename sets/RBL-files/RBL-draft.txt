@@ -2615,7 +2615,7 @@
 	6 UG15 Streetwise Guardian
 	6 UG16 Grow Up on the Streets
 	6 UG17 Local Artists
-[wildcard(1)]
+[wildcard(2)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
 	6 CW07 Inspiring Revolutionary
