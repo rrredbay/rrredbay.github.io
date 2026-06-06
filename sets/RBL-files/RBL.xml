@@ -2148,7 +2148,7 @@ You may cast the top card of your library if you took to the streets this turn.<
 			<name>UR08 Feel the Music</name>
 			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
 Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/115_UR08 Feel the Music.png" num="115">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/115_UR08 Feel the Music.png" num="115">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

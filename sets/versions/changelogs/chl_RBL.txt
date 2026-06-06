@@ -1,4 +1,16 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+UR08 Feel the Music
+
+UG02 Inline Ostrich
+
+UW15 Remote Command Center
+
+
+VERSION 7 CHANGELOG
 ====================
 
 UR12 Smash and Grab added.

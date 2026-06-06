@@ -2308,7 +2308,7 @@
         {
             "card_name": "UR08 Feel the Music",
             "color": "R",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 115,
             "color_identity": "R",
@@ -2721,7 +2721,7 @@
             "loyalty": "",
             "artist": "ONI One",
             "alias": "",
-            "notes": "#uncommon #green\n"
+            "notes": "#uncommon #green"
         },
         {
             "card_name": "UG10 Break from the Rat Race",
@@ -3823,7 +3823,7 @@
             "loyalty": "",
             "artist": "Guilem H. Pongiluppi",
             "alias": "",
-            "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>\n!tokens The Watchtower<1>\n"
+            "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>\n!tokens The Watchtower<1>"
         },
         {
             "card_name": "UU16 Spray Dancer",
@@ -4016,5 +4016,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }

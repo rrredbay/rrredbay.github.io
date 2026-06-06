@@ -1212,7 +1212,7 @@
 		},
 		{
 			"name": "UR08 Feel the Music",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "115",
@@ -2112,7 +2112,7 @@
 		}
 	]
 
-[uncommon(3)]
+[uncommon(4)]
 	4 UR12 Smash and Grab
 	4 UL01 City Square
 	4 UM01 City Surfer
@@ -2137,6 +2137,7 @@
 	4 UM20 Dex, Well-Connected
 	4 UW01 Public Artist
 	4 UB01 Captain Bones
+	4 UR08 Feel the Music
 	4 UG01 Market Street Racer
 	4 UU01 Skyward Hare
 	4 UW02 Market Street Tagger
@@ -2313,7 +2314,6 @@
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
 	8 CW08 Compromised Replicants
-	8 UR08 Feel the Music
 	8 CR10 Hit the Pavement
 [common | masterpiece(1)]
 	8 CG13 Start the Fight
@@ -2412,9 +2412,8 @@
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
 	8 CW08 Compromised Replicants
-	8 UR08 Feel the Music
 	8 CR10 Hit the Pavement
-[foil(2)]
+[foil(1)]
 	12 CG13 Start the Fight
 	12 CB10 Marshal Forces
 	12 CW07 Inspiring Revolutionary
@@ -2535,7 +2534,7 @@
 	6 UM20 Dex, Well-Connected
 	6 UW01 Public Artist
 	6 UB01 Captain Bones
-	12 UR08 Feel the Music
+	6 UR08 Feel the Music
 	6 UG01 Market Street Racer
 	6 UU01 Skyward Hare
 	6 UW02 Market Street Tagger
@@ -2616,7 +2615,7 @@
 	6 UG15 Streetwise Guardian
 	6 UG16 Grow Up on the Streets
 	6 UG17 Local Artists
-[wildcard(2)]
+[wildcard(1)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
 	6 CW07 Inspiring Revolutionary
@@ -2737,7 +2736,7 @@
 	15 UM20 Dex, Well-Connected
 	15 UW01 Public Artist
 	15 UB01 Captain Bones
-	6 UR08 Feel the Music
+	15 UR08 Feel the Music
 	15 UG01 Market Street Racer
 	15 UU01 Skyward Hare
 	15 UW02 Market Street Tagger
