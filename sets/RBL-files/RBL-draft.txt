@@ -2112,11 +2112,6 @@
 		}
 	]
 
-[rare(1)]
-	2 RR01 Delivery Boy
-	2 RC01 Spreading Art
-	2 RB01
-	2 RB02 Extermination
 [uncommon(3)]
 	4 UR12 Smash and Grab
 	4 UL01 City Square
@@ -2319,7 +2314,6 @@
 	8 CW06 Unyielding Sycophant
 	8 CW08 Compromised Replicants
 	8 UR08 Feel the Music
-	8 The Watchtower
 	8 CR10 Hit the Pavement
 [common | masterpiece(1)]
 	8 CG13 Start the Fight
@@ -2419,9 +2413,8 @@
 	8 CW06 Unyielding Sycophant
 	8 CW08 Compromised Replicants
 	8 UR08 Feel the Music
-	8 The Watchtower
 	8 CR10 Hit the Pavement
-[foil(1)]
+[foil(2)]
 	12 CG13 Start the Fight
 	12 CB10 Marshal Forces
 	12 CW07 Inspiring Revolutionary
@@ -2571,8 +2564,6 @@
 	6 UU08 Evade Authorities
 	6 UG06 Bunny, the Muscle
 	6 UB04 Pain-Killer
-	2 RR01 Delivery Boy
-	2 RC01 Spreading Art
 	6 UC01 Rainbow Road
 	6 UL02 The Citadel
 	6 UL03 Neon Circuit
@@ -2606,8 +2597,6 @@
 	6 UR07 Rebellious Dinosaur
 	6 UG13 Shrimphead Mural
 	6 UG09 Cozy Vagabond
-	2 RB01
-	2 RB02 Extermination
 	6 UU11 Blue Tag
 	6 UU12 Energize
 	6 UU13 Intel Gathering
@@ -2615,7 +2604,6 @@
 	6 UC04 Runaway Service Vehicle
 	6 UC02 Quiet Plant Store
 	6 UC03 Gas Mask
-	12 The Watchtower
 	12 CR10 Hit the Pavement
 	6 UW12 White Tag
 	6 UR09 Red Tag
@@ -2628,7 +2616,7 @@
 	6 UG15 Streetwise Guardian
 	6 UG16 Grow Up on the Streets
 	6 UG17 Local Artists
-[wildcard(1)]
+[wildcard(2)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
 	6 CW07 Inspiring Revolutionary
@@ -2778,8 +2766,6 @@
 	15 UU08 Evade Authorities
 	15 UG06 Bunny, the Muscle
 	15 UB04 Pain-Killer
-	7 RR01 Delivery Boy
-	7 RC01 Spreading Art
 	15 UC01 Rainbow Road
 	15 UL02 The Citadel
 	15 UL03 Neon Circuit
@@ -2813,8 +2799,6 @@
 	15 UR07 Rebellious Dinosaur
 	15 UG13 Shrimphead Mural
 	15 UG09 Cozy Vagabond
-	7 RB01
-	7 RB02 Extermination
 	15 UU11 Blue Tag
 	15 UU12 Energize
 	15 UU13 Intel Gathering
@@ -2822,7 +2806,6 @@
 	15 UC04 Runaway Service Vehicle
 	15 UC02 Quiet Plant Store
 	15 UC03 Gas Mask
-	6 The Watchtower
 	6 CR10 Hit the Pavement
 	15 UW12 White Tag
 	15 UR09 Red Tag
@@ -2835,3 +2818,5 @@
 	15 UG15 Streetwise Guardian
 	15 UG16 Grow Up on the Streets
 	15 UG17 Local Artists
+[Landslot(1)]
+	30 The Watchtower
