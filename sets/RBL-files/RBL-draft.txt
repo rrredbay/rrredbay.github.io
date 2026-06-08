@@ -81,13 +81,13 @@
 			}
 		},
 		{
-			"name": "CG04 Motorcycle Muscle",
+			"name": "CG05 Motorcycle Muscle",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/126_CG04 Motorcycle Muscle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/127_CG05 Motorcycle Muscle.png"
 			}
 		},
 		{
@@ -181,13 +181,13 @@
 			}
 		},
 		{
-			"name": "CG06 Beefhead Bouncer",
+			"name": "CG07 Beefhead Bouncer",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/128_CG06 Beefhead Bouncer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/129_CG07 Beefhead Bouncer.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/119_UR12 Smash and Grab.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/120_UR12 Smash and Grab.png"
 			}
 		},
 		{
@@ -371,13 +371,13 @@
 			}
 		},
 		{
-			"name": "CG02 Kick-Flip Koala",
+			"name": "CG04 Kick-Flip Koala",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Beast Rebel",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/124_CG02 Kick-Flip Koala.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/126_CG04 Kick-Flip Koala.png"
 			}
 		},
 		{
@@ -721,23 +721,23 @@
 			}
 		},
 		{
-			"name": "CG05 Wolf of Wall Street",
+			"name": "CG06 Wolf of Wall Street",
 			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Fox Rebel",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/127_CG05 Wolf of Wall Street.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/128_CG06 Wolf of Wall Street.png"
 			}
 		},
 		{
-			"name": "CG07 Urban Artist",
+			"name": "CG02 Urban Artist",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "129",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/129_CG07 Urban Artist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/124_CG02 Urban Artist.png"
 			}
 		},
 		{
@@ -981,16 +981,6 @@
 			}
 		},
 		{
-			"name": "CW08 Compromised Replicants",
-			"rarity": "common",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact Creature — Construct Rebel",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW08 Compromised Replicants.png"
-			}
-		},
-		{
 			"name": "UM01 City Surfer",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
@@ -1013,7 +1003,7 @@
 		{
 			"name": "UM05 Revolution Engine",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{B}{R}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "165",
 			"image_uris": {
@@ -1083,7 +1073,7 @@
 		{
 			"name": "UM15 Parkland Witch",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{R}{G}",
+			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Kor Rebel Warlock",
 			"collector_number": "175",
 			"image_uris": {
@@ -1101,16 +1091,6 @@
 			}
 		},
 		{
-			"name": "UM17 Party Girl",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}{W}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "177",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/177_UM17 Party Girl.png"
-			}
-		},
-		{
 			"name": "UM08 Double or Nothing",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
@@ -1124,7 +1104,7 @@
 			"name": "UM19 Inviting Influencer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Creature — Tiefling",
+			"type": "Creature — Tiefling Scout",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/179_UM19 Inviting Influencer.png"
@@ -1144,7 +1124,7 @@
 			"name": "UM12 Clayton, Embassy Informant",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Human",
+			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/172_UM12 Clayton, Embassy Informant.png"
@@ -1163,21 +1143,11 @@
 		{
 			"name": "UM16 DeSean, Community Cultivator",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}{G}",
+			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Human Rebel",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/176_UM16 DeSean, Community Cultivator.png"
-			}
-		},
-		{
-			"name": "UM18 Bart, Boon Town Machinist",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Legendary Artifact Creature — Human Cyborg",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/178_UM18 Bart, Boon Town Machinist.png"
 			}
 		},
 		{
@@ -1215,19 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_UR08 Feel the Music.png"
-			}
-		},
-		{
-			"name": "UG01 Market Street Racer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Citizen",
-			"collector_number": "137",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/137_UG01 Market Street Racer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/116_UR08 Feel the Music.png"
 			}
 		},
 		{
@@ -1241,16 +1201,6 @@
 			}
 		},
 		{
-			"name": "UW02 Market Street Tagger",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{W}",
-			"type": "Creature — Human Bard",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_UW02 Market Street Tagger.png"
-			}
-		},
-		{
 			"name": "UW03 Block Enforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
@@ -1258,16 +1208,6 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_UW03 Block Enforcer.png"
-			}
-		},
-		{
-			"name": "UW04 Extra Legal Armorer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Cyborg Citizen",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_UW04 Extra Legal Armorer.png"
 			}
 		},
 		{
@@ -1361,13 +1301,13 @@
 			}
 		},
 		{
-			"name": "UR02 Dataline Detective",
-			"rarity": "uncommon",
+			"name": "RR02 Dataline Detective",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Detective",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_UR02 Dataline Detective.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_RR02 Dataline Detective.png"
 			}
 		},
 		{
@@ -1375,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/117_UR10 Find the LAN Party.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/118_UR10 Find the LAN Party.png"
 			}
 		},
 		{
@@ -1385,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_UR03 The Champ.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/111_UR03 The Champ.png"
 			}
 		},
 		{
@@ -1395,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Performer",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_UR01 Digital Artist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_UR01 Digital Artist.png"
 			}
 		},
 		{
@@ -1405,59 +1345,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/120_UR13 Send It!.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/121_UR13 Send It!.png"
 			}
 		},
 		{
-			"name": "UR04 Smoking Dragon",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "111",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/111_UR04 Smoking Dragon.png"
-			}
-		},
-		{
-			"name": "UG02 Inline Ostrich",
+			"name": "UG06 Inline Ostrich",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Bird",
-			"collector_number": "138",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/138_UG02 Inline Ostrich.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/142_UG06 Inline Ostrich.png"
 			}
 		},
 		{
-			"name": "UG10 Break from the Rat Race",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Instant",
-			"collector_number": "143",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/143_UG10 Break from the Rat Race.png"
-			}
-		},
-		{
-			"name": "UG12 Food Truck",
+			"name": "UG13 Food Truck",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "145",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/145_UG12 Food Truck.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/149_UG13 Food Truck.png"
 			}
 		},
 		{
-			"name": "UG11 Earth Within",
+			"name": "UG12 Earth Within",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "144",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/144_UG11 Earth Within.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/148_UG12 Earth Within.png"
 			}
 		},
 		{
@@ -1481,13 +1401,13 @@
 			}
 		},
 		{
-			"name": "UG06 Bunny, the Muscle",
+			"name": "UG02 Bunny, the Muscle",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/139_UG06 Bunny, the Muscle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/138_UG02 Bunny, the Muscle.png"
 			}
 		},
 		{
@@ -1625,19 +1545,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/112_UR05 Night Life Ender.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/113_UR05 Night Life Ender.png"
 			}
 		},
 		{
-			"name": "UG07 F.A.R.M. Squad",
+			"name": "UG08 F.A.R.M. Squad",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact Creature — Beast Construct",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/140_UG07 F.A.R.M. Squad.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/144_UG08 F.A.R.M. Squad.png"
 			}
 		},
 		{
@@ -1675,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/121_UR14 Industrial Park Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/122_UR14 Industrial Park Cycle.png"
 			}
 		},
 		{
@@ -1685,19 +1605,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "147",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/147_UG14 Boonies Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/150_UG14 Boonies Cycle.png"
 			}
 		},
 		{
-			"name": "UG08 Bold Outsider",
+			"name": "UG01 Bold Outsider",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Dog Rebel",
-			"collector_number": "141",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/141_UG08 Bold Outsider.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/137_UG01 Bold Outsider.png"
 			}
 		},
 		{
@@ -1725,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/118_UR11 Bear it All.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/119_UR11 Bear it All.png"
 			}
 		},
 		{
@@ -1745,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/113_UR06 Rebel Yell.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/114_UR06 Rebel Yell.png"
 			}
 		},
 		{
@@ -1825,29 +1745,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/114_UR07 Rebellious Dinosaur.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_UR07 Rebellious Dinosaur.png"
 			}
 		},
 		{
-			"name": "UG13 Shrimphead Mural",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Enchantment — Graffiti",
-			"collector_number": "146",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/146_UG13 Shrimphead Mural.png"
-			}
-		},
-		{
-			"name": "UG09 Cozy Vagabond",
+			"name": "UG04 Cozy Vagabond",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "142",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/142_UG09 Cozy Vagabond.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/140_UG04 Cozy Vagabond.png"
 			}
 		},
 		{
@@ -1868,16 +1778,6 @@
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/78_RB02 Extermination.png"
-			}
-		},
-		{
-			"name": "UU11 Blue Tag",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Graffiti",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_UU11 Blue Tag.png"
 			}
 		},
 		{
@@ -1961,36 +1861,6 @@
 			}
 		},
 		{
-			"name": "UW12 White Tag",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Graffiti",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_UW12 White Tag.png"
-			}
-		},
-		{
-			"name": "UR09 Red Tag",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Enchantment — Graffiti",
-			"collector_number": "116",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/116_UR09 Red Tag.png"
-			}
-		},
-		{
-			"name": "UB13 Black Tag",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
-			"type": "Enchantment — Graffiti",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/91_UB13 Black Tag.png"
-			}
-		},
-		{
 			"name": "UW13 Breach!",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{W}{W}",
@@ -2031,43 +1901,43 @@
 			}
 		},
 		{
-			"name": "UR15 Monster Truck Gang",
+			"name": "UR02 Monster Truck Gang",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "122",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/122_UR15 Monster Truck Gang.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_UR02 Monster Truck Gang.png"
 			}
 		},
 		{
-			"name": "UG15 Streetwise Guardian",
+			"name": "UG07 Streetwise Guardian",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Wolf Cyborg",
-			"collector_number": "148",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/148_UG15 Streetwise Guardian.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/143_UG07 Streetwise Guardian.png"
 			}
 		},
 		{
-			"name": "UG16 Grow Up on the Streets",
+			"name": "UG11 Grow Up on the Streets",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "149",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/149_UG16 Grow Up on the Streets.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/147_UG11 Grow Up on the Streets.png"
 			}
 		},
 		{
-			"name": "UG17 Local Artists",
+			"name": "UG05 Local Artists",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Troll",
-			"collector_number": "150",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/150_UG17 Local Artists.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/141_UG05 Local Artists.png"
 			}
 		},
 		{
@@ -2109,6 +1979,136 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/RBL-files/img/2t_Bird.png"
 			}
+		},
+		{
+			"name": "UG03 Distressing Damsel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/139_UG03 Distressing Damsel.png"
+			}
+		},
+		{
+			"name": "UW04 Extra Legal Armorer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Cyborg Citizen",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_UW04 Extra Legal Armorer.png"
+			}
+		},
+		{
+			"name": "UW12 White Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Graffiti",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_UW12 White Tag.png"
+			}
+		},
+		{
+			"name": "UU11 Blue Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Graffiti",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_UU11 Blue Tag.png"
+			}
+		},
+		{
+			"name": "UB13 Black Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Graffiti",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/91_UB13 Black Tag.png"
+			}
+		},
+		{
+			"name": "UR09 Red Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Graffiti",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/117_UR09 Red Tag.png"
+			}
+		},
+		{
+			"name": "UG09 Green Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Graffiti",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/145_UG09 Green Tag.png"
+			}
+		},
+		{
+			"name": "CW08 Daring Writers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW08 Daring Writers.png"
+			}
+		},
+		{
+			"name": "UW02 Market Street Tagger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_UW02 Market Street Tagger.png"
+			}
+		},
+		{
+			"name": "UG10 Color the World",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/146_UG10 Color the World.png"
+			}
+		},
+		{
+			"name": "UR04 Smoking Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/112_UR04 Smoking Dragon.png"
+			}
+		},
+		{
+			"name": "UM17 The Tag on 38th Street",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Enchantment — Graffiti",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/177_UM17 The Tag on 38th Street.png"
+			}
+		},
+		{
+			"name": "UM18 Bart, Boon Town Creator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Human Cyborg",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/178_UM18 Bart, Boon Town Creator.png"
+			}
 		}
 	]
 
@@ -2126,23 +2126,18 @@
 	4 UM04 Lazarus Protocol
 	4 UM15 Parkland Witch
 	4 UM06 Run It Back
-	4 UM17 Party Girl
 	4 UM08 Double or Nothing
 	4 UM19 Inviting Influencer
 	4 UM10 Recombinating
 	4 UM12 Clayton, Embassy Informant
 	4 UM14 Jessica, Undercity Fence
 	4 UM16 DeSean, Community Cultivator
-	4 UM18 Bart, Boon Town Machinist
 	4 UM20 Dex, Well-Connected
 	4 UW01 Public Artist
 	4 UB01 Captain Bones
 	4 UR08 Feel the Music
-	4 UG01 Market Street Racer
 	4 UU01 Skyward Hare
-	4 UW02 Market Street Tagger
 	4 UW03 Block Enforcer
-	4 UW04 Extra Legal Armorer
 	4 UW05 Go Up in Smoke
 	4 UU02 Cybernet Tiefling
 	4 UU03 Like Just a Big Robot Dude
@@ -2152,19 +2147,16 @@
 	4 UB11 Cursed Kicks
 	4 UB02 Data Weaver
 	4 UB03 Reprogrammed Killbot
-	4 UR02 Dataline Detective
 	4 UR10 Find the LAN Party
 	4 UR03 The Champ
 	4 UR01 Digital Artist
 	4 UR13 Send It!
-	4 UR04 Smoking Dragon
-	4 UG02 Inline Ostrich
-	4 UG10 Break from the Rat Race
-	4 UG12 Food Truck
-	4 UG11 Earth Within
+	4 UG06 Inline Ostrich
+	4 UG13 Food Truck
+	4 UG12 Earth Within
 	4 UW06 Reconnaisance Leader
 	4 UU08 Evade Authorities
-	4 UG06 Bunny, the Muscle
+	4 UG02 Bunny, the Muscle
 	4 UB04 Pain-Killer
 	4 UC01 Rainbow Road
 	4 UL02 The Citadel
@@ -2177,13 +2169,13 @@
 	4 UU09 Brain Dead
 	4 UB05 Hackomancer
 	4 UR05 Night Life Ender
-	4 UG07 F.A.R.M. Squad
+	4 UG08 F.A.R.M. Squad
 	4 UU14 Embassy Row Cycle
 	4 UW14 Market Street Cycle
 	4 UB14 Canal Town Cycle
 	4 UR14 Industrial Park Cycle
 	4 UG14 Boonies Cycle
-	4 UG08 Bold Outsider
+	4 UG01 Bold Outsider
 	4 UW09 Hardcore Mummy
 	4 UU10 Breakdown
 	4 UR11 Bear it All
@@ -2197,26 +2189,33 @@
 	4 UB07 Tracy, Murder Matriarch
 	4 UB08 Rundown in the Street
 	4 UR07 Rebellious Dinosaur
-	4 UG13 Shrimphead Mural
-	4 UG09 Cozy Vagabond
-	4 UU11 Blue Tag
+	4 UG04 Cozy Vagabond
 	4 UU12 Energize
 	4 UU13 Intel Gathering
 	4 UB12 Checkpoint
 	4 UC04 Runaway Service Vehicle
 	4 UC02 Quiet Plant Store
 	4 UC03 Gas Mask
-	4 UW12 White Tag
-	4 UR09 Red Tag
-	4 UB13 Black Tag
 	4 UW13 Breach!
 	4 UW15 Remote Command Center
 	4 UU16 Spray Dancer
 	4 UU15 Recon
-	4 UR15 Monster Truck Gang
-	4 UG15 Streetwise Guardian
-	4 UG16 Grow Up on the Streets
-	4 UG17 Local Artists
+	4 UR02 Monster Truck Gang
+	4 UG07 Streetwise Guardian
+	4 UG11 Grow Up on the Streets
+	4 UG05 Local Artists
+	4 UG03 Distressing Damsel
+	4 UW04 Extra Legal Armorer
+	4 UW12 White Tag
+	4 UU11 Blue Tag
+	4 UB13 Black Tag
+	4 UR09 Red Tag
+	4 UG09 Green Tag
+	4 UW02 Market Street Tagger
+	4 UG10 Color the World
+	4 UR04 Smoking Dragon
+	4 UM17 The Tag on 38th Street
+	4 UM18 Bart, Boon Town Creator
 [common(6)]
 	8 CG13 Start the Fight
 	8 CB10 Marshal Forces
@@ -2226,7 +2225,7 @@
 	8 CW02 Helpful Vigilante
 	8 CB05 Pilfering Amphibian
 	8 CR06 Street-Wise Combatants
-	8 CG04 Motorcycle Muscle
+	8 CG05 Motorcycle Muscle
 	8 CW12 Show of Force
 	8 CU11 Trippin'
 	8 CB04 Reckless Rioter
@@ -2236,7 +2235,7 @@
 	8 CB03 Grunt Enforcer
 	8 CB01 Causless Ruffian
 	8 CG12 Urban Vibrance
-	8 CG06 Beefhead Bouncer
+	8 CG07 Beefhead Bouncer
 	8 CU07 Deprogrammed Replicant
 	8 CU08 Censor
 	8 CW04 Dropship Recruiter
@@ -2254,7 +2253,7 @@
 	8 CB08 Dark-Alley Demon
 	8 CR03 Hired Gun
 	8 CW09 Dogmatic Angel
-	8 CG02 Kick-Flip Koala
+	8 CG04 Kick-Flip Koala
 	8 CU03 Underground DJ
 	8 CW13 Banishing Light
 	8 CU05 Coldtouch Dissident
@@ -2289,8 +2288,8 @@
 	8 CR05 Expert Insurgent
 	8 CG01 Acid Drop Viper
 	8 CG03 Daring Dame
-	8 CG05 Wolf of Wall Street
-	8 CG07 Urban Artist
+	8 CG06 Wolf of Wall Street
+	8 CG02 Urban Artist
 	8 CG10 Party Ape
 	8 CA01 Street Tag
 	8 CR13 Giant Effin Slash
@@ -2313,8 +2312,8 @@
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
-	8 CW08 Compromised Replicants
 	8 CR10 Hit the Pavement
+	8 CW08 Daring Writers
 [common | masterpiece(1)]
 	8 CG13 Start the Fight
 	8 CB10 Marshal Forces
@@ -2324,7 +2323,7 @@
 	8 CW02 Helpful Vigilante
 	8 CB05 Pilfering Amphibian
 	8 CR06 Street-Wise Combatants
-	8 CG04 Motorcycle Muscle
+	8 CG05 Motorcycle Muscle
 	8 CW12 Show of Force
 	8 CU11 Trippin'
 	8 CB04 Reckless Rioter
@@ -2334,7 +2333,7 @@
 	8 CB03 Grunt Enforcer
 	8 CB01 Causless Ruffian
 	8 CG12 Urban Vibrance
-	8 CG06 Beefhead Bouncer
+	8 CG07 Beefhead Bouncer
 	8 CU07 Deprogrammed Replicant
 	8 CU08 Censor
 	8 CW04 Dropship Recruiter
@@ -2352,7 +2351,7 @@
 	8 CB08 Dark-Alley Demon
 	8 CR03 Hired Gun
 	8 CW09 Dogmatic Angel
-	8 CG02 Kick-Flip Koala
+	8 CG04 Kick-Flip Koala
 	8 CU03 Underground DJ
 	8 CW13 Banishing Light
 	8 CU05 Coldtouch Dissident
@@ -2387,8 +2386,8 @@
 	8 CR05 Expert Insurgent
 	8 CG01 Acid Drop Viper
 	8 CG03 Daring Dame
-	8 CG05 Wolf of Wall Street
-	8 CG07 Urban Artist
+	8 CG06 Wolf of Wall Street
+	8 CG02 Urban Artist
 	8 CG10 Party Ape
 	8 CA01 Street Tag
 	8 CR13 Giant Effin Slash
@@ -2411,8 +2410,8 @@
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
-	8 CW08 Compromised Replicants
 	8 CR10 Hit the Pavement
+	8 CW08 Daring Writers
 [foil(1)]
 	12 CG13 Start the Fight
 	12 CB10 Marshal Forces
@@ -2422,7 +2421,7 @@
 	12 CW02 Helpful Vigilante
 	12 CB05 Pilfering Amphibian
 	12 CR06 Street-Wise Combatants
-	12 CG04 Motorcycle Muscle
+	12 CG05 Motorcycle Muscle
 	12 CW12 Show of Force
 	12 CU11 Trippin'
 	12 CB04 Reckless Rioter
@@ -2432,7 +2431,7 @@
 	12 CB03 Grunt Enforcer
 	12 CB01 Causless Ruffian
 	12 CG12 Urban Vibrance
-	12 CG06 Beefhead Bouncer
+	12 CG07 Beefhead Bouncer
 	12 CU07 Deprogrammed Replicant
 	12 CU08 Censor
 	12 CW04 Dropship Recruiter
@@ -2451,7 +2450,7 @@
 	12 CB08 Dark-Alley Demon
 	12 CR03 Hired Gun
 	12 CW09 Dogmatic Angel
-	12 CG02 Kick-Flip Koala
+	12 CG04 Kick-Flip Koala
 	12 CU03 Underground DJ
 	12 CW13 Banishing Light
 	12 CU05 Coldtouch Dissident
@@ -2486,8 +2485,8 @@
 	12 CR05 Expert Insurgent
 	12 CG01 Acid Drop Viper
 	12 CG03 Daring Dame
-	12 CG05 Wolf of Wall Street
-	12 CG07 Urban Artist
+	12 CG06 Wolf of Wall Street
+	12 CG02 Urban Artist
 	12 CG10 Party Ape
 	12 CA01 Street Tag
 	12 CR13 Giant Effin Slash
@@ -2511,7 +2510,6 @@
 	12 CU02 Hypno Bass
 	12 CU13 Data Tap
 	12 CW06 Unyielding Sycophant
-	12 CW08 Compromised Replicants
 	6 UM01 City Surfer
 	6 UM03 Doctor Antavious
 	6 UM05 Revolution Engine
@@ -2523,23 +2521,18 @@
 	6 UM04 Lazarus Protocol
 	6 UM15 Parkland Witch
 	6 UM06 Run It Back
-	6 UM17 Party Girl
 	6 UM08 Double or Nothing
 	6 UM19 Inviting Influencer
 	6 UM10 Recombinating
 	6 UM12 Clayton, Embassy Informant
 	6 UM14 Jessica, Undercity Fence
 	6 UM16 DeSean, Community Cultivator
-	6 UM18 Bart, Boon Town Machinist
 	6 UM20 Dex, Well-Connected
 	6 UW01 Public Artist
 	6 UB01 Captain Bones
 	6 UR08 Feel the Music
-	6 UG01 Market Street Racer
 	6 UU01 Skyward Hare
-	6 UW02 Market Street Tagger
 	6 UW03 Block Enforcer
-	6 UW04 Extra Legal Armorer
 	6 UW05 Go Up in Smoke
 	6 UU02 Cybernet Tiefling
 	6 UU03 Like Just a Big Robot Dude
@@ -2549,19 +2542,16 @@
 	6 UB11 Cursed Kicks
 	6 UB02 Data Weaver
 	6 UB03 Reprogrammed Killbot
-	6 UR02 Dataline Detective
 	6 UR10 Find the LAN Party
 	6 UR03 The Champ
 	6 UR01 Digital Artist
 	6 UR13 Send It!
-	6 UR04 Smoking Dragon
-	6 UG02 Inline Ostrich
-	6 UG10 Break from the Rat Race
-	6 UG12 Food Truck
-	6 UG11 Earth Within
+	6 UG06 Inline Ostrich
+	6 UG13 Food Truck
+	6 UG12 Earth Within
 	6 UW06 Reconnaisance Leader
 	6 UU08 Evade Authorities
-	6 UG06 Bunny, the Muscle
+	6 UG02 Bunny, the Muscle
 	6 UB04 Pain-Killer
 	6 UC01 Rainbow Road
 	6 UL02 The Citadel
@@ -2574,13 +2564,13 @@
 	6 UU09 Brain Dead
 	6 UB05 Hackomancer
 	6 UR05 Night Life Ender
-	6 UG07 F.A.R.M. Squad
+	6 UG08 F.A.R.M. Squad
 	6 UU14 Embassy Row Cycle
 	6 UW14 Market Street Cycle
 	6 UB14 Canal Town Cycle
 	6 UR14 Industrial Park Cycle
 	6 UG14 Boonies Cycle
-	6 UG08 Bold Outsider
+	6 UG01 Bold Outsider
 	6 UW09 Hardcore Mummy
 	6 UU10 Breakdown
 	6 UR11 Bear it All
@@ -2594,9 +2584,7 @@
 	6 UB07 Tracy, Murder Matriarch
 	6 UB08 Rundown in the Street
 	6 UR07 Rebellious Dinosaur
-	6 UG13 Shrimphead Mural
-	6 UG09 Cozy Vagabond
-	6 UU11 Blue Tag
+	6 UG04 Cozy Vagabond
 	6 UU12 Energize
 	6 UU13 Intel Gathering
 	6 UB12 Checkpoint
@@ -2604,17 +2592,27 @@
 	6 UC02 Quiet Plant Store
 	6 UC03 Gas Mask
 	12 CR10 Hit the Pavement
-	6 UW12 White Tag
-	6 UR09 Red Tag
-	6 UB13 Black Tag
 	6 UW13 Breach!
 	6 UW15 Remote Command Center
 	6 UU16 Spray Dancer
 	6 UU15 Recon
-	6 UR15 Monster Truck Gang
-	6 UG15 Streetwise Guardian
-	6 UG16 Grow Up on the Streets
-	6 UG17 Local Artists
+	6 UR02 Monster Truck Gang
+	6 UG07 Streetwise Guardian
+	6 UG11 Grow Up on the Streets
+	6 UG05 Local Artists
+	6 UG03 Distressing Damsel
+	6 UW04 Extra Legal Armorer
+	6 UW12 White Tag
+	6 UU11 Blue Tag
+	6 UB13 Black Tag
+	6 UR09 Red Tag
+	6 UG09 Green Tag
+	12 CW08 Daring Writers
+	6 UW02 Market Street Tagger
+	6 UG10 Color the World
+	6 UR04 Smoking Dragon
+	6 UM17 The Tag on 38th Street
+	6 UM18 Bart, Boon Town Creator
 [wildcard(2)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
@@ -2624,7 +2622,7 @@
 	6 CW02 Helpful Vigilante
 	6 CB05 Pilfering Amphibian
 	6 CR06 Street-Wise Combatants
-	6 CG04 Motorcycle Muscle
+	6 CG05 Motorcycle Muscle
 	6 CW12 Show of Force
 	6 CU11 Trippin'
 	6 CB04 Reckless Rioter
@@ -2634,7 +2632,7 @@
 	6 CB03 Grunt Enforcer
 	6 CB01 Causless Ruffian
 	6 CG12 Urban Vibrance
-	6 CG06 Beefhead Bouncer
+	6 CG07 Beefhead Bouncer
 	6 CU07 Deprogrammed Replicant
 	6 CU08 Censor
 	6 CW04 Dropship Recruiter
@@ -2653,7 +2651,7 @@
 	6 CB08 Dark-Alley Demon
 	6 CR03 Hired Gun
 	6 CW09 Dogmatic Angel
-	6 CG02 Kick-Flip Koala
+	6 CG04 Kick-Flip Koala
 	6 CU03 Underground DJ
 	6 CW13 Banishing Light
 	6 CU05 Coldtouch Dissident
@@ -2688,8 +2686,8 @@
 	6 CR05 Expert Insurgent
 	6 CG01 Acid Drop Viper
 	6 CG03 Daring Dame
-	6 CG05 Wolf of Wall Street
-	6 CG07 Urban Artist
+	6 CG06 Wolf of Wall Street
+	6 CG02 Urban Artist
 	6 CG10 Party Ape
 	6 CA01 Street Tag
 	6 CR13 Giant Effin Slash
@@ -2713,7 +2711,6 @@
 	6 CU02 Hypno Bass
 	6 CU13 Data Tap
 	6 CW06 Unyielding Sycophant
-	6 CW08 Compromised Replicants
 	15 UM01 City Surfer
 	15 UM03 Doctor Antavious
 	15 UM05 Revolution Engine
@@ -2725,23 +2722,18 @@
 	15 UM04 Lazarus Protocol
 	15 UM15 Parkland Witch
 	15 UM06 Run It Back
-	15 UM17 Party Girl
 	15 UM08 Double or Nothing
 	15 UM19 Inviting Influencer
 	15 UM10 Recombinating
 	15 UM12 Clayton, Embassy Informant
 	15 UM14 Jessica, Undercity Fence
 	15 UM16 DeSean, Community Cultivator
-	15 UM18 Bart, Boon Town Machinist
 	15 UM20 Dex, Well-Connected
 	15 UW01 Public Artist
 	15 UB01 Captain Bones
 	15 UR08 Feel the Music
-	15 UG01 Market Street Racer
 	15 UU01 Skyward Hare
-	15 UW02 Market Street Tagger
 	15 UW03 Block Enforcer
-	15 UW04 Extra Legal Armorer
 	15 UW05 Go Up in Smoke
 	15 UU02 Cybernet Tiefling
 	15 UU03 Like Just a Big Robot Dude
@@ -2751,19 +2743,16 @@
 	15 UB11 Cursed Kicks
 	15 UB02 Data Weaver
 	15 UB03 Reprogrammed Killbot
-	15 UR02 Dataline Detective
 	15 UR10 Find the LAN Party
 	15 UR03 The Champ
 	15 UR01 Digital Artist
 	15 UR13 Send It!
-	15 UR04 Smoking Dragon
-	15 UG02 Inline Ostrich
-	15 UG10 Break from the Rat Race
-	15 UG12 Food Truck
-	15 UG11 Earth Within
+	15 UG06 Inline Ostrich
+	15 UG13 Food Truck
+	15 UG12 Earth Within
 	15 UW06 Reconnaisance Leader
 	15 UU08 Evade Authorities
-	15 UG06 Bunny, the Muscle
+	15 UG02 Bunny, the Muscle
 	15 UB04 Pain-Killer
 	15 UC01 Rainbow Road
 	15 UL02 The Citadel
@@ -2776,13 +2765,13 @@
 	15 UU09 Brain Dead
 	15 UB05 Hackomancer
 	15 UR05 Night Life Ender
-	15 UG07 F.A.R.M. Squad
+	15 UG08 F.A.R.M. Squad
 	15 UU14 Embassy Row Cycle
 	15 UW14 Market Street Cycle
 	15 UB14 Canal Town Cycle
 	15 UR14 Industrial Park Cycle
 	15 UG14 Boonies Cycle
-	15 UG08 Bold Outsider
+	15 UG01 Bold Outsider
 	15 UW09 Hardcore Mummy
 	15 UU10 Breakdown
 	15 UR11 Bear it All
@@ -2796,9 +2785,7 @@
 	15 UB07 Tracy, Murder Matriarch
 	15 UB08 Rundown in the Street
 	15 UR07 Rebellious Dinosaur
-	15 UG13 Shrimphead Mural
-	15 UG09 Cozy Vagabond
-	15 UU11 Blue Tag
+	15 UG04 Cozy Vagabond
 	15 UU12 Energize
 	15 UU13 Intel Gathering
 	15 UB12 Checkpoint
@@ -2806,16 +2793,26 @@
 	15 UC02 Quiet Plant Store
 	15 UC03 Gas Mask
 	6 CR10 Hit the Pavement
-	15 UW12 White Tag
-	15 UR09 Red Tag
-	15 UB13 Black Tag
 	15 UW13 Breach!
 	15 UW15 Remote Command Center
 	15 UU16 Spray Dancer
 	15 UU15 Recon
-	15 UR15 Monster Truck Gang
-	15 UG15 Streetwise Guardian
-	15 UG16 Grow Up on the Streets
-	15 UG17 Local Artists
+	15 UR02 Monster Truck Gang
+	15 UG07 Streetwise Guardian
+	15 UG11 Grow Up on the Streets
+	15 UG05 Local Artists
+	15 UG03 Distressing Damsel
+	15 UW04 Extra Legal Armorer
+	15 UW12 White Tag
+	15 UU11 Blue Tag
+	15 UB13 Black Tag
+	15 UR09 Red Tag
+	15 UG09 Green Tag
+	6 CW08 Daring Writers
+	15 UW02 Market Street Tagger
+	15 UG10 Color the World
+	15 UR04 Smoking Dragon
+	15 UM17 The Tag on 38th Street
+	15 UM18 Bart, Boon Town Creator
 [Landslot(1)]
-	30 The Watchtower
+	30 The Watchtower	

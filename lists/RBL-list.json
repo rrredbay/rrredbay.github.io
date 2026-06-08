@@ -32,7 +32,7 @@
         "position": ""
     },
     {
-        "card_name": "UG01 Market Street Racer",
+        "card_name": "UG01 Bold Outsider",
         "number": 137,
         "shape": "normal",
         "set": "RBL",
@@ -64,7 +64,7 @@
         "position": ""
     },
     {
-        "card_name": "UR01 Digital Artist",
+        "card_name": "RR02 Dataline Detective",
         "number": 108,
         "shape": "normal",
         "set": "RBL",
@@ -72,7 +72,7 @@
         "position": ""
     },
     {
-        "card_name": "UG02 Inline Ostrich",
+        "card_name": "UG02 Bunny, the Muscle",
         "number": 138,
         "shape": "normal",
         "set": "RBL",
@@ -104,7 +104,7 @@
         "position": ""
     },
     {
-        "card_name": "UR02 Dataline Detective",
+        "card_name": "UR01 Digital Artist",
         "number": 109,
         "shape": "normal",
         "set": "RBL",
@@ -112,7 +112,7 @@
         "position": ""
     },
     {
-        "card_name": "UG06 Bunny, the Muscle",
+        "card_name": "UG03 Distressing Damsel",
         "number": 139,
         "shape": "normal",
         "set": "RBL",
@@ -144,7 +144,7 @@
         "position": ""
     },
     {
-        "card_name": "UR03 The Champ",
+        "card_name": "UR02 Monster Truck Gang",
         "number": 110,
         "shape": "normal",
         "set": "RBL",
@@ -152,7 +152,7 @@
         "position": ""
     },
     {
-        "card_name": "UG07 F.A.R.M. Squad",
+        "card_name": "UG04 Cozy Vagabond",
         "number": 140,
         "shape": "normal",
         "set": "RBL",
@@ -184,7 +184,7 @@
         "position": ""
     },
     {
-        "card_name": "UR04 Smoking Dragon",
+        "card_name": "UR03 The Champ",
         "number": 111,
         "shape": "normal",
         "set": "RBL",
@@ -192,7 +192,7 @@
         "position": ""
     },
     {
-        "card_name": "UG08 Bold Outsider",
+        "card_name": "UG05 Local Artists",
         "number": 141,
         "shape": "normal",
         "set": "RBL",
@@ -224,7 +224,7 @@
         "position": ""
     },
     {
-        "card_name": "UR05 Night Life Ender",
+        "card_name": "UR04 Smoking Dragon",
         "number": 112,
         "shape": "normal",
         "set": "RBL",
@@ -232,7 +232,7 @@
         "position": ""
     },
     {
-        "card_name": "UG09 Cozy Vagabond",
+        "card_name": "UG06 Inline Ostrich",
         "number": 142,
         "shape": "normal",
         "set": "RBL",
@@ -264,7 +264,7 @@
         "position": ""
     },
     {
-        "card_name": "UR06 Rebel Yell",
+        "card_name": "UR05 Night Life Ender",
         "number": 113,
         "shape": "normal",
         "set": "RBL",
@@ -272,7 +272,7 @@
         "position": ""
     },
     {
-        "card_name": "UG10 Break from the Rat Race",
+        "card_name": "UG07 Streetwise Guardian",
         "number": 143,
         "shape": "normal",
         "set": "RBL",
@@ -304,7 +304,7 @@
         "position": ""
     },
     {
-        "card_name": "UR07 Rebellious Dinosaur",
+        "card_name": "UR06 Rebel Yell",
         "number": 114,
         "shape": "normal",
         "set": "RBL",
@@ -312,7 +312,7 @@
         "position": ""
     },
     {
-        "card_name": "UG11 Earth Within",
+        "card_name": "UG08 F.A.R.M. Squad",
         "number": 144,
         "shape": "normal",
         "set": "RBL",
@@ -344,7 +344,7 @@
         "position": ""
     },
     {
-        "card_name": "UR08 Feel the Music",
+        "card_name": "UR07 Rebellious Dinosaur",
         "number": 115,
         "shape": "normal",
         "set": "RBL",
@@ -352,7 +352,7 @@
         "position": ""
     },
     {
-        "card_name": "UG12 Food Truck",
+        "card_name": "UG09 Green Tag",
         "number": 145,
         "shape": "normal",
         "set": "RBL",
@@ -384,7 +384,7 @@
         "position": ""
     },
     {
-        "card_name": "UR09 Red Tag",
+        "card_name": "UR08 Feel the Music",
         "number": 116,
         "shape": "normal",
         "set": "RBL",
@@ -392,7 +392,7 @@
         "position": ""
     },
     {
-        "card_name": "UG13 Shrimphead Mural",
+        "card_name": "UG10 Color the World",
         "number": 146,
         "shape": "normal",
         "set": "RBL",
@@ -424,7 +424,7 @@
         "position": ""
     },
     {
-        "card_name": "UR10 Find the LAN Party",
+        "card_name": "UR09 Red Tag",
         "number": 117,
         "shape": "normal",
         "set": "RBL",
@@ -432,7 +432,7 @@
         "position": ""
     },
     {
-        "card_name": "UG14 Boonies Cycle",
+        "card_name": "UG11 Grow Up on the Streets",
         "number": 147,
         "shape": "normal",
         "set": "RBL",
@@ -464,7 +464,7 @@
         "position": ""
     },
     {
-        "card_name": "UR11 Bear it All",
+        "card_name": "UR10 Find the LAN Party",
         "number": 118,
         "shape": "normal",
         "set": "RBL",
@@ -472,7 +472,7 @@
         "position": ""
     },
     {
-        "card_name": "UG15 Streetwise Guardian",
+        "card_name": "UG12 Earth Within",
         "number": 148,
         "shape": "normal",
         "set": "RBL",
@@ -504,7 +504,7 @@
         "position": ""
     },
     {
-        "card_name": "UR12 Smash and Grab",
+        "card_name": "UR11 Bear it All",
         "number": 119,
         "shape": "normal",
         "set": "RBL",
@@ -512,7 +512,7 @@
         "position": ""
     },
     {
-        "card_name": "UG16 Grow Up on the Streets",
+        "card_name": "UG13 Food Truck",
         "number": 149,
         "shape": "normal",
         "set": "RBL",
@@ -544,7 +544,7 @@
         "position": ""
     },
     {
-        "card_name": "UR13 Send It!",
+        "card_name": "UR12 Smash and Grab",
         "number": 120,
         "shape": "normal",
         "set": "RBL",
@@ -552,7 +552,7 @@
         "position": ""
     },
     {
-        "card_name": "UG17 Local Artists",
+        "card_name": "UG14 Boonies Cycle",
         "number": 150,
         "shape": "normal",
         "set": "RBL",
@@ -584,7 +584,7 @@
         "position": ""
     },
     {
-        "card_name": "UR14 Industrial Park Cycle",
+        "card_name": "UR13 Send It!",
         "number": 121,
         "shape": "normal",
         "set": "RBL",
@@ -624,7 +624,7 @@
         "position": ""
     },
     {
-        "card_name": "UR15 Monster Truck Gang",
+        "card_name": "UR14 Industrial Park Cycle",
         "number": 122,
         "shape": "normal",
         "set": "RBL",
@@ -632,7 +632,7 @@
         "position": ""
     },
     {
-        "card_name": "CG02 Kick-Flip Koala",
+        "card_name": "CG02 Urban Artist",
         "number": 124,
         "shape": "normal",
         "set": "RBL",
@@ -712,7 +712,7 @@
         "position": ""
     },
     {
-        "card_name": "CG04 Motorcycle Muscle",
+        "card_name": "CG04 Kick-Flip Koala",
         "number": 126,
         "shape": "normal",
         "set": "RBL",
@@ -752,7 +752,7 @@
         "position": ""
     },
     {
-        "card_name": "CG05 Wolf of Wall Street",
+        "card_name": "CG05 Motorcycle Muscle",
         "number": 127,
         "shape": "normal",
         "set": "RBL",
@@ -792,7 +792,7 @@
         "position": ""
     },
     {
-        "card_name": "CG06 Beefhead Bouncer",
+        "card_name": "CG06 Wolf of Wall Street",
         "number": 128,
         "shape": "normal",
         "set": "RBL",
@@ -832,7 +832,7 @@
         "position": ""
     },
     {
-        "card_name": "CG07 Urban Artist",
+        "card_name": "CG07 Beefhead Bouncer",
         "number": 129,
         "shape": "normal",
         "set": "RBL",
@@ -880,7 +880,7 @@
         "position": ""
     },
     {
-        "card_name": "CW08 Compromised Replicants",
+        "card_name": "CW08 Daring Writers",
         "number": 11,
         "shape": "normal",
         "set": "RBL",
@@ -1397,7 +1397,7 @@
         "position": ""
     },
     {
-        "card_name": "UM17 Party Girl",
+        "card_name": "UM17 The Tag on 38th Street",
         "number": 177,
         "shape": "normal",
         "set": "RBL",
@@ -1437,7 +1437,7 @@
         "position": ""
     },
     {
-        "card_name": "UM18 Bart, Boon Town Machinist",
+        "card_name": "UM18 Bart, Boon Town Creator",
         "number": 178,
         "shape": "normal",
         "set": "RBL",

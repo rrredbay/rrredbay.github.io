@@ -1,4 +1,207 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+CG05 Motorcycle Muscle added.
+CG07 Beefhead Bouncer added.
+CG04 Kick-Flip Koala added.
+CG06 Wolf of Wall Street added.
+CG02 Urban Artist added.
+RR02 Dataline Detective added.
+UG06 Inline Ostrich added.
+UG13 Food Truck added.
+UG12 Earth Within added.
+UG02 Bunny, the Muscle added.
+UG08 F.A.R.M. Squad added.
+UG01 Bold Outsider added.
+UG04 Cozy Vagabond added.
+UR02 Monster Truck Gang added.
+UG07 Streetwise Guardian added.
+UG11 Grow Up on the Streets added.
+UG05 Local Artists added.
+UG03 Distressing Damsel added.
+UG09 Green Tag added.
+CW08 Daring Writers added.
+UG10 Color the World added.
+UM17 The Tag on 38th Street added.
+UM18 Bart, Boon Town Creator added.
+
+CG04 Motorcycle Muscle removed.
+CG06 Beefhead Bouncer removed.
+CG02 Kick-Flip Koala removed.
+CG05 Wolf of Wall Street removed.
+CG07 Urban Artist removed.
+CW08 Compromised Replicants removed.
+UM17 Party Girl removed.
+UM18 Bart, Boon Town Machinist removed.
+UG01 Market Street Racer removed.
+UR02 Dataline Detective removed.
+UG02 Inline Ostrich removed.
+UG10 Break from the Rat Race removed.
+UG12 Food Truck removed.
+UG11 Earth Within removed.
+UG06 Bunny, the Muscle removed.
+UG07 F.A.R.M. Squad removed.
+UG08 Bold Outsider removed.
+UG13 Shrimphead Mural removed.
+UG09 Cozy Vagabond removed.
+UR15 Monster Truck Gang removed.
+UG15 Streetwise Guardian removed.
+UG16 Grow Up on the Streets removed.
+UG17 Local Artists removed.
+
+CM06 Mind Tap
+
+CM07 Let it Rip
+
+CM08 Let Loose
+
+CM09 Rockers of the Free World
+
+CM10 Block Party
+
+CR08 Short Kings
+rules_text: Haste
+[i]Uprising[/i] — When this creature enters, if you control another Rebel, creatures you control get +1/+0 and gain trample until end of turn. => Haste
+Whenever another Graffiti or Rebel you control enters, creatures you control get +1/+0 until end of turn.
+pt: 3/5 => 4/4
+
+UL01 City Square
+
+CL02 Embassy Row
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {W} or {U} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {W} or {U}.
+
+CL03 Canal Town
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {U} or {B} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {U} or {B}.
+
+CL04 Industrial Park
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {B} or {R} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {B} or {R}.
+
+CL05 The Boonies
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {R} or {G} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {R} or {G}.
+
+CL06 Arts District
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {G} or {W} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {G} or {W}.
+
+CL07 Government Center
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {W} or {B} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {W} or {B}.
+
+CL08 Dockworks
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {U} or {R} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {U} or {R}.
+
+CL09 Public Works Yard
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {B} or {G} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {B} or {G}.
+
+CL10 The Blocks
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {R} or {W} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {R} or {W}.
+
+CL11 Trade Quarter
+rules_text: As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {G} or {U} => As this land enters, you may pay {1}. If you don't, it enters tapped.
+{T}: Add {G} or {U}.
+
+UM05 Revolution Engine
+cost: {1}{B}{R} => {B}{R}
+rules_text: Trample, haste
+[i]Uprising[/i] — When this Vehicle enters, if you control a Rebel, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+[i]Uprising[/i] — When this Vehicle enters, if you control a Rebel, it becomes an artifact creature and gains haste until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/4 => 3/3
+
+UM11 Surveilance State
+rules_text: When this enchantment enters, amass soldiers 3.
+Whenever you amass, choose one that hasn't been chosen this turn —
+• Put a +1/+1 counter on target creature you control.
+• Surveil 1
+• Each opponent loses 2 life you gain 2 life. => When this enchantment enters, amass soldiers 3.
+Whenever you amass, choose one that hasn't been chosen this turn —
+• Put a +1/+1 counter on target creature you control.
+• Surveil 1.
+• Each opponent loses 2 life you gain 2 life.
+
+UM13 Lydia, Rider of Mayhem
+
+UM15 Parkland Witch
+cost: {B}{R}{G} => {1}{B}{R}{G}
+pt:  => 4/3
+
+UM19 Inviting Influencer
+type: Creature — Tiefling => Creature — Tiefling Scout
+
+UM12 Clayton, Embassy Informant
+type: Legendary Creature — Human => Legendary Creature — Human Advisor
+pt: 3/3 => 2/4
+
+UM14 Jessica, Undercity Fence
+rules_text: When Jessica enters, you may cast a card with cycling from your graveyard until end of turn. If it would be put anywhere other than the battlefield, exile it instead. => Flash
+When Jessica enters, exile up to one target card with cycling from your graveyard. Until the end of your next turn, you may cast the exiled card.
+
+UM16 DeSean, Community Cultivator
+cost: {1}{B}{R}{G} => {2}{B}{R}{G}
+rules_text: At the beginning of combat on your turn choose menace, trample or haste. Rebels you control gain that ability until end of turn. => At the beginning of combat on your turn choose menace, trample or haste. Put a counter of that kind on DeSean, then each other creature you control gains that ability until end of turn.
+pt: 4/4 => 6/5
+
+UM20 Dex, Well-Connected
+rules_text: You may look at the top card of your library at anytime.
+You may cast the top card of your library if you took to the streets this turn. => You may look at the top card of your library at any time.
+You may cast the top card of your library if you took to the streets this turn.
+
+UL02 The Citadel
+
+UL03 Neon Circuit
+
+UL05 Aurora Ward
+
+UL04 The Red Front
+
+UL06 Podunk Town
+
+UW04 Extra Legal Armorer
+
+UW12 White Tag
+
+UU11 Blue Tag
+cost: {1}{U} => {U}
+rules_text: Mural [i](Other Graffiti you control that don't share a color with this one gain the following abilities.)[/i]
+When this Graffiti enters, you may exile target creature you control. If you do, create a 3/3 blue Fish enchantment creature token. => Mural [i](Other Graffiti you control that don't share a color with this one gain the following abilities.)[/i]
+When this Graffiti enters you may tap or untap target permanent.
+
+UB13 Black Tag
+
+UR09 Red Tag
+
+UW02 Market Street Tagger
+cost: {X}{W} => {2}{W}
+rules_text: This creature enters the battlefield with X +1/+1 counters on it.
+At the beginning of combat on your turn, you may move any number of +1/+1 counters from this creature onto another target creature you control. => Whenever an enchantment you control enters, put a +1/+1 counter on this creature.
+Whenever a Graffiti you control enters, draw a card. This ability triggers only once each turn.
+pt: 1/1 => 2/2
+
+UR04 Smoking Dragon
+rules_text: Flying
+When this creature enters, reveal cards from the top of your library until you reveal Rebel creature cards with total mana value 4 or less. Put those creatures onto the battlefield. They each gain haste. Sacrifice them at the beginning of the next end step. => Flying, haste
+When this creature enters, it deals damage equal to the number of enchantments you control to target creature or planeswalker.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

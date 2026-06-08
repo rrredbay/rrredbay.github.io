@@ -5,7 +5,7 @@
 			<name>RBL</name>
 			<longname>Rebels</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-06</releasedate>
+			<releasedate>2026-06-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -155,10 +155,10 @@ Uprising — Whenever this creature attacks, if you control another Rebel, targe
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG04 Motorcycle Muscle</name>
+			<name>CG05 Motorcycle Muscle</name>
 			<text>When this creature enters or you cycle it, target creature you control gets +1/+1 until end of turn.
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/126_CG04 Motorcycle Muscle.png" num="126">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/127_CG05 Motorcycle Muscle.png" num="127">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -336,10 +336,10 @@ Whenever enchanted land is tapped for mana, its controller adds an additional {G
 			<related count="1">The Watchtower</related>
 		</card>
 		<card>
-			<name>CG06 Beefhead Bouncer</name>
+			<name>CG07 Beefhead Bouncer</name>
 			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
 Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/128_CG06 Beefhead Bouncer.png" num="128">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/129_CG07 Beefhead Bouncer.png" num="129">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -464,7 +464,7 @@ Uprising — If you controlled a Rebel as you cast this spell, add one mana of a
 			<name>UR12 Smash and Grab</name>
 			<text>Smash and Grab deals 2 damage to any target.
 Raid — If you attacked this turn, exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/119_UR12 Smash and Grab.png" num="119">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/120_UR12 Smash and Grab.png" num="120">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -674,10 +674,10 @@ When this creature enters, Army creatures you control get +1/+1 and gain flying 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG02 Kick-Flip Koala</name>
+			<name>CG04 Kick-Flip Koala</name>
 			<text>Trample
 Raid — {4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if you attacked this turn. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/124_CG02 Kick-Flip Koala.png" num="124">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/126_CG04 Kick-Flip Koala.png" num="126">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1224,7 @@ Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. D
 		<card>
 			<name>CR08 Short Kings</name>
 			<text>Haste
-Uprising — When this creature enters, if you control another Rebel, creatures you control get +1/+0 and gain trample until end of turn.</text>
+Whenever another Graffiti or Rebel you control enters, creatures you control get +1/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/100_CR08 Short Kings.png" num="100">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1235,7 +1235,7 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1291,16 +1291,16 @@ Uprising — When this creature enters, if you control another Rebel, creatures 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG05 Wolf of Wall Street</name>
+			<name>CG06 Wolf of Wall Street</name>
 			<text>Haste
 When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/127_CG05 Wolf of Wall Street.png" num="127">RBL</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/128_CG06 Wolf of Wall Street.png" num="128">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Fox Rebel</type>
 				<maintype>Creature</maintype>
-				<manacost>1GG</manacost>
+				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -1310,20 +1310,20 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 			<related count="1">The Watchtower</related>
 		</card>
 		<card>
-			<name>CG07 Urban Artist</name>
-			<text>{T}: Add one mana of any color.
-At the beginning of your second main phase, if this creature attacked, untap it.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/129_CG07 Urban Artist.png" num="129">RBL</set>
+			<name>CG02 Urban Artist</name>
+			<text>When this creature enters, if you control a Graffiti, you gain 3 life.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/124_CG02 Urban Artist.png" num="124">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Citizen</type>
 				<maintype>Creature</maintype>
-				<manacost>3G</manacost>
-				<cmc>4</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1414,7 +1414,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL02 Embassy Row</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {W} or {U}</text>
+{T}: Add {W} or {U}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/191_CL02 Embassy Row.png" num="191">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1430,7 +1430,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL03 Canal Town</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {U} or {B}</text>
+{T}: Add {U} or {B}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/192_CL03 Canal Town.png" num="192">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1446,7 +1446,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL04 Industrial Park</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {B} or {R}</text>
+{T}: Add {B} or {R}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/193_CL04 Industrial Park.png" num="193">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1462,7 +1462,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL05 The Boonies</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {R} or {G}</text>
+{T}: Add {R} or {G}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/194_CL05 The Boonies.png" num="194">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1478,7 +1478,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL06 Arts District</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {G} or {W}</text>
+{T}: Add {G} or {W}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/195_CL06 Arts District.png" num="195">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1494,7 +1494,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL07 Government Center</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {W} or {B}</text>
+{T}: Add {W} or {B}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/196_CL07 Government Center.png" num="196">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1510,7 +1510,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL08 Dockworks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {U} or {R}</text>
+{T}: Add {U} or {R}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/197_CL08 Dockworks.png" num="197">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1526,7 +1526,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL09 Public Works Yard</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {B} or {G}</text>
+{T}: Add {B} or {G}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/198_CL09 Public Works Yard.png" num="198">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1542,7 +1542,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL10 The Blocks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {R} or {W}</text>
+{T}: Add {R} or {W}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/199_CL10 The Blocks.png" num="199">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1558,7 +1558,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>CL11 Trade Quarter</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
-{T}: Add {G} or {U}</text>
+{T}: Add {G} or {U}.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/200_CL11 Trade Quarter.png" num="200">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1733,23 +1733,6 @@ Whenever this creature attacks, untap target creature you control.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW08 Compromised Replicants</name>
-			<text>When this creature enters, put a +1/+1 counter on each of up to two creatures you control. Those creatures gain vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/11_CW08 Compromised Replicants.png" num="11">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Construct Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>UM01 City Surfer</name>
 			<text>Flying
 Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
@@ -1788,8 +1771,8 @@ Whenever you surveil, put that many +1/+1 counters on target creature you contro
 		</card>
 		<card>
 			<name>UM05 Revolution Engine</name>
-			<text>Trample, haste
-Uprising — When this Vehicle enters, if you control a Rebel, it becomes an artifact creature until end of turn.
+			<text>Trample
+Uprising — When this Vehicle enters, if you control a Rebel, it becomes an artifact creature and gains haste until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/165_UM05 Revolution Engine.png" num="165">RBL</set>
 			<prop>
@@ -1797,11 +1780,11 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<side>front</side>
 				<type>Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
-				<manacost>1BR</manacost>
-				<cmc>3</cmc>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1846,7 +1829,7 @@ Creatures you control with +1/+1 counters on them have trample.</text>
 			<text>When this enchantment enters, amass soldiers 3.
 Whenever you amass, choose one that hasn&apos;t been chosen this turn —
 • Put a +1/+1 counter on target creature you control.
-• Surveil 1
+• Surveil 1.
 • Each opponent loses 2 life you gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/171_UM11 Surveilance State.png" num="171">RBL</set>
 			<prop>
@@ -1926,10 +1909,11 @@ Sacrifice another creature: Put a +1/+1 counter on this creature. It gains indes
 				<side>front</side>
 				<type>Creature — Kor Rebel Warlock</type>
 				<maintype>Creature</maintype>
-				<manacost>BRG</manacost>
-				<cmc>3</cmc>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
 				<colors>BRG</colors>
 				<coloridentity>BRG</coloridentity>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1949,24 +1933,6 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>UM17 Party Girl</name>
-			<text>Double strike
-Raid — At the beginning of your end step, if you attacked this turn, untap up to one target creature you control and put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/177_UM17 Party Girl.png" num="177">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>RGW</manacost>
-				<cmc>3</cmc>
-				<colors>WRG</colors>
-				<coloridentity>WRG</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM08 Double or Nothing</name>
@@ -1992,7 +1958,7 @@ Raid — At the beginning of your end step, if you attacked this turn, untap up 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Tiefling</type>
+				<type>Creature — Tiefling Scout</type>
 				<maintype>Creature</maintype>
 				<manacost>2GWU</manacost>
 				<cmc>5</cmc>
@@ -2027,19 +1993,20 @@ Soldiers you control have vigilance.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human</type>
+				<type>Legendary Creature — Human Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>WUB</manacost>
 				<cmc>3</cmc>
 				<colors>WUB</colors>
 				<coloridentity>WUB</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM14 Jessica, Undercity Fence</name>
-			<text>When Jessica enters, you may cast a card with cycling from your graveyard until end of turn. If it would be put anywhere other than the battlefield, exile it instead.</text>
+			<text>Flash
+When Jessica enters, exile up to one target card with cycling from your graveyard. Until the end of your next turn, you may cast the exiled card.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/174_UM14 Jessica, Undercity Fence.png" num="174">RBL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2056,42 +2023,24 @@ Soldiers you control have vigilance.</text>
 		</card>
 		<card>
 			<name>UM16 DeSean, Community Cultivator</name>
-			<text>At the beginning of combat on your turn choose menace, trample or haste. Rebels you control gain that ability until end of turn.</text>
+			<text>At the beginning of combat on your turn choose menace, trample or haste. Put a counter of that kind on DeSean, then each other creature you control gains that ability until end of turn.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/176_UM16 DeSean, Community Cultivator.png" num="176">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Rebel</type>
 				<maintype>Creature</maintype>
-				<manacost>1BRG</manacost>
-				<cmc>4</cmc>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
 				<colors>BRG</colors>
 				<coloridentity>BRG</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>UM18 Bart, Boon Town Machinist</name>
-			<text>Bart has indestructible as long as it&apos;s attacking.
-Raid — When Bart enters, if you attacked this turn, it deals 3 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/178_UM18 Bart, Boon Town Machinist.png" num="178">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Human Cyborg</type>
-				<maintype>Creature</maintype>
-				<manacost>2RGW</manacost>
-				<cmc>5</cmc>
-				<colors>WRG</colors>
-				<coloridentity>WRG</coloridentity>
-				<pt>5/5</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM20 Dex, Well-Connected</name>
-			<text>You may look at the top card of your library at anytime.
+			<text>You may look at the top card of your library at any time.
 You may cast the top card of your library if you took to the streets this turn.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/180_UM20 Dex, Well-Connected.png" num="180">RBL</set>
 			<prop>
@@ -2148,7 +2097,7 @@ You may cast the top card of your library if you took to the streets this turn.<
 			<name>UR08 Feel the Music</name>
 			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
 Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/115_UR08 Feel the Music.png" num="115">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/116_UR08 Feel the Music.png" num="116">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2160,25 +2109,6 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>UG01 Market Street Racer</name>
-			<text>When this creature enters, you gain 3 life.
-Cycling {3} ({3}, Discard this card: Draw a card.)
-When you cycle Market Street Racer, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/137_UG01 Market Street Racer.png" num="137">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Citizen</type>
-				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UU01 Skyward Hare</name>
@@ -2200,24 +2130,6 @@ When you cycle this card, up to X target creatures you control gain flying until
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW02 Market Street Tagger</name>
-			<text>This creature enters the battlefield with X +1/+1 counters on it.
-At the beginning of combat on your turn, you may move any number of +1/+1 counters from this creature onto another target creature you control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/19_UW02 Market Street Tagger.png" num="19">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Bard</type>
-				<maintype>Creature</maintype>
-				<manacost>XW</manacost>
-				<cmc>1</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>UW03 Block Enforcer</name>
 			<text>Vigilance
 Whenever you put one or more +1/+1 counters on a creature you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
@@ -2232,23 +2144,6 @@ Whenever you put one or more +1/+1 counters on a creature you control, put a +1/
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>UW04 Extra Legal Armorer</name>
-			<text>{2}{W}, {T}: Put a +1/+1 counter on target creature you control. This ability cost {1} less for each counter on that creature.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/21_UW04 Extra Legal Armorer.png" num="21">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Cyborg Citizen</type>
-				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2412,10 +2307,10 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR02 Dataline Detective</name>
+			<name>RR02 Dataline Detective</name>
 			<text>First strike
 When this creature deals combat damage to a player, exile the top card of that players library. You may play that card until end of turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/109_UR02 Dataline Detective.png" num="109">RBL</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/RBL-files/img/108_RR02 Dataline Detective.png" num="108">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2433,7 +2328,7 @@ When this creature deals combat damage to a player, exile the top card of that p
 			<name>UR10 Find the LAN Party</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw two cards and create two Treasure tokens. Up to two target creatures can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/117_UR10 Find the LAN Party.png" num="117">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/118_UR10 Find the LAN Party.png" num="118">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2449,7 +2344,7 @@ Draw two cards and create two Treasure tokens. Up to two target creatures can&ap
 		<card>
 			<name>UR03 The Champ</name>
 			<text>When The Champ attacks, it deals damage equal to its power to up to one target creature. If excess damage is dealt this way, create a tapped Treasure token.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/110_UR03 The Champ.png" num="110">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/111_UR03 The Champ.png" num="111">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2466,7 +2361,7 @@ Draw two cards and create two Treasure tokens. Up to two target creatures can&ap
 		<card>
 			<name>UR01 Digital Artist</name>
 			<text>{3}{R}, {T}: This creature deals 2 damage to each opponent. You may activate this ability without paying its mana cost if you cast a multicolored spell this turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/108_UR01 Digital Artist.png" num="108">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/109_UR01 Digital Artist.png" num="109">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2484,7 +2379,7 @@ Draw two cards and create two Treasure tokens. Up to two target creatures can&ap
 			<name>UR13 Send It!</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Raid — Send It! deals damage equal to the sacrificed creature&apos;s power to any target. If you attacked this turn, damage can&apos;t be prevented this turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/120_UR13 Send It!.png" num="120">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/121_UR13 Send It!.png" num="121">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2498,28 +2393,10 @@ Raid — Send It! deals damage equal to the sacrificed creature&apos;s power to 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR04 Smoking Dragon</name>
-			<text>Flying
-When this creature enters, reveal cards from the top of your library until you reveal Rebel creature cards with total mana value 4 or less. Put those creatures onto the battlefield. They each gain haste. Sacrifice them at the beginning of the next end step.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/111_UR04 Smoking Dragon.png" num="111">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost>4RR</manacost>
-				<cmc>6</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>UG02 Inline Ostrich</name>
+			<name>UG06 Inline Ostrich</name>
 			<text>Haste
 Whenever this creature attacks, you may exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/138_UG02 Inline Ostrich.png" num="138">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/142_UG06 Inline Ostrich.png" num="142">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2534,29 +2411,11 @@ Whenever this creature attacks, you may exile target card from a graveyard. If i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG10 Break from the Rat Race</name>
-			<text>Choose one —
-• Prevent all combat damage that would be dealt by Rebel creatures this turn.
-• Prevent all combat damage that would be dealt to Rebel creatures this turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/143_UG10 Break from the Rat Race.png" num="143">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>UG12 Food Truck</name>
+			<name>UG13 Food Truck</name>
 			<text>When this artifact enters or attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
-Sacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only on your turn.
+Sacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only during your turn.
 Crew 3</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/145_UG12 Food Truck.png" num="145">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/149_UG13 Food Truck.png" num="149">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2571,9 +2430,9 @@ Crew 3</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG11 Earth Within</name>
+			<name>UG12 Earth Within</name>
 			<text>Destroy target noncreature permanent. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/144_UG11 Earth Within.png" num="144">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/148_UG12 Earth Within.png" num="148">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2623,10 +2482,10 @@ Whenever you cycle a card, you may pay {U}. If you do, return this card from you
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG06 Bunny, the Muscle</name>
+			<name>UG02 Bunny, the Muscle</name>
 			<text>Trample
 Uprising — At the beginning of combat on your turn, you may tap another untapped Rebel you control. If you do, Bunny gets +2/+2 until end of turn. Untap her.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/139_UG06 Bunny, the Muscle.png" num="139">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/138_UG02 Bunny, the Muscle.png" num="138">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2867,7 +2726,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
 			<name>UR05 Night Life Ender</name>
 			<text>When this creature enters, target creature can&apos;t block until end of turn.
 Uprising — Whenever this creature attacks, if you control another Rebel, this creature gets +2/+0 and gains menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/112_UR05 Night Life Ender.png" num="112">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/113_UR05 Night Life Ender.png" num="113">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,11 +2741,11 @@ Uprising — Whenever this creature attacks, if you control another Rebel, this 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG07 F.A.R.M. Squad</name>
+			<name>UG08 F.A.R.M. Squad</name>
 			<text>Trample
 This creature enters with your choice of a +1/+1 counter or haste.
 As long as this creature has a +1/+1 counter on it, it&apos;s an Army in addition to its other types.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/140_UG07 F.A.R.M. Squad.png" num="140">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/144_UG08 F.A.R.M. Squad.png" num="144">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2966,7 +2825,7 @@ Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
 When this Vehicle enters, search your library for a basic Swamp, Mountain, or Forest card reveal it, put it into your hand, then shuffle.
 Crew 2
 Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/121_UR14 Industrial Park Cycle.png" num="121">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/122_UR14 Industrial Park Cycle.png" num="122">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2986,7 +2845,7 @@ Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
 When this Vehicle enters, search your library for a basic Mountain, Forest, or Plains card, reveal it, put it into your hand, then shuffle.
 Crew 2
 Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/147_UG14 Boonies Cycle.png" num="147">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/150_UG14 Boonies Cycle.png" num="150">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3001,10 +2860,10 @@ Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG08 Bold Outsider</name>
+			<name>UG01 Bold Outsider</name>
 			<text>This creature gets +1/+1 as long as you control a multicolored permanent.
 Uprising — This creature gets +1/+1 as long as you control another Rebel.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/141_UG08 Bold Outsider.png" num="141">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/137_UG01 Bold Outsider.png" num="137">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3056,7 +2915,7 @@ Whenever you take to the streets, draw a card. This ability triggers only once e
 			<name>UR11 Bear it All</name>
 			<text>Target creature you control gets +3/+0 until end of turn.
 Raid — Until end of turn, if you attacked this turn, that creature gains &quot;When this creature dies, create a 2/2 red Bear creature token.&quot;</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/118_UR11 Bear it All.png" num="118">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/119_UR11 Bear it All.png" num="119">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3092,7 +2951,7 @@ Up to one target token creature you control gains hexproof and indestructible un
 			<text>When this enchantment enters, you may pay {1}. If you do, create a 1/1 red Rebel creature token.
 Rebel spells you cast cost {1} less to cast.
 Rebels you control have haste.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/113_UR06 Rebel Yell.png" num="113">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/114_UR06 Rebel Yell.png" num="114">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3237,7 +3096,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 			<text>Trample, haste
 Cycling {R} ({R}, Discard this card: Draw a card.)
 When you cycle this card, creatures you control gain haste and trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/114_UR07 Rebellious Dinosaur.png" num="114">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/115_UR07 Rebellious Dinosaur.png" num="115">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3252,27 +3111,10 @@ When you cycle this card, creatures you control gain haste and trample until end
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG13 Shrimphead Mural</name>
-			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
-When this Graffiti enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/146_UG13 Shrimphead Mural.png" num="146">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Graffiti</type>
-				<maintype>Enchantment</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>UG09 Cozy Vagabond</name>
+			<name>UG04 Cozy Vagabond</name>
 			<text>Trample
-Whenever a land enters under your control, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/142_UG09 Cozy Vagabond.png" num="142">RBL</set>
+Landfall — Whenever a land enters under your control, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/140_UG04 Cozy Vagabond.png" num="140">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3321,23 +3163,6 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>UU11 Blue Tag</name>
-			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
-When this Graffiti enters, you may exile target creature you control. If you do, create a 3/3 blue Fish enchantment creature token.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/57_UU11 Blue Tag.png" num="57">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Graffiti</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>UU12 Energize</name>
@@ -3477,58 +3302,6 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UW12 White Tag</name>
-			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
-When this Graffiti enters, create a 1/1 red Rebel creature token.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/29_UW12 White Tag.png" num="29">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Graffiti</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related count="1">RedRebel</related>
-		</card>
-		<card>
-			<name>UR09 Red Tag</name>
-			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
-When this Graffiti enters, you may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/116_UR09 Red Tag.png" num="116">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Graffiti</type>
-				<maintype>Enchantment</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>UB13 Black Tag</name>
-			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
-When this Graffiti enters, search your library for a card, put it into your hand, then shuffle. You lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/91_UB13 Black Tag.png" num="91">RBL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment — Graffiti</type>
-				<maintype>Enchantment</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>UW13 Breach!</name>
 			<text>Destroy up to one target artifact or enchantment.
 Amass Soldiers X. (Put X +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
@@ -3604,9 +3377,9 @@ When this creature deals combat damage to a player draw that many cards.</text>
 			<related count="1">Soldier Army RBL</related>
 		</card>
 		<card>
-			<name>UR15 Monster Truck Gang</name>
+			<name>UR02 Monster Truck Gang</name>
 			<text>Uprising — When this creature enters, if you control another Rebel, gain control of target creature for as long as you control this creature. For as long as you control that creature, it has haste and &quot;This creature attacks each turn if able.&quot;</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/122_UR15 Monster Truck Gang.png" num="122">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/110_UR02 Monster Truck Gang.png" num="110">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3621,9 +3394,9 @@ When this creature deals combat damage to a player draw that many cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG15 Streetwise Guardian</name>
+			<name>UG07 Streetwise Guardian</name>
 			<text>Uprising — When this creature enters, if you control a Rebel, it fights up to one other target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/148_UG15 Streetwise Guardian.png" num="148">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/143_UG07 Streetwise Guardian.png" num="143">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,9 +3411,9 @@ When this creature deals combat damage to a player draw that many cards.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG16 Grow Up on the Streets</name>
+			<name>UG11 Grow Up on the Streets</name>
 			<text>At the beginning of combat on your turn, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/149_UG16 Grow Up on the Streets.png" num="149">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/147_UG11 Grow Up on the Streets.png" num="147">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3655,10 +3428,10 @@ When this creature deals combat damage to a player draw that many cards.</text>
 			<related count="1">The Watchtower</related>
 		</card>
 		<card>
-			<name>UG17 Local Artists</name>
+			<name>UG05 Local Artists</name>
 			<text>When this creature enters, search your library for a Graffiti card, reveal it, put it into your hand, then shuffle.
 This creature gets +1/+1 for each Graffiti you control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/150_UG17 Local Artists.png" num="150">RBL</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/141_UG05 Local Artists.png" num="141">RBL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3743,6 +3516,230 @@ This creature gets +1/+1 for each Graffiti you control.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>UG03 Distressing Damsel</name>
+			<text>Raid — {1}{G}: Return this card from your graveyard to the battlefield tapped. Activate this ability only if you attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/139_UG03 Distressing Damsel.png" num="139">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW04 Extra Legal Armorer</name>
+			<text>{2}{W}, {T}: Put a +1/+1 counter on target creature you control. This ability cost {1} less for each counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/21_UW04 Extra Legal Armorer.png" num="21">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW12 White Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
+When this Graffiti enters, create a 1/1 red Rebel creature token.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/29_UW12 White Tag.png" num="29">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">RedRebel</related>
+		</card>
+		<card>
+			<name>UU11 Blue Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
+When this Graffiti enters you may tap or untap target permanent.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/57_UU11 Blue Tag.png" num="57">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB13 Black Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
+When this Graffiti enters, search your library for a card, put it into your hand, then shuffle. You lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/91_UB13 Black Tag.png" num="91">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR09 Red Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
+When this Graffiti enters, you may discard a card. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/117_UR09 Red Tag.png" num="117">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG09 Green Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a color with this one gain the following abilities.)
+When this Graffiti enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/145_UG09 Green Tag.png" num="145">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW08 Daring Writers</name>
+			<text>Whenever an enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/RBL-files/img/11_CW08 Daring Writers.png" num="11">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW02 Market Street Tagger</name>
+			<text>Whenever an enchantment you control enters, put a +1/+1 counter on this creature.
+Whenever a Graffiti you control enters, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/19_UW02 Market Street Tagger.png" num="19">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG10 Color the World</name>
+			<text>Vivid — Creatures you control get +X/+X until end of turn, where X is the number of colors among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/146_UG10 Color the World.png" num="146">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR04 Smoking Dragon</name>
+			<text>Flying, haste
+When this creature enters, it deals damage equal to the number of enchantments you control to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/112_UR04 Smoking Dragon.png" num="112">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM17 The Tag on 38th Street</name>
+			<text>When The Tag on 38th Street enters, it deals X damage to each creature, where X is the number of Graffiti you control.
+Whenever another Graffiti you control enters, The Tag on 38th Street deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/177_UM17 The Tag on 38th Street.png" num="177">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM18 Bart, Boon Town Creator</name>
+			<text>When Bart enters, return up to one target enchantment card from your graveyard to the hand.
+Whenever Bart attacks, exile up to one target enchantment. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/RBL-files/img/178_UM18 Bart, Boon Town Creator.png" num="178">RBL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
