@@ -2112,7 +2112,13 @@
 		}
 	]
 
-[uncommon(4)]
+[rare(1)]
+	2 RR02 Dataline Detective
+	2 RR01 Delivery Boy
+	2 RC01 Spreading Art
+	2 RB01
+	2 RB02 Extermination
+[uncommon(3)]
 	4 UR12 Smash and Grab
 	4 UL01 City Square
 	4 UM01 City Surfer
@@ -2312,6 +2318,7 @@
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
+	8 The Watchtower
 	8 CR10 Hit the Pavement
 	8 CW08 Daring Writers
 [common | masterpiece(1)]
@@ -2410,6 +2417,7 @@
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
+	8 The Watchtower
 	8 CR10 Hit the Pavement
 	8 CW08 Daring Writers
 [foil(1)]
@@ -2542,6 +2550,7 @@
 	6 UB11 Cursed Kicks
 	6 UB02 Data Weaver
 	6 UB03 Reprogrammed Killbot
+	2 RR02 Dataline Detective
 	6 UR10 Find the LAN Party
 	6 UR03 The Champ
 	6 UR01 Digital Artist
@@ -2553,6 +2562,8 @@
 	6 UU08 Evade Authorities
 	6 UG02 Bunny, the Muscle
 	6 UB04 Pain-Killer
+	2 RR01 Delivery Boy
+	2 RC01 Spreading Art
 	6 UC01 Rainbow Road
 	6 UL02 The Citadel
 	6 UL03 Neon Circuit
@@ -2585,12 +2596,15 @@
 	6 UB08 Rundown in the Street
 	6 UR07 Rebellious Dinosaur
 	6 UG04 Cozy Vagabond
+	2 RB01
+	2 RB02 Extermination
 	6 UU12 Energize
 	6 UU13 Intel Gathering
 	6 UB12 Checkpoint
 	6 UC04 Runaway Service Vehicle
 	6 UC02 Quiet Plant Store
 	6 UC03 Gas Mask
+	12 The Watchtower
 	12 CR10 Hit the Pavement
 	6 UW13 Breach!
 	6 UW15 Remote Command Center
@@ -2613,7 +2627,7 @@
 	6 UR04 Smoking Dragon
 	6 UM17 The Tag on 38th Street
 	6 UM18 Bart, Boon Town Creator
-[wildcard(2)]
+[wildcard(1)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
 	6 CW07 Inspiring Revolutionary
@@ -2743,6 +2757,7 @@
 	15 UB11 Cursed Kicks
 	15 UB02 Data Weaver
 	15 UB03 Reprogrammed Killbot
+	7 RR02 Dataline Detective
 	15 UR10 Find the LAN Party
 	15 UR03 The Champ
 	15 UR01 Digital Artist
@@ -2754,6 +2769,8 @@
 	15 UU08 Evade Authorities
 	15 UG02 Bunny, the Muscle
 	15 UB04 Pain-Killer
+	7 RR01 Delivery Boy
+	7 RC01 Spreading Art
 	15 UC01 Rainbow Road
 	15 UL02 The Citadel
 	15 UL03 Neon Circuit
@@ -2786,12 +2803,15 @@
 	15 UB08 Rundown in the Street
 	15 UR07 Rebellious Dinosaur
 	15 UG04 Cozy Vagabond
+	7 RB01
+	7 RB02 Extermination
 	15 UU12 Energize
 	15 UU13 Intel Gathering
 	15 UB12 Checkpoint
 	15 UC04 Runaway Service Vehicle
 	15 UC02 Quiet Plant Store
 	15 UC03 Gas Mask
+	6 The Watchtower
 	6 CR10 Hit the Pavement
 	15 UW13 Breach!
 	15 UW15 Remote Command Center
@@ -2814,5 +2834,3 @@
 	15 UR04 Smoking Dragon
 	15 UM17 The Tag on 38th Street
 	15 UM18 Bart, Boon Town Creator
-[Landslot(1)]
-	30 The Watchtower	
