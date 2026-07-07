@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/135_CG13 Start the Fight.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/149_CG13 Start the Fight.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/72_CB10 Marshal Forces.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/81_CB10 Marshal Forces.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/10_CW07 Inspiring Revolutionary.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW07 Inspiring Revolutionary.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Orc Rebel",
-			"collector_number": "101",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_CR09 Rollicking Rider.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/111_CR09 Rollicking Rider.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CU12 Under Observation.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_CU12 Under Observation.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/5_CW02 Helpful Vigilante.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/6_CW02 Helpful Vigilante.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Salamander Rebel",
-			"collector_number": "67",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/67_CB05 Pilfering Amphibian.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/76_CB05 Pilfering Amphibian.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "98",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/98_CR06 Street-Wise Combatants.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_CR06 Street-Wise Combatants.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "127",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/127_CG05 Motorcycle Muscle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/141_CG05 Motorcycle Muscle.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/15_CW12 Show of Force.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/16_CW12 Show of Force.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "43",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/43_CU11 Trippin'.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/48_CU11 Trippin'.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rebel Rogue",
-			"collector_number": "66",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/66_CB04 Reckless Rioter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/75_CB04 Reckless Rioter.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "94",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/94_CR02 Dancing Diva.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_CR02 Dancing Diva.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "133",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/133_CG11 Street Art.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/147_CG11 Street Art.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "99",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/99_CR07 Night Rider.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_CR07 Night Rider.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "65",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/65_CB03 Grunt Enforcer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/74_CB03 Grunt Enforcer.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "63",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/63_CB01 Causless Ruffian.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/72_CB01 Causless Ruffian.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "134",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/134_CG12 Urban Vibrance.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/148_CG12 Urban Vibrance.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "129",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/129_CG07 Beefhead Bouncer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/143_CG07 Beefhead Bouncer.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Robot Rebel",
-			"collector_number": "39",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/39_CU07 Deprogrammed Replicant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/44_CU07 Deprogrammed Replicant.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "40",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/40_CU08 Censor.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/45_CU08 Censor.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/7_CW04 Dropship Recruiter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/8_CW04 Dropship Recruiter.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/14_CW11 Court of Public Opinion.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/15_CW11 Court of Public Opinion.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/71_CB09 Shred.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/80_CB09 Shred.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/136_CG14 Civil Deconstruction.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/150_CG14 Civil Deconstruction.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/120_UR12 Smash and Grab.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/134_UR12 Smash and Grab.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/42_CU10 Preventative Strike.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_CU10 Preventative Strike.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/13_CW10 Touch the Dataline.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/14_CW10 Touch the Dataline.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Advisor",
-			"collector_number": "64",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/64_CB02 Ratpack Kingpin.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/73_CB02 Ratpack Kingpin.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dinosaur Rebel",
-			"collector_number": "131",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/131_CG09 Colossal Shredmaw.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/145_CG09 Colossal Shredmaw.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Hamster Rebel",
-			"collector_number": "93",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/93_CR01 Rocket Hamster.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_CR01 Rocket Hamster.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "38",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/38_CU06 Dynamo Defector.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/43_CU06 Dynamo Defector.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Soldier",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/4_CW01 Mecho-Grunt.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/5_CW01 Mecho-Grunt.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/103_CR11 Thrill of Possibility.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/113_CR11 Thrill of Possibility.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon Rebel",
-			"collector_number": "70",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_CB08 Dark-Alley Demon.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/79_CB08 Dark-Alley Demon.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "95",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/95_CR03 Hired Gun.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/105_CR03 Hired Gun.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/12_CW09 Dogmatic Angel.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/13_CW09 Dogmatic Angel.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Beast Rebel",
-			"collector_number": "126",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/126_CG04 Kick-Flip Koala.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/140_CG04 Kick-Flip Koala.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "35",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/35_CU03 Underground DJ.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/40_CU03 Underground DJ.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/16_CW13 Banishing Light.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/17_CW13 Banishing Light.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Zombie Rebel",
-			"collector_number": "37",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_CU05 Coldtouch Dissident.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/42_CU05 Coldtouch Dissident.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/104_CR12 Rewire.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/114_CR12 Rewire.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "96",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/96_CR04 Hotshot.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/106_CR04 Hotshot.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Artificer Rebel",
-			"collector_number": "130",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/130_CG08 Mech Tech.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/144_CG08 Mech Tech.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/151_CM01 Call Spec Ops.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/167_CM01 Call Spec Ops.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "152",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/152_CM02 Two-Wheel Bruiser.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/168_CM02 Two-Wheel Bruiser.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "153",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/153_CM03 Katana Gang.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/169_CM03 Katana Gang.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/154_CM04 Dataline Surfing.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/170_CM04 Dataline Surfing.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "155",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/155_CM05 Market Street Mob.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/171_CM05 Market Street Mob.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/156_CM06 Mind Tap.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/172_CM06 Mind Tap.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/157_CM07 Let it Rip.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/173_CM07 Let it Rip.png"
 			}
 		},
 		{
@@ -515,19 +515,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/158_CM08 Let Loose.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/174_CM08 Let Loose.png"
 			}
 		},
 		{
 			"name": "CM09 Rockers of the Free World",
 			"rarity": "common",
-			"mana_cost": "{2}{R}{G}{W}",
+			"mana_cost": "{R}{G}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "159",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/159_CM09 Rockers of the Free World.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/175_CM09 Rockers of the Free World.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/160_CM10 Block Party.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/176_CM10 Block Party.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/6_CW03 Skid-Row Informant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/7_CW03 Skid-Row Informant.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/8_CW05 Skywise Rebel.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/9_CW05 Skywise Rebel.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/17_CW14 Cover Up.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/18_CW14 Cover Up.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Frog Citizen",
-			"collector_number": "33",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/33_CU01 CCT Croaker.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/38_CU01 CCT Croaker.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "36",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_CU04 Biker Tactician.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/41_CU04 Biker Tactician.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/41_CU09 Find Your People.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CU09 Find Your People.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/46_CU14 Dropship Detention.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_CU14 Dropship Detention.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "68",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/68_CB06 Entry Team.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/77_CB06 Entry Team.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Demon Rebel",
-			"collector_number": "69",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/69_CB07 Diehard Dame.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/78_CB07 Diehard Dame.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/74_CB12 Word on the Street.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/83_CB12 Word on the Street.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/73_CB11 Street Clash.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/82_CB11 Street Clash.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/75_CB13 Scream Core.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/84_CB13 Scream Core.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/76_CB14 Unplug.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/85_CB14 Unplug.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/106_CR14 Send a Message.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/116_CR14 Send a Message.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dwarf Rebel",
-			"collector_number": "100",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/100_CR08 Short Kings.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_CR08 Short Kings.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Rebel Ninja",
-			"collector_number": "97",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/97_CR05 Expert Insurgent.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/107_CR05 Expert Insurgent.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Snake",
-			"collector_number": "123",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/123_CG01 Acid Drop Viper.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/137_CG01 Acid Drop Viper.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "125",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/125_CG03 Daring Dame.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/139_CG03 Daring Dame.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Fox Rebel",
-			"collector_number": "128",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/128_CG06 Wolf of Wall Street.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/142_CG06 Wolf of Wall Street.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "124",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/124_CG02 Urban Artist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/138_CG02 Urban Artist.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Ape Citizen",
-			"collector_number": "132",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/132_CG10 Party Ape.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/146_CG10 Party Ape.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "186",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/186_CA01 Street Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/218_CA01 Street Tag.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/105_CR13 Giant Effin Slash.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_CR13 Giant Effin Slash.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "201",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/201_UL01 City Square.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/234_UL01 City Square.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "190",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/190_CL01 Back Alley.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/223_CL01 Back Alley.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "191",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/191_CL02 Embassy Row.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/224_CL02 Embassy Row.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "192",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/192_CL03 Canal Town.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/225_CL03 Canal Town.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "193",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/193_CL04 Industrial Park.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/226_CL04 Industrial Park.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "194",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/194_CL05 The Boonies.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/227_CL05 The Boonies.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "195",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/195_CL06 Arts District.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/228_CL06 Arts District.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "196",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/196_CL07 Government Center.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/229_CL07 Government Center.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "197",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/197_CL08 Dockworks.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/230_CL08 Dockworks.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "198",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/198_CL09 Public Works Yard.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/231_CL09 Public Works Yard.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "199",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/199_CL10 The Blocks.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/232_CL10 The Blocks.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "200",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/200_CL11 Trade Quarter.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/233_CL11 Trade Quarter.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}{W/U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "181",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/181_CM11 Special Task Force.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/213_CM11 Special Task Force.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}{U/B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "182",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/182_CM12 Canal Town Couriers.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/214_CM12 Canal Town Couriers.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}{B/R}",
 			"type": "Artifact Creature — Cyborg Rebel",
-			"collector_number": "183",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/183_CM13 Industrial Park Freerunner.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/215_CM13 Industrial Park Freerunner.png"
 			}
 		},
 		{
@@ -935,19 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}{R/G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "184",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/184_CM14 Boonies Homebrewer.png"
-			}
-		},
-		{
-			"name": "CM15 Art Distric Defiant",
-			"rarity": "common",
-			"mana_cost": "{3}{G/W}{G/W}",
-			"type": "Creature — Dog Citizen",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/185_CM15 Art Distric Defiant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/216_CM14 Boonies Homebrewer.png"
 			}
 		},
 		{
@@ -955,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Fish",
-			"collector_number": "34",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_CU02 Hypno Bass.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/39_CU02 Hypno Bass.png"
 			}
 		},
 		{
@@ -965,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "45",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/45_CU13 Data Tap.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_CU13 Data Tap.png"
 			}
 		},
 		{
@@ -975,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Detective",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/9_CW06 Unyielding Sycophant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/10_CW06 Unyielding Sycophant.png"
 			}
 		},
 		{
@@ -985,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "161",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/161_UM01 City Surfer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/193_UM01 City Surfer.png"
 			}
 		},
 		{
@@ -995,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Artifact Creature — Scientist",
-			"collector_number": "163",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/163_UM03 Doctor Antavious.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/195_UM03 Doctor Antavious.png"
 			}
 		},
 		{
@@ -1005,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "165",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/165_UM05 Revolution Engine.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/197_UM05 Revolution Engine.png"
 			}
 		},
 		{
@@ -1015,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Angel Rebel",
-			"collector_number": "169",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/169_UM09 Goofy Foot Cherub.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/201_UM09 Goofy Foot Cherub.png"
 			}
 		},
 		{
@@ -1025,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Crocodile Rebel",
-			"collector_number": "167",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/167_UM07 Painter Gator.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/199_UM07 Painter Gator.png"
 			}
 		},
 		{
@@ -1035,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "171",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/171_UM11 Surveilance State.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/203_UM11 Surveilance State.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "162",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/162_UM02 Stun Zapper.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/194_UM02 Stun Zapper.png"
 			}
 		},
 		{
@@ -1055,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "173",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/173_UM13 Lydia, Rider of Mayhem.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/205_UM13 Lydia, Rider of Mayhem.png"
 			}
 		},
 		{
@@ -1065,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/164_UM04 Lazarus Protocol.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/196_UM04 Lazarus Protocol.png"
 			}
 		},
 		{
@@ -1075,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Creature — Kor Rebel Warlock",
-			"collector_number": "175",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/175_UM15 Parkland Witch.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/207_UM15 Parkland Witch.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "166",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/166_UM06 Run It Back.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/198_UM06 Run It Back.png"
 			}
 		},
 		{
@@ -1095,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/168_UM08 Double or Nothing.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/200_UM08 Double or Nothing.png"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Creature — Tiefling Scout",
-			"collector_number": "179",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/179_UM19 Inviting Influencer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/211_UM19 Inviting Influencer.png"
 			}
 		},
 		{
@@ -1115,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/170_UM10 Recombinating.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/202_UM10 Recombinating.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "172",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/172_UM12 Clayton, Embassy Informant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/204_UM12 Clayton, Embassy Informant.png"
 			}
 		},
 		{
@@ -1135,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "174",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/174_UM14 Jessica, Undercity Fence.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/206_UM14 Jessica, Undercity Fence.png"
 			}
 		},
 		{
@@ -1145,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "176",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/176_UM16 DeSean, Community Cultivator.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/208_UM16 DeSean, Community Cultivator.png"
 			}
 		},
 		{
@@ -1155,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "180",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/180_UM20 Dex, Well-Connected.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/212_UM20 Dex, Well-Connected.png"
 			}
 		},
 		{
@@ -1165,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/18_UW01 Public Artist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_UW01 Public Artist.png"
 			}
 		},
 		{
@@ -1175,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "79",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/79_UB01 Captain Bones.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/89_UB01 Captain Bones.png"
 			}
 		},
 		{
@@ -1185,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/116_UR08 Feel the Music.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/130_UR08 Feel the Music.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Rabbit",
-			"collector_number": "47",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/47_UU01 Skyward Hare.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/56_UU01 Skyward Hare.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Dragon Soldier",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_UW03 Block Enforcer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/25_UW03 Block Enforcer.png"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/22_UW05 Go Up in Smoke.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/27_UW05 Go Up in Smoke.png"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Tiefling Rebel",
-			"collector_number": "48",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/48_UU02 Cybernet Tiefling.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_UU02 Cybernet Tiefling.png"
 			}
 		},
 		{
@@ -1235,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Cyborg Rebel",
-			"collector_number": "49",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/49_UU03 Like Just a Big Robot Dude.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/58_UU03 Like Just a Big Robot Dude.png"
 			}
 		},
 		{
@@ -1245,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Spy",
-			"collector_number": "50",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/50_UU04 Kira, Double Agent.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/59_UU04 Kira, Double Agent.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "87",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/87_UB09 Rise Above the Masses.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/97_UB09 Rise Above the Masses.png"
 			}
 		},
 		{
@@ -1265,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/88_UB10 Rough Questioning.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/98_UB10 Rough Questioning.png"
 			}
 		},
 		{
@@ -1275,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "89",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/89_UB11 Cursed Kicks.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/99_UB11 Cursed Kicks.png"
 			}
 		},
 		{
@@ -1285,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Rebel",
-			"collector_number": "80",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/80_UB02 Data Weaver.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/90_UB02 Data Weaver.png"
 			}
 		},
 		{
@@ -1295,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact Creature — Killbot",
-			"collector_number": "81",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/81_UB03 Reprogrammed Killbot.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/91_UB03 Reprogrammed Killbot.png"
 			}
 		},
 		{
@@ -1305,9 +1295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Detective",
-			"collector_number": "108",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/108_RR02 Dataline Detective.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/120_RR02 Dataline Detective.png"
 			}
 		},
 		{
@@ -1315,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/118_UR10 Find the LAN Party.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/132_UR10 Find the LAN Party.png"
 			}
 		},
 		{
@@ -1325,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "111",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/111_UR03 The Champ.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/125_UR03 The Champ.png"
 			}
 		},
 		{
@@ -1335,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Performer",
-			"collector_number": "109",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/109_UR01 Digital Artist.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/123_UR01 Digital Artist.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/121_UR13 Send It!.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/135_UR13 Send It!.png"
 			}
 		},
 		{
@@ -1355,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Bird",
-			"collector_number": "142",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/142_UG06 Inline Ostrich.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/158_UG06 Inline Ostrich.png"
 			}
 		},
 		{
@@ -1365,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "149",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/149_UG13 Food Truck.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/165_UG13 Food Truck.png"
 			}
 		},
 		{
@@ -1375,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/148_UG12 Earth Within.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/164_UG12 Earth Within.png"
 			}
 		},
 		{
@@ -1385,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "23",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/23_UW06 Reconnaisance Leader.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/28_UW06 Reconnaisance Leader.png"
 			}
 		},
 		{
@@ -1395,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_UU08 Evade Authorities.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/63_UU08 Evade Authorities.png"
 			}
 		},
 		{
@@ -1405,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "138",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/138_UG02 Bunny, the Muscle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/154_UG02 Bunny, the Muscle.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Artifact Creature — Killbot",
-			"collector_number": "82",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/82_UB04 Pain-Killer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/92_UB04 Pain-Killer.png"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "107",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/107_RR01 Delivery Boy.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/119_RR01 Delivery Boy.png"
 			}
 		},
 		{
@@ -1435,9 +1425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/1_RC01 Spreading Art.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_RC01 Spreading Art.png"
 			}
 		},
 		{
@@ -1445,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/2_UC01 Rainbow Road.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/3_UC01 Rainbow Road.png"
 			}
 		},
 		{
@@ -1455,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "202",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/202_UL02 The Citadel.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/235_UL02 The Citadel.png"
 			}
 		},
 		{
@@ -1465,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "203",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/203_UL03 Neon Circuit.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/236_UL03 Neon Circuit.png"
 			}
 		},
 		{
@@ -1475,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "205",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/205_UL05 Aurora Ward.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/238_UL05 Aurora Ward.png"
 			}
 		},
 		{
@@ -1485,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "204",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/204_UL04 The Red Front.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/237_UL04 The Red Front.png"
 			}
 		},
 		{
@@ -1495,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "206",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/206_UL06 Podunk Town.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/239_UL06 Podunk Town.png"
 			}
 		},
 		{
@@ -1505,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Soldier",
-			"collector_number": "25",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/25_UW08 Dildobot.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/30_UW08 Dildobot.png"
 			}
 		},
 		{
@@ -1515,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "24",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/24_UW07 Embassy Healer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_UW07 Embassy Healer.png"
 			}
 		},
 		{
@@ -1525,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "55",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/55_UU09 Brain Dead.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/64_UU09 Brain Dead.png"
 			}
 		},
 		{
@@ -1535,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "83",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/83_UB05 Hackomancer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/93_UB05 Hackomancer.png"
 			}
 		},
 		{
@@ -1545,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "113",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/113_UR05 Night Life Ender.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/127_UR05 Night Life Ender.png"
 			}
 		},
 		{
@@ -1555,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact Creature — Beast Construct",
-			"collector_number": "144",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/144_UG08 F.A.R.M. Squad.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/160_UG08 F.A.R.M. Squad.png"
 			}
 		},
 		{
@@ -1565,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "60",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/60_UU14 Embassy Row Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/69_UU14 Embassy Row Cycle.png"
 			}
 		},
 		{
@@ -1575,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "31",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/31_UW14 Market Street Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/36_UW14 Market Street Cycle.png"
 			}
 		},
 		{
@@ -1585,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "92",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/92_UB14 Canal Town Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_UB14 Canal Town Cycle.png"
 			}
 		},
 		{
@@ -1595,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "122",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/122_UR14 Industrial Park Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/136_UR14 Industrial Park Cycle.png"
 			}
 		},
 		{
@@ -1605,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "150",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/150_UG14 Boonies Cycle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/166_UG14 Boonies Cycle.png"
 			}
 		},
 		{
@@ -1615,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Dog Rebel",
-			"collector_number": "137",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/137_UG01 Bold Outsider.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/153_UG01 Bold Outsider.png"
 			}
 		},
 		{
@@ -1625,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Zombie Rebel",
-			"collector_number": "26",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/26_UW09 Hardcore Mummy.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/31_UW09 Hardcore Mummy.png"
 			}
 		},
 		{
@@ -1635,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/56_UU10 Breakdown.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/65_UU10 Breakdown.png"
 			}
 		},
 		{
@@ -1645,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/119_UR11 Bear it All.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/133_UR11 Bear it All.png"
 			}
 		},
 		{
@@ -1655,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/27_UW10 Calm the Elite.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/32_UW10 Calm the Elite.png"
 			}
 		},
 		{
@@ -1665,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "114",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/114_UR06 Rebel Yell.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/128_UR06 Rebel Yell.png"
 			}
 		},
 		{
@@ -1675,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Bird Rebel",
-			"collector_number": "51",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/51_UU05 Duck Coolidge.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/60_UU05 Duck Coolidge.png"
 			}
 		},
 		{
@@ -1685,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/28_UW11 Dance Party!.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/33_UW11 Dance Party!.png"
 			}
 		},
 		{
@@ -1695,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "52",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_UU06 Energized Militant.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_UU06 Energized Militant.png"
 			}
 		},
 		{
@@ -1705,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Tiefling Soldier",
-			"collector_number": "53",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_UU07 Embassy Extractor.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/62_UU07 Embassy Extractor.png"
 			}
 		},
 		{
@@ -1715,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Ninja",
-			"collector_number": "84",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/84_UB06 Steel Street Assassin.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/94_UB06 Steel Street Assassin.png"
 			}
 		},
 		{
@@ -1725,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Bird",
-			"collector_number": "85",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/85_UB07 Tracy, Murder Matriarch.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/95_UB07 Tracy, Murder Matriarch.png"
 			}
 		},
 		{
@@ -1735,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "86",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/86_UB08 Rundown in the Street.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/96_UB08 Rundown in the Street.png"
 			}
 		},
 		{
@@ -1745,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "115",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/115_UR07 Rebellious Dinosaur.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/129_UR07 Rebellious Dinosaur.png"
 			}
 		},
 		{
@@ -1755,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "140",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/140_UG04 Cozy Vagabond.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/156_UG04 Cozy Vagabond.png"
 			}
 		},
 		{
@@ -1765,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "77",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/77_RB01.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/86_RB01.png"
 			}
 		},
 		{
@@ -1775,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/78_RB02 Extermination.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/87_RB02 Extermination.png"
 			}
 		},
 		{
@@ -1785,9 +1775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "58",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/58_UU12 Energize.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/67_UU12 Energize.png"
 			}
 		},
 		{
@@ -1795,9 +1785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/59_UU13 Intel Gathering.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/68_UU13 Intel Gathering.png"
 			}
 		},
 		{
@@ -1805,9 +1795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/90_UB12 Checkpoint.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/100_UB12 Checkpoint.png"
 			}
 		},
 		{
@@ -1815,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "189",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/189_UC04 Runaway Service Vehicle.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/222_UC04 Runaway Service Vehicle.png"
 			}
 		},
 		{
@@ -1825,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "187",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/187_UC02 Quiet Plant Store.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/220_UC02 Quiet Plant Store.png"
 			}
 		},
 		{
@@ -1835,9 +1825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "188",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/188_UC03 Gas Mask.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/221_UC03 Gas Mask.png"
 			}
 		},
 		{
@@ -1845,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/3_The Watchtower.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/4_The Watchtower.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/102_CR10 Hit the Pavement.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/112_CR10 Hit the Pavement.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/30_UW13 Breach!.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/35_UW13 Breach!.png"
 			}
 		},
 		{
@@ -1875,9 +1865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "32",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/32_UW15 Remote Command Center.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/37_UW15 Remote Command Center.png"
 			}
 		},
 		{
@@ -1885,9 +1875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "62",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/62_UU16 Spray Dancer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/71_UU16 Spray Dancer.png"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Human Soldier Army",
-			"collector_number": "61",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/61_UU15 Recon.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/70_UU15 Recon.png"
 			}
 		},
 		{
@@ -1905,9 +1895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "110",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/110_UR02 Monster Truck Gang.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/124_UR02 Monster Truck Gang.png"
 			}
 		},
 		{
@@ -1915,9 +1905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Wolf Cyborg",
-			"collector_number": "143",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/143_UG07 Streetwise Guardian.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/159_UG07 Streetwise Guardian.png"
 			}
 		},
 		{
@@ -1925,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "147",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/147_UG11 Grow Up on the Streets.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/163_UG11 Grow Up on the Streets.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Troll",
-			"collector_number": "141",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/141_UG05 Local Artists.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/157_UG05 Local Artists.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "139",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/139_UG03 Distressing Damsel.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/155_UG03 Distressing Damsel.png"
 			}
 		},
 		{
@@ -1995,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Cyborg Citizen",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_UW04 Extra Legal Armorer.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/26_UW04 Extra Legal Armorer.png"
 			}
 		},
 		{
@@ -2005,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "29",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/29_UW12 White Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/34_UW12 White Tag.png"
 			}
 		},
 		{
@@ -2015,9 +2005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "57",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/57_UU11 Blue Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/66_UU11 Blue Tag.png"
 			}
 		},
 		{
@@ -2025,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "91",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/91_UB13 Black Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/101_UB13 Black Tag.png"
 			}
 		},
 		{
@@ -2035,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "117",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/117_UR09 Red Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/131_UR09 Red Tag.png"
 			}
 		},
 		{
@@ -2045,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Graffiti",
-			"collector_number": "145",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/145_UG09 Green Tag.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/161_UG09 Green Tag.png"
 			}
 		},
 		{
@@ -2055,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/11_CW08 Daring Writers.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/12_CW08 Daring Writers.png"
 			}
 		},
 		{
@@ -2065,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_UW02 Market Street Tagger.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/24_UW02 Market Street Tagger.png"
 			}
 		},
 		{
@@ -2075,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/146_UG10 Color the World.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/162_UG10 Color the World.png"
 			}
 		},
 		{
@@ -2085,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "112",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/112_UR04 Smoking Dragon.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/126_UR04 Smoking Dragon.png"
 			}
 		},
 		{
@@ -2095,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Enchantment — Graffiti",
-			"collector_number": "177",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/177_UM17 The Tag on 38th Street.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/209_UM17 The Tag on 38th Street.png"
 			}
 		},
 		{
@@ -2105,9 +2095,349 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Artifact Creature — Human Cyborg",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/210_UM18 Bart, Boon Town Creator.png"
+			}
+		},
+		{
+			"name": "CM15 Art District Defiant",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Creature — Dog Citizen",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/217_CM15 Art District Defiant.png"
+			}
+		},
+		{
+			"name": "RW01 Champion of the Streets",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/20_RW01 Champion of the Streets.png"
+			}
+		},
+		{
+			"name": "RU01 Sam Scooter Denegan",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Pilot Rebel",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/52_RU01 Sam Scooter Denegan.png"
+			}
+		},
+		{
+			"name": "MC01 Null, Blade of the Void",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Planeswalker — Null",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/1_MC01 Null, Blade of the Void.png"
+			}
+		},
+		{
+			"name": "RM02 One Man Army",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{W}{U}{B}",
+			"type": "Artifact Creature — Soldier Army",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/184_RM02 One Man Army.png"
+			}
+		},
+		{
+			"name": "RR03 Rick, the Red Devil",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Soldier Rebel",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/121_RR03 Rick, the Red Devil.png"
+			}
+		},
+		{
+			"name": "MM01 Mai, Running Free",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Menia",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/177_MM01 Mai, Running Free.png"
+			}
+		},
+		{
+			"name": "MM02 Aunty Ruina",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Ruina",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/RBL-files/img/178_UM18 Bart, Boon Town Creator.png"
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/178_MM02 Aunty Ruina.png"
+			}
+		},
+		{
+			"name": "MM03 Agnus, Voice of the People",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Planeswalker — Agnus",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/179_MM03 Agnus, Voice of the People.png"
+			}
+		},
+		{
+			"name": "RU02 Escape Reality",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/53_RU02 Escape Reality.png"
+			}
+		},
+		{
+			"name": "RU03 Take a Beat",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/54_RU03 Take a Beat.png"
+			}
+		},
+		{
+			"name": "RR04 Subway Loiterer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/122_RR04 Subway Loiterer.png"
+			}
+		},
+		{
+			"name": "RM01 City Renewal",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/183_RM01 City Renewal.png"
+			}
+		},
+		{
+			"name": "RM03 Tony",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Enchantment Creature — Wall",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/185_RM03 Tony.png"
+			}
+		},
+		{
+			"name": "RM04 Katana Gang Rioter",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/186_RM04 Katana Gang Rioter.png"
+			}
+		},
+		{
+			"name": "RM05",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/187_RM05.png"
+			}
+		},
+		{
+			"name": "RM06",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Mutant Warlock",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/188_RM06.png"
+			}
+		},
+		{
+			"name": "MM04 Lavorious, the Oppressor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Lavorious",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/180_MM04 Lavorious, the Oppressor.png"
+			}
+		},
+		{
+			"name": "MM05 Josh, Undercity Slacker",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Planeswalker — Josh",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/181_MM05 Josh, Undercity Slacker.png"
+			}
+		},
+		{
+			"name": "RC02 Public Transport",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/219_RC02 Public Transport.png"
+			}
+		},
+		{
+			"name": "RM07 Swiss Army Man",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Mutant Rebel",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/189_RM07 Swiss Army Man.png"
+			}
+		},
+		{
+			"name": "RG01 Bird of Distopia",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/152_RG01 Bird of Distopia.png"
+			}
+		},
+		{
+			"name": "RM08 Iris, the Lurker",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/190_RM08 Iris, the Lurker.png"
+			}
+		},
+		{
+			"name": "RW02",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/21_RW02.png"
+			}
+		},
+		{
+			"name": "MR01 its flash for vehicles",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/117_MR01 its flash for vehicles.png"
+			}
+		},
+		{
+			"name": "MW01 Inshi, the Night Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/19_MW01 Inshi, the Night Blade.png"
+			}
+		},
+		{
+			"name": "RB03 Smoke Break",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/88_RB03 Smoke Break.png"
+			}
+		},
+		{
+			"name": "RM09 Tank Girl",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/192_RM09 Tank Girl.png"
+			}
+		},
+		{
+			"name": "MM06 Tomorrow is Today",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/182_MM06 Tomorrow is Today.png"
+			}
+		},
+		{
+			"name": "RW02 Precinct Maverick",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Tiefling Detective",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/22_RW02 Precinct Maverick.png"
+			}
+		},
+		{
+			"name": "RU04 Sewer City Repurposer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Mermaid Construct",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/55_RU04 Sewer City Repurposer.png"
+			}
+		},
+		{
+			"name": "MR02 Kai, a Dreamer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/118_MR02 Kai, a Dreamer.png"
+			}
+		},
+		{
+			"name": "MG01 Slide and Macha, City Explorers",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/151_MG01 Slide and Macha, City Explorers.png"
+			}
+		},
+		{
+			"name": "RM08 Protest Artist",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/RBL-files/img/191_RM08 Protest Artist.png"
 			}
 		}
 	]
@@ -2118,6 +2448,39 @@
 	2 RC01 Spreading Art
 	2 RB01
 	2 RB02 Extermination
+	2 RW01 Champion of the Streets
+	2 RU01 Sam Scooter Denegan
+	1 MC01 Null, Blade of the Void
+	2 RM02 One Man Army
+	2 RR03 Rick, the Red Devil
+	1 MM01 Mai, Running Free
+	1 MM02 Aunty Ruina
+	1 MM03 Agnus, Voice of the People
+	2 RU02 Escape Reality
+	2 RU03 Take a Beat
+	2 RR04 Subway Loiterer
+	2 RM01 City Renewal
+	2 RM03 Tony
+	2 RM04 Katana Gang Rioter
+	2 RM05
+	2 RM06
+	1 MM04 Lavorious, the Oppressor
+	1 MM05 Josh, Undercity Slacker
+	2 RC02 Public Transport
+	2 RM07 Swiss Army Man
+	2 RG01 Bird of Distopia
+	2 RM08 Iris, the Lurker
+	2 RW02
+	1 MR01 its flash for vehicles
+	1 MW01 Inshi, the Night Blade
+	2 RB03 Smoke Break
+	2 RM09 Tank Girl
+	1 MM06 Tomorrow is Today
+	2 RW02 Precinct Maverick
+	2 RU04 Sewer City Repurposer
+	1 MR02 Kai, a Dreamer
+	1 MG01 Slide and Macha, City Explorers
+	2 RM08 Protest Artist
 [uncommon(3)]
 	4 UR12 Smash and Grab
 	4 UL01 City Square
@@ -2314,13 +2677,12 @@
 	8 CM12 Canal Town Couriers
 	8 CM13 Industrial Park Freerunner
 	8 CM14 Boonies Homebrewer
-	8 CM15 Art Distric Defiant
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
-	8 The Watchtower
 	8 CR10 Hit the Pavement
 	8 CW08 Daring Writers
+	8 CM15 Art District Defiant
 [common | masterpiece(1)]
 	8 CG13 Start the Fight
 	8 CB10 Marshal Forces
@@ -2413,13 +2775,12 @@
 	8 CM12 Canal Town Couriers
 	8 CM13 Industrial Park Freerunner
 	8 CM14 Boonies Homebrewer
-	8 CM15 Art Distric Defiant
 	8 CU02 Hypno Bass
 	8 CU13 Data Tap
 	8 CW06 Unyielding Sycophant
-	8 The Watchtower
 	8 CR10 Hit the Pavement
 	8 CW08 Daring Writers
+	8 CM15 Art District Defiant
 [foil(1)]
 	12 CG13 Start the Fight
 	12 CB10 Marshal Forces
@@ -2514,7 +2875,6 @@
 	12 CM12 Canal Town Couriers
 	12 CM13 Industrial Park Freerunner
 	12 CM14 Boonies Homebrewer
-	12 CM15 Art Distric Defiant
 	12 CU02 Hypno Bass
 	12 CU13 Data Tap
 	12 CW06 Unyielding Sycophant
@@ -2604,7 +2964,6 @@
 	6 UC04 Runaway Service Vehicle
 	6 UC02 Quiet Plant Store
 	6 UC03 Gas Mask
-	12 The Watchtower
 	12 CR10 Hit the Pavement
 	6 UW13 Breach!
 	6 UW15 Remote Command Center
@@ -2627,7 +2986,41 @@
 	6 UR04 Smoking Dragon
 	6 UM17 The Tag on 38th Street
 	6 UM18 Bart, Boon Town Creator
-[wildcard(1)]
+	12 CM15 Art District Defiant
+	2 RW01 Champion of the Streets
+	2 RU01 Sam Scooter Denegan
+	1 MC01 Null, Blade of the Void
+	2 RM02 One Man Army
+	2 RR03 Rick, the Red Devil
+	1 MM01 Mai, Running Free
+	1 MM02 Aunty Ruina
+	1 MM03 Agnus, Voice of the People
+	2 RU02 Escape Reality
+	2 RU03 Take a Beat
+	2 RR04 Subway Loiterer
+	2 RM01 City Renewal
+	2 RM03 Tony
+	2 RM04 Katana Gang Rioter
+	2 RM05
+	2 RM06
+	1 MM04 Lavorious, the Oppressor
+	1 MM05 Josh, Undercity Slacker
+	2 RC02 Public Transport
+	2 RM07 Swiss Army Man
+	2 RG01 Bird of Distopia
+	2 RM08 Iris, the Lurker
+	2 RW02
+	1 MR01 its flash for vehicles
+	1 MW01 Inshi, the Night Blade
+	2 RB03 Smoke Break
+	2 RM09 Tank Girl
+	1 MM06 Tomorrow is Today
+	2 RW02 Precinct Maverick
+	2 RU04 Sewer City Repurposer
+	1 MR02 Kai, a Dreamer
+	1 MG01 Slide and Macha, City Explorers
+	2 RM08 Protest Artist
+[wildcard(2)]
 	6 CG13 Start the Fight
 	6 CB10 Marshal Forces
 	6 CW07 Inspiring Revolutionary
@@ -2721,7 +3114,6 @@
 	6 CM12 Canal Town Couriers
 	6 CM13 Industrial Park Freerunner
 	6 CM14 Boonies Homebrewer
-	6 CM15 Art Distric Defiant
 	6 CU02 Hypno Bass
 	6 CU13 Data Tap
 	6 CW06 Unyielding Sycophant
@@ -2811,7 +3203,6 @@
 	15 UC04 Runaway Service Vehicle
 	15 UC02 Quiet Plant Store
 	15 UC03 Gas Mask
-	6 The Watchtower
 	6 CR10 Hit the Pavement
 	15 UW13 Breach!
 	15 UW15 Remote Command Center
@@ -2834,3 +3225,39 @@
 	15 UR04 Smoking Dragon
 	15 UM17 The Tag on 38th Street
 	15 UM18 Bart, Boon Town Creator
+	6 CM15 Art District Defiant
+	7 RW01 Champion of the Streets
+	7 RU01 Sam Scooter Denegan
+	4 MC01 Null, Blade of the Void
+	7 RM02 One Man Army
+	7 RR03 Rick, the Red Devil
+	4 MM01 Mai, Running Free
+	4 MM02 Aunty Ruina
+	4 MM03 Agnus, Voice of the People
+	7 RU02 Escape Reality
+	7 RU03 Take a Beat
+	7 RR04 Subway Loiterer
+	7 RM01 City Renewal
+	7 RM03 Tony
+	7 RM04 Katana Gang Rioter
+	7 RM05
+	7 RM06
+	4 MM04 Lavorious, the Oppressor
+	4 MM05 Josh, Undercity Slacker
+	7 RC02 Public Transport
+	7 RM07 Swiss Army Man
+	7 RG01 Bird of Distopia
+	7 RM08 Iris, the Lurker
+	7 RW02
+	4 MR01 its flash for vehicles
+	4 MW01 Inshi, the Night Blade
+	7 RB03 Smoke Break
+	7 RM09 Tank Girl
+	4 MM06 Tomorrow is Today
+	7 RW02 Precinct Maverick
+	7 RU04 Sewer City Repurposer
+	4 MR02 Kai, a Dreamer
+	4 MG01 Slide and Macha, City Explorers
+	7 RM08 Protest Artist
+[Landslot(1)]
+	30 The Watchtower

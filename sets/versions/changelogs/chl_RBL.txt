@@ -1,4 +1,64 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CM15 Art District Defiant added.
+RW01 Champion of the Streets added.
+RU01 Sam Scooter Denegan added.
+MC01 Null, Blade of the Void added.
+RM02 One Man Army added.
+RR03 Rick, the Red Devil added.
+MM01 Mai, Running Free added.
+MM02 Aunty Ruina added.
+MM03 Agnus, Voice of the People added.
+RU02 Escape Reality added.
+RU03 Take a Beat added.
+RR04 Subway Loiterer added.
+RM01 City Renewal added.
+RM03 Tony added.
+RM04 Katana Gang Rioter added.
+RM05 added.
+RM06 added.
+MM04 Lavorious, the Oppressor added.
+MM05 Josh, Undercity Slacker added.
+RC02 Public Transport added.
+RM07 Swiss Army Man added.
+RG01 Bird of Distopia added.
+RM08 Iris, the Lurker added.
+RW02 added.
+MR01 its flash for vehicles added.
+MW01 Inshi, the Night Blade added.
+RB03 Smoke Break added.
+RM09 Tank Girl added.
+MM06 Tomorrow is Today added.
+RW02 Precinct Maverick added.
+RU04 Sewer City Repurposer added.
+MR02 Kai, a Dreamer added.
+MG01 Slide and Macha, City Explorers added.
+RM08 Protest Artist added.
+
+CM15 Art Distric Defiant removed.
+
+CM09 Rockers of the Free World
+cost: {2}{R}{G}{W} => {R}{G}{W}
+rules_text: Vigilance
+[i]Raid[/i] — When this creature enters, if you attacked this turn, create two 1/1 red Rebel creature tokens. => Vigilance, trample
+This creature enters with a +1/+1 counter on it if you control a Graffiti.
+pt: 4/4 => 3/3
+
+CM14 Boonies Homebrewer
+rules_text: [i]Raid[/i] — When this creature enters, add {R} or {G} if you attacked this turn. => Whenever this creature attacks, add {R} or {G}. Until end of turn, you don't lose this mana as steps and phases end.
+
+RR02 Dataline Detective
+
+RR01 Delivery Boy
+rules_text: Enchant creature you control
+Enchanted creature gets +1/+0, has haste and can't block.
+Whenever enchanted creature attacks, put a cash counter on this Aura. Then if there are three or more cash counters on this Aura, sacrifice it and create three Treasure tokens. => Enchant creature you control
+Enchanted creature gets +1/+0, has haste and can't be blocked except by creatures with haste.
+Whenever enchanted creature attacks, put a cash counter on this Aura. Then if there are three or more cash counters on this Aura, sacrifice it and create three Treasure tokens.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 CG05 Motorcycle Muscle added.
