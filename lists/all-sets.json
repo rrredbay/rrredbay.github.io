@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "NRC",
+            "set_name": "New Requiem: Crossfire",
+            "formats": "Standard"
+        },
+        {
             "set_code": "POP1",
             "set_name": "Popcorn",
             "formats": "Standard"
@@ -8,11 +13,6 @@
         {
             "set_code": "POP2",
             "set_name": "Popcorn 2: This Time It\u2019s Kersonal",
-            "formats": "Standard"
-        },
-        {
-            "set_code": "RBL",
-            "set_name": "Rebels",
             "formats": "Standard"
         },
         {

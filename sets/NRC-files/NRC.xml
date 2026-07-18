@@ -1,0 +1,5129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>NRC</name>
+			<longname>New Requiem: Crossfire</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-18</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Start the Fight</name>
+			<text>Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.
+Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/177_Start the Fight.png" num="177">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Marshal Forces</name>
+			<text>You draw a card and lose 1 life.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/94_Marshal Forces.png" num="94">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Inspiring Revolutionary</name>
+			<text>When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/24_Inspiring Revolutionary.png" num="24">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Rollicking Rider</name>
+			<text>When this creature enters, it deals 2 damage to target creature or planeswalker you don&apos;t control.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/138_Rollicking Rider.png" num="138">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Under Observation</name>
+			<text>Choose one — 
+• Counter target spell.
+• Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/76_Under Observation.png" num="76">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Helpful Vigilante</name>
+			<text>Lifelink
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/21_Helpful Vigilante.png" num="21">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pilfering Amphibian</name>
+			<text>Menace
+Uprising — When this creature enters, if you control another Rebel, target opponent discards a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/97_Pilfering Amphibian.png" num="97">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Street-Wise Combatants</name>
+			<text>Haste
+Uprising — Whenever this creature attacks, if you control another Rebel, target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/144_Street-Wise Combatants.png" num="144">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Motorcycle Muscle</name>
+			<text>When this creature enters or you cycle it, target creature you control gets +1/+1 until end of turn.
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/171_Motorcycle Muscle.png" num="171">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Show of Force</name>
+			<text>Choose one — 
+• Destroy target creature with power 4 or greater.
+• Amass Soldiers 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/34_Show of Force.png" num="34">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Trippin&apos;</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature is a Citizen and can&apos;t become untapped. (It also loses all other creature types.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/75_Trippin&apos;.png" num="75">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reckless Rioter</name>
+			<text>Whenever this creature attacks, you draw a card and you lose 1 life.
+{R}: This creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/99_Reckless Rioter.png" num="99">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dancing Diva</name>
+			<text>Whenever you discard one or more cards, this creature gets +1/+1 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/115_Dancing Diva.png" num="115">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turf War</name>
+			<text>When this Graffiti enters, up to one target creature you control fights target creature you don&apos;t control.
+{1}{W}, Sacrifice this Graffiti: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/179_Turf War.png" num="179">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Night Rider</name>
+			<text>Haste
+Whenever you discard one or more cards, this creature deals 1 damage to target player.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/131_Night Rider.png" num="131">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grunt Enforcer</name>
+			<text>When this creature dies, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/91_Grunt Enforcer.png" num="91">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Causless Ruffian</name>
+			<text>Whenever this creature attacks, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/82_Causless Ruffian.png" num="82">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urban Vibrance</name>
+			<text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}.
+{4}{G}, Sacrifice this Aura: Take to the streets. You gain 3 life. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/181_Urban Vibrance.png" num="181">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Beefhead Bouncer</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/149_Beefhead Bouncer.png" num="149">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deprogrammed Replicant</name>
+			<text>Defender
+Whenever you take to the streets, this creature can attack this turn as though it didn&apos;t have defender.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/50_Deprogrammed Replicant.png" num="50">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Censor</name>
+			<text>Counter target spell unless its controller pays {1}.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/46_Censor.png" num="46">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dropship Recruiter</name>
+			<text>Armies you control have vigilance.
+When this creature enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/16_Dropship Recruiter.png" num="16">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Court of Public Opinion</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+{1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you took to the streets this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/10_Court of Public Opinion.png" num="10">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shred</name>
+			<text>As an additional cost to cast this spell, discard a card or pay {2}.
+Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/105_Shred.png" num="105">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Civil Deconstruction</name>
+			<text>Destroy target artifact, enchantment, or creature with flying.
+Uprising — If you controlled a Rebel as you cast this spell, add one mana of any color.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/154_Civil Deconstruction.png" num="154">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smash and Grab</name>
+			<text>Smash and Grab deals 2 damage to any target.
+Raid — If you attacked this turn, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/142_Smash and Grab.png" num="142">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Preventative Strike</name>
+			<text>Up to one target creature gets -3/-0 until end of turn.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/66_Preventative Strike.png" num="66">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Touch the Dataline</name>
+			<text>Target creature you control gains flying until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/37_Touch the Dataline.png" num="37">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ratpack Kingpin</name>
+			<text>{1}, {T}, Sacrifice another creature: Target player loses 1 life and you gain 1 life. If you sacrificed a multicolored permanent this way, create a Treasure token.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/98_Ratpack Kingpin.png" num="98">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossal Shredmaw</name>
+			<text>Trample
+When this creature enters, you gain 3 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/156_Colossal Shredmaw.png" num="156">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rocket Hamster</name>
+			<text>Haste
+This creature gets +1/+1 as long as you control a multicolored permanent.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/137_Rocket Hamster.png" num="137">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hamster Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dynamo Defector</name>
+			<text>Flying
+When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/53_Dynamo Defector.png" num="53">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Mecho-Grunt</name>
+			<text>When this creature dies, put a +1/+1 counter on target creature you control. If that creature is an Army, put an additional +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/27_Mecho-Grunt.png" num="27">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Thrilling Artistry</name>
+			<text>When this Graffiti enters, you may discard a card. If you do, draw two cards.
+Uprising — At the beginning of combat on your turn, you may have target Rebel you control gain haste until end of turn. If you do, sacrifice this Graffiti.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/147_Thrilling Artistry.png" num="147">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dark-Alley Demon</name>
+			<text>Flying
+When this creature enters, target opponent loses 2 life and you gain 2 life.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/85_Dark-Alley Demon.png" num="85">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hired Gun</name>
+			<text>Reach
+Raid — When this creature enters, put a +1/+1 counter on it if you attacked this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/123_Hired Gun.png" num="123">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dogmatic Angel</name>
+			<text>Flying, vigilance
+When this creature enters, Army creatures you control get +1/+1 and gain flying until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/15_Dogmatic Angel.png" num="15">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kick-Flip Koala</name>
+			<text>Trample
+Raid — {4}{G}: Put a +1/+1 counter on this creature. This ability costs {2} less to activate if you attacked this turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/168_Kick-Flip Koala.png" num="168">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underground DJ</name>
+			<text>Whenever you discard one or more cards, this creature gets +1/+0 and can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/77_Underground DJ.png" num="77">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Painted Infamy</name>
+			<text>When this Graffiti enters, exile target nonland permanent an opponent controls until this Graffiti leaves the battlefield.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/29_Painted Infamy.png" num="29">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coldtouch Dissident</name>
+			<text>When this creature enters, tap target creature you don&apos;t control and put a stun counter on it.
+{2}{B}: Take to the streets. Activate only as a sorcery. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/47_Coldtouch Dissident.png" num="47">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Rewire</name>
+			<text>Uprising — This spell costs {2} less to cast if you control a Rebel.
+Rewire deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/135_Rewire.png" num="135">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hotshot</name>
+			<text>Haste
+{T}: Add {R}.
+Whenever another Rebel you control enters, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/125_Hotshot.png" num="125">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mech Tech</name>
+			<text>Vigilance, reach
+Uprising — When this creature enters, if you control another Rebel, draw a card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/170_Mech Tech.png" num="170">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call Spec Ops</name>
+			<text>Surveil 1, then draw two cards. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/193_Call Spec Ops.png" num="193">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Two-Wheel Bruiser</name>
+			<text>During turns other than yours, this Vehicle is an artifact creature.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/250_Two-Wheel Bruiser.png" num="250">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Katana Gang</name>
+			<text>Haste, menace
+Uprising — At the beginning of your end step, if you control another Rebel, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/214_Katana Gang.png" num="214">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dataline Surfing</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Raid — If you attacked this turn, create a Treasure token.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/199_Dataline Surfing.png" num="199">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Market Street Mob</name>
+			<text>Whenever another creature you control enters, you gain 1 life and take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/223_Market Street Mob.png" num="223">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Mind Tap</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/224_Mind Tap.png" num="224">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Let it Rip</name>
+			<text>Draw two cards. Then you may discard a nonland card. When you do, Let it Rip deals 5 damage to target creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/219_Let it Rip.png" num="219">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Let Loose</name>
+			<text>Destroy target creature or planeswalker.
+Uprising — If you controlled a Rebel as you cast this spell, put a +1/+1 counter on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/220_Let Loose.png" num="220">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rockers of the Free World</name>
+			<text>Vigilance, trample
+This creature enters with a +1/+1 counter on it if you control a Graffiti.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/235_Rockers of the Free World.png" num="235">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="2">RedRebel</related>
+		</card>
+		<card>
+			<name>Block Party</name>
+			<text>Create three 2/2 white Rebel creature tokens with vigilance.
+Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/191_Block Party.png" num="191">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GWU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">The Watchtower</related>
+			<related count="3">WhiteRebel</related>
+		</card>
+		<card>
+			<name>Skid-Row Informant</name>
+			<text>Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/35_Skid-Row Informant.png" num="35">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skywise Rebel</name>
+			<text>Flying
+Uprising — Whenever this creature attacks, if you control another Rebel, up to one other target creature gets +1/+0 and gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/36_Skywise Rebel.png" num="36">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cover Up</name>
+			<text>Raid — This spell costs {2} less to cast if you attacked this turn.
+Exile target creature or artifact.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/11_Cover Up.png" num="11">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CCT Croaker</name>
+			<text>Whenever you take to the streets, put a +1/+1 counter on this creature.
+This creature is a Rebel in addition to its other types as long as it has two or more counters on it.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/45_CCT Croaker.png" num="45">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Biker Tactician</name>
+			<text>Whenever this creature attacks, you may draw a card. If you do, discard a card.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/41_Biker Tactician.png" num="41">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Find Your People</name>
+			<text>Target creature you control gains hexproof until end of turn.
+Uprising — If you control a Rebel as you cast this spell, that creature gets +1/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/60_Find Your People.png" num="60">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dropship Detention</name>
+			<text>Target creature&apos;s controller puts it on the top or bottom of its owner&apos;s library.
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/51_Dropship Detention.png" num="51">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Entry Team</name>
+			<text>Flash
+This creature has flying as long as it entered the battlefield this turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/89_Entry Team.png" num="89">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diehard Dame</name>
+			<text>Flying
+Uprising — When this creature enters, if you control another Rebel, return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/87_Diehard Dame.png" num="87">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Word on the Street</name>
+			<text>Raid — If you attacked this turn, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/112_Word on the Street.png" num="112">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Street Clash</name>
+			<text>Choose one or both — 
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature. If that creature is an Army, put an additional +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/108_Street Clash.png" num="108">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scream Core</name>
+			<text>Until end of turn, target creature gains deathtouch and &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+Raid — If you attacked this turn, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/104_Scream Core.png" num="104">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unplug</name>
+			<text>Destroy target creature.
+Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/111_Unplug.png" num="111">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Send a Message</name>
+			<text>Target creature you control gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/139_Send a Message.png" num="139">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Short Kings</name>
+			<text>Haste
+Whenever another Graffiti or Rebel you control enters, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/141_Short Kings.png" num="141">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expert Insurgent</name>
+			<text>Raid — When this creature enters, if you attacked this turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/119_Expert Insurgent.png" num="119">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rebel Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acid Drop Viper</name>
+			<text>When this creature attacks, it gets +1/+0 and gains deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/148_Acid Drop Viper.png" num="148">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daring Dame</name>
+			<text>Whenever you take to the streets, this creature gets +1/+3 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/159_Daring Dame.png" num="159">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wolf of Wall Street</name>
+			<text>Haste
+When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/182_Wolf of Wall Street.png" num="182">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Urban Artist</name>
+			<text>When this creature enters, if you control a Graffiti, you gain 3 life.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/180_Urban Artist.png" num="180">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Party Ape</name>
+			<text>Reach
+When this creature enters, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/174_Party Ape.png" num="174">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Giant Effin Slash</name>
+			<text>Giant Effin Slash deals 5 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent&apos;s controller instead.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/122_Giant Effin Slash.png" num="122">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>City Square</name>
+			<text>This land enters tapped.
+When this land enters, return a land you control to its owner&apos;s hand. When you do, choose two different colors.
+{T}: Add two mana in any combination of the chosen colors.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/272_City Square.png" num="272">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Back Alley</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/267_Back Alley.png" num="267">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Embassy Row</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/274_Embassy Row.png" num="274">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Canal Town</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/270_Canal Town.png" num="270">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Industrial Park</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/276_Industrial Park.png" num="276">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Boonies</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/269_The Boonies.png" num="269">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arts District</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/265_Arts District.png" num="265">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Government Center</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/275_Government Center.png" num="275">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dockworks</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/273_Dockworks.png" num="273">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Public Works Yard</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/280_Public Works Yard.png" num="280">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Blocks</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/268_The Blocks.png" num="268">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Trade Quarter</name>
+			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/282_Trade Quarter.png" num="282">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Soldier Army NRC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/3t_Soldier Army.png" num="3">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Special Task Force</name>
+			<text>When this creature enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/258_Special Task Force.png" num="258">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W/UW/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Canal Town Couriers</name>
+			<text>Flying
+Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/256_Canal Town Couriers.png" num="256">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/BU/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Industrial Park Freerunner</name>
+			<text>Haste
+This creature can&apos;t be blocked by token creatures.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/257_Industrial Park Freerunner.png" num="257">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/RB/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boonies Homebrewer</name>
+			<text>Whenever this creature attacks, add {R} or {G}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/255_Boonies Homebrewer.png" num="255">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>R/GR/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypno Bass</name>
+			<text>Flash
+If you control a multicolored permanent, this creature has flying.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/61_Hypno Bass.png" num="61">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Data Tap</name>
+			<text>Surveil 1, then draw a card.
+Raid — You may cast this spell from your graveyard as long as you attacked this turn. When you do, exile it as it resolves.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/49_Data Tap.png" num="49">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unyielding Sycophant</name>
+			<text>Flash
+Whenever this creature attacks, untap target creature you control.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/38_Unyielding Sycophant.png" num="38">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>City Surfer</name>
+			<text>Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you put one or more counters on another creature you control, put a counter of that kind on this creature. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/195_City Surfer.png" num="195">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctor Antavious</name>
+			<text>When Doctor Antavious enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever you surveil, put that many +1/+1 counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/203_Doctor Antavious.png" num="203">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revolution Engine</name>
+			<text>Trample
+Uprising — When this Vehicle enters, if you control a Rebel, it becomes an artifact creature and gains haste until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/234_Revolution Engine.png" num="234">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goofy Foot Cherub</name>
+			<text>Uprising — {T}: Add one mana of any color. If you control another Rebel, add two mana in any combination of colors instead.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/208_Goofy Foot Cherub.png" num="208">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Painter Gator</name>
+			<text>Trample
+When this creature enters, if you control another multicolored permanent, put a +1/+1 counter on this creature.
+Creatures you control with +1/+1 counters on them have trample.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/227_Painter Gator.png" num="227">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surveilance State</name>
+			<text>When this enchantment enters, amass soldiers 3.
+Whenever you amass, choose one that hasn&apos;t been chosen this turn —
+• Put a +1/+1 counter on target creature you control.
+• Surveil 1.
+• Each opponent loses 2 life you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/243_Surveilance State.png" num="243">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Stun Zapper</name>
+			<text>Tap target creature and put three stun counters on it.
+Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/241_Stun Zapper.png" num="241">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Lydia, Rider of Mayhem</name>
+			<text>Whenever you discard a card, draw a card. This ability triggers only once each turn.
+Whenever you cycle a card, Lydia deals 1 damage to any target.
+Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/221_Lydia, Rider of Mayhem.png" num="221">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lazarus Protocol</name>
+			<text>Search your library for a card with cycling, reveal it, put it into your hand, then shuffle.
+Flashback {4}{U}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/218_Lazarus Protocol.png" num="218">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parkland Witch</name>
+			<text>Whenever you attack, target attacking creature you control gets +1/+1 until end of turn.
+Sacrifice another creature: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Tap it.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/228_Parkland Witch.png" num="228">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Rebel Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Run It Back</name>
+			<text>Return target creature card from your graveyard to the battlefield. If that creature is a Rebel, it gains haste until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/237_Run It Back.png" num="237">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Double or Nothing</name>
+			<text>Discard your hand. Draw a card and create a Treasure token for each creature that attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/204_Double or Nothing.png" num="204">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inviting Influencer</name>
+			<text>Whenever you trigger an ability of the Watchtower, that ability triggers an additional time.
+{1}{G}{W}{U}: Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/210_Inviting Influencer.png" num="210">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Tiefling Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Recombinating</name>
+			<text>Put a +1/+1 counter on each creature you control. Creatures you control gain trample until end of turn. Then double the number of +1/+1 counters on up to one target creature you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/233_Recombinating.png" num="233">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clayton, Embassy Informant</name>
+			<text>Whenever you amass, draw a card. This ability triggers only once each turn.
+Soldiers you control have vigilance.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/196_Clayton, Embassy Informant.png" num="196">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jessica, Undercity Fence</name>
+			<text>Flash
+When Jessica enters, exile up to one target card with cycling from your graveyard. Until the end of your next turn, you may cast the exiled card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/212_Jessica, Undercity Fence.png" num="212">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>DeSean, Community Cultivator</name>
+			<text>At the beginning of combat on your turn choose menace, trample or haste. Put a counter of that kind on DeSean, then each other creature you control gains that ability until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/200_DeSean, Community Cultivator.png" num="200">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dex, Well-Connected</name>
+			<text>You may look at the top card of your library at any time.
+You may play cards from the top of your library if you attacked the Watchtower this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/201_Dex, Well-Connected.png" num="201">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Public Artist</name>
+			<text>When you take to the streets, this creature gains vigilance until end of turn.
+{2}{W}: Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/31_Public Artist.png" num="31">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Captain Bones</name>
+			<text>This creature can&apos;t block
+{2}{B}, Remove a counter from a creature you control: Return this creature from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/81_Captain Bones.png" num="81">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feel the Music</name>
+			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/120_Feel the Music.png" num="120">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skyward Hare</name>
+			<text>Flying
+Cycling {X}{U}{U} ({X}{U}{U}, Discard this card: Draw a card.)
+When you cycle this card, up to X target creatures you control gain flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/71_Skyward Hare.png" num="71">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Block Enforcer</name>
+			<text>Vigilance
+Whenever you put one or more +1/+1 counters on a creature you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/5_Block Enforcer.png" num="5">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Go Up in Smoke</name>
+			<text>Raid — Exile target tapped creature. Return it to the battlefield under its owner&apos;s control unless you attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/19_Go Up in Smoke.png" num="19">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cybernet Tiefling</name>
+			<text>Whenever this creature attacks, you may pay {U}. If you do, target player mills two cards.
+This creature gets +2/+2 if a player has an instant and a sorcery card in their graveyard.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/48_Cybernet Tiefling.png" num="48">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Tiefling Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Like Just a Big Robot Dude</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+This creature can&apos;t be blocked if you discarded a card this turn.
+Cycling {U}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/64_Like Just a Big Robot Dude.png" num="64">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kira, Double Agent</name>
+			<text>At the beginning of your upkeep, if an opponent controls a creature with the greatest power, scry 1.
+As long as you control the creature with the greatest power, instant and sorcery spells you cast cost {2} less to cast.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/63_Kira, Double Agent.png" num="63">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spy</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise Above the Masses</name>
+			<text>Return target creature card from your graveyard to the battlefield. Then if it is your main phase, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/101_Rise Above the Masses.png" num="101">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Rough Questioning</name>
+			<text>Target player discards two cards. If one or more land cards are discarded this way, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/102_Rough Questioning.png" num="102">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Cursed Kicks</name>
+			<text>Equipped creature gets +2/+0 and has menace.
+This equipment&apos;s activated abilities can&apos;t be activated as long as it&apos;s attached to a creature.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/84_Cursed Kicks.png" num="84">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Data Weaver</name>
+			<text>Flying
+Whenever you discard one or more cards, each opponent loses 1 life and you gain 1 life for each card discarded that way. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/86_Data Weaver.png" num="86">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reprogrammed Killbot</name>
+			<text>When this creature enters, each player sacrifices a creature.
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/100_Reprogrammed Killbot.png" num="100">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Killbot</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Find the LAN Party</name>
+			<text>As an additional cost to cast this spell, discard two cards.
+Draw two cards and create two Treasure tokens. Up to two target creatures can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/121_Find the LAN Party.png" num="121">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Champ</name>
+			<text>When The Champ attacks, it deals damage equal to its power to up to one target creature. If excess damage is dealt this way, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/114_The Champ.png" num="114">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Digital Artist</name>
+			<text>{3}{R}, {T}: This creature deals 2 damage to each opponent. You may activate this ability without paying its mana cost if you cast a multicolored spell this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/117_Digital Artist.png" num="117">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Send It!</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Raid — Send It! deals damage equal to the sacrificed creature&apos;s power to any target. If you attacked this turn, damage can&apos;t be prevented this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/140_Send It!.png" num="140">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inline Ostrich</name>
+			<text>Haste
+Whenever this creature attacks, you may exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/167_Inline Ostrich.png" num="167">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Food Truck</name>
+			<text>When this artifact enters or attacks, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+Sacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only during your turn.
+Crew 3</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/163_Food Truck.png" num="163">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Earth Within</name>
+			<text>Destroy target noncreature permanent. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/161_Earth Within.png" num="161">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reconnaisance Leader</name>
+			<text>Flash
+Whenever this creature attacks, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/32_Reconnaisance Leader.png" num="32">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Evade Authorities</name>
+			<text>Until end of turn, target creature can&apos;t be blocked and gains &quot;Whenever this creature deals combat damage to a player, you may return it to its owner&apos;s hand.&quot;
+Whenever you cycle a card, you may pay {U}. If you do, return this card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/59_Evade Authorities.png" num="59">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bunny, the Muscle</name>
+			<text>Trample
+Uprising — At the beginning of combat on your turn, you may tap another untapped Rebel you control. If you do, Bunny gets +2/+2 until end of turn. Untap her.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/153_Bunny, the Muscle.png" num="153">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pain-Killer</name>
+			<text>Menace
+{1}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. If you sacrificed an Army this way, this creature deals damage equal to that Army&apos;s power to any target.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/96_Pain-Killer.png" num="96">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Killbot</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delivery Boy</name>
+			<text>Enchant creature you control
+Enchanted creature gets +1/+0, has haste and can&apos;t be blocked except by creatures with haste.
+Whenever enchanted creature attacks, put a cash counter on this Aura. Then if there are three or more cash counters on this Aura, sacrifice it and create three Treasure tokens.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/116_Delivery Boy.png" num="116">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spreading Art</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters, add one mana of any color.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/3_Spreading Art.png" num="3">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rainbow Road</name>
+			<text>When you cast this spell, copy it if you control a multicolored permanent.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/2_Rainbow Road.png" num="2">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Citadel</name>
+			<text>This land enters tapped.
+{T}: Add {W}, {U}, or {B}.
+{W}{W}{U}{U}{B}{B}, {T}, Sacrifice this land: Amass Soldiers 4. (Put four +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/271_The Citadel.png" num="271">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Neon Circuit</name>
+			<text>This land enters tapped.
+{T}: Add {U}, {B}, or {R}.
+{U}{U}{B}{B}{R}{R}, {T}, Sacrifice this land: You draw two cards. Each opponent discards two cards and loses 2 life. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/278_Neon Circuit.png" num="278">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aurora Ward</name>
+			<text>This land enters tapped.
+{T}: Add {G}, {W}, {U}.
+{G}{G}{W}{W}{U}{U}, {T}, Sacrifice this land: Create a token that is a copy of target nonland permanent you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/266_Aurora Ward.png" num="266">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Red Front</name>
+			<text>This land enters tapped.
+{T}: Add {B}, {R}, or {G}.
+{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Destroy target permanent you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/281_The Red Front.png" num="281">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Podunk Town</name>
+			<text>This land enters tapped.
+{T}: Add {R}, {G}, or {W}.
+{R}{R}{G}{G}{W}{W}, {T}, Sacrifice this land: Creatures you control get +2/+2 and gain haste and vigilance until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/279_Podunk Town.png" num="279">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dildobot</name>
+			<text>Vigilance</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/14_Dildobot.png" num="14">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embassy Healer</name>
+			<text>When this creature enters, return up to one target creature card from your graveyard to your hand. If that card had mana value 3 or less, amass soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a soldier. If you don&apos;t control an Army, create a 0/0 black soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/17_Embassy Healer.png" num="17">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Brain Dead</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+{5}: Shuffle this Aura and enchanted creature into their owner&apos;s libraries. Any player may activate this ability if they took to the streets this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/43_Brain Dead.png" num="43">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hackomancer</name>
+			<text>{2}{B}, Sacrifice this creature: Target opponent reveals their hand. You may choose a nonland card from it. That player discards that card. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/92_Hackomancer.png" num="92">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night Life Ender</name>
+			<text>When this creature enters, target creature can&apos;t block until end of turn.
+Uprising — Whenever this creature attacks, if you control another Rebel, this creature gets +2/+0 and gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/130_Night Life Ender.png" num="130">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>F.A.R.M. Squad</name>
+			<text>Trample
+This creature enters with your choice of a +1/+1 counter or haste.
+As long as this creature has a +1/+1 counter on it, it&apos;s an Army in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/162_F.A.R.M. Squad.png" num="162">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Beast Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embassy Row Cycle</name>
+			<text>Flying
+When this Vehicle enters, search your library for a basic Plains, Island, or Swamp card, reveal it, put it into your hand, then shuffle.
+Crew 2
+Cycling {W}{U}{B}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/55_Embassy Row Cycle.png" num="55">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Market Street Cycle</name>
+			<text>Vigilance
+When this Vehicle enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.
+Crew 2
+Cycling {G}{W}{U}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/25_Market Street Cycle.png" num="25">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Canal Town Cycle</name>
+			<text>Menace
+When this Vehicle enters, search your library for a basic Island, Swamp, or Mountain card reveal it, put it into your hand, then shuffle.
+Crew 2
+Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/80_Canal Town Cycle.png" num="80">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Industrial Park Cycle</name>
+			<text>Haste
+When this Vehicle enters, search your library for a basic Swamp, Mountain, or Forest card reveal it, put it into your hand, then shuffle.
+Crew 2
+Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/126_Industrial Park Cycle.png" num="126">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boonies Cycle</name>
+			<text>Trample
+When this Vehicle enters, search your library for a basic Mountain, Forest, or Plains card, reveal it, put it into your hand, then shuffle.
+Crew 2
+Cycling {R}{G}{W} ({R}{G}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/152_Boonies Cycle.png" num="152">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bold Outsider</name>
+			<text>This creature gets +1/+1 as long as you control a multicolored permanent.
+Uprising — This creature gets +1/+1 as long as you control another Rebel.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/151_Bold Outsider.png" num="151">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dog Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hardcore Mummy</name>
+			<text>This creature can&apos;t be blocked by creatures with greater power.
+Whenever you take to the streets, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/20_Hardcore Mummy.png" num="20">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breakdown</name>
+			<text>Counter target multicolored spell unless its controller pays {2}. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/44_Breakdown.png" num="44">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bear it All</name>
+			<text>Target creature you control gets +3/+0 until end of turn.
+Raid — Until end of turn, if you attacked this turn, that creature gains &quot;When this creature dies, create a 2/2 red Bear creature token.&quot;</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/113_Bear it All.png" num="113">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>Bear</related>
+		</card>
+		<card>
+			<name>Calm the Elite</name>
+			<text>Exile up to one target creature, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Up to one target token creature you control gains hexproof and indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/8_Calm the Elite.png" num="8">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rebel Yell</name>
+			<text>When this enchantment enters, you may pay {1}. If you do, create a 1/1 red Rebel creature token.
+Rebel spells you cast cost {1} less to cast.
+Rebels you control have haste.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/132_Rebel Yell.png" num="132">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">RedRebel</related>
+		</card>
+		<card>
+			<name>Duck Coolidge</name>
+			<text>Flying
+Uprising — When this creature enters, draw two cards. Then discard a card unless you control another Rebel.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/52_Duck Coolidge.png" num="52">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dance Party!</name>
+			<text>At the beginning of combat on your turn, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
+When you attack, target attacking creature gets +1/+1 for each other attacking creature you control that&apos;s not attacking a player.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/12_Dance Party!.png" num="12">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Energized Militant</name>
+			<text>At the beginning of combat on your turn, this creature gets +1/+0 for each card you&apos;ve drawn this turn.
+If you&apos;ve discarded two or more cards this turn, this creature can&apos;t be blocked.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/57_Energized Militant.png" num="57">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embassy Extractor</name>
+			<text>When this creature enter, return up to one target creature to its owner&apos;s hand.
+This creature gets +1/+0 if you control an Army.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/54_Embassy Extractor.png" num="54">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Tiefling Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steel Street Assassin</name>
+			<text>Deathtouch
+When you cycle this creature, up to one target creature gets -1/-1 until end of turn.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/107_Steel Street Assassin.png" num="107">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tracy, Murder Matriarch</name>
+			<text>Uprising — At the beginning of your end step, if you control another Rebel, create a 1/1 black bird creature token with flying and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/109_Tracy, Murder Matriarch.png" num="109">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Bird</related>
+		</card>
+		<card>
+			<name>Rundown in the Street</name>
+			<text>Exile target creature or planeswalker. Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/103_Rundown in the Street.png" num="103">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Rebellious Dinosaur</name>
+			<text>Trample, haste
+Cycling {R} ({R}, Discard this card: Draw a card.)
+When you cycle this card, creatures you control gain trample and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/133_Rebellious Dinosaur.png" num="133">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cozy Vagabond</name>
+			<text>Trample
+Landfall — Whenever a land enters under your control, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/157_Cozy Vagabond.png" num="157">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>District Crusher</name>
+			<text>Lifelink
+Sacrifice a creature: This Vehicle gets +X/+X until end of turn, where X is that creatures power. It becomes a creature until end of turn. Activate only once each turn and only as a sorcery.
+Crew 2</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/88_District Crusher.png" num="88">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extermination</name>
+			<text>Destroy each creature with mana value 2 or less.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/90_Extermination.png" num="90">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Energized Ar</name>
+			<text>Flash
+When this Graffiti enters, draw a card.
+Cycling costs you pay cost {1} less.
+Sacrifice this Graffiti at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/56_Energized Ar.png" num="56">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Intel Gathering</name>
+			<text>Draw three cards.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle this card, surveil 1.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/62_Intel Gathering.png" num="62">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Checkpoint</name>
+			<text>At the beginning of your upkeep, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
+{5}{B}, Sacrifice Checkpoint: Destroy target creature. Activate only if you control an Army with power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/83_Checkpoint.png" num="83">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Runaway Service Vehicle</name>
+			<text>When this Vehicle dies, you create a Treasure token. Each opponent creates a tapped Treasure token.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/264_Runaway Service Vehicle.png" num="264">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quiet Plant Store</name>
+			<text>When this artifact enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+{1}, {T}, Sacrifice another artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/263_Quiet Plant Store.png" num="263">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gas Mask</name>
+			<text>If equipped creature would be destroyed, instead remove all damage from it and exile this Equipment instead.
+Equipped creature gets +1/+1.
+Equip {3}
+Equip Army {1}</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/261_Gas Mask.png" num="261">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Watchtower</name>
+			<text>​</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/4_The Watchtower.png" num="4">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Hit the Pavement</name>
+			<text>Choose one — 
+• Destroy target artifact.
+• Target creature gets +3/+1 until end of turn.
+Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/124_Hit the Pavement.png" num="124">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Breach!</name>
+			<text>Destroy up to one target artifact or enchantment.
+Amass Soldiers X. (Put X +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/6_Breach!.png" num="6">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XWW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Remote Command Center</name>
+			<text>At the beginning of combat on your turn, choose one —
+• Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
+• Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/33_Remote Command Center.png" num="33">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Soldier Army RBL</related>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Spray Dancer</name>
+			<text>Whenever you cast an instant or sorcery spell, you may draw a card. If you do, discard a card. If this is the second time this ability has triggered, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/72_Spray Dancer.png" num="72">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Recon</name>
+			<text>When this creature enters, amass Soldiers X, where X is the difference between the number of cards in your hand and seven. (Put X +1/+1 counters on an Army you control. It&apos;s also an Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
+When this creature deals combat damage to a player draw that many cards.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/67_Recon.png" num="67">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Army</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">Soldier Army RBL</related>
+		</card>
+		<card>
+			<name>Monster Truck Gang</name>
+			<text>Uprising — When this creature enters, if you control another Rebel, gain control of target creature for as long as you control this creature. For as long as you control that creature, it has haste and &quot;This creature attacks each turn if able.&quot;</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/129_Monster Truck Gang.png" num="129">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Streetwise Guardian</name>
+			<text>Uprising — When this creature enters, if you control a Rebel, it fights up to one other target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/178_Streetwise Guardian.png" num="178">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wolf Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grow Up on the Streets</name>
+			<text>At the beginning of combat on your turn, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/165_Grow Up on the Streets.png" num="165">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Local Artists</name>
+			<text>When this creature enters, search your library for a Graffiti card, reveal it, put it into your hand, then shuffle.
+This creature gets +1/+1 for each Graffiti you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/169_Local Artists.png" num="169">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RedRebel NRC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/5t_RedRebel.png" num="5">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>WhiteRebel NRC</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/1t_WhiteRebel.png" num="1">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bear NRC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/4t_Bear.png" num="4">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird NRC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/2t_Bird.png" num="2">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Distressing Damsel</name>
+			<text>Raid — {1}{G}: Return this card from your graveyard to the battlefield tapped. Activate this ability only if you attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/160_Distressing Damsel.png" num="160">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extra Legal Armorer</name>
+			<text>{2}{W}, {T}: Put a +1/+1 counter on target creature you control. This ability cost {1} less for each counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/18_Extra Legal Armorer.png" num="18">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters, create a 1/1 red Rebel creature token.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/40_White Tag.png" num="40">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">RedRebel</related>
+		</card>
+		<card>
+			<name>Blue Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters you may tap or untap target permanent.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/42_Blue Tag.png" num="42">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters, search your library for a card, put it into your hand, then shuffle. You lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/78_Black Tag.png" num="78">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Red Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters, it deals 1 damage to target player.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/134_Red Tag.png" num="134">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Green Tag</name>
+			<text>Mural (Other Graffiti you control that don&apos;t share a name with this one gain the following abilities.)
+When this Graffiti enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/164_Green Tag.png" num="164">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daring Writers</name>
+			<text>Whenever an enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/13_Daring Writers.png" num="13">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Market Street Tagger</name>
+			<text>Whenever an enchantment you control enters, put a +1/+1 counter on this creature.
+Whenever a Graffiti you control enters, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/26_Market Street Tagger.png" num="26">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Color the World</name>
+			<text>Vivid — Creatures you control get +X/+X until end of turn, where X is the number of colors among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/155_Color the World.png" num="155">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smoking Dragon</name>
+			<text>Flying, haste
+When this creature enters, it deals damage equal to the number of enchantments you control to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/143_Smoking Dragon.png" num="143">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Tag on 38th Street</name>
+			<text>When The Tag on 38th Street enters, it deals X damage to each creature, where X is the number of Graffiti you control.
+Whenever another Graffiti you control enters, The Tag on 38th Street deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/245_The Tag on 38th Street.png" num="245">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bart, Boon Town Creator</name>
+			<text>When Bart enters, return up to one target enchantment card from your graveyard to the hand.
+Whenever Bart attacks, exile up to one target enchantment. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/189_Bart, Boon Town Creator.png" num="189">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Art District Defiant</name>
+			<text>When this creature enters, mill three cards. You may put an enchantment or land card milled this way into your hand. If you don&apos;t, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/254_Art District Defiant.png" num="254">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>G/WG/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related count="1">The Watchtower</related>
+		</card>
+		<card>
+			<name>Champion of the Streets</name>
+			<text>Whenever another Rebel you control enters, put a +1/+1 counter on this creature.
+Sacrifice this creature: Target creature you control gains indestructible until end of turn. Put this creature&apos;s counters on that creature if that creature is a Rebel.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/9_Champion of the Streets.png" num="9">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sam Scooter Denegan</name>
+			<text>Flash
+Flying
+{2}, {T}, Tap an untapped Vehicle you control: Draw a card.
+Whenever you discard one or more cards, untap Sam. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/68_Sam Scooter Denegan.png" num="68">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Null, Blade of the Void</name>
+			<text>Whenever you attack, put a loyalty counter on Null.
+[+1]: Until end of turn, Null becomes a 2/3 Rebel creature with shadow and indestructible.
+[-1]: Add one mana of any color.
+[-7]: Up to three target nonland permanents become Graffiti enchantments and lose all other types.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/1_Null, Blade of the Void.png" num="1">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Null</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>One Man Army</name>
+			<text>This creature enters with X +1/+1 counters on it.
+Vigilance
+Whenever you put one or more counters on this creature, each opponent discards a card and you draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/225_One Man Army.png" num="225">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Soldier Army</type>
+				<maintype>Creature</maintype>
+				<manacost>X1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rick, the Red Devil</name>
+			<text>When Rick enters, destroy up to one target artifact. When you do, Rick gains haste until end of turn.
+Whenever a noncreature permanent an opponent controls dies, put a +1/+1 counter on Rick. Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/136_Rick, the Red Devil.png" num="136">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mai, Running Free</name>
+			<text>During your turn, as long as Mai has one or more loyalty counters on her, she is a 4/4 Rogue creature.
+[+1]: Put a +1/+1 counter on up to one other target creature you control. It gains flying until end of turn.
+[-2]: Search your library for a creature card with mana value 1 or less, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/222_Mai, Running Free.png" num="222">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Menia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aunty Ruina</name>
+			<text>When Ruina dies, if it&apos;s your turn, return her to the battlefield with a loyalty counter. She&apos;s a 4/2 Goblin creature with haste in addition to her other types and abilities.
+[-1]: Create a Treasure token.
+[-3]: Destroy target nonland permanent.
+[-4]: Ruina deals 3 damage divided as you choose among any number of targets.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/186_Aunty Ruina.png" num="186">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ruina</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Agnus, Voice of the People</name>
+			<text>As long as there are five colors among other permanents you control, Agnus is a 3/3 Rebel creature with double strike and indestructible.
+[+1]: Scry 1. Then draw a card if you attacked this turn.
+[-1]: Create a 1/1 red Rebel creature token.
+[-3]: Each creature you control deals 1 damage to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/184_Agnus, Voice of the People.png" num="184">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Agnus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Escape Reality</name>
+			<text>X can&apos;t be 0.
+Exile target spell or creature. It gains suspend X. (At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without pay its mana cost. If it&apos;s a creature, it gains haste.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/58_Escape Reality.png" num="58">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Take a Beat</name>
+			<text>At the beginning of each player&apos;s upkeep, they may take to the streets. If they do, you draw a card. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/73_Take a Beat.png" num="73">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Subway Loiterer</name>
+			<text>Vivid — {5}{R}, {T}: Each player discards their hand, then draws seven cards. This ability cost {1} less for each color among permanents you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/145_Subway Loiterer.png" num="145">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>City Renewal</name>
+			<text>Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
+Until end of turn, whenever a creature you control attacks the Watchtower, you may return a permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/194_City Renewal.png" num="194">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tony</name>
+			<text>Defender
+At the beginning of combat on your turn, target noncreature enchantment you control becomes a creature with power and toughness each equal to its mana value until end of turn.
+Enchantments you control assign combat damage with their toughness rather than their power.
+Graffiti you control get +0/+3.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/249_Tony.png" num="249">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Katana Gang Rioter</name>
+			<text>Trample
+Abilities triggered by this creature attacking trigger an additional time.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/215_Katana Gang Rioter.png" num="215">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dockworks Witch</name>
+			<text>Whenever you discard a card, this creature gets +1/+0 and gains flying until end of turn.
+Whenever this creature deals combat damage to a player, draw a card for each card you discarded this turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/202_Dockworks Witch.png" num="202">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mutant Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lavorious, the Oppressor</name>
+			<text>[+1]: Amass Soldiers 2.
+[-3]: Destroy target creature or planeswalker.
+[-7]: Exile Lavorious, then return him to the battlefield with a loyalty counter. He&apos;s a 0/0 Soldier Army Creature with indestructible in addition to his other types and abilities. Put ten +1/+1 counters on him.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/216_Lavorious, the Oppressor.png" num="216">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lavorious</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WUB</manacost>
+				<cmc>6</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Josh, Undercity Slacker</name>
+			<text>Whenever you discard a card, put a loyalty counter on Josh.
+[0]: Discard a card. If that card was a creature, Josh becomes a copy of that creature and gains hexproof until end of turn. Draw a card.
+[-X]: Josh deals X damage to target creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/213_Josh, Undercity Slacker.png" num="213">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Planeswalker — Josh</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Public Transport</name>
+			<text>At the beginning of combat on your turn, remove all fare counters from this permanent. If no counters were removed, put a fare counter on this artifact and create a Treasure token. Otherwise, this artifact becomes an artifact creature until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/262_Public Transport.png" num="262">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swiss Army Man</name>
+			<text>Whenever another Rebel you control enters, exile the top card of your library. Until the end of your next turn, you may play that card. This ability triggers only once each turn.
+Raid — At the beginning of your end step, if you attacked this turn, untap up to two target permanents you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/244_Swiss Army Man.png" num="244">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bird of Distopia</name>
+			<text>Raid — At the beginning of your postcombat main phase, if you attacked this turn, add one mana of any color.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/150_Bird of Distopia.png" num="150">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iris, the Lurker</name>
+			<text>When Iris enters, target opponent exiles the top card of their library, a card from their graveyard, and a card from their hand. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/211_Iris, the Lurker.png" num="211">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night Raid</name>
+			<text>Raid — This spell costs {2} less to cast if you attacked this turn.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/28_Night Raid.png" num="28">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>its flash for vehicles</name>
+			<text>You may put a Vehicle card from your hand onto the battlefield. Until end of turn, it becomes an artifact creature and gains haste. At the beginning of the next end step, sacrifice it unless you pay its mana cost reduced by {2}.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/127_its flash for vehicles.png" num="127">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inshi, the Night Blade</name>
+			<text>Double strike
+When Inshi enters, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
+Whenever Inshi attacks, tap target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/23_Inshi, the Night Blade.png" num="23">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smoke Break</name>
+			<text>When this enchantment enters, target opponent discards two cards.
+Whenever you are attacked, target creature gets -1/-1 until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/106_Smoke Break.png" num="106">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tank Girl</name>
+			<text>Trample, haste
+Raid — When Tank Girl enters, if you attacked this turn, there is an additional combat phase after this phase followed by an additional main phase. Only Tank Girl can attack during that combat phase.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/246_Tank Girl.png" num="246">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tomorrow is Today</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Take an extra turn after this one. During that turn, you may play other cards exiled by this spell.
+Exile Tomorrow is Today.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/248_Tomorrow is Today.png" num="248">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6UUB</manacost>
+				<cmc>9</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Precinct Maverick</name>
+			<text>Whenever a creature an opponent controls enters, investigate. This ability triggers once each turn. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/30_Precinct Maverick.png" num="30">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Tiefling Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sewer City Repurposer</name>
+			<text>Artifact cards in your graveyard have mayhem. The mayhem cost is equal to the mana cost. (You may cast an artifact card from your graveyard for its mayhem cost if you discarded it this turn. Timing rules still apply.)
+{1}{U}, {T}: Draw a card then discard a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/69_Sewer City Repurposer.png" num="69">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Mermaid Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kai, a Dreamer</name>
+			<text>At the end of combat on your turn, create a Treasure token for each creature you control that attacked and didn&apos;t deal combat damage this turn.
+{W}{U}{B}{R}{G}: Take to the streets. Until end of turn, if you attack the Watchtower with five creatures and a creature of each color, you win the game. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/128_Kai, a Dreamer.png" num="128">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slide and Macha, City Explorers</name>
+			<text>Haste
+When Slide and Macha enter, search your library for up to four land cards with different names, exile them, then shuffle.
+Raid — At the beginning of your second main phase, if you attacked this turn, choose a land card at random from among those exiled by Slide and Macha and put it onto the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/176_Slide and Macha, City Explorers.png" num="176">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protest Artist</name>
+			<text>When this creature enters, search your library for a Graffiti, exile it, then shuffle. You may cast that card for as long as it remains exiled.
+This creature gets +1/+1 for each other creature and Graffiti you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/231_Protest Artist.png" num="231">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Croc Boarder</name>
+			<text>Trample
+Whenever you take to the streets, put a +1/+1 counter on this creature. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/158_Croc Boarder.png" num="158">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guerilla Bowman</name>
+			<text>Kicker {RW} (You may pay an additional {RW} as you cast this spell.)
+Flash
+Reach
+When this creature enters, if it was kicked, it deals damage equal to its power to target player or to target tapped creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/166_Guerilla Bowman.png" num="166">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Subterfuge Specialists</name>
+			<text>Flash
+Whenever an opponent draws their second card each turn, that player discards a card and loses 2 life.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/242_Subterfuge Specialists.png" num="242">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Door Smasher</name>
+			<text>When this Equipment enters, attach it to target creature you control. When you do, this Equipment deals 1 damage to target creature. That creature can&apos;t block this turn.
+Equipped creature gets +2/+2 and has trample.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/118_Door Smasher.png" num="118">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Experiment V</name>
+			<text>When Experiment V enters, tap target creature with power less than this creature&apos;s power. That creature can&apos;t untap as long as you control Experiment V.
+Escape—{3}{G}{U}, Exile five other cards from your graveyard.
+Experiment V escapes with two +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/205_Experiment V.png" num="205">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aerosol Justice</name>
+			<text>Flash
+When this Graffiti enters, creatures you control gain hexproof and indestructible until end of turn.
+Creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/183_Aerosol Justice.png" num="183">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cool Cat Alley</name>
+			<text>When this Graffiti enters, create a 1/1 white Cat creature token.
+At the beginning of combat on your turn, exile up to one target nonland permanent you control, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/198_Cool Cat Alley.png" num="198">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ten&apos;Sil, Quiet Courier</name>
+			<text>Whenever you cycle Ten&apos;Sil or another card, you may exile another target nonland permanent you own. You may cast that card on a later turn by paying {2} rather than its mana cost.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/74_Ten&apos;Sil, Quiet Courier.png" num="74">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midtown Rumbler</name>
+			<text>Whenever you discard a card, you gain 1 life.
+Whenever you draw your second card each turn, target opponent loses 2 life.
+Cycling {X}{B}{B} ({X}{B}{B}, Discard this card: Draw a card.)
+When you cycle this card, target player loses X life.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/95_Midtown Rumbler.png" num="95">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undead Loiterer</name>
+			<text>This creature enters tapped.
+You may cast this card from your graveyard if you discarded a card this turn.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/110_Undead Loiterer.png" num="110">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Back-Alley Drop</name>
+			<text>Draw three cards. Then exile three cards from your hand. You may play the exiled cards until end of turn. At the beginning of the next end step, if any of the cards remain exiled, Back-Alley Drop deals damage to you equal to the total mana value among the exiled cards.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/188_Back-Alley Drop.png" num="188">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Guitar Solo</name>
+			<text>Choose target creature you control. It gains lifelink, double strike, and trample until end of turn. Each other creature you control gains exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/209_Guitar Solo.png" num="209">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winged Interceptor</name>
+			<text>Flash
+Flying
+When this creature enters and at the beginning of combat on your turn choose one —
+• Target creature can&apos;t attack or block until your next turn.
+• Target creature you control gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/253_Winged Interceptor.png" num="253">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Angel Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Project</name>
+			<text>Hexproof
+Whenever a noncreature permanent you control enters or leaves the battlefield, put a project counter on The Project. Then if The Project has ten or more counters on it, exile it, then return it to the battlefield transformed.
+---
+(Back): 87, Hope of New Requiem</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/229_The Project_front.png" num="229a">NRC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">87, Hope of New Requiem</related>
+		</card>
+		<card>
+			<name>87, Hope of New Requiem</name>
+			<text>Indestructible, trample, reach
+At the beginning of combat on your turn, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
+Whenever a creature you control attacks the Watchtower, that creature deals damage equal to its power to each opponent.
+---
+(Front): The Project</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/229_The Project_back.png" num="229b">NRC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+				<pt>8/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Project</related>
+		</card>
+		<card>
+			<name>Prolific Tagger</name>
+			<text>Trample
+When this creature enters, other creatures you control get +1/+1 for each other graffiti you control.
+Whenever a graffiti you control enters put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/230_Prolific Tagger.png" num="230">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sewer Girl</name>
+			<text>As an additional cost to cast this spell exile X cards from your graveyard.
+When this creature enters create a 1/1 black Cat creature token with deathtouch and an X/X blue Octopus creature token where X is the number of cards exiled to cast this spell.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/238_Sewer Girl.png" num="238">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>X1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citadel&apos;s Juggernaut</name>
+			<text>This creature attacks each combat if able.
+This creature has indestructible as long as it&apos;s attacking. 
+This creature gets +1/+0 for each untapped creature your opponents control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/259_Citadel&apos;s Juggernaut.png" num="259">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Juggernaut</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Motorcycle Garage</name>
+			<text>{T}: Add {C}
+Whenever you draw your second card each turn, untap this land.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/277_Motorcycle Garage.png" num="277">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spec Ops Commander</name>
+			<text>Lifelink, deathtouch
+Whenever a nontoken creature an opponent controls dies, you may exile it. If you do, amass Soldiers X, where X is that creature&apos;s power. (To amass Soldiers X, put X +1/+1 counters on an Army you control. It&apos;s also an Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/239_Spec Ops Commander.png" num="239">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clear the Streets</name>
+			<text>Destroy all creatures. Then amass Soldiers X, where X is the number of creatures destroyed this way. (Put X +1/+1 counters on an Army you control. It&apos;s also an Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/197_Clear the Streets.png" num="197">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WWUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rask Cyberfang</name>
+			<text>When Rask enters, choose two — 
+• Search your library for a nonlegendary Rat creature card, reveal it, put it into your hand, then shuffle.
+• Return another target creature to its owner&apos;s hand.
+• Create two 1/1 black Rat creature tokens.
+• Exile another target artifact.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/232_Rask Cyberfang.png" num="232">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tina, Queen of the Road</name>
+			<text>Haste, menace
+When you cycle Tina, put her onto the battlefield. At the beginning of your next end step, exile her and the top four cards of your library in a face-down pile. If you do, shuffle that pile and put it back on top of your library.
+Cycling {1}{U}{B}{R}</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/247_Tina, Queen of the Road.png" num="247">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falling Down</name>
+			<text>Uprising — Choose one. If you control a Rebel, you may choose two instead.
+• Destroy all creatures.
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all planeswalkers.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/206_Falling Down.png" num="206">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Franny Lollipop Thomas</name>
+			<text>Trample
+Morbid — At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Lollipop. If a creature died under your control this turn, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/207_Franny Lollipop Thomas.png" num="207">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oni-Face Painting</name>
+			<text>When this Graffiti enters, gain control of target creature for as long as this Graffiti remains on the battlefield.
+At the beginning of your upkeep, sacrifice this Graffiti unless you sacrifice a creature you own.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/226_Oni-Face Painting.png" num="226">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ashley, Freedom Fighter</name>
+			<text>Whenever you attack, create a 1/1 white Bird creature token with flying.
+{8}, {T}: Draw a card. You may cast a card from your hand without paying its mana cost. For each mana in this ability&apos;s activation cost, you may tap an untapped creature you control rather than pay that mana.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/185_Ashley, Freedom Fighter.png" num="185">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>We Are the Many</name>
+			<text>Create a token that is a copy of target creature you control.
+Raid — As long as you have attacked this turn and this card is in your graveyard, it has flashback {G}{W}{U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/251_We Are the Many.png" num="251">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WHATEVER WE RIOT</name>
+			<text>Vigilance, haste
+When WHATEVER WE RIOT enters, if you cast them, look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/252_WHATEVER WE RIOT.png" num="252">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Performer Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>RGWU</manacost>
+				<cmc>4</cmc>
+				<colors>WURG</colors>
+				<coloridentity>WURG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lavorious&apos;s Backup Plan</name>
+			<text>Hideaway 5 (When this enchantment enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+At the beginning of your end step, you may draw a card, then discard a card. Then if an opponent controls at least three more creatures than you, you may play the exiled card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/217_Lavorious&apos;s Backup Plan.png" num="217">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hollowed Stare</name>
+			<text>Look at target opponent&apos;s hand. You may exile a nonland card from it or a nonland permanent that player controls. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/22_Hollowed Stare.png" num="22">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burb Controller</name>
+			<text>Opponents can&apos;t cast more than one spell each turn.
+No more than one creature can attack you each combat.
+Exhaust — {5}: Tap this creature and put a +1/+1 counter on it. Its controller draws a card. This creature loses all abilities. Any player may activate this ability.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/7_Burb Controller.png" num="7">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cat Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>She&apos;s Got the Touch</name>
+			<text>Gain control of target artifact or creature. Tap that permanent and put a stun counter on it.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle this card, tap target artifact or creature you don&apos;t control and put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/70_She&apos;s Got the Touch.png" num="70">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Night Heist</name>
+			<text>Counter target spell. If an artifact spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard. You may play it for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/65_Night Heist.png" num="65">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Neighborhood Watch</name>
+			<text>Search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+Raid — Then if you attacked this turn, you may put a creature card with mana value 2 or less from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/172_Neighborhood Watch.png" num="172">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aurora Days</name>
+			<text>When this Graffiti enters, you gain life and draw cards equal to the greatest power among creatures you control.
+{4}{G}{W}{U}: Creatures you control get +1/+1 and gain flying until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/187_Aurora Days.png" num="187">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Graffiti</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Citadel&apos;s Juggernaut</name>
+			<text>This creature attacks each combat if able.
+This creature has indestructible as long as it&apos;s attacking. 
+This creature gets +1/+0 for each untapped creature your opponents control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/260_Citadel&apos;s Juggernaut.png" num="260">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Juggernaut</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Painter of Brighter Futures</name>
+			<text>When this creature enters, mill three cards. Then you may return an enchantment card from your graveyard to your hand.
+At the beginning of your precombat main phase, add one mana of any color for each enchantment you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/173_Painter of Brighter Futures.png" num="173">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vigilante Justice</name>
+			<text>Exile target creature or planeswalker. That creatures controller creates a 1/1 green and white Citizen creature token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/39_Vigilante Justice.png" num="39">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>It Just Gets Worse</name>
+			<text>Destroy target creature or planeswalker.
+Raid — If you attacked this turn, that permanent&apos;s controller discards a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/93_It Just Gets Worse.png" num="93">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodmage Conscriptor</name>
+			<text>At the beginning of your upkeep, amass Soldiers 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
+Remove a counter from a creature you control: Add {B} and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/79_Bloodmage Conscriptor.png" num="79">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take it to 11</name>
+			<text>Exile the top X cards of your library. Until the end of your next turn, you may cast those cards. If X was 11 or more, you may cast those cards without paying their mana cost instead.
+Until the end of your next turn, whenever you cast a spell from exile, Take it to 11 deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/146_Take it to 11.png" num="146">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roger Funny-Man Cannon</name>
+			<text>When Funny-Man enters, it deals X damage to you and twice X damage to any target. 
+Whenever you&apos;re dealt damage, exile that many cards from the top of your library.
+During your turn, you may play cards exiled by Funny-Man.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/236_Roger Funny-Man Cannon.png" num="236">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Clown Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>XBRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Become Obsessed</name>
+			<text>Look at the top card of your library. You may cast that card without paying its mana cost. If you do, you lose life equal to that card&apos;s mana value. Otherwise, mill one card, then repeat this process.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/190_Become Obsessed.png" num="190">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rebelling Roots</name>
+			<text>Awaken 5—{6}{G}{G} (If you cast this spell for {6}{G}{G}, also put five +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
+Creatures you control gain trample and get +X/+X until end of turn, where X is the greatest power among creatures you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/175_Rebelling Roots.png" num="175">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bugger, Technothief</name>
+			<text>Haste
+When Bugger enters, tap up to two target creatures or artifacts your opponents control and put two stun counter on each of them.
+Bugger has all activated abilities of permanents with stun counters on them.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/192_Bugger, Technothief.png" num="192">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprayed Patroller</name>
+			<text>When this Vehicle enters or attacks, put a +1/+1 counter on each other creature you control.
+Whenever you take to the streets, you may have this Vehicle become an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/240_Sprayed Patroller.png" num="240">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

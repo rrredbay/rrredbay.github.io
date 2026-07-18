@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/NRC-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>NRC visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/NRC-files/logo.png" />
+	<img class="preload-hidden" src="../sets/NRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/POP1-files/icon.png" />
+		<img class="preload-hidden" src="../sets/POP2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WGJ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/NRC"><img src="../sets/NRC-files/icon.png">New Requiem: Crossfire</a>
+	
+		<a class="set-bar inactive" href="../previews/POP1"><img src="../sets/POP1-files/icon.png">Popcorn</a>
+	
+		<a class="set-bar inactive" href="../previews/POP2"><img src="../sets/POP2-files/icon.png">Popcorn 2: This Time It’s Kersonal</a>
+	
+		<a class="set-bar inactive" href="../previews/SOC"><img src="../sets/SOC-files/icon.png">Stars of Cinesterra</a>
+	
+		<a class="set-bar inactive" href="../previews/WGJ"><img src="../sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/NRC-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\NRC-files\img\7_Burb Controller.png" id="NRC_7_Burb Controller" data-flag="@X" onclick="openSidebar('NRC_7_Burb Controller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\58_Escape Reality.png" id="NRC_58_Escape Reality" data-flag="@X" onclick="openSidebar('NRC_58_Escape Reality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\79_Bloodmage Conscriptor.png" id="NRC_79_Bloodmage Conscriptor" data-flag="@X" onclick="openSidebar('NRC_79_Bloodmage Conscriptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\116_Delivery Boy.png" id="NRC_116_Delivery Boy" data-flag="@X" onclick="openSidebar('NRC_116_Delivery Boy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\150_Bird of Distopia.png" id="NRC_150_Bird of Distopia" data-flag="@X" onclick="openSidebar('NRC_150_Bird of Distopia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\9_Champion of the Streets.png" id="NRC_9_Champion of the Streets" data-flag="@X" onclick="openSidebar('NRC_9_Champion of the Streets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\65_Night Heist.png" id="NRC_65_Night Heist" data-flag="@X" onclick="openSidebar('NRC_65_Night Heist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\88_District Crusher.png" id="NRC_88_District Crusher" data-flag="@X" onclick="openSidebar('NRC_88_District Crusher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\118_Door Smasher.png" id="NRC_118_Door Smasher" data-flag="@X" onclick="openSidebar('NRC_118_Door Smasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\158_Croc Boarder.png" id="NRC_158_Croc Boarder" data-flag="@X" onclick="openSidebar('NRC_158_Croc Boarder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\22_Hollowed Stare.png" id="NRC_22_Hollowed Stare" data-flag="@X" onclick="openSidebar('NRC_22_Hollowed Stare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\68_Sam Scooter Denegan.png" id="NRC_68_Sam Scooter Denegan" data-flag="@X" onclick="openSidebar('NRC_68_Sam Scooter Denegan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\90_Extermination.png" id="NRC_90_Extermination" data-flag="@X" onclick="openSidebar('NRC_90_Extermination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\127_its flash for vehicles.png" id="NRC_127_its flash for vehicles" data-flag="@X" onclick="openSidebar('NRC_127_its flash for vehicles',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\166_Guerilla Bowman.png" id="NRC_166_Guerilla Bowman" data-flag="@X" onclick="openSidebar('NRC_166_Guerilla Bowman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\23_Inshi, the Night Blade.png" id="NRC_23_Inshi, the Night Blade" data-flag="@X" onclick="openSidebar('NRC_23_Inshi, the Night Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\69_Sewer City Repurposer.png" id="NRC_69_Sewer City Repurposer" data-flag="@X" onclick="openSidebar('NRC_69_Sewer City Repurposer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\93_It Just Gets Worse.png" id="NRC_93_It Just Gets Worse" data-flag="@X" onclick="openSidebar('NRC_93_It Just Gets Worse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\128_Kai, a Dreamer.png" id="NRC_128_Kai, a Dreamer" data-flag="@X" onclick="openSidebar('NRC_128_Kai, a Dreamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\172_Neighborhood Watch.png" id="NRC_172_Neighborhood Watch" data-flag="@X" onclick="openSidebar('NRC_172_Neighborhood Watch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\28_Night Raid.png" id="NRC_28_Night Raid" data-flag="@X" onclick="openSidebar('NRC_28_Night Raid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\70_She's Got the Touch.png" id="NRC_70_Shes Got the Touch" data-flag="@X" onclick="openSidebar('NRC_70_Shes Got the Touch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\95_Midtown Rumbler.png" id="NRC_95_Midtown Rumbler" data-flag="@X" onclick="openSidebar('NRC_95_Midtown Rumbler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\136_Rick, the Red Devil.png" id="NRC_136_Rick, the Red Devil" data-flag="@X" onclick="openSidebar('NRC_136_Rick, the Red Devil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\173_Painter of Brighter Futures.png" id="NRC_173_Painter of Brighter Futures" data-flag="@X" onclick="openSidebar('NRC_173_Painter of Brighter Futures',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\30_Precinct Maverick.png" id="NRC_30_Precinct Maverick" data-flag="@X" onclick="openSidebar('NRC_30_Precinct Maverick',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\73_Take a Beat.png" id="NRC_73_Take a Beat" data-flag="@X" onclick="openSidebar('NRC_73_Take a Beat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\106_Smoke Break.png" id="NRC_106_Smoke Break" data-flag="@X" onclick="openSidebar('NRC_106_Smoke Break',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\145_Subway Loiterer.png" id="NRC_145_Subway Loiterer" data-flag="@X" onclick="openSidebar('NRC_145_Subway Loiterer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\175_Rebelling Roots.png" id="NRC_175_Rebelling Roots" data-flag="@X" onclick="openSidebar('NRC_175_Rebelling Roots',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\39_Vigilante Justice.png" id="NRC_39_Vigilante Justice" data-flag="@X" onclick="openSidebar('NRC_39_Vigilante Justice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\74_Ten'Sil, Quiet Courier.png" id="NRC_74_TenSil, Quiet Courier" data-flag="@X" onclick="openSidebar('NRC_74_TenSil, Quiet Courier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\110_Undead Loiterer.png" id="NRC_110_Undead Loiterer" data-flag="@X" onclick="openSidebar('NRC_110_Undead Loiterer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\146_Take it to 11.png" id="NRC_146_Take it to 11" data-flag="@X" onclick="openSidebar('NRC_146_Take it to 11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\176_Slide and Macha, City Explorers.png" id="NRC_176_Slide and Macha, City Explorers" data-flag="@X" onclick="openSidebar('NRC_176_Slide and Macha, City Explorers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\5_Block Enforcer.png" id="NRC_5_Block Enforcer" data-flag="@X" onclick="openSidebar('NRC_5_Block Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\42_Blue Tag.png" id="NRC_42_Blue Tag" data-flag="@X" onclick="openSidebar('NRC_42_Blue Tag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\78_Black Tag.png" id="NRC_78_Black Tag" data-flag="@X" onclick="openSidebar('NRC_78_Black Tag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\113_Bear it All.png" id="NRC_113_Bear it All" data-flag="@X" onclick="openSidebar('NRC_113_Bear it All',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\151_Bold Outsider.png" id="NRC_151_Bold Outsider" data-flag="@X" onclick="openSidebar('NRC_151_Bold Outsider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\6_Breach!.png" id="NRC_6_Breach!" data-flag="@X" onclick="openSidebar('NRC_6_Breach!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\43_Brain Dead.png" id="NRC_43_Brain Dead" data-flag="@X" onclick="openSidebar('NRC_43_Brain Dead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\80_Canal Town Cycle.png" id="NRC_80_Canal Town Cycle" data-flag="@X" onclick="openSidebar('NRC_80_Canal Town Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\114_The Champ.png" id="NRC_114_The Champ" data-flag="@X" onclick="openSidebar('NRC_114_The Champ',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\152_Boonies Cycle.png" id="NRC_152_Boonies Cycle" data-flag="@X" onclick="openSidebar('NRC_152_Boonies Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\8_Calm the Elite.png" id="NRC_8_Calm the Elite" data-flag="@X" onclick="openSidebar('NRC_8_Calm the Elite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\44_Breakdown.png" id="NRC_44_Breakdown" data-flag="@X" onclick="openSidebar('NRC_44_Breakdown',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\81_Captain Bones.png" id="NRC_81_Captain Bones" data-flag="@X" onclick="openSidebar('NRC_81_Captain Bones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\117_Digital Artist.png" id="NRC_117_Digital Artist" data-flag="@X" onclick="openSidebar('NRC_117_Digital Artist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\153_Bunny, the Muscle.png" id="NRC_153_Bunny, the Muscle" data-flag="@X" onclick="openSidebar('NRC_153_Bunny, the Muscle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\12_Dance Party!.png" id="NRC_12_Dance Party!" data-flag="@X" onclick="openSidebar('NRC_12_Dance Party!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\48_Cybernet Tiefling.png" id="NRC_48_Cybernet Tiefling" data-flag="@X" onclick="openSidebar('NRC_48_Cybernet Tiefling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\83_Checkpoint.png" id="NRC_83_Checkpoint" data-flag="@X" onclick="openSidebar('NRC_83_Checkpoint',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\120_Feel the Music.png" id="NRC_120_Feel the Music" data-flag="@X" onclick="openSidebar('NRC_120_Feel the Music',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\155_Color the World.png" id="NRC_155_Color the World" data-flag="@X" onclick="openSidebar('NRC_155_Color the World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\14_Dildobot.png" id="NRC_14_Dildobot" data-flag="@X" onclick="openSidebar('NRC_14_Dildobot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\52_Duck Coolidge.png" id="NRC_52_Duck Coolidge" data-flag="@X" onclick="openSidebar('NRC_52_Duck Coolidge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\84_Cursed Kicks.png" id="NRC_84_Cursed Kicks" data-flag="@X" onclick="openSidebar('NRC_84_Cursed Kicks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\121_Find the LAN Party.png" id="NRC_121_Find the LAN Party" data-flag="@X" onclick="openSidebar('NRC_121_Find the LAN Party',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\157_Cozy Vagabond.png" id="NRC_157_Cozy Vagabond" data-flag="@X" onclick="openSidebar('NRC_157_Cozy Vagabond',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\17_Embassy Healer.png" id="NRC_17_Embassy Healer" data-flag="@X" onclick="openSidebar('NRC_17_Embassy Healer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\54_Embassy Extractor.png" id="NRC_54_Embassy Extractor" data-flag="@X" onclick="openSidebar('NRC_54_Embassy Extractor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\86_Data Weaver.png" id="NRC_86_Data Weaver" data-flag="@X" onclick="openSidebar('NRC_86_Data Weaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\126_Industrial Park Cycle.png" id="NRC_126_Industrial Park Cycle" data-flag="@X" onclick="openSidebar('NRC_126_Industrial Park Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\160_Distressing Damsel.png" id="NRC_160_Distressing Damsel" data-flag="@X" onclick="openSidebar('NRC_160_Distressing Damsel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\18_Extra Legal Armorer.png" id="NRC_18_Extra Legal Armorer" data-flag="@X" onclick="openSidebar('NRC_18_Extra Legal Armorer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\55_Embassy Row Cycle.png" id="NRC_55_Embassy Row Cycle" data-flag="@X" onclick="openSidebar('NRC_55_Embassy Row Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\92_Hackomancer.png" id="NRC_92_Hackomancer" data-flag="@X" onclick="openSidebar('NRC_92_Hackomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\129_Monster Truck Gang.png" id="NRC_129_Monster Truck Gang" data-flag="@X" onclick="openSidebar('NRC_129_Monster Truck Gang',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\161_Earth Within.png" id="NRC_161_Earth Within" data-flag="@X" onclick="openSidebar('NRC_161_Earth Within',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\19_Go Up in Smoke.png" id="NRC_19_Go Up in Smoke" data-flag="@X" onclick="openSidebar('NRC_19_Go Up in Smoke',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\56_Energized Ar.png" id="NRC_56_Energized Ar" data-flag="@X" onclick="openSidebar('NRC_56_Energized Ar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\96_Pain-Killer.png" id="NRC_96_Pain-Killer" data-flag="@X" onclick="openSidebar('NRC_96_Pain-Killer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\130_Night Life Ender.png" id="NRC_130_Night Life Ender" data-flag="@X" onclick="openSidebar('NRC_130_Night Life Ender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\162_F.A.R.M. Squad.png" id="NRC_162_F.A.R.M. Squad" data-flag="@X" onclick="openSidebar('NRC_162_F.A.R.M. Squad',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\20_Hardcore Mummy.png" id="NRC_20_Hardcore Mummy" data-flag="@X" onclick="openSidebar('NRC_20_Hardcore Mummy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\57_Energized Militant.png" id="NRC_57_Energized Militant" data-flag="@X" onclick="openSidebar('NRC_57_Energized Militant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\100_Reprogrammed Killbot.png" id="NRC_100_Reprogrammed Killbot" data-flag="@X" onclick="openSidebar('NRC_100_Reprogrammed Killbot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\132_Rebel Yell.png" id="NRC_132_Rebel Yell" data-flag="@X" onclick="openSidebar('NRC_132_Rebel Yell',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\163_Food Truck.png" id="NRC_163_Food Truck" data-flag="@X" onclick="openSidebar('NRC_163_Food Truck',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\25_Market Street Cycle.png" id="NRC_25_Market Street Cycle" data-flag="@X" onclick="openSidebar('NRC_25_Market Street Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\59_Evade Authorities.png" id="NRC_59_Evade Authorities" data-flag="@X" onclick="openSidebar('NRC_59_Evade Authorities',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\101_Rise Above the Masses.png" id="NRC_101_Rise Above the Masses" data-flag="@X" onclick="openSidebar('NRC_101_Rise Above the Masses',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\133_Rebellious Dinosaur.png" id="NRC_133_Rebellious Dinosaur" data-flag="@X" onclick="openSidebar('NRC_133_Rebellious Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\164_Green Tag.png" id="NRC_164_Green Tag" data-flag="@X" onclick="openSidebar('NRC_164_Green Tag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\26_Market Street Tagger.png" id="NRC_26_Market Street Tagger" data-flag="@X" onclick="openSidebar('NRC_26_Market Street Tagger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\62_Intel Gathering.png" id="NRC_62_Intel Gathering" data-flag="@X" onclick="openSidebar('NRC_62_Intel Gathering',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\102_Rough Questioning.png" id="NRC_102_Rough Questioning" data-flag="@X" onclick="openSidebar('NRC_102_Rough Questioning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\134_Red Tag.png" id="NRC_134_Red Tag" data-flag="@X" onclick="openSidebar('NRC_134_Red Tag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\165_Grow Up on the Streets.png" id="NRC_165_Grow Up on the Streets" data-flag="@X" onclick="openSidebar('NRC_165_Grow Up on the Streets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\31_Public Artist.png" id="NRC_31_Public Artist" data-flag="@X" onclick="openSidebar('NRC_31_Public Artist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\63_Kira, Double Agent.png" id="NRC_63_Kira, Double Agent" data-flag="@X" onclick="openSidebar('NRC_63_Kira, Double Agent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\103_Rundown in the Street.png" id="NRC_103_Rundown in the Street" data-flag="@X" onclick="openSidebar('NRC_103_Rundown in the Street',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\140_Send It!.png" id="NRC_140_Send It!" data-flag="@X" onclick="openSidebar('NRC_140_Send It!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\167_Inline Ostrich.png" id="NRC_167_Inline Ostrich" data-flag="@X" onclick="openSidebar('NRC_167_Inline Ostrich',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\32_Reconnaisance Leader.png" id="NRC_32_Reconnaisance Leader" data-flag="@X" onclick="openSidebar('NRC_32_Reconnaisance Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\64_Like Just a Big Robot Dude.png" id="NRC_64_Like Just a Big Robot Dude" data-flag="@X" onclick="openSidebar('NRC_64_Like Just a Big Robot Dude',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\107_Steel Street Assassin.png" id="NRC_107_Steel Street Assassin" data-flag="@X" onclick="openSidebar('NRC_107_Steel Street Assassin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\142_Smash and Grab.png" id="NRC_142_Smash and Grab" data-flag="@X" onclick="openSidebar('NRC_142_Smash and Grab',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\169_Local Artists.png" id="NRC_169_Local Artists" data-flag="@X" onclick="openSidebar('NRC_169_Local Artists',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\33_Remote Command Center.png" id="NRC_33_Remote Command Center" data-flag="@X" onclick="openSidebar('NRC_33_Remote Command Center',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\67_Recon.png" id="NRC_67_Recon" data-flag="@X" onclick="openSidebar('NRC_67_Recon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\109_Tracy, Murder Matriarch.png" id="NRC_109_Tracy, Murder Matriarch" data-flag="@X" onclick="openSidebar('NRC_109_Tracy, Murder Matriarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\143_Smoking Dragon.png" id="NRC_143_Smoking Dragon" data-flag="@X" onclick="openSidebar('NRC_143_Smoking Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\178_Streetwise Guardian.png" id="NRC_178_Streetwise Guardian" data-flag="@X" onclick="openSidebar('NRC_178_Streetwise Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\40_White Tag.png" id="NRC_40_White Tag" data-flag="@X" onclick="openSidebar('NRC_40_White Tag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\71_Skyward Hare.png" id="NRC_71_Skyward Hare" data-flag="@X" onclick="openSidebar('NRC_71_Skyward Hare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\82_Causless Ruffian.png" id="NRC_82_Causless Ruffian" data-flag="@X" onclick="openSidebar('NRC_82_Causless Ruffian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\115_Dancing Diva.png" id="NRC_115_Dancing Diva" data-flag="@X" onclick="openSidebar('NRC_115_Dancing Diva',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\148_Acid Drop Viper.png" id="NRC_148_Acid Drop Viper" data-flag="@X" onclick="openSidebar('NRC_148_Acid Drop Viper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\10_Court of Public Opinion.png" id="NRC_10_Court of Public Opinion" data-flag="@X" onclick="openSidebar('NRC_10_Court of Public Opinion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\72_Spray Dancer.png" id="NRC_72_Spray Dancer" data-flag="@X" onclick="openSidebar('NRC_72_Spray Dancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\85_Dark-Alley Demon.png" id="NRC_85_Dark-Alley Demon" data-flag="@X" onclick="openSidebar('NRC_85_Dark-Alley Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\119_Expert Insurgent.png" id="NRC_119_Expert Insurgent" data-flag="@X" onclick="openSidebar('NRC_119_Expert Insurgent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\149_Beefhead Bouncer.png" id="NRC_149_Beefhead Bouncer" data-flag="@X" onclick="openSidebar('NRC_149_Beefhead Bouncer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\11_Cover Up.png" id="NRC_11_Cover Up" data-flag="@X" onclick="openSidebar('NRC_11_Cover Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\41_Biker Tactician.png" id="NRC_41_Biker Tactician" data-flag="@X" onclick="openSidebar('NRC_41_Biker Tactician',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\87_Diehard Dame.png" id="NRC_87_Diehard Dame" data-flag="@X" onclick="openSidebar('NRC_87_Diehard Dame',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\122_Giant Effin Slash.png" id="NRC_122_Giant Effin Slash" data-flag="@X" onclick="openSidebar('NRC_122_Giant Effin Slash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\154_Civil Deconstruction.png" id="NRC_154_Civil Deconstruction" data-flag="@X" onclick="openSidebar('NRC_154_Civil Deconstruction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\13_Daring Writers.png" id="NRC_13_Daring Writers" data-flag="@X" onclick="openSidebar('NRC_13_Daring Writers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\45_CCT Croaker.png" id="NRC_45_CCT Croaker" data-flag="@X" onclick="openSidebar('NRC_45_CCT Croaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\89_Entry Team.png" id="NRC_89_Entry Team" data-flag="@X" onclick="openSidebar('NRC_89_Entry Team',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\123_Hired Gun.png" id="NRC_123_Hired Gun" data-flag="@X" onclick="openSidebar('NRC_123_Hired Gun',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\156_Colossal Shredmaw.png" id="NRC_156_Colossal Shredmaw" data-flag="@X" onclick="openSidebar('NRC_156_Colossal Shredmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\15_Dogmatic Angel.png" id="NRC_15_Dogmatic Angel" data-flag="@X" onclick="openSidebar('NRC_15_Dogmatic Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\46_Censor.png" id="NRC_46_Censor" data-flag="@X" onclick="openSidebar('NRC_46_Censor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\91_Grunt Enforcer.png" id="NRC_91_Grunt Enforcer" data-flag="@X" onclick="openSidebar('NRC_91_Grunt Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\124_Hit the Pavement.png" id="NRC_124_Hit the Pavement" data-flag="@X" onclick="openSidebar('NRC_124_Hit the Pavement',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\159_Daring Dame.png" id="NRC_159_Daring Dame" data-flag="@X" onclick="openSidebar('NRC_159_Daring Dame',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\16_Dropship Recruiter.png" id="NRC_16_Dropship Recruiter" data-flag="@X" onclick="openSidebar('NRC_16_Dropship Recruiter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\47_Coldtouch Dissident.png" id="NRC_47_Coldtouch Dissident" data-flag="@X" onclick="openSidebar('NRC_47_Coldtouch Dissident',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\94_Marshal Forces.png" id="NRC_94_Marshal Forces" data-flag="@X" onclick="openSidebar('NRC_94_Marshal Forces',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\125_Hotshot.png" id="NRC_125_Hotshot" data-flag="@X" onclick="openSidebar('NRC_125_Hotshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\168_Kick-Flip Koala.png" id="NRC_168_Kick-Flip Koala" data-flag="@X" onclick="openSidebar('NRC_168_Kick-Flip Koala',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\21_Helpful Vigilante.png" id="NRC_21_Helpful Vigilante" data-flag="@X" onclick="openSidebar('NRC_21_Helpful Vigilante',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\49_Data Tap.png" id="NRC_49_Data Tap" data-flag="@X" onclick="openSidebar('NRC_49_Data Tap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\97_Pilfering Amphibian.png" id="NRC_97_Pilfering Amphibian" data-flag="@X" onclick="openSidebar('NRC_97_Pilfering Amphibian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\131_Night Rider.png" id="NRC_131_Night Rider" data-flag="@X" onclick="openSidebar('NRC_131_Night Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\170_Mech Tech.png" id="NRC_170_Mech Tech" data-flag="@X" onclick="openSidebar('NRC_170_Mech Tech',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\24_Inspiring Revolutionary.png" id="NRC_24_Inspiring Revolutionary" data-flag="@X" onclick="openSidebar('NRC_24_Inspiring Revolutionary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\50_Deprogrammed Replicant.png" id="NRC_50_Deprogrammed Replicant" data-flag="@X" onclick="openSidebar('NRC_50_Deprogrammed Replicant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\98_Ratpack Kingpin.png" id="NRC_98_Ratpack Kingpin" data-flag="@X" onclick="openSidebar('NRC_98_Ratpack Kingpin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\135_Rewire.png" id="NRC_135_Rewire" data-flag="@X" onclick="openSidebar('NRC_135_Rewire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\171_Motorcycle Muscle.png" id="NRC_171_Motorcycle Muscle" data-flag="@X" onclick="openSidebar('NRC_171_Motorcycle Muscle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\27_Mecho-Grunt.png" id="NRC_27_Mecho-Grunt" data-flag="@X" onclick="openSidebar('NRC_27_Mecho-Grunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\51_Dropship Detention.png" id="NRC_51_Dropship Detention" data-flag="@X" onclick="openSidebar('NRC_51_Dropship Detention',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\99_Reckless Rioter.png" id="NRC_99_Reckless Rioter" data-flag="@X" onclick="openSidebar('NRC_99_Reckless Rioter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\137_Rocket Hamster.png" id="NRC_137_Rocket Hamster" data-flag="@X" onclick="openSidebar('NRC_137_Rocket Hamster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\174_Party Ape.png" id="NRC_174_Party Ape" data-flag="@X" onclick="openSidebar('NRC_174_Party Ape',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\29_Painted Infamy.png" id="NRC_29_Painted Infamy" data-flag="@X" onclick="openSidebar('NRC_29_Painted Infamy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\53_Dynamo Defector.png" id="NRC_53_Dynamo Defector" data-flag="@X" onclick="openSidebar('NRC_53_Dynamo Defector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\104_Scream Core.png" id="NRC_104_Scream Core" data-flag="@X" onclick="openSidebar('NRC_104_Scream Core',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\138_Rollicking Rider.png" id="NRC_138_Rollicking Rider" data-flag="@X" onclick="openSidebar('NRC_138_Rollicking Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\177_Start the Fight.png" id="NRC_177_Start the Fight" data-flag="@X" onclick="openSidebar('NRC_177_Start the Fight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\34_Show of Force.png" id="NRC_34_Show of Force" data-flag="@X" onclick="openSidebar('NRC_34_Show of Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\60_Find Your People.png" id="NRC_60_Find Your People" data-flag="@X" onclick="openSidebar('NRC_60_Find Your People',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\105_Shred.png" id="NRC_105_Shred" data-flag="@X" onclick="openSidebar('NRC_105_Shred',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\139_Send a Message.png" id="NRC_139_Send a Message" data-flag="@X" onclick="openSidebar('NRC_139_Send a Message',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\179_Turf War.png" id="NRC_179_Turf War" data-flag="@X" onclick="openSidebar('NRC_179_Turf War',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\35_Skid-Row Informant.png" id="NRC_35_Skid-Row Informant" data-flag="@X" onclick="openSidebar('NRC_35_Skid-Row Informant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\61_Hypno Bass.png" id="NRC_61_Hypno Bass" data-flag="@X" onclick="openSidebar('NRC_61_Hypno Bass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\108_Street Clash.png" id="NRC_108_Street Clash" data-flag="@X" onclick="openSidebar('NRC_108_Street Clash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\141_Short Kings.png" id="NRC_141_Short Kings" data-flag="@X" onclick="openSidebar('NRC_141_Short Kings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\180_Urban Artist.png" id="NRC_180_Urban Artist" data-flag="@X" onclick="openSidebar('NRC_180_Urban Artist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\36_Skywise Rebel.png" id="NRC_36_Skywise Rebel" data-flag="@X" onclick="openSidebar('NRC_36_Skywise Rebel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\66_Preventative Strike.png" id="NRC_66_Preventative Strike" data-flag="@X" onclick="openSidebar('NRC_66_Preventative Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\111_Unplug.png" id="NRC_111_Unplug" data-flag="@X" onclick="openSidebar('NRC_111_Unplug',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\144_Street-Wise Combatants.png" id="NRC_144_Street-Wise Combatants" data-flag="@X" onclick="openSidebar('NRC_144_Street-Wise Combatants',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\181_Urban Vibrance.png" id="NRC_181_Urban Vibrance" data-flag="@X" onclick="openSidebar('NRC_181_Urban Vibrance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\37_Touch the Dataline.png" id="NRC_37_Touch the Dataline" data-flag="@X" onclick="openSidebar('NRC_37_Touch the Dataline',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\75_Trippin'.png" id="NRC_75_Trippin" data-flag="@X" onclick="openSidebar('NRC_75_Trippin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\112_Word on the Street.png" id="NRC_112_Word on the Street" data-flag="@X" onclick="openSidebar('NRC_112_Word on the Street',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\147_Thrilling Artistry.png" id="NRC_147_Thrilling Artistry" data-flag="@X" onclick="openSidebar('NRC_147_Thrilling Artistry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\182_Wolf of Wall Street.png" id="NRC_182_Wolf of Wall Street" data-flag="@X" onclick="openSidebar('NRC_182_Wolf of Wall Street',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\38_Unyielding Sycophant.png" id="NRC_38_Unyielding Sycophant" data-flag="@X" onclick="openSidebar('NRC_38_Unyielding Sycophant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\76_Under Observation.png" id="NRC_76_Under Observation" data-flag="@X" onclick="openSidebar('NRC_76_Under Observation',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\77_Underground DJ.png" id="NRC_77_Underground DJ" data-flag="@X" onclick="openSidebar('NRC_77_Underground DJ',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\198_Cool Cat Alley.png" id="NRC_198_Cool Cat Alley" data-flag="@X" onclick="openSidebar('NRC_198_Cool Cat Alley',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\248_Tomorrow is Today.png" id="NRC_248_Tomorrow is Today" data-flag="@X" onclick="openSidebar('NRC_248_Tomorrow is Today',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\211_Iris, the Lurker.png" id="NRC_211_Iris, the Lurker" data-flag="@X" onclick="openSidebar('NRC_211_Iris, the Lurker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\215_Katana Gang Rioter.png" id="NRC_215_Katana Gang Rioter" data-flag="@X" onclick="openSidebar('NRC_215_Katana Gang Rioter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\230_Prolific Tagger.png" id="NRC_230_Prolific Tagger" data-flag="@X" onclick="openSidebar('NRC_230_Prolific Tagger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\195_City Surfer.png" id="NRC_195_City Surfer" data-flag="@X" onclick="openSidebar('NRC_195_City Surfer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\203_Doctor Antavious.png" id="NRC_203_Doctor Antavious" data-flag="@X" onclick="openSidebar('NRC_203_Doctor Antavious',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\234_Revolution Engine.png" id="NRC_234_Revolution Engine" data-flag="@X" onclick="openSidebar('NRC_234_Revolution Engine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\204_Double or Nothing.png" id="NRC_204_Double or Nothing" data-flag="@X" onclick="openSidebar('NRC_204_Double or Nothing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\208_Goofy Foot Cherub.png" id="NRC_208_Goofy Foot Cherub" data-flag="@X" onclick="openSidebar('NRC_208_Goofy Foot Cherub',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\241_Stun Zapper.png" id="NRC_241_Stun Zapper" data-flag="@X" onclick="openSidebar('NRC_241_Stun Zapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\218_Lazarus Protocol.png" id="NRC_218_Lazarus Protocol" data-flag="@X" onclick="openSidebar('NRC_218_Lazarus Protocol',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\237_Run It Back.png" id="NRC_237_Run It Back" data-flag="@X" onclick="openSidebar('NRC_237_Run It Back',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\227_Painter Gator.png" id="NRC_227_Painter Gator" data-flag="@X" onclick="openSidebar('NRC_227_Painter Gator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\233_Recombinating.png" id="NRC_233_Recombinating" data-flag="@X" onclick="openSidebar('NRC_233_Recombinating',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\193_Call Spec Ops.png" id="NRC_193_Call Spec Ops" data-flag="@X" onclick="openSidebar('NRC_193_Call Spec Ops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\250_Two-Wheel Bruiser.png" id="NRC_250_Two-Wheel Bruiser" data-flag="@X" onclick="openSidebar('NRC_250_Two-Wheel Bruiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\214_Katana Gang.png" id="NRC_214_Katana Gang" data-flag="@X" onclick="openSidebar('NRC_214_Katana Gang',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\199_Dataline Surfing.png" id="NRC_199_Dataline Surfing" data-flag="@X" onclick="openSidebar('NRC_199_Dataline Surfing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\223_Market Street Mob.png" id="NRC_223_Market Street Mob" data-flag="@X" onclick="openSidebar('NRC_223_Market Street Mob',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\258_Special Task Force.png" id="NRC_258_Special Task Force" data-flag="@X" onclick="openSidebar('NRC_258_Special Task Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\256_Canal Town Couriers.png" id="NRC_256_Canal Town Couriers" data-flag="@X" onclick="openSidebar('NRC_256_Canal Town Couriers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\257_Industrial Park Freerunner.png" id="NRC_257_Industrial Park Freerunner" data-flag="@X" onclick="openSidebar('NRC_257_Industrial Park Freerunner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\255_Boonies Homebrewer.png" id="NRC_255_Boonies Homebrewer" data-flag="@X" onclick="openSidebar('NRC_255_Boonies Homebrewer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\254_Art District Defiant.png" id="NRC_254_Art District Defiant" data-flag="@X" onclick="openSidebar('NRC_254_Art District Defiant',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\242_Subterfuge Specialists.png" id="NRC_242_Subterfuge Specialists" data-flag="@X" onclick="openSidebar('NRC_242_Subterfuge Specialists',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\202_Dockworks Witch.png" id="NRC_202_Dockworks Witch" data-flag="@X" onclick="openSidebar('NRC_202_Dockworks Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\238_Sewer Girl.png" id="NRC_238_Sewer Girl" data-flag="@X" onclick="openSidebar('NRC_238_Sewer Girl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\231_Protest Artist.png" id="NRC_231_Protest Artist" data-flag="@X" onclick="openSidebar('NRC_231_Protest Artist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\205_Experiment V.png" id="NRC_205_Experiment V" data-flag="@X" onclick="openSidebar('NRC_205_Experiment V',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\197_Clear the Streets.png" id="NRC_197_Clear the Streets" data-flag="@X" onclick="openSidebar('NRC_197_Clear the Streets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\188_Back-Alley Drop.png" id="NRC_188_Back-Alley Drop" data-flag="@X" onclick="openSidebar('NRC_188_Back-Alley Drop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\186_Aunty Ruina.png" id="NRC_186_Aunty Ruina" data-flag="@X" onclick="openSidebar('NRC_186_Aunty Ruina',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\183_Aerosol Justice.png" id="NRC_183_Aerosol Justice" data-flag="@X" onclick="openSidebar('NRC_183_Aerosol Justice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\185_Ashley, Freedom Fighter.png" id="NRC_185_Ashley, Freedom Fighter" data-flag="@X" onclick="openSidebar('NRC_185_Ashley, Freedom Fighter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\216_Lavorious, the Oppressor.png" id="NRC_216_Lavorious, the Oppressor" data-flag="@X" onclick="openSidebar('NRC_216_Lavorious, the Oppressor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\190_Become Obsessed.png" id="NRC_190_Become Obsessed" data-flag="@X" onclick="openSidebar('NRC_190_Become Obsessed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\206_Falling Down.png" id="NRC_206_Falling Down" data-flag="@X" onclick="openSidebar('NRC_206_Falling Down',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\184_Agnus, Voice of the People.png" id="NRC_184_Agnus, Voice of the People" data-flag="@X" onclick="openSidebar('NRC_184_Agnus, Voice of the People',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\187_Aurora Days.png" id="NRC_187_Aurora Days" data-flag="@X" onclick="openSidebar('NRC_187_Aurora Days',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\217_Lavorious's Backup Plan.png" id="NRC_217_Lavoriouss Backup Plan" data-flag="@X" onclick="openSidebar('NRC_217_Lavoriouss Backup Plan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\192_Bugger, Technothief.png" id="NRC_192_Bugger, Technothief" data-flag="@X" onclick="openSidebar('NRC_192_Bugger, Technothief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\207_Franny Lollipop Thomas.png" id="NRC_207_Franny Lollipop Thomas" data-flag="@X" onclick="openSidebar('NRC_207_Franny Lollipop Thomas',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\209_Guitar Solo.png" id="NRC_209_Guitar Solo" data-flag="@X" onclick="openSidebar('NRC_209_Guitar Solo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\194_City Renewal.png" id="NRC_194_City Renewal" data-flag="@X" onclick="openSidebar('NRC_194_City Renewal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\225_One Man Army.png" id="NRC_225_One Man Army" data-flag="@X" onclick="openSidebar('NRC_225_One Man Army',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\213_Josh, Undercity Slacker.png" id="NRC_213_Josh, Undercity Slacker" data-flag="@X" onclick="openSidebar('NRC_213_Josh, Undercity Slacker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\226_Oni-Face Painting.png" id="NRC_226_Oni-Face Painting" data-flag="@X" onclick="openSidebar('NRC_226_Oni-Face Painting',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\NRC-files\img\229_The Project_back.png" alt="sets\NRC-files\img\229_The Project_front.png" id="NRC_229_The Project" data-flag="@XD" onclick="openSidebar('NRC_229_The Project',false)"><button class="flip-btn" onclick="imgFlip('NRC_229_The Project')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\222_Mai, Running Free.png" id="NRC_222_Mai, Running Free" data-flag="@X" onclick="openSidebar('NRC_222_Mai, Running Free',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\239_Spec Ops Commander.png" id="NRC_239_Spec Ops Commander" data-flag="@X" onclick="openSidebar('NRC_239_Spec Ops Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\232_Rask Cyberfang.png" id="NRC_232_Rask Cyberfang" data-flag="@X" onclick="openSidebar('NRC_232_Rask Cyberfang',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\236_Roger Funny-Man Cannon.png" id="NRC_236_Roger Funny-Man Cannon" data-flag="@X" onclick="openSidebar('NRC_236_Roger Funny-Man Cannon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\244_Swiss Army Man.png" id="NRC_244_Swiss Army Man" data-flag="@X" onclick="openSidebar('NRC_244_Swiss Army Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\240_Sprayed Patroller.png" id="NRC_240_Sprayed Patroller" data-flag="@X" onclick="openSidebar('NRC_240_Sprayed Patroller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\253_Winged Interceptor.png" id="NRC_253_Winged Interceptor" data-flag="@X" onclick="openSidebar('NRC_253_Winged Interceptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\247_Tina, Queen of the Road.png" id="NRC_247_Tina, Queen of the Road" data-flag="@X" onclick="openSidebar('NRC_247_Tina, Queen of the Road',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\246_Tank Girl.png" id="NRC_246_Tank Girl" data-flag="@X" onclick="openSidebar('NRC_246_Tank Girl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\249_Tony.png" id="NRC_249_Tony" data-flag="@X" onclick="openSidebar('NRC_249_Tony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\251_We Are the Many.png" id="NRC_251_We Are the Many" data-flag="@X" onclick="openSidebar('NRC_251_We Are the Many',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\196_Clayton, Embassy Informant.png" id="NRC_196_Clayton, Embassy Informant" data-flag="@X" onclick="openSidebar('NRC_196_Clayton, Embassy Informant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\212_Jessica, Undercity Fence.png" id="NRC_212_Jessica, Undercity Fence" data-flag="@X" onclick="openSidebar('NRC_212_Jessica, Undercity Fence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\200_DeSean, Community Cultivator.png" id="NRC_200_DeSean, Community Cultivator" data-flag="@X" onclick="openSidebar('NRC_200_DeSean, Community Cultivator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\189_Bart, Boon Town Creator.png" id="NRC_189_Bart, Boon Town Creator" data-flag="@X" onclick="openSidebar('NRC_189_Bart, Boon Town Creator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\201_Dex, Well-Connected.png" id="NRC_201_Dex, Well-Connected" data-flag="@X" onclick="openSidebar('NRC_201_Dex, Well-Connected',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\243_Surveilance State.png" id="NRC_243_Surveilance State" data-flag="@X" onclick="openSidebar('NRC_243_Surveilance State',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\221_Lydia, Rider of Mayhem.png" id="NRC_221_Lydia, Rider of Mayhem" data-flag="@X" onclick="openSidebar('NRC_221_Lydia, Rider of Mayhem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\228_Parkland Witch.png" id="NRC_228_Parkland Witch" data-flag="@X" onclick="openSidebar('NRC_228_Parkland Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\245_The Tag on 38th Street.png" id="NRC_245_The Tag on 38th Street" data-flag="@X" onclick="openSidebar('NRC_245_The Tag on 38th Street',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\210_Inviting Influencer.png" id="NRC_210_Inviting Influencer" data-flag="@X" onclick="openSidebar('NRC_210_Inviting Influencer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\224_Mind Tap.png" id="NRC_224_Mind Tap" data-flag="@X" onclick="openSidebar('NRC_224_Mind Tap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\219_Let it Rip.png" id="NRC_219_Let it Rip" data-flag="@X" onclick="openSidebar('NRC_219_Let it Rip',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\220_Let Loose.png" id="NRC_220_Let Loose" data-flag="@X" onclick="openSidebar('NRC_220_Let Loose',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\235_Rockers of the Free World.png" id="NRC_235_Rockers of the Free World" data-flag="@X" onclick="openSidebar('NRC_235_Rockers of the Free World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\191_Block Party.png" id="NRC_191_Block Party" data-flag="@X" onclick="openSidebar('NRC_191_Block Party',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\252_WHATEVER WE RIOT.png" id="NRC_252_WHATEVER WE RIOT" data-flag="@X" onclick="openSidebar('NRC_252_WHATEVER WE RIOT',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\1_Null, Blade of the Void.png" id="NRC_1_Null, Blade of the Void" data-flag="@X" onclick="openSidebar('NRC_1_Null, Blade of the Void',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\3_Spreading Art.png" id="NRC_3_Spreading Art" data-flag="@X" onclick="openSidebar('NRC_3_Spreading Art',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\260_Citadel's Juggernaut.png" id="NRC_260_Citadels Juggernaut" data-flag="@X" onclick="openSidebar('NRC_260_Citadels Juggernaut',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\262_Public Transport.png" id="NRC_262_Public Transport" data-flag="@X" onclick="openSidebar('NRC_262_Public Transport',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\2_Rainbow Road.png" id="NRC_2_Rainbow Road" data-flag="@X" onclick="openSidebar('NRC_2_Rainbow Road',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\261_Gas Mask.png" id="NRC_261_Gas Mask" data-flag="@X" onclick="openSidebar('NRC_261_Gas Mask',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\263_Quiet Plant Store.png" id="NRC_263_Quiet Plant Store" data-flag="@X" onclick="openSidebar('NRC_263_Quiet Plant Store',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\264_Runaway Service Vehicle.png" id="NRC_264_Runaway Service Vehicle" data-flag="@X" onclick="openSidebar('NRC_264_Runaway Service Vehicle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\4_The Watchtower.png" id="NRC_4_The Watchtower" data-flag="@X" onclick="openSidebar('NRC_4_The Watchtower',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\274_Embassy Row.png" id="NRC_274_Embassy Row" data-flag="@X" onclick="openSidebar('NRC_274_Embassy Row',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\270_Canal Town.png" id="NRC_270_Canal Town" data-flag="@X" onclick="openSidebar('NRC_270_Canal Town',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\276_Industrial Park.png" id="NRC_276_Industrial Park" data-flag="@X" onclick="openSidebar('NRC_276_Industrial Park',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\269_The Boonies.png" id="NRC_269_The Boonies" data-flag="@X" onclick="openSidebar('NRC_269_The Boonies',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\265_Arts District.png" id="NRC_265_Arts District" data-flag="@X" onclick="openSidebar('NRC_265_Arts District',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\275_Government Center.png" id="NRC_275_Government Center" data-flag="@X" onclick="openSidebar('NRC_275_Government Center',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\273_Dockworks.png" id="NRC_273_Dockworks" data-flag="@X" onclick="openSidebar('NRC_273_Dockworks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\280_Public Works Yard.png" id="NRC_280_Public Works Yard" data-flag="@X" onclick="openSidebar('NRC_280_Public Works Yard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\268_The Blocks.png" id="NRC_268_The Blocks" data-flag="@X" onclick="openSidebar('NRC_268_The Blocks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\282_Trade Quarter.png" id="NRC_282_Trade Quarter" data-flag="@X" onclick="openSidebar('NRC_282_Trade Quarter',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\277_Motorcycle Garage.png" id="NRC_277_Motorcycle Garage" data-flag="@X" onclick="openSidebar('NRC_277_Motorcycle Garage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\266_Aurora Ward.png" id="NRC_266_Aurora Ward" data-flag="@X" onclick="openSidebar('NRC_266_Aurora Ward',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\271_The Citadel.png" id="NRC_271_The Citadel" data-flag="@X" onclick="openSidebar('NRC_271_The Citadel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\272_City Square.png" id="NRC_272_City Square" data-flag="@X" onclick="openSidebar('NRC_272_City Square',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\278_Neon Circuit.png" id="NRC_278_Neon Circuit" data-flag="@X" onclick="openSidebar('NRC_278_Neon Circuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\279_Podunk Town.png" id="NRC_279_Podunk Town" data-flag="@X" onclick="openSidebar('NRC_279_Podunk Town',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\281_The Red Front.png" id="NRC_281_The Red Front" data-flag="@X" onclick="openSidebar('NRC_281_The Red Front',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\267_Back Alley.png" id="NRC_267_Back Alley" data-flag="@X" onclick="openSidebar('NRC_267_Back Alley',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NRC_e" data-flag="@E" onclick="openSidebar('NRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\1t_WhiteRebel.png" id="NRC_1t_WhiteRebel" data-flag="@X" onclick="openSidebar('NRC_1t_WhiteRebel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\2t_Bird.png" id="NRC_2t_Bird" data-flag="@X" onclick="openSidebar('NRC_2t_Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\3t_Soldier Army.png" id="NRC_3t_Soldier Army" data-flag="@X" onclick="openSidebar('NRC_3t_Soldier Army',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\4t_Bear.png" id="NRC_4t_Bear" data-flag="@X" onclick="openSidebar('NRC_4t_Bear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NRC-files\img\5t_RedRebel.png" id="NRC_5t_RedRebel" data-flag="@X" onclick="openSidebar('NRC_5t_RedRebel',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NRC_er" data-flag="@E" onclick="openSidebar('NRC_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
