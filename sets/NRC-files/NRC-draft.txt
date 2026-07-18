@@ -3160,7 +3160,6 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
-	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3258,7 +3257,6 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
-	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3443,7 +3441,6 @@
 	6 Runaway Service Vehicle
 	6 Quiet Plant Store
 	6 Gas Mask
-	12 The Watchtower
 	12 Hit the Pavement
 	6 Breach!
 	6 Remote Command Center
@@ -3545,7 +3542,7 @@
 	2 Rebelling Roots
 	2 Bugger, Technothief
 	2 Sprayed Patroller
-[wildcard(1)]
+[wildcard(2)]
 	6 Start the Fight
 	6 Marshal Forces
 	6 Inspiring Revolutionary
@@ -3726,7 +3723,6 @@
 	15 Runaway Service Vehicle
 	15 Quiet Plant Store
 	15 Gas Mask
-	6 The Watchtower
 	6 Hit the Pavement
 	15 Breach!
 	15 Remote Command Center
@@ -3828,3 +3824,5 @@
 	7 Rebelling Roots
 	7 Bugger, Technothief
 	7 Sprayed Patroller
+[landslot(1)]
+	30 The Watchtower
