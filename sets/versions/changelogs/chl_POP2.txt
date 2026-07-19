@@ -1,4 +1,675 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Stitcher's Paradise added.
+Sand Witch added.
+Cveki, Æther Scav added.
+Phantom Thief “M” added.
+Canny Detective, “C” added.
+Seal of Fists (Not the other Popcorn 2 one) added.
+Rumble Awakener added.
+Treasure Horde added.
+Kixifil Border Patrol added.
+Walks of Life added.
+Buzzsnout added.
+Mythic Mead-Hall added.
+Waytha added.
+Crafty Chef added.
+Gebbin, Unlucky Looter added.
+Bloodsworn Schemer added.
+Stensian War Vulture added.
+Apex of Recklessness added.
+Fire Phantom added.
+The Flying Necropolis of Tel'Azad added.
+Stitch, Hanging Loose added.
+Uncanny Keeper added.
+Realm of Pure Thought added.
+Eater of Lost Fates added.
+Maddening Wormhole added.
+Storm Observation Platform added.
+Scorchsigil of Covenant added.
+Holiday added.
+Stonesong added.
+Stonesinger Ingenue added.
+Trapped Sculpture added.
+Craglocked Citadel added.
+Endless Growth added.
+Roaming Tower added.
+Granary District added.
+Mourner of the Void added.
+Muter of Mana added.
+Gubba, Wilds Father added.
+Kithkinish Piper added.
+Lumbering Researcher added.
+Kerberos, Life Observer added.
+Skull Fortress added.
+Advanced Crabmatics added.
+Principles of Geomantic Yields added.
+Hamonic Foundations added.
+Gatherer of Allies added.
+Mountain Rider added.
+Benediction by Starlight added.
+Malediction by Moonlight added.
+Fortune of the Void added.
+Aeon and Era added.
+Killer Bees' Hive added.
+Killer Bee, Jinchūriki added.
+Hivefray Armoury added.
+Seasonal Swarming added.
+Locust Locus added.
+Hivefrost Bergs added.
+Hornet Corp Headquarters added.
+Borrowing Bolts added.
+Statuesque Schemer added.
+Bountiful Spring added.
+Magmatic Lash added.
+The Pale Promise added.
+Bloodprism Ritual added.
+The Sprawl added.
+Resolute Florist added.
+Coilhopper added.
+Data Egg added.
+Grievous Gladiator added.
+Restrictions Breed Creativity added.
+Fynton, Expert Rigger added.
+Prisoner Isolation added.
+Lone Wolf (Not the Portal One) added.
+Wisp of Companionship added.
+Uplifting Oak added.
+By the Grace of God added.
+Sunchanneler added.
+Kanade, Compassionate Composer added.
+Cecilia, Fleeting Inspiration added.
+Refuge in Rot and Ruin added.
+Embalming Chambers added.
+Primoridial Forms added.
+The Impossible Stag added.
+Alla Breve, Timekeeper added.
+The Final Battle added.
+Kaito, Watched Journey added.
+Pack a Punch added.
+Sunset Oasis added.
+Terramorph Planners added.
+The Gallery of Stones added.
+Blood Moon Rising added.
+The Divine Stories added.
+Two Birds One Storm added.
+Sky Marshal's Order added.
+Dream on added.
+Yorun, the Red Wave added.
+Wretched Archaic added.
+Memory Chasm added.
+Elpis Seeker added.
+The Answer in Ruins added.
+Beseech the Master added.
+Riddlekeeper's Assistant added.
+The Answer in Lightning added.
+Dexh, Endless Hunger added.
+Pieceweft Boonbringer added.
+Feral Hunter added.
+Stonesinger Markswoman added.
+Fossilbind added.
+Sage of the Luxa added.
+Designer Refiner added.
+Baneful Deed added.
+Popbot, Scrapped Together added.
+Pop Gun added.
+The Beacon Designer added.
+Polymathy added.
+Terrachef MK9.5 added.
+Astral Dryad added.
+Glacial Boon Turtle added.
+Commanding Cadence added.
+Charming Crooner added.
+Ventbound Nautilus added.
+Cottontail Centurion added.
+Astraform Drifter added.
+Walvij, Creative Progenitor added.
+Forest Friends added.
+Balladeer Minstrel added.
+Banish to the Peaks added.
+Somewhere to Be added.
+Pointer Pack added.
+Recycling added.
+Apex Anomalocaris added.
+Harold, Studious Parent added.
+School of Hard Rocks added.
+Pumpkin Pilfering added.
+Bring Together the Many added.
+Amulet of Blessings added.
+Heavy Sculpture added.
+Envenom the Stones added.
+Nighthawks' Respite added.
+Self-Propogating Bobblehead added.
+Aetherbonded Steed added.
+Peeve added.
+Cry it Out added.
+Eschew added.
+Phyrexian Eclipse added.
+Night Wardens added.
+Banishing Ritual added.
+Luminescent Squid added.
+Solitary Crossing added.
+Coinbed Oyster added.
+Wish for Treasure added.
+The Nectar of Life added.
+Mindchurn Apologist added.
+Rubee added.
+Throne of Dead Queens added.
+Arachking added.
+True Remembrance added.
+Desperate Times added.
+Inveigling Ingenue, “Y” added.
+Collectors Edition added.
+Mechanical Bobblehead added.
+Egg of BANT added.
+Egg of GRIXIS added.
+Egg of JUND added.
+Egg of NAYA added.
+
+Stitcher's Paradse removed.
+Rhystic Rest removed.
+The Sand Witch removed.
+Cveki, Aether Scav removed.
+Phantom Thief M removed.
+Canny Detective, C removed.
+Seal of Fists Not the other Popcorn 2 one removed.
+
+Humming Host
+rules_text: When this creature enters, each opponent loses X life and you gain X life, where X is the number of Hives you control plus the number of Bee tokens you control.
+When this creature dies, create a number of Bee tokens equal to its power. => When this creature enters, each opponent loses X life and you gain X life, where X is the number of Hives you control plus the number of Insects you control.
+When this creature dies, create a number of Bee tokens equal to its power.
+
+Myranda, Viron Queen
+
+Allergy Season
+rules_text: When this enters, create a Bee token. [i](A Bee is a 1/1 white Insect creature token with flying and “This creature can't attack or block alone.”)[/i]
+When this leaves the battlefield, the active player creates a Bee token.
+Whenever you attack with two or more Insects, create a token that's a copy of target token you control. => When this battle enters, create a Bee token. [i](A Bee is a 1/1 white Insect creature token with flying and “This creature can't attack or block alone.”)[/i]
+When this battle leaves the battlefield, the active player creates a Bee token.
+Whenever you attack with two or more Insects, create a token that's a copy of target token you control.
+
+Cackling Marauder
+
+Kolt the Bloodswarm
+rules_text: [i]Bloodied[/i] — As long as you've lost life this turn, Kolt is a 3/3 Vampire Insect creature with flying and “Ward—Pay 6 life.” that's still a planeswalker.
+[+1]: Each player loses 1 life.
+[-4]: Create a number of blood tokens equal to the amount of life lost this turn.
+[-6]: Kolt deals damage to any target equal to the amount of life lost this turn. => [i]Bloodied[/i] — As long as you've lost life this turn, Kolt is a 3/3 Vampire Insect creature with flying and “Ward—Pay 6 life.” that's still a planeswalker.
+[+1]: Each player loses 1 life.
+[-4]: Create a number of Blood tokens equal to the amount of life lost this turn.
+[-6]: Kolt deals damage to any target equal to the amount of life lost this turn.
+special_text: [i]Bloodied[/i] — As long as you've lost life this turn, Kolt is a 3/3 Vampire Insect creature with flying and “Ward—Pay 6 life.” that's still a planeswalker.
+[+1]: Each player loses 1 life.
+[-4]: Create a number of blood tokens equal to the amount of life lost this turn.
+[-6]: Kolt deals damage to any target equal to the amount of life lost this turn. => [i]Bloodied[/i] — As long as you've lost life this turn, Kolt is a 3/3 Vampire Insect creature with flying and “Ward—Pay 6 life.” that's still a planeswalker.
+[+1]: Each player loses 1 life.
+[-4]: Create a number of Blood tokens equal to the amount of life lost this turn.
+[-6]: Kolt deals damage to any target equal to the amount of life lost this turn.
+
+Stairpath Crossing
+
+Giant of Lost Causes
+rules_text: Vigilance
+Ward—Have this creatures controller gain 3 life, draw a card, and create a tapped treasure. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player have this creatures controller gain 3 life, draws a card, and creates a tapped treasure.)[/i]
+This creature blocks each turn if able. Attacking players chooses how this creature blocks. => Vigilance
+Ward—Have this creature's controller gain 3 life, draw a card, and create a tapped Treasure. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player have this creature's controller gain 3 life, draws a card, and creates a tapped treasure.)[/i]
+This creature blocks each turn if able. Attacking players chooses how this creature blocks.
+
+Maelstrom Wayfinder
+rules_text: Cascade
+As long as this card's on the battlefield, in your graveyard, or in your library, it's a land in addition to its other types and has Rangeling [i](This card is every land type, including Plains, Island, Swamp, Mountain, Forest, Arch, Cave, Desert, Gate, Hive, Lair, Locus, Planet, Sphere, Town, and all those Urza's ones.)[/i] => Cascade
+As long as this card's on the battlefield, in your graveyard, or in your library, it's a land in addition to its other types and has rangeling [i](This card is every land type, including Plains, Island, Swamp, Mountain, Forest, Arch, Cave, Desert, Gate, Hive, Lair, Locus, Planet, Sphere, Town, and all those Urza's ones.)[/i]
+
+Kalais, Drowner of Reason
+rules_text: When Kalais enters, exile the top card of each player's library. You may cast those cards for as long as you control Kalais, and mana of any type may be spent to cast them.
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Kalais. It can't be blocked this turn. => When Kalais enters, exile the top card of each player's library. As long as you control Kalais, you may cast those cards and mana of any type may be spent to cast them.
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Kalais. It can't be blocked this turn.
+
+Nyxwing Devotee
+rules_text: Flying
+When this creature enters, disperse another target creature or enchantment you don't control if your devotion to white is four or more. [i](Each W in the mana costs of permanents you control counts toward your devotion to white. To disperse a permanent, exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)[/i] => Flying
+When this creature enters, disperse another target creature or enchantment you don't control if your devotion to white is four or more. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white. To disperse a permanent, exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)[/i]
+
+Innocence Beyond Time
+
+Sphinx of Nu
+
+Silverquill Soliloquy
+rules_text: This spell costs {1} less to cast for each spell cast before it this turn.
+Create X 2/1 white and black Inkling creature tokens with flying, where X is the number of creatures you control plus the number of instant and sorcery spells in your graveyard. => This spell costs {1} less to cast for each spell cast before it this turn.
+Create X 2/1 white and black Inkling creature tokens with flying, where X is the number of creatures you control plus the number of instant and sorcery cards in your graveyard.
+
+Conduit of the Gyre
+rules_text: When this creature enters, you may behold a colorless creature and create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it. => When this creature enters, you may behold a colorless creature. If you do, create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it.
+
+Gilded Condor
+
+Otirion the Lovestruck
+rules_text: Flying
+When this creature enters target opponent creates Yulia Swift, a legendary 3/2 red Lizard Citizen creature token with menace.
+As long as you control a creature named Yulia Swift, this creature and creatures named Yulia Swift get +2/+2 and creature spells you cast have casualty 3. => Flying
+When this creature enters target opponent creates Yulia Swift, a legendary 3/2 red Lizard Citizen creature token with menace.
+As long as you control a creature named Yulia Swift, this creature and creatures named Yulia Swift get +2/+2 and creature spells you cast have casualty 2.
+
+Travails Rekindler
+rules_text: Whenever an Eldrazi you control dies, draw a card.
+Exhaust — {0}: The next time you would sacrifice a creature this turn, instead it becomes a copy of Emrakul the Promised end and you sacrifice it. [i](Activate each exhaust ability only once.)[/i] => Whenever an Eldrazi you control dies, draw a card.
+Exhaust — {0}: The next time you would sacrifice a creature this turn, instead it becomes a copy of Emrakul the Promised end and you sacrifice it. [i](Activate each exhaust ability only once. Emrakul the Promised End is a 13/13 Eldrazi with flying, trample, and protection from—Oh—Ah, too late, she's been sacrificed! Sorry!)[/i]
+
+Metro, Master of Tempos
+
+Artificial Animist
+rules_text: Whenever this or another artifact enters under your control, put a +1/+1 counter on up to one target noncreature permanent.
+{2}{GU}: Target noncreature artifact you control becomes a 0/0 artifact creature until end of turn. => Whenever this creature or another artifact you control enters, put a +1/+1 counter on up to one target noncreature permanent.
+{2}{GU}: Target noncreature artifact you control becomes a 0/0 artifact creature until end of turn.
+
+Vizier of the Luxa
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue Bird Spirit creature token with flying. This ability triggers only once each turn.
+Embalm {1}{U}, Exile three instant and/or sorcery cards from your graveyard. [i]({1}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)[/i] => Whenever you cast a noncreature spell, create a 1/1 blue Bird Spirit creature token with flying. This ability triggers only once each turn.
+Embalm—{1}{U}, Exile three instant and/or sorcery cards from your graveyard. [i]({1}{U}, Exile three instant and/or sorcery cards from your graveyard, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)[/i]
+
+Langy, the Baffling
+pt: 1/1 => 2/1
+
+Flametongue Rootwalla
+
+Frenzied Insight
+
+Savage Pathcarver
+
+Temur Whispers
+rules_text: Secretly choose Pine Walker, Glacial Stalker, Ainok Tracker, or Snowhorn Rider. Conjure a copy of the chosen card onto the battlefield face-down. [i](These are all creature cards with {4}{G}, {4}{U}, {4}{R}, and {2}{G}{U}{R} respectively morph costs.)[/i] => Secretly choose Pine Walker, Glacial Stalker, Ainok Tracker, or Snowhorn Rider. Conjure a copy of the chosen card onto the battlefield face-down. [i](These are all creature cards morph cost of {4}{G}, {4}{U}, {4}{R}, and {2}{G}{U}{R} respectively.)[/i]
+
+Wandering Hoopoe
+
+Power
+rules_text: You may discard a black card and a red card rather than pay this spell's mana cost.
+This creature enters with six -1/-1 counters.
+{T}, Remove a counter from this creature: Target creature gets +2/+0 and gains haste until end of turn.
+{1}, {T}, Remove two counters from this creature: Add {B}{R}. => You may discard a black card and a red card rather than pay this spell's mana cost.
+This creature enters with six -1/-1 counters.
+{T}, Remove a counter from this creature: Target creature gets +2/+0 and gains haste until end of turn.
+{T}, Remove two counters from this creature: Add {B}{R}.
+
+Storm Cloak
+rules_text: Flying
+Equipped creature gets +1/+2 and gains flying
+Reconfigure {1}{U}: [i]({1}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Flying
+Equipped creature gets +1/+2 and has flying.
+Reconfigure {1}{U} [i]({1}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Fishstrosity
+rules_text: You may cast this card as though it had flash as long as one or more cards left your graveyard this turn.
+Menace, trample, haste
+Clawback {R}{R} [i](You may cast this card from your graveyard for its clawback cost. It enters with a finality counter.)[/i] => [i]Dire[/i] — You may cast this card as though it had flash as long as one or more cards left your graveyard this turn.
+Menace, trample, haste
+Clawback {R}{R} [i](You may cast this card from your graveyard for its clawback cost. It enters with a finality counter.)[/i]
+
+Vizier of the Delta
+
+Land Raiser
+rules_text: When this creature enters, create a colorless land token named Everywhere that is every basic land type. When you do, earthbend 1. [i](Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)[/i] => When this creature enters, create a tapped colorless land token named Everywhere that is every basic land type. When you do, earthbend 1. [i](Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)[/i]
+
+Unlit Sungate
+rules_text: When this land enters, you lose 3 life unless you return a creature you control with power or mana value 1 or less to your hand.
+When this land enters, choose one —
+• You lose 3 life
+• Return target creature you control with power or mana value 1 or less to your hand.
+As this land enters, you may return a creature you control with power or mana value 1 or less to your hand. If you don't, you lose 3 life.
+{T}: Add {C}, {W}, or {U}. => When this land enters, you lose 3 life unless you return a creature you control with power or mana value 1 or less to your hand.
+{T}: Add {C}, {W}, or {U}.
+
+Lone Penguin
+
+Very Hungry Caterpillar
+
+Nesting Coatl
+pt:  => 1/1
+
+Bahrmir Rhythmist
+rules_text: Banding [i](When you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band have first strike. => Megabanding [i](When you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band have first strike.
+
+Rockopolis
+
+Final Notes
+type: Instant => Sorcery
+rules_text: Put a music counter on target creature, then destroy target creature without a music counter on it.
+[i]Delirium[/i] - If there are four or more card types among cards in your graveyard, destroy each creature without a music counter on it. => Put a music counter on target creature, then destroy target creature without a music counter on it.
+[i]Delirium[/i] — If there are four or more card types among cards in your graveyard, destroy each creature without a music counter on it.
+
+Analog Audiophile
+rules_text: When this enters, you may Strategize {X}. If you do, distribute X music counters among up to X target creatures. [i](While paying a Strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+Banding [i](Whenever you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band get +2/+0. => When this enters, you may Strategize {X}. If you do, distribute X music counters among up to X target creatures. [i](While paying a Strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+Megabanding [i](Whenever you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band get +2/+0.
+
+Bloomed Across Worlds
+rules_text: As an additional cost to cast this spell, pay sacrifice an artifact or creature.
+Create three colorless land tokens named Everywhere they are every basic land type.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Create three tapped colorless land tokens named Everywhere that are every basic land type.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Whisperfin Colossus
+
+Minion Converter
+
+Romp's Reminder
+rules_text: You may cast this spell as though it had flash if you spend {1}{W}{U}{B} to cast it.
+Whenever another nontoken creature you control dies, create a copy of it except its an 1/1 Otter Illusion with “When this creature becomes the target of a spell or ability, sacrifice it.” => You may cast this spell as though it had flash if you spend {1}{W}{U}{B} to cast it.
+Whenever another nontoken creature you control dies, create a copy of it except it's an 1/1 Otter Illusion with “When this creature becomes the target of a spell or ability, sacrifice it.”
+
+Recursive Sphinx
+rules_text: Flying
+When this creature enters, if it is a token, put four +1/+1 counters on it.
+Fracture {5}{U}{U} [i]({5}{U}{U}, Exile this card from your graveyard: You cast a copy of it from your graveyard without paying its mana cost. Activate only as a sorcery.)[/i] => Flying
+When this creature enters, if it's a token, put four +1/+1 counters on it.
+Fracture {5}{U}{U} [i]({5}{U}{U}, Exile this card from your graveyard: You cast a copy of it from your graveyard without paying its mana cost. Activate only as a sorcery.)[/i]
+
+Deepest Sea Fangliest Fish
+
+Oddity Angling
+
+Defossilized Scuttler
+
+Sunleech Familiar
+
+Wreck Trawlers
+
+Pet Adoption Papers
+rules_text: {T}: You may look at the top card of your library until end of turn.
+You may cast Bird, Cat, Dog, or Fish cards from the top of your library by sacrificing this artifact as an additional cost. [i](You cannot attempt to cast a card you cannot look at.)[/i] => {T}: You may look at the top card of your library until end of turn.
+You may cast Pet card from the top of your library by sacrificing this artifact as an additional cost. [i](Birds, cats, dogs, fish, lizards, horses, rabbits, snakes, and turtles are pets. You cannot attempt to cast a card you cannot look at.)[/i]
+
+Small Prey Stalker
+
+Slippery Snack
+
+Moldreef Scavenger
+
+Adorable Chimera
+pt: 0/1 => 1/1
+
+Paralyzing Tidefang
+
+Evolving Mongrel
+cost: {GU} => {U}
+
+Luxury
+rules_text: Whenever you cast a black noncreature spell, torment target player. [i](To torment a player, they loses 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+Whenever one or more cards are put into a graveyard from anywhere, add {B}{B}. => Whenever you cast a black noncreature spell, torment target player. [i](To torment a player, they loses 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+Whenever one or more cards are put into a graveyard from anywhere, you may add {B}{B}. Do this only once each turn.
+
+Witching Hour
+cost: {B}{G}{U} => {2}{B}
+
+Hurly Burly, Coven's Herald
+
+Waveborn Hoplite
+
+Good Riddance
+
+Live Without Warning
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Discard your hand. For each card exiled with this spell, the next three turns end after the draw step and you take an extra turn after this one. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Discard your hand. For the next three turns after the draw step, end the turn. Take an extra turn after this one.
+
+Hatsune Miku, Watchful Senior
+rules_text: Creatures you control with music counters on them have vigilance. During your turn, they also have first strike.
+[+2]: Put a music counter on target creature.
+[-7]: Choose a Planeswalker card with mana value 4 or less. Copy one of its abilities. => Creatures you control with music counters on them have vigilance. During your turn, they also have first strike.
+[+2]: Put a music counter on up to one target creature.
+[-7]: Choose a Planeswalker card with mana value 4 or less. Copy one of its abilities.
+special_text: Creatures you control with music counters on them have vigilance. During your turn, they also have first strike.
+[+2]: Put a music counter on target creature.
+[-7]: Choose a Planeswalker card with mana value 4 or less. Copy one of its abilities. => Creatures you control with music counters on them have vigilance. During your turn, they also have first strike.
+[+2]: Put a music counter on up to one target creature.
+[-7]: Choose a Planeswalker card with mana value 4 or less. Copy one of its abilities.
+
+Lightning Channeler
+rules_text: Whenever this creature attacks, you get {E}. Then you may pay {E}{E}{E}. If you do, create a Ball Lightning token that's tapped and attacking. [i](It's a {R}{R}{R} 6/1 Elemental creature with trample, haste, and “At the beginning of the end step, sacrifice this creature.”)[/i] => Haste
+Whenever this creature attacks, you get {E}. Then you may pay {E}{E}{E}. If you do, create a Ball Lightning token that's tapped and attacking. [i](It's a {R}{R}{R} 6/1 Elemental creature with trample, haste, and “At the beginning of the end step, sacrifice this creature.”)[/i]
+
+Possessive Familiar
+rules_text: Flying
+Whenever you surveil and leave at least one card on top of your library, you may return this creature to its owner's hand and create a token copy of it. => Flying
+Whenever you surveil, if you left at least one card on top of your library, you may return this creature to your hand. If you do, create a token that is a copy of it.
+
+Deeptrench Spikemouth
+pt:  => 4/4
+
+Manifest Megadread
+rules_text: Megadelve {6} [i](While paying a megadelve cost, you can exile creatures you control and creature cards from your graveyard. Each card you exile this way pays for {1}. If you cast this spell for its megadelve cost, it enters with a +1/+1 counter.)[/i]
+Manifest megadread. [i](Look at the top three cards of your library. Put one on the battlefield face down with a +1/+1 counter on it and the rest in your graveyard.)[/i] => Megadelve {6} [i](While paying a megadelve cost, you can exile creatures you control and creature cards from your graveyard. Each card you exile this way pays for {1}. If you cast this spell for its megadelve cost, the manifested creature enters with a +1/+1 counter.)[/i]
+Manifest megadread. [i](Look at the top three cards of your library. Put one on the battlefield face down with a +1/+1 counter on it and the rest in your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Lord of the Nest
+
+Egg of Reason
+type: Kindred Artifact — Egg => Kindred Artifact — Treasure Egg
+
+Curseflame Dragon
+rules_text: Flying, haste
+{1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate this ability only if another card left your graveyard this turn. => Flying, haste
+[i]Dire[/i] — {1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate this ability only if another card left your graveyard this turn.
+
+Torrent-Tail Trio
+
+A Wiggle in the Weft
+rules_text: As an additional cost to play this land, you may return another land you control to your hand. If you do, draw a card.
+{T}: Add {C} or one mana of any color of mana that you have added during this turn. => When this land enters, you may return another land you control to your hand. If you do, draw a card.
+{T}: Add {C} or one mana of any type that a land you control that entered this turn could produce.
+
+Epursi Muove
+rules_text: When Epursi Muove enters, create a X/X red and green Spirit Doll artifact creature token, where X is the number of lands that have entered or left the battlefield under your control this turn. => When Epursi Muove enters, create an X/X red and green Spirit Toy artifact creature token, where X is the number of lands that have entered or left the battlefield under your control this turn.
+
+Sorya and Windpouncer
+
+Archivist of Augments
+cost: {GU}{GU} => {2}{GU}{GU}
+
+Leyline Haunt
+cost: {UB}{UB} => {U}{B}
+
+The Elements of Cruelty
+cost: {1}{BR} => {2}{BR}
+rules_text: Target player blights 2. [i](They each put a -1/-1 counter on a creature they control.)[/i]
+Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i] => Target player blights 3. [i](They put three -1/-1 counters on a creature they control.)[/i]
+Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+
+Gilbacheck, Houndmaster
+rules_text: Haste
+When Gilbacheck enters, create two 1/1 red Dog creature tokens.
+{2}{R}, {T}: After this phase, there is an additional combat phase. Activate only as a sorcery and only if a Dog dealt combat damage to a player this turn. => Haste
+When Gilbacheck enters, create two 1/1 red Dog creature tokens.
+{2}{R}, {T}: After this phase, there is an additional combat phase. Activate only if a Dog dealt combat damage to a player this turn and only as a sorcery.
+
+Master Handler
+rules_text: Pets you control have training. [i](Dogs, cats, lizards, birds, fish, horses, snakes, and turtles are pets. When one of your pets attacks with a creature of greater power, put a +1/+1 counter on that pet.)[/i] => Pets you control have training. [i](Birds, cats, dogs, fish, lizards, horses, rabbits, snakes, and turtles are pets. When one of your pets attacks with a creature of greater power, put a +1/+1 counter on that pet.)[/i]
+
+If Not Pet Why Pet Shaped
+rules_text: When this enchantment enters, draw a card.
+Non-sapient creatures are pets. => As this enchantment enters, choose a creature type.
+When this enchantment enters, draw a card.
+Creatures you control with the chosen type are Dogs in addition to their other types. [i](Dogs are pets.)[/i]
+
+Does the Dog Die
+
+School of Hard Knucks
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the end of each combat, if a player was damaged during that phase, choose one: investigate, or learn.
+{G}: Level 2
+Spells with Training, Mentor, Level-up or Learn cost {1} less to cast.
+{R}{WU}: Level 3
+Whenever an ability of a creature you control triggers during combat, add {C}. This mana can't be spent to cast non-Lesson spells. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the end of each combat, if a player was damaged during that phase, choose one —
+• Investigate.
+• Learn.
+{G}: Level 2
+Spells with training, mentor, level-up or mentions learn costs {1} less to cast.
+{R}{WU}: Level 3
+Whenever an ability of a creature you control triggers during combat, add {C}. This mana can't be spent to cast non-Lesson spells.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the end of each combat, if a player was damaged during that phase, choose one: investigate, or learn.
+{G}: Level 2
+Spells with Training, Mentor, Level-up or Learn cost {1} less to cast.
+{R}{WU}: Level 3
+Whenever an ability of a creature you control triggers during combat, add {C}. This mana can't be spent to cast non-Lesson spells. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the end of each combat, if a player was damaged during that phase, choose one —
+• Investigate.
+• Learn.
+{G}: Level 2
+Spells with training, mentor, level-up or mentions learn costs {1} less to cast.
+{R}{WU}: Level 3
+Whenever an ability of a creature you control triggers during combat, add {C}. This mana can't be spent to cast non-Lesson spells.
+
+Dancing Dampflames
+type: Instant => Sorcery
+rules_text: Choose one —
+• Create two 1/1 elemental Otter Spirit tokens with haste.
+• This spell deals 2 damage to any two non-Spirit non-Otter non-Elemental targets. => Choose one —
+• Create two 1/1 elemental Otter Spirit tokens with haste.
+• This spell deals 2 damage to any two non-Elemental, non-Spirit, non-Otter, targets.
+
+Windpouncer, Denbound
+rules_text: As long as there are five or more land types among lands in your graveyard Windpouncer has flying.
+Whenever you sacrifice a nonhuman permanent, monstrosity 1. If the sacrificed permanent was a basic land, monstrosity 2 instead. [i](If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i] => As long as there are five or more land types among lands in your graveyard Windpouncer has flying.
+Whenever you sacrifice a non-Human permanent, monstrosity 1. If the sacrificed permanent was a basic land, monstrosity 2 instead. [i](If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]
+
+Expert Pilot
+
+Koma, Fynn's Captive
+
+Wanderpath Staff
+
+Landbound Druid
+type: Creature - Human Druid => Creature — Human Druid
+
+Setessan Chimera
+rules_text: Bestow {3}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +3/+3.
+Whenever this or enchanted creature attacks, its controller returns a creature they control to its owner's hand. => Bestow {3}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +3/+3.
+Whenever this creature or enchanted creature attacks, its controller returns a creature they control to its owner's hand.
+
+Grovesong Gondolier
+rules_text: Whenever a player casts a noncreature spell, any player may pay {R}. If a player does, you create an X/X green and red Spirit Doll artifact creature, where X is that spell's mana value. When it enters, it deals damage equal to its power to the casting player. => Whenever a player casts a noncreature spell, any player may pay {R}. If a player does, you create an X/X green and red Spirit Toy artifact creature, where X is that spell's mana value. When that token enters, it deals damage equal to its power to the casting player.
+
+Bounty Royale
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may put a bounty counter on a creature.
+II — Each player creates a Treasure token for each creature they control with a bounty counter on it.
+III — Choose one - 
+• Destroy each creature with a bounty counter on it.
+• Destroy each creature without a bounty counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Starting with you, each player may put a bounty counter on a creature.
+II — Each player creates a Treasure token for each creature they control with a bounty counter on it.
+III — Choose one - 
+• Destroy each creature with a bounty counter on it.
+• Destroy each creature without a bounty counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player may put a bounty counter on a creature.
+II — Each player creates a Treasure token for each creature they control with a bounty counter on it.
+III — Choose one - 
+• Destroy each creature with a bounty counter on it.
+• Destroy each creature without a bounty counter on it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Starting with you, each player may put a bounty counter on a creature.
+II — Each player creates a Treasure token for each creature they control with a bounty counter on it.
+III — Choose one - 
+• Destroy each creature with a bounty counter on it.
+• Destroy each creature without a bounty counter on it.
+
+Lighthouse
+
+Tamed Volcano
+rules_text: Whenever a non-Battle source you control deals damage less than or equal to the number of defense counters on this Control Point, this Control Point deals damage to that target equal to the number of defense counters on this Control Point => [i](Any opponent may attack this battle. When an opponent defeats this battle, exile it, then put it onto the battlefield under that player's control with 4 defense counters. This is different from Sieges!)[/i]
+Whenever a non-Battle source you control deals damage less than or equal to the number of defense counters on this Control Point to a player or permanent, this Control Point deals damage to that target equal to the number of defense counters on this Control Point
+
+Simpering Schemer
+rules_text: Sphinxes you control have flying and deathtouch.
+This creature gets +1/+0 for each Sphinx you control and each card other players have drawn this turn. => Flying, deathtouch
+Other Sphinxes you control have flying and deathtouch.
+This creature gets +1/+0 for each other Sphinx you control and each card other players have drawn this turn.
+pt: 0/4 => 1/4
+
+Inscrutable Familiar
+
+Curse of Art Debt
+rules_text: Enchant player
+Whenever enchanted player draws a card except the first one they draw in each of their draw steps, they create a Debt token. [i](Its a colorless enchantment with “At the beginning of your upkeep lose 1 life and create a copy of this enchantment. If you discarded a card this turn sacrifice it instead.”)[/i] => Enchant player
+Whenever enchanted player draws a card except the first one they draw in each of their draw steps, they create a Debt token. [i](Its a colorless enchantment with “At the beginning of your upkeep, lose 1 life and create a copy of this enchantment. If you discarded a card this turn, sacrifice it instead.”)[/i]
+
+Storm-Crowned Peak
+rules_text: [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{2}{R}, {T}, Sacrifice this land: Until end of turn, copied spells gain “This spell deals 1 damage to any target”. => [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{2}{R}, {T}, Sacrifice this land: Until end of turn, copied spells gain “This spell deals 1 damage to any target.”
+
+Inverter of Amity
+
+Starschool Netcatcher
+
+Phenomenal Flock
+rules_text: Flying
+Whenever you encounter a phenomenon you may return Phenomenal Flock from your graveyard to the battlefield.
+{T}: Roll the Planar Die. If you roll chaos create a 0/4 green Egg creature token with defender and evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i] => Flying
+Whenever you encounter a phenomenon you may return Phenomenal Flock from your graveyard to the battlefield.
+{T}: Roll the Planar Die. If you roll chaos, create a 0/4 green Egg creature token with defender and evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+
+The Second End
+
+Shimmerfin Hare
+
+Overgrown Stone
+
+Munitions Collector
+
+Boggart Exile
+rules_text: This creature has hexproof during your turn.
+Whenever you search your library or cast an adventure spell, put a +1/+1 counter on this creature. => This creature has hexproof during your turn.
+Whenever you search your library or cast an Adventure spell, put a +1/+1 counter on this creature.
+
+Friend till the End
+rules_text: This creature gets +1/+1 if you control another creature with a counter on it. => This creature gets +1/+1 as long as you control another creature with a counter on it.
+
+The Torrent of Everything
+rules_text: Changeling [i](This card is every creature type.)[/i]
+Artifacts, enchantments and lands you control have vigilance, trample and haste. => Changeling [i](This card is every creature type.)[/i]
+Artifacts, enchantments and lands you control have vigilance, trample, and haste.
+
+The Answer of Nothing
+
+The Fields of Strife
+rules_text: When you planeswalk to this plane, each player creates a Frontline token with 3 defense counters on it. [i](Its a battle with “When this token is defeated, you discard a card and loses 3 life. “)[/i] => When you planeswalk to this plane, each player creates a Skirmish token with 3 defense counters on it. [i](Its a battle with “When this token is defeated, you discard a card and lose 3 life.”)[/i]
+
+Toren, the Patient Advance
+rules_text: Vigilance
+When Toren enters, you create a Frontline token with 3 defense counters on it. [i](Its a battle with “When this token is defeated, you discard a card and loses 3 life. “)[/i]
+{RW}, Exile this card from your graveyard: Target opponent creates a Frontline token with 3 defense counters on it. Activate only as a sorcery. => When Toren enters, you create a Skirmish token with 3 defense counters on it. [i](Its a battle with “When this token is defeated, you discard a card and lose 3 life.”)[/i]
+{RW}, Exile this card from your graveyard: Target opponent creates a Skirmish token with 3 defense counters on it. Activate only as a sorcery.
+
+Troll Troller
+
+Lapidary Arlapine
+rules_text: Slip {1}{B} [i]({1}{B}, Return a blocked attacker you control to hand: Put this card in its place from your hand, tapped, attacking, and blocked.)[/i]
+Deathtouch
+The first time another creature dies, you lose 1 life and copy target artifact token. => Slip {1}{B} [i]({1}{B}, Return a blocked attacker you control to hand: Put this card in its place from your hand, tapped, attacking, and blocked.)[/i]
+Deathtouch
+Whenever another creature dies, you lose 1 life and make a copy of target artifact token. This ability triggers only once.
+
+Moonfolk Memorialist
+type: Creature - Moonfolk U => Creature — Moonfolk
+rules_text: When this card is returned to it owner's hand, create a Memory token. [i](It's a colorless enchantment with “{1}, Exile a card in your graveyard: This enchantment becomes a 1/1 spirit enchantment creature with flying until end of turn.”)[/i] => When this card is returned to its owner's hand, create a Memory token. [i](It's a colorless enchantment with “{1}, Exile a card from your graveyard: This token becomes a 1/1 Spirit enchantment creature with flying until end of turn.”)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

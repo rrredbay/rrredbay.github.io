@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Burb Controller",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Champion of the Streets",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -280,7 +280,7 @@
         "position": ""
     },
     {
-        "card_name": "Block Enforcer",
+        "card_name": "Baton Bot",
         "number": 5,
         "shape": "normal",
         "set": "NRC",
@@ -320,7 +320,7 @@
         "position": ""
     },
     {
-        "card_name": "Breach!",
+        "card_name": "Block Enforcer",
         "number": 6,
         "shape": "normal",
         "set": "NRC",
@@ -360,8 +360,8 @@
         "position": ""
     },
     {
-        "card_name": "Calm the Elite",
-        "number": 8,
+        "card_name": "Breach!",
+        "number": 7,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -400,8 +400,8 @@
         "position": ""
     },
     {
-        "card_name": "Dance Party!",
-        "number": 12,
+        "card_name": "Calm the Elite",
+        "number": 9,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -440,7 +440,7 @@
         "position": ""
     },
     {
-        "card_name": "Dildobot",
+        "card_name": "Dance Party!",
         "number": 14,
         "shape": "normal",
         "set": "NRC",
@@ -880,8 +880,8 @@
         "position": ""
     },
     {
-        "card_name": "Court of Public Opinion",
-        "number": 10,
+        "card_name": "Citadel Angel",
+        "number": 11,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -920,8 +920,8 @@
         "position": ""
     },
     {
-        "card_name": "Cover Up",
-        "number": 11,
+        "card_name": "Court of Public Opinion",
+        "number": 12,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -960,7 +960,7 @@
         "position": ""
     },
     {
-        "card_name": "Daring Writers",
+        "card_name": "Cover Up",
         "number": 13,
         "shape": "normal",
         "set": "NRC",
@@ -1000,7 +1000,7 @@
         "position": ""
     },
     {
-        "card_name": "Dogmatic Angel",
+        "card_name": "Daring Writers",
         "number": 15,
         "shape": "normal",
         "set": "NRC",

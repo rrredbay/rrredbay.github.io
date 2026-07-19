@@ -5,7 +5,7 @@
 			<name>NRC</name>
 			<longname>New Requiem: Crossfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-18</releasedate>
+			<releasedate>2026-07-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -412,7 +412,7 @@ When this creature enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 {1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you took to the streets this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/10_Court of Public Opinion.png" num="10">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/12_Court of Public Opinion.png" num="12">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -655,14 +655,14 @@ Raid — When this creature enters, put a +1/+1 counter on it if you attacked th
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Dogmatic Angel</name>
+			<name>Citadel Angel</name>
 			<text>Flying, vigilance
 When this creature enters, Army creatures you control get +1/+1 and gain flying until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/15_Dogmatic Angel.png" num="15">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/11_Citadel Angel.png" num="11">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Angel Warrior</type>
+				<type>Artifact Creature — Angel Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>5W</manacost>
 				<cmc>6</cmc>
@@ -1014,7 +1014,7 @@ Uprising — Whenever this creature attacks, if you control another Rebel, up to
 			<name>Cover Up</name>
 			<text>Raid — This spell costs {2} less to cast if you attacked this turn.
 Exile target creature or artifact.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/11_Cover Up.png" num="11">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/13_Cover Up.png" num="13">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2096,7 +2096,7 @@ When you cycle this card, up to X target creatures you control gain flying until
 			<name>Block Enforcer</name>
 			<text>Vigilance
 Whenever you put one or more +1/+1 counters on a creature you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/5_Block Enforcer.png" num="5">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/6_Block Enforcer.png" num="6">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2597,9 +2597,9 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Dildobot</name>
+			<name>Baton Bot</name>
 			<text>Vigilance</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/14_Dildobot.png" num="14">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/5_Baton Bot.png" num="5">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2878,7 +2878,7 @@ Raid — Until end of turn, if you attacked this turn, that creature gains &quot
 			<name>Calm the Elite</name>
 			<text>Exile up to one target creature, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
 Up to one target token creature you control gains hexproof and indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/8_Calm the Elite.png" num="8">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/9_Calm the Elite.png" num="9">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2930,9 +2930,9 @@ Uprising — When this creature enters, draw two cards. Then discard a card unle
 		</card>
 		<card>
 			<name>Dance Party!</name>
-			<text>At the beginning of combat on your turn, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
+			<text>When this enchantment enters and at the beginning of your precombat main phase, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
 When you attack, target attacking creature gets +1/+1 for each other attacking creature you control that&apos;s not attacking a player.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/12_Dance Party!.png" num="12">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/14_Dance Party!.png" num="14">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3250,7 +3250,7 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<name>Breach!</name>
 			<text>Destroy up to one target artifact or enchantment.
 Amass Soldiers X. (Put X +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/6_Breach!.png" num="6">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/7_Breach!.png" num="7">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3266,15 +3266,14 @@ Amass Soldiers X. (Put X +1/+1 counters on an Army you control. It&apos;s also a
 		</card>
 		<card>
 			<name>Remote Command Center</name>
-			<text>At the beginning of combat on your turn, choose one —
-• Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)
-• Take to the Streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<text>At the beginning of your precombat main phase, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)
+{T}: Amass Soldiers 2. Activate this ability only if you control an Army and only as a sorcery. (To amass Soldiers 2, put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/33_Remote Command Center.png" num="33">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
@@ -3357,7 +3356,7 @@ When this creature deals combat damage to a player draw that many cards.</text>
 		</card>
 		<card>
 			<name>Grow Up on the Streets</name>
-			<text>At the beginning of combat on your turn, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
+			<text>When this enchantment enters and at the beginning of your precombat main phase, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/165_Grow Up on the Streets.png" num="165">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3584,8 +3583,8 @@ When this Graffiti enters, create a Food token. (It&apos;s an artifact with &quo
 		</card>
 		<card>
 			<name>Daring Writers</name>
-			<text>Whenever an enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/13_Daring Writers.png" num="13">NRC</set>
+			<text>Whenever an artifact or enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/15_Daring Writers.png" num="15">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3708,7 +3707,7 @@ Whenever Bart attacks, exile up to one target enchantment. Return it to the batt
 			<name>Champion of the Streets</name>
 			<text>Whenever another Rebel you control enters, put a +1/+1 counter on this creature.
 Sacrifice this creature: Target creature you control gains indestructible until end of turn. Put this creature&apos;s counters on that creature if that creature is a Rebel.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/9_Champion of the Streets.png" num="9">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/10_Champion of the Streets.png" num="10">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4850,7 +4849,7 @@ At the beginning of your end step, you may draw a card, then discard a card. The
 			<text>Opponents can&apos;t cast more than one spell each turn.
 No more than one creature can attack you each combat.
 Exhaust — {5}: Tap this creature and put a +1/+1 counter on it. Its controller draws a card. This creature loses all abilities. Any player may activate this ability.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/7_Burb Controller.png" num="7">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/8_Burb Controller.png" num="8">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

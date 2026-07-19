@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/10_Court of Public Opinion.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/12_Court of Public Opinion.png"
 			}
 		},
 		{
@@ -361,13 +361,13 @@
 			}
 		},
 		{
-			"name": "Dogmatic Angel",
+			"name": "Citadel Angel",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Creature — Angel Warrior",
-			"collector_number": "15",
+			"type": "Artifact Creature — Angel Warrior",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/15_Dogmatic Angel.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/11_Citadel Angel.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "11",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/11_Cover Up.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/13_Cover Up.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Dragon Soldier",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/5_Block Enforcer.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/6_Block Enforcer.png"
 			}
 		},
 		{
@@ -1471,13 +1471,13 @@
 			}
 		},
 		{
-			"name": "Dildobot",
+			"name": "Baton Bot",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Soldier",
-			"collector_number": "14",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/14_Dildobot.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/5_Baton Bot.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/8_Calm the Elite.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/9_Calm the Elite.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/12_Dance Party!.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/14_Dance Party!.png"
 			}
 		},
 		{
@@ -1835,16 +1835,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/6_Breach!.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/7_Breach!.png"
 			}
 		},
 		{
 			"name": "Remote Command Center",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
+			"type": "Artifact",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/NRC-files/img/33_Remote Command Center.png"
@@ -2025,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "13",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/13_Daring Writers.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/15_Daring Writers.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/9_Champion of the Streets.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/10_Champion of the Streets.png"
 			}
 		},
 		{
@@ -2722,9 +2722,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Cat Construct",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/7_Burb Controller.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/8_Burb Controller.png"
 			}
 		},
 		{
@@ -3014,7 +3014,7 @@
 	4 Aurora Ward
 	4 The Red Front
 	4 Podunk Town
-	4 Dildobot
+	4 Baton Bot
 	4 Embassy Healer
 	4 Brain Dead
 	4 Hackomancer
@@ -3102,7 +3102,7 @@
 	8 Thrilling Artistry
 	8 Dark-Alley Demon
 	8 Hired Gun
-	8 Dogmatic Angel
+	8 Citadel Angel
 	8 Kick-Flip Koala
 	8 Underground DJ
 	8 Painted Infamy
@@ -3160,6 +3160,7 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
+	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3199,7 +3200,7 @@
 	8 Thrilling Artistry
 	8 Dark-Alley Demon
 	8 Hired Gun
-	8 Dogmatic Angel
+	8 Citadel Angel
 	8 Kick-Flip Koala
 	8 Underground DJ
 	8 Painted Infamy
@@ -3257,6 +3258,7 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
+	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3297,7 +3299,7 @@
 	12 Thrilling Artistry
 	12 Dark-Alley Demon
 	12 Hired Gun
-	12 Dogmatic Angel
+	12 Citadel Angel
 	12 Kick-Flip Koala
 	12 Underground DJ
 	12 Painted Infamy
@@ -3407,7 +3409,7 @@
 	6 Aurora Ward
 	6 The Red Front
 	6 Podunk Town
-	6 Dildobot
+	6 Baton Bot
 	6 Embassy Healer
 	6 Brain Dead
 	6 Hackomancer
@@ -3441,6 +3443,7 @@
 	6 Runaway Service Vehicle
 	6 Quiet Plant Store
 	6 Gas Mask
+	12 The Watchtower
 	12 Hit the Pavement
 	6 Breach!
 	6 Remote Command Center
@@ -3542,7 +3545,7 @@
 	2 Rebelling Roots
 	2 Bugger, Technothief
 	2 Sprayed Patroller
-[wildcard(2)]
+[wildcard(1)]
 	6 Start the Fight
 	6 Marshal Forces
 	6 Inspiring Revolutionary
@@ -3579,7 +3582,7 @@
 	6 Thrilling Artistry
 	6 Dark-Alley Demon
 	6 Hired Gun
-	6 Dogmatic Angel
+	6 Citadel Angel
 	6 Kick-Flip Koala
 	6 Underground DJ
 	6 Painted Infamy
@@ -3689,7 +3692,7 @@
 	15 Aurora Ward
 	15 The Red Front
 	15 Podunk Town
-	15 Dildobot
+	15 Baton Bot
 	15 Embassy Healer
 	15 Brain Dead
 	15 Hackomancer
@@ -3723,6 +3726,7 @@
 	15 Runaway Service Vehicle
 	15 Quiet Plant Store
 	15 Gas Mask
+	6 The Watchtower
 	6 Hit the Pavement
 	15 Breach!
 	15 Remote Command Center
@@ -3824,5 +3828,3 @@
 	7 Rebelling Roots
 	7 Bugger, Technothief
 	7 Sprayed Patroller
-[landslot(1)]
-	30 The Watchtower

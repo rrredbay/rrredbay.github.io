@@ -1,4 +1,32 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Citadel Angel added.
+Baton Bot added.
+
+Dogmatic Angel removed.
+Dildobot removed.
+
+Dance Party!
+rules_text: At the beginning of combat on your turn, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+When you attack, target attacking creature gets +1/+1 for each other attacking creature you control that's not attacking a player. => When this enchantment enters and at the beginning of your precombat main phase, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+When you attack, target attacking creature gets +1/+1 for each other attacking creature you control that's not attacking a player.
+
+Remote Command Center
+type: Enchantment => Artifact
+rules_text: At the beginning of combat on your turn, choose one —
+• Amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+• Take to the Streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => At the beginning of your precombat main phase, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+{T}: Amass Soldiers 2. Activate this ability only if you control an Army and only as a sorcery. [i](To amass Soldiers 2, put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+
+Grow Up on the Streets
+rules_text: At the beginning of combat on your turn, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => When this enchantment enters and at the beginning of your precombat main phase, if you control the creature with the greatest power, draw a card. Otherwise, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+
+Daring Writers
+rules_text: Whenever an enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn. => Whenever an artifact or enchantment you control enters, this creature gets +2/+0 and gains vigilance until end of turn. This ability triggers only once each turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
