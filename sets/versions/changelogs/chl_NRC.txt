@@ -1,4 +1,127 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Neon LIghts Rider added.
+Citizen added.
+Emergency Throttle added.
+Birds of Distopia added.
+
+Like Just a Big Robot Dude removed.
+WhiteRebel removed.
+Bird of Distopia removed.
+its flash for vehicles removed.
+Citadel's Juggernaut removed.
+
+Helpful Vigilante
+
+Street-Wise Combatants
+
+Dancing Diva
+
+Causless Ruffian
+
+Court of Public Opinion
+rules_text: Enchant creature
+Enchanted creature can't attack or block.
+{1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you took to the streets this turn. => Enchant creature
+Enchanted creature can't attack or block.
+[i]Raid[/i] — {1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you attacked this turn.
+
+Shred
+
+Colossal Shredmaw
+
+Rocket Hamster
+
+Mecho-Grunt
+
+Hired Gun
+
+Painted Infamy
+
+Rewire
+
+Let it Rip
+
+Let Loose
+
+Rockers of the Free World
+
+Block Party
+rules_text: Create three 2/2 white Rebel creature tokens with vigilance.
+Take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Create four 1/1 green and white Citizen creature tokens.
+Take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+
+Skid-Row Informant
+
+Entry Team
+
+Street Clash
+
+Send a Message
+
+Short Kings
+
+Acid Drop Viper
+
+Industrial Park Freerunner
+
+Boonies Homebrewer
+
+Hypno Bass
+
+Doctor Antavious
+
+Goofy Foot Cherub
+
+Go Up in Smoke
+
+Rise Above the Masses
+
+Earth Within
+
+Bear it All
+rules_text: Target creature you control gets +3/+0 until end of turn.
+[i]Raid[/i] — Until end of turn, if you attacked this turn, that creature gains “When this creature dies, create a 2/2 red Bear creature token.” => Target creature you control gets +3/+0 until end of turn.
+[i]Raid[/i] — Until end of turn, if you attacked this turn, that creature gains “When this creature dies, create a 2/2 red Bear creature token with trample.”
+
+Calm the Elite
+rules_text: Exile up to one target creature, then return it to the battlefield under its owner's control at the beginning of the next end step.
+Up to one target token creature you control gains hexproof and indestructible until end of turn. => Choose one or both — 
+• Target nontoken creature you control gets +1/+1 and gains hexproof and indestructible until end of turn.
+• Target token creature you control gets +1/+1 and gains hexproof and indestructible until end of turn.
+
+Rebel Yell
+
+Rundown in the Street
+rules_text: Exile target creature or planeswalker. Amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i] => Exile target creature or planeswalker. If that permanent had mana value 3 or less, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+
+Extermination
+
+Green Tag
+
+Art District Defiant
+
+City Renewal
+cost: {G}{W}{U} => {1}{G}{W}{U}
+
+Katana Gang Rioter
+
+Night Raid
+
+Smoke Break
+
+Prolific Tagger
+
+Aurora Days
+
+Citadel's Juggernaut
+
+Vigilante Justice
+rules_text: Exile target creature or planeswalker. That creatures controller creates a 1/1 green and white Citizen creature token. => Exile target creature or planeswalker. That creature's controller creates a 1/1 green and white Citizen creature token.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Citadel Angel added.

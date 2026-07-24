@@ -32,7 +32,7 @@
         "position": ""
     },
     {
-        "card_name": "Bird of Distopia",
+        "card_name": "Birds of Distopia",
         "number": 150,
         "shape": "normal",
         "set": "NRC",
@@ -104,8 +104,8 @@
         "position": ""
     },
     {
-        "card_name": "its flash for vehicles",
-        "number": 127,
+        "card_name": "Emergency Throttle",
+        "number": 119,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Feel the Music",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Find the LAN Party",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Industrial Park Cycle",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -768,7 +768,7 @@
         "position": ""
     },
     {
-        "card_name": "Like Just a Big Robot Dude",
+        "card_name": "Neon LIghts Rider",
         "number": 64,
         "shape": "normal",
         "set": "NRC",
@@ -905,7 +905,7 @@
     },
     {
         "card_name": "Expert Insurgent",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -945,7 +945,7 @@
     },
     {
         "card_name": "Giant Effin Slash",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "Hired Gun",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "card_name": "Hit the Pavement",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "card_name": "Hotshot",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2153,7 +2153,7 @@
     },
     {
         "card_name": "Citadel's Juggernaut",
-        "number": 260,
+        "number": 259,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2161,7 +2161,7 @@
     },
     {
         "card_name": "Public Transport",
-        "number": 262,
+        "number": 261,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2177,7 +2177,7 @@
     },
     {
         "card_name": "Gas Mask",
-        "number": 261,
+        "number": 260,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2185,7 +2185,7 @@
     },
     {
         "card_name": "Quiet Plant Store",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2193,7 +2193,7 @@
     },
     {
         "card_name": "Runaway Service Vehicle",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2227,7 +2227,7 @@
     },
     {
         "card_name": "Embassy Row",
-        "number": 274,
+        "number": 273,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2235,22 +2235,6 @@
     },
     {
         "card_name": "Canal Town",
-        "number": 270,
-        "shape": "normal",
-        "set": "NRC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Industrial Park",
-        "number": 276,
-        "shape": "normal",
-        "set": "NRC",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "The Boonies",
         "number": 269,
         "shape": "normal",
         "set": "NRC",
@@ -2258,8 +2242,24 @@
         "position": ""
     },
     {
+        "card_name": "Industrial Park",
+        "number": 275,
+        "shape": "normal",
+        "set": "NRC",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Boonies",
+        "number": 268,
+        "shape": "normal",
+        "set": "NRC",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Arts District",
-        "number": 265,
+        "number": 264,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2282,7 +2282,7 @@
     },
     {
         "card_name": "Government Center",
-        "number": 275,
+        "number": 274,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2290,7 +2290,7 @@
     },
     {
         "card_name": "Dockworks",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2298,7 +2298,7 @@
     },
     {
         "card_name": "Public Works Yard",
-        "number": 280,
+        "number": 279,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2306,7 +2306,7 @@
     },
     {
         "card_name": "The Blocks",
-        "number": 268,
+        "number": 267,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2314,7 +2314,7 @@
     },
     {
         "card_name": "Trade Quarter",
-        "number": 282,
+        "number": 281,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2337,7 +2337,7 @@
     },
     {
         "card_name": "Motorcycle Garage",
-        "number": 277,
+        "number": 276,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2345,7 +2345,7 @@
     },
     {
         "card_name": "Aurora Ward",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2353,7 +2353,7 @@
     },
     {
         "card_name": "The Citadel",
-        "number": 271,
+        "number": 270,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2361,7 +2361,7 @@
     },
     {
         "card_name": "City Square",
-        "number": 272,
+        "number": 271,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2369,7 +2369,7 @@
     },
     {
         "card_name": "Neon Circuit",
-        "number": 278,
+        "number": 277,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2377,7 +2377,7 @@
     },
     {
         "card_name": "Podunk Town",
-        "number": 279,
+        "number": 278,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2385,7 +2385,7 @@
     },
     {
         "card_name": "The Red Front",
-        "number": 281,
+        "number": 280,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2393,7 +2393,7 @@
     },
     {
         "card_name": "Back Alley",
-        "number": 267,
+        "number": 266,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
@@ -2419,7 +2419,7 @@
     },
     "a->token",
     {
-        "card_name": "WhiteRebel",
+        "card_name": "Bird",
         "number": 1,
         "shape": "token",
         "set": "NRC",
@@ -2427,7 +2427,7 @@
         "position": ""
     },
     {
-        "card_name": "Bird",
+        "card_name": "Soldier Army",
         "number": 2,
         "shape": "token",
         "set": "NRC",
@@ -2435,7 +2435,7 @@
         "position": ""
     },
     {
-        "card_name": "Soldier Army",
+        "card_name": "Bear",
         "number": 3,
         "shape": "token",
         "set": "NRC",
@@ -2443,7 +2443,7 @@
         "position": ""
     },
     {
-        "card_name": "Bear",
+        "card_name": "RedRebel",
         "number": 4,
         "shape": "token",
         "set": "NRC",
@@ -2451,7 +2451,7 @@
         "position": ""
     },
     {
-        "card_name": "RedRebel",
+        "card_name": "Citizen",
         "number": 5,
         "shape": "token",
         "set": "NRC",

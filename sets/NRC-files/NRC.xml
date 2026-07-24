@@ -5,7 +5,7 @@
 			<name>NRC</name>
 			<longname>New Requiem: Crossfire</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-19</releasedate>
+			<releasedate>2026-07-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -411,7 +411,7 @@ When this creature enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you
 			<name>Court of Public Opinion</name>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
-{1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you took to the streets this turn.</text>
+Raid — {1}{W}: Exile enchanted creature. You gain 2 life. Activate only if you attacked this turn.</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/12_Court of Public Opinion.png" num="12">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -640,7 +640,7 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</text>
 			<name>Hired Gun</name>
 			<text>Reach
 Raid — When this creature enters, put a +1/+1 counter on it if you attacked this turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/123_Hired Gun.png" num="123">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/124_Hired Gun.png" num="124">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -764,7 +764,7 @@ Rewire deals 3 damage to any target.</text>
 			<text>Haste
 {T}: Add {R}.
 Whenever another Rebel you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/125_Hotshot.png" num="125">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/126_Hotshot.png" num="126">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -958,7 +958,7 @@ This creature enters with a +1/+1 counter on it if you control a Graffiti.</text
 		</card>
 		<card>
 			<name>Block Party</name>
-			<text>Create three 2/2 white Rebel creature tokens with vigilance.
+			<text>Create four 1/1 green and white Citizen creature tokens.
 Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
 			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/191_Block Party.png" num="191">NRC</set>
 			<prop>
@@ -1241,7 +1241,7 @@ Whenever another Graffiti or Rebel you control enters, creatures you control get
 		<card>
 			<name>Expert Insurgent</name>
 			<text>Raid — When this creature enters, if you attacked this turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/119_Expert Insurgent.png" num="119">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/120_Expert Insurgent.png" num="120">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1348,7 +1348,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 		<card>
 			<name>Giant Effin Slash</name>
 			<text>Giant Effin Slash deals 5 damage to target creature or planeswalker. If {G} was spent to cast this spell, excess damage is dealt to that permanent&apos;s controller instead.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/122_Giant Effin Slash.png" num="122">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/123_Giant Effin Slash.png" num="123">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1366,7 +1366,7 @@ When this creature enters, take to the streets. (If you don&apos;t have a Watcht
 			<text>This land enters tapped.
 When this land enters, return a land you control to its owner&apos;s hand. When you do, choose two different colors.
 {T}: Add two mana in any combination of the chosen colors.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/272_City Square.png" num="272">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/271_City Square.png" num="271">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1381,7 +1381,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Back Alley</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {T}, Sacrifice this land: Take to the streets. (If you don&apos;t have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/267_Back Alley.png" num="267">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/266_Back Alley.png" num="266">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1397,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Embassy Row</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/274_Embassy Row.png" num="274">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/273_Embassy Row.png" num="273">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1413,7 +1413,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Canal Town</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/270_Canal Town.png" num="270">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/269_Canal Town.png" num="269">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1429,7 +1429,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Industrial Park</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/276_Industrial Park.png" num="276">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/275_Industrial Park.png" num="275">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1445,7 +1445,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>The Boonies</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/269_The Boonies.png" num="269">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/268_The Boonies.png" num="268">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1461,7 +1461,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Arts District</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/265_Arts District.png" num="265">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/264_Arts District.png" num="264">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1477,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Government Center</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/275_Government Center.png" num="275">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/274_Government Center.png" num="274">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1493,7 +1493,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Dockworks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/273_Dockworks.png" num="273">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/272_Dockworks.png" num="272">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1509,7 +1509,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Public Works Yard</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/280_Public Works Yard.png" num="280">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/279_Public Works Yard.png" num="279">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1525,7 +1525,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>The Blocks</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/268_The Blocks.png" num="268">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/267_The Blocks.png" num="267">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1541,7 +1541,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 			<name>Trade Quarter</name>
 			<text>As this land enters, you may pay {1}. If you don&apos;t, it enters tapped.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/282_Trade Quarter.png" num="282">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/281_Trade Quarter.png" num="281">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1556,7 +1556,7 @@ When this land enters, return a land you control to its owner&apos;s hand. When 
 		<card>
 			<name>Soldier Army NRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/3t_Soldier Army.png" num="3">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/2t_Soldier Army.png" num="2">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2060,7 +2060,7 @@ You may play cards from the top of your library if you attacked the Watchtower t
 			<name>Feel the Music</name>
 			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
 Cycling {R} ({R}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/120_Feel the Music.png" num="120">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/121_Feel the Music.png" num="121">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2145,11 +2145,11 @@ This creature gets +2/+2 if a player has an instant and a sorcery card in their 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Like Just a Big Robot Dude</name>
+			<name>Neon LIghts Rider</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 This creature can&apos;t be blocked if you discarded a card this turn.
 Cycling {U}</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/64_Like Just a Big Robot Dude.png" num="64">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/64_Neon LIghts Rider.png" num="64">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2273,7 +2273,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			<name>Find the LAN Party</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw two cards and create two Treasure tokens. Up to two target creatures can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/121_Find the LAN Party.png" num="121">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/122_Find the LAN Party.png" num="122">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2515,7 +2515,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<text>This land enters tapped.
 {T}: Add {W}, {U}, or {B}.
 {W}{W}{U}{U}{B}{B}, {T}, Sacrifice this land: Amass Soldiers 4. (Put four +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/271_The Citadel.png" num="271">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/270_The Citadel.png" num="270">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2533,7 +2533,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<text>This land enters tapped.
 {T}: Add {U}, {B}, or {R}.
 {U}{U}{B}{B}{R}{R}, {T}, Sacrifice this land: You draw two cards. Each opponent discards two cards and loses 2 life. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/278_Neon Circuit.png" num="278">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/277_Neon Circuit.png" num="277">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2550,7 +2550,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<text>This land enters tapped.
 {T}: Add {G}, {W}, {U}.
 {G}{G}{W}{W}{U}{U}, {T}, Sacrifice this land: Create a token that is a copy of target nonland permanent you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/266_Aurora Ward.png" num="266">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/265_Aurora Ward.png" num="265">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2567,7 +2567,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<text>This land enters tapped.
 {T}: Add {B}, {R}, or {G}.
 {B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Destroy target permanent you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/281_The Red Front.png" num="281">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/280_The Red Front.png" num="280">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2584,7 +2584,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<text>This land enters tapped.
 {T}: Add {R}, {G}, or {W}.
 {R}{R}{G}{G}{W}{W}, {T}, Sacrifice this land: Creatures you control get +2/+2 and gain haste and vigilance until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/279_Podunk Town.png" num="279">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/278_Podunk Town.png" num="278">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2770,7 +2770,7 @@ Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)</text>
 When this Vehicle enters, search your library for a basic Swamp, Mountain, or Forest card reveal it, put it into your hand, then shuffle.
 Crew 2
 Cycling {B}{R}{G} ({B}{R}{G}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/126_Industrial Park Cycle.png" num="126">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/127_Industrial Park Cycle.png" num="127">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2859,7 +2859,7 @@ Whenever you take to the streets, draw a card. This ability triggers only once e
 		<card>
 			<name>Bear it All</name>
 			<text>Target creature you control gets +3/+0 until end of turn.
-Raid — Until end of turn, if you attacked this turn, that creature gains &quot;When this creature dies, create a 2/2 red Bear creature token.&quot;</text>
+Raid — Until end of turn, if you attacked this turn, that creature gains &quot;When this creature dies, create a 2/2 red Bear creature token with trample.&quot;</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/113_Bear it All.png" num="113">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2876,8 +2876,9 @@ Raid — Until end of turn, if you attacked this turn, that creature gains &quot
 		</card>
 		<card>
 			<name>Calm the Elite</name>
-			<text>Exile up to one target creature, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
-Up to one target token creature you control gains hexproof and indestructible until end of turn.</text>
+			<text>Choose one or both — 
+• Target nontoken creature you control gets +1/+1 and gains hexproof and indestructible until end of turn.
+• Target token creature you control gets +1/+1 and gains hexproof and indestructible until end of turn.</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/9_Calm the Elite.png" num="9">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3021,7 +3022,7 @@ Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Rundown in the Street</name>
-			<text>Exile target creature or planeswalker. Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+			<text>Exile target creature or planeswalker. If that permanent had mana value 3 or less, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Soldier. If you don&apos;t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/103_Rundown in the Street.png" num="103">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3168,7 +3169,7 @@ When you cycle this card, surveil 1.</text>
 			<name>Runaway Service Vehicle</name>
 			<text>When this Vehicle dies, you create a Treasure token. Each opponent creates a tapped Treasure token.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/264_Runaway Service Vehicle.png" num="264">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/263_Runaway Service Vehicle.png" num="263">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3184,7 +3185,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<name>Quiet Plant Store</name>
 			<text>When this artifact enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 {1}, {T}, Sacrifice another artifact: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/263_Quiet Plant Store.png" num="263">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/262_Quiet Plant Store.png" num="262">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3201,7 +3202,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 Equipped creature gets +1/+1.
 Equip {3}
 Equip Army {1}</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/261_Gas Mask.png" num="261">NRC</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/NRC-files/img/260_Gas Mask.png" num="260">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3233,7 +3234,7 @@ Equip Army {1}</text>
 • Destroy target artifact.
 • Target creature gets +3/+1 until end of turn.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/124_Hit the Pavement.png" num="124">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/125_Hit the Pavement.png" num="125">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3392,7 +3393,7 @@ This creature gets +1/+1 for each Graffiti you control.</text>
 		<card>
 			<name>RedRebel NRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/5t_RedRebel.png" num="5">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/4t_RedRebel.png" num="4">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3408,19 +3409,19 @@ This creature gets +1/+1 for each Graffiti you control.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>WhiteRebel NRC</name>
-			<text>Vigilance</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/1t_WhiteRebel.png" num="1">NRC</set>
+			<name>Citizen NRC</name>
+			<text></text>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/5t_Citizen.png" num="5">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Rebel</type>
+				<type>Token Creature — Citizen</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -3428,7 +3429,7 @@ This creature gets +1/+1 for each Graffiti you control.</text>
 		<card>
 			<name>Bear NRC</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/4t_Bear.png" num="4">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/3t_Bear.png" num="3">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3446,7 +3447,7 @@ This creature gets +1/+1 for each Graffiti you control.</text>
 		<card>
 			<name>Bird NRC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/2t_Bird.png" num="2">NRC</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/NRC-files/img/1t_Bird.png" num="1">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3916,8 +3917,8 @@ Until end of turn, whenever a creature you control attacks the Watchtower, you m
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>GWU</manacost>
-				<cmc>3</cmc>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
 				<colors>WUG</colors>
 				<coloridentity>WUG</coloridentity>
 			</prop>
@@ -4020,7 +4021,7 @@ Whenever this creature deals combat damage to a player, draw a card for each car
 		<card>
 			<name>Public Transport</name>
 			<text>At the beginning of combat on your turn, remove all fare counters from this permanent. If no counters were removed, put a fare counter on this artifact and create a Treasure token. Otherwise, this artifact becomes an artifact creature until end of turn.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/262_Public Transport.png" num="262">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/261_Public Transport.png" num="261">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4047,23 +4048,6 @@ Raid — At the beginning of your end step, if you attacked this turn, untap up 
 				<colors>WRG</colors>
 				<coloridentity>WRG</coloridentity>
 				<pt>3/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Bird of Distopia</name>
-			<text>Raid — At the beginning of your postcombat main phase, if you attacked this turn, add one mana of any color.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/150_Bird of Distopia.png" num="150">NRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4102,9 +4086,9 @@ Destroy all creatures.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>its flash for vehicles</name>
+			<name>Emergency Throttle</name>
 			<text>You may put a Vehicle card from your hand onto the battlefield. Until end of turn, it becomes an artifact creature and gains haste. At the beginning of the next end step, sacrifice it unless you pay its mana cost reduced by {2}.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/127_its flash for vehicles.png" num="127">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/119_Emergency Throttle.png" num="119">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4597,28 +4581,11 @@ When this creature enters create a 1/1 black Cat creature token with deathtouch 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Citadel&apos;s Juggernaut</name>
-			<text>This creature attacks each combat if able.
-This creature has indestructible as long as it&apos;s attacking. 
-This creature gets +1/+0 for each untapped creature your opponents control.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/259_Citadel&apos;s Juggernaut.png" num="259">NRC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Juggernaut</type>
-				<maintype>Creature</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<pt>5/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Motorcycle Garage</name>
 			<text>{T}: Add {C}
 Whenever you draw your second card each turn, untap this land.
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/277_Motorcycle Garage.png" num="277">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/276_Motorcycle Garage.png" num="276">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4936,7 +4903,7 @@ Raid — Then if you attacked this turn, you may put a creature card with mana v
 			<text>This creature attacks each combat if able.
 This creature has indestructible as long as it&apos;s attacking. 
 This creature gets +1/+0 for each untapped creature your opponents control.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/260_Citadel&apos;s Juggernaut.png" num="260">NRC</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/259_Citadel&apos;s Juggernaut.png" num="259">NRC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4968,7 +4935,7 @@ At the beginning of your precombat main phase, add one mana of any color for eac
 		</card>
 		<card>
 			<name>Vigilante Justice</name>
-			<text>Exile target creature or planeswalker. That creatures controller creates a 1/1 green and white Citizen creature token.</text>
+			<text>Exile target creature or planeswalker. That creature&apos;s controller creates a 1/1 green and white Citizen creature token.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/39_Vigilante Justice.png" num="39">NRC</set>
 			<prop>
 				<layout>normal</layout>
@@ -5123,6 +5090,24 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Birds of Distopia</name>
+			<text>Flying
+Raid — At the beginning of your postcombat main phase, if you attacked this turn, add one mana of any color.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/NRC-files/img/150_Birds of Distopia.png" num="150">NRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/123_Hired Gun.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/124_Hired Gun.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/125_Hotshot.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/126_Hotshot.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Rebel Ninja",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/119_Expert Insurgent.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/120_Expert Insurgent.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/122_Giant Effin Slash.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/123_Giant Effin Slash.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/272_City Square.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/271_City Square.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/267_Back Alley.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/266_Back Alley.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/274_Embassy Row.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/273_Embassy Row.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/270_Canal Town.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/269_Canal Town.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/276_Industrial Park.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/275_Industrial Park.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/269_The Boonies.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/268_The Boonies.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/265_Arts District.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/264_Arts District.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/275_Government Center.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/274_Government Center.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/273_Dockworks.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/272_Dockworks.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/280_Public Works Yard.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/279_Public Works Yard.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/268_The Blocks.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/267_The Blocks.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/282_Trade Quarter.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/281_Trade Quarter.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier Army",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/3t_Soldier Army.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/2t_Soldier Army.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/120_Feel the Music.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/121_Feel the Music.png"
 			}
 		},
 		{
@@ -1211,13 +1211,13 @@
 			}
 		},
 		{
-			"name": "Like Just a Big Robot Dude",
+			"name": "Neon LIghts Rider",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Cyborg Rebel",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/64_Like Just a Big Robot Dude.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/64_Neon LIghts Rider.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/121_Find the LAN Party.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/122_Find the LAN Party.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/271_The Citadel.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/270_The Citadel.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/278_Neon Circuit.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/277_Neon Circuit.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/266_Aurora Ward.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/265_Aurora Ward.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/281_The Red Front.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/280_The Red Front.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/279_Podunk Town.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/278_Podunk Town.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/126_Industrial Park Cycle.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/127_Industrial Park Cycle.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/264_Runaway Service Vehicle.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/263_Runaway Service Vehicle.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/263_Quiet Plant Store.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/262_Quiet Plant Store.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/261_Gas Mask.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/260_Gas Mask.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/124_Hit the Pavement.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/125_Hit the Pavement.png"
 			}
 		},
 		{
@@ -1915,19 +1915,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rebel",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/5t_RedRebel.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/4t_RedRebel.png"
 			}
 		},
 		{
-			"name": "WhiteRebel",
+			"name": "Citizen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Rebel",
-			"collector_number": "1",
+			"type": "Token Creature — Citizen",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/1t_WhiteRebel.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/5t_Citizen.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bear",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/4t_Bear.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/3t_Bear.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/2t_Bird.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/1t_Bird.png"
 			}
 		},
 		{
@@ -2203,7 +2203,7 @@
 		{
 			"name": "City Renewal",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}{U}",
+			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
@@ -2265,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/262_Public Transport.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/261_Public Transport.png"
 			}
 		},
 		{
@@ -2278,16 +2278,6 @@
 			"collector_number": "244",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/NRC-files/img/244_Swiss Army Man.png"
-			}
-		},
-		{
-			"name": "Bird of Distopia",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Creature — Human Rebel",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/150_Bird of Distopia.png"
 			}
 		},
 		{
@@ -2311,13 +2301,13 @@
 			}
 		},
 		{
-			"name": "its flash for vehicles",
+			"name": "Emergency Throttle",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/127_its flash for vehicles.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/119_Emergency Throttle.png"
 			}
 		},
 		{
@@ -2578,23 +2568,13 @@
 			}
 		},
 		{
-			"name": "Citadel's Juggernaut",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Artifact Creature — Juggernaut",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/259_Citadel's Juggernaut.png"
-			}
-		},
-		{
 			"name": "Motorcycle Garage",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/277_Motorcycle Garage.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/276_Motorcycle Garage.png"
 			}
 		},
 		{
@@ -2772,9 +2752,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Juggernaut",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/NRC-files/img/260_Citadel's Juggernaut.png"
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/259_Citadel's Juggernaut.png"
 			}
 		},
 		{
@@ -2876,6 +2856,16 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/NRC-files/img/240_Sprayed Patroller.png"
 			}
+		},
+		{
+			"name": "Birds of Distopia",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/NRC-files/img/150_Birds of Distopia.png"
+			}
 		}
 	]
 
@@ -2903,10 +2893,9 @@
 	2 Josh, Undercity Slacker
 	2 Public Transport
 	2 Swiss Army Man
-	2 Bird of Distopia
 	2 Iris, the Lurker
 	2 Night Raid
-	2 its flash for vehicles
+	2 Emergency Throttle
 	2 Inshi, the Night Blade
 	2 Smoke Break
 	2 Tank Girl
@@ -2932,7 +2921,6 @@
 	2 The Project
 	2 Prolific Tagger
 	2 Sewer Girl
-	2 Citadel's Juggernaut
 	2 Motorcycle Garage
 	2 Spec Ops Commander
 	2 Clear the Streets
@@ -2962,6 +2950,7 @@
 	2 Rebelling Roots
 	2 Bugger, Technothief
 	2 Sprayed Patroller
+	2 Birds of Distopia
 [uncommon(3)]
 	4 Smash and Grab
 	4 City Square
@@ -2990,7 +2979,7 @@
 	4 Block Enforcer
 	4 Go Up in Smoke
 	4 Cybernet Tiefling
-	4 Like Just a Big Robot Dude
+	4 Neon LIghts Rider
 	4 Kira, Double Agent
 	4 Rise Above the Masses
 	4 Rough Questioning
@@ -3381,7 +3370,7 @@
 	6 Block Enforcer
 	6 Go Up in Smoke
 	6 Cybernet Tiefling
-	6 Like Just a Big Robot Dude
+	6 Neon LIghts Rider
 	6 Kira, Double Agent
 	6 Rise Above the Masses
 	6 Rough Questioning
@@ -3483,10 +3472,9 @@
 	2 Josh, Undercity Slacker
 	2 Public Transport
 	2 Swiss Army Man
-	2 Bird of Distopia
 	2 Iris, the Lurker
 	2 Night Raid
-	2 its flash for vehicles
+	2 Emergency Throttle
 	2 Inshi, the Night Blade
 	2 Smoke Break
 	2 Tank Girl
@@ -3512,7 +3500,6 @@
 	2 The Project
 	2 Prolific Tagger
 	2 Sewer Girl
-	2 Citadel's Juggernaut
 	2 Motorcycle Garage
 	2 Spec Ops Commander
 	2 Clear the Streets
@@ -3542,6 +3529,7 @@
 	2 Rebelling Roots
 	2 Bugger, Technothief
 	2 Sprayed Patroller
+	2 Birds of Distopia
 [wildcard(1)]
 	6 Start the Fight
 	6 Marshal Forces
@@ -3663,7 +3651,7 @@
 	15 Block Enforcer
 	15 Go Up in Smoke
 	15 Cybernet Tiefling
-	15 Like Just a Big Robot Dude
+	15 Neon LIghts Rider
 	15 Kira, Double Agent
 	15 Rise Above the Masses
 	15 Rough Questioning
@@ -3765,10 +3753,9 @@
 	7 Josh, Undercity Slacker
 	7 Public Transport
 	7 Swiss Army Man
-	7 Bird of Distopia
 	7 Iris, the Lurker
 	7 Night Raid
-	7 its flash for vehicles
+	7 Emergency Throttle
 	7 Inshi, the Night Blade
 	7 Smoke Break
 	7 Tank Girl
@@ -3794,7 +3781,6 @@
 	7 The Project
 	7 Prolific Tagger
 	7 Sewer Girl
-	7 Citadel's Juggernaut
 	7 Motorcycle Garage
 	7 Spec Ops Commander
 	7 Clear the Streets
@@ -3824,6 +3810,7 @@
 	7 Rebelling Roots
 	7 Bugger, Technothief
 	7 Sprayed Patroller
+	7 Birds of Distopia
 [landslot(1)]
 	8 Back Alley
 	8 Embassy Row
