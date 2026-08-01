@@ -3149,7 +3149,6 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
-	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3247,7 +3246,6 @@
 	8 Hypno Bass
 	8 Data Tap
 	8 Unyielding Sycophant
-	8 The Watchtower
 	8 Hit the Pavement
 	8 Daring Writers
 	8 Art District Defiant
@@ -3432,7 +3430,6 @@
 	6 Runaway Service Vehicle
 	6 Quiet Plant Store
 	6 Gas Mask
-	12 The Watchtower
 	12 Hit the Pavement
 	6 Breach!
 	6 Remote Command Center
@@ -3714,7 +3711,6 @@
 	15 Runaway Service Vehicle
 	15 Quiet Plant Store
 	15 Gas Mask
-	6 The Watchtower
 	6 Hit the Pavement
 	15 Breach!
 	15 Remote Command Center
@@ -3815,3 +3811,23 @@
 	7 Bugger, Technothief
 	7 Sprayed Patroller
 	7 Birds of Distopia
+[landslot(1)]
+	8 Back Alley
+	8 Embassy Row
+	8 Canal Town
+	8 Industrial Park
+	8 The Boonies
+	8 Arts District
+	8 Government Center
+	8 Dockworks
+	8 Public Works Yard
+	8 The Blocks
+	8 Trade Quarter
+	4 City Square
+	4 The Citadel
+	4 Neon Circuit
+	4 The Red Front
+	4 Aurora Ward
+	4 Podunk Town
+[token(1)]
+	30 The Watchtower
