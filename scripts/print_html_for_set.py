@@ -11,12 +11,9 @@ def generateHTML(code):
 	output_html_file = "sets/" + code + ".html"
 	previewing = os.path.exists(os.path.join('sets', code + '-files', 'previewed.txt'))
 	
-	with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
-		data = json.load(f)
-		for s in data['sets']:
-			if s['set_code'] == code:
-				set_name = s['set_name']
-				break
+	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
+		raw = json.load(f)
+		set_name = raw['name']
 
 	# Start creating the HTML file content
 	html_content = '''<html>
@@ -590,7 +587,7 @@ def generateHTML(code):
 					{
 						card_images.push({
 							name: card.name,
-							url: rootPath + '/' + card.image_uris.en
+							url: card.image_uris.en
 						});
 					}
 
