@@ -20,7 +20,7 @@
         "number": 123,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -68,7 +68,7 @@
         "number": 178,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -252,7 +252,7 @@
         "number": 73,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -844,7 +844,7 @@
         "number": 35,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -884,7 +884,7 @@
         "number": 36,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1484,7 +1484,7 @@
         "number": 51,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1868,7 +1868,7 @@
         "number": 223,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -2579,7 +2579,7 @@
         "number": 411,
         "shape": "fuse split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -2678,7 +2678,7 @@
         "number": 287,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -2726,7 +2726,7 @@
         "number": 288,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -2974,7 +2974,7 @@
         "number": 367,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -3017,7 +3017,7 @@
         "number": 368,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -3486,17 +3486,17 @@
     },
     "a->colorless",
     {
-        "card_name": "Battle Between Emrakul and Fifteen Squirrels",
+        "card_name": "Arbiter of the Void",
         "number": 1,
-        "shape": "mini plane card",
+        "shape": "normal",
         "set": "POP2",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Arbiter of the Void",
+        "card_name": "Battle Between Emrakul and Fifteen Squirrels",
         "number": 1,
-        "shape": "normal",
+        "shape": "mini plane card",
         "set": "POP2",
         "rotated": false,
         "position": ""
@@ -3534,14 +3534,6 @@
         "position": ""
     },
     {
-        "card_name": "The Fields of Strife",
-        "number": 4,
-        "shape": "mini plane card",
-        "set": "POP2",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Fortune of the Void",
         "number": 4,
         "shape": "normal",
@@ -3550,9 +3542,9 @@
         "position": ""
     },
     {
-        "card_name": "Judge of the Void",
-        "number": 5,
-        "shape": "normal",
+        "card_name": "The Fields of Strife",
+        "number": 4,
+        "shape": "mini plane card",
         "set": "POP2",
         "rotated": false,
         "position": ""
@@ -3561,6 +3553,14 @@
         "card_name": "It's All Over",
         "number": 5,
         "shape": "mini plane card",
+        "set": "POP2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Judge of the Void",
+        "number": 5,
+        "shape": "normal",
         "set": "POP2",
         "rotated": false,
         "position": ""
@@ -3582,17 +3582,17 @@
         "position": ""
     },
     {
-        "card_name": "Rockopolis",
+        "card_name": "Mourner of the Void",
         "number": 7,
-        "shape": "mini plane card",
+        "shape": "normal",
         "set": "POP2",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mourner of the Void",
+        "card_name": "Rockopolis",
         "number": 7,
-        "shape": "normal",
+        "shape": "mini plane card",
         "set": "POP2",
         "rotated": false,
         "position": ""
@@ -3618,7 +3618,7 @@
         "number": 9,
         "shape": "battle split",
         "set": "POP2",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {

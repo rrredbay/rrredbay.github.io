@@ -197,7 +197,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -206,8 +208,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -432,7 +448,7 @@
 				<div class="container"><img loading="lazy" alt="img\e.png" id="POP1_e" data-flag="@E" onclick="openSidebar('POP1_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="POP1_e" data-flag="@E" onclick="openSidebar('POP1_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="POP1_e" data-flag="@E" onclick="openSidebar('POP1_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\281_Enclosed Arboretum.png" id="POP1_281_Enclosed Arboretum" data-flag="@X" onclick="openSidebar('POP1_281_Enclosed Arboretum',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\281_Enclosed Arboretum.png" id="POP1_281_Enclosed Arboretum" data-flag="@X" onclick="openSidebar('POP1_281_Enclosed Arboretum',true)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="POP1_er" data-flag="@E" onclick="openSidebar('POP1_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="POP1_er" data-flag="@E" onclick="openSidebar('POP1_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="POP1_er" data-flag="@E" onclick="openSidebar('POP1_er',false)"></div>
@@ -464,7 +480,7 @@
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\241_Reclaimer Titan.png" id="POP1_241_Reclaimer Titan" data-flag="@X" onclick="openSidebar('POP1_241_Reclaimer Titan',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="POP1_e" data-flag="@E" onclick="openSidebar('POP1_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\261_Wandering Albatross.png" id="POP1_261_Wandering Albatross" data-flag="@X" onclick="openSidebar('POP1_261_Wandering Albatross',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\282_Muiral's Graveyard.png" id="POP1_282_Muirals Graveyard" data-flag="@X" onclick="openSidebar('POP1_282_Muirals Graveyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\282_Muiral's Graveyard.png" id="POP1_282_Muirals Graveyard" data-flag="@X" onclick="openSidebar('POP1_282_Muirals Graveyard',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\267_Blood Pup.png" id="POP1_267_Blood Pup" data-flag="@X" onclick="openSidebar('POP1_267_Blood Pup',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\266_Zinsil, Sandcastle Queen.png" id="POP1_266_Zinsil, Sandcastle Queen" data-flag="@X" onclick="openSidebar('POP1_266_Zinsil, Sandcastle Queen',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="POP1_e" data-flag="@E" onclick="openSidebar('POP1_e',false)"></div>
@@ -567,7 +583,7 @@
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\216_Hulking Chasmfiend.png" id="POP1_216_Hulking Chasmfiend" data-flag="@X" onclick="openSidebar('POP1_216_Hulking Chasmfiend',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\255_Uncontrollable Acid.png" id="POP1_255_Uncontrollable Acid" data-flag="@X" onclick="openSidebar('POP1_255_Uncontrollable Acid',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\253_Tollus, Weaver of Souls.png" id="POP1_253_Tollus, Weaver of Souls" data-flag="@X" onclick="openSidebar('POP1_253_Tollus, Weaver of Souls',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\198_Battle for Mirrodin.png" id="POP1_198_Battle for Mirrodin" data-flag="@X" onclick="openSidebar('POP1_198_Battle for Mirrodin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\198_Battle for Mirrodin.png" id="POP1_198_Battle for Mirrodin" data-flag="@X" onclick="openSidebar('POP1_198_Battle for Mirrodin',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\212_Geki, Heir to Ilagra.png" id="POP1_212_Geki, Heir to Ilagra" data-flag="@X" onclick="openSidebar('POP1_212_Geki, Heir to Ilagra',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\258_Vaeria of the Blossoms.png" id="POP1_258_Vaeria of the Blossoms" data-flag="@X" onclick="openSidebar('POP1_258_Vaeria of the Blossoms',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\POP1-files\img\265_Zaime, History's Watcher.png" id="POP1_265_Zaime, Historys Watcher" data-flag="@X" onclick="openSidebar('POP1_265_Zaime, Historys Watcher',false)"></div>
@@ -814,7 +830,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

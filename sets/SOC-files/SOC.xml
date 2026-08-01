@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>Stars of Cinesterra</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-11</releasedate>
+			<releasedate>2026-08-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -77,7 +77,8 @@ Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Time Traveling Cop</name>
@@ -251,7 +252,8 @@ Target creature you control can&apos;t be blocked this turn. If this spell is a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Scene Crasher</name>
@@ -288,7 +290,8 @@ Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Family Man</name>
@@ -307,7 +310,8 @@ This creature has menace as long as you&apos;re in your third act.</text>
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Grinning Captive</name>
@@ -344,7 +348,8 @@ When this creature enters, create a 1/1 red Rogue creature token.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Rogue SOC</reverse_related>
+			<related>Rogue SOC</related>
+			<reverse-related>Rogue SOC</reverse-related>
 		</card>
 		<card>
 			<name>Killer in the Streets</name>
@@ -381,7 +386,8 @@ When this creature enters, create a 1/1 red Rogue creature token.</text>
 				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Rogue SOC</reverse_related>
+			<related count="2">Rogue SOC</related>
+			<reverse-related count="2">Rogue SOC</reverse-related>
 		</card>
 		<card>
 			<name>Cool Guys Don&apos;t Look at Explosions</name>
@@ -415,7 +421,8 @@ Cool Guys Don&apos;t Look at Explosions deals 2 damage to any target. If this sp
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Forbidden Rendezvous</name>
@@ -485,7 +492,8 @@ When this creature enters, create a Leading Role token attached to target creatu
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Brave Little Toadster</name>
@@ -504,7 +512,8 @@ When this creature enters, create a Leading Role token attached to target creatu
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Wooden Slasher</name>
@@ -558,7 +567,9 @@ Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. I
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related>Soldier SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Eight-Legged Freak</name>
@@ -632,7 +643,8 @@ When this creature enters, if you&apos;re in your third act, you gain 5 life.</t
 				<pt>7/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Monster&apos;s Fury</name>
@@ -684,6 +696,7 @@ Up to two target creatures you control each get +1/+2 until end of turn. If you&
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Third Act SOC</related>
 		</card>
 		<card>
 			<name>Altar of Heroes</name>
@@ -702,7 +715,8 @@ When this artifact enters, create a Leading Role token attached to target creatu
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Hulking Growth</name>
@@ -738,7 +752,8 @@ When this creature enters, tap target creature an opponent controls and put a st
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Unconventional Mentor</name>
@@ -756,7 +771,8 @@ When this creature enters, tap target creature an opponent controls and put a st
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Villain&apos;s Underling</name>
@@ -775,7 +791,8 @@ This creature gets +3/+0 during your turn as long as you&apos;re in your third a
 				<pt>0/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Pendant Thief</name>
@@ -793,7 +810,8 @@ This creature gets +3/+0 during your turn as long as you&apos;re in your third a
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Skeleton SOC</reverse_related>
+			<related>Skeleton SOC</related>
+			<reverse-related>Skeleton SOC</reverse-related>
 		</card>
 		<card>
 			<name>Brash Detective</name>
@@ -831,7 +849,8 @@ Choose one. If this spell is a blockbuster, you may choose both instead.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related count="2">Soldier SOC</reverse_related>
+			<related count="2">Soldier SOC</related>
+			<reverse-related count="2">Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Sole Survivor</name>
@@ -886,7 +905,8 @@ Whenever this creature attacks, if you&apos;re in your third act, put a +1/+1 co
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Power Player</name>
@@ -922,7 +942,8 @@ When this creature enters, exile another target creature you control. Return it 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Fight for Your Life</name>
@@ -940,7 +961,8 @@ Fight for Your Life deals 2 damage to target attacking or blocking creature. The
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Zero to Hero</name>
@@ -1045,7 +1067,8 @@ This creature gets +2/+2 and has deathtouch during your turn as long as you&apos
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Killer Clown</name>
@@ -1135,7 +1158,8 @@ When this creature enters, create a Treasure token.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Wolf of Boxer Street</name>
@@ -1155,7 +1179,8 @@ This creature has haste as long as you&apos;re in your third act.</text>
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Climactic Demise</name>
@@ -1189,7 +1214,8 @@ Destroy target creature if its power is 3 or less or if this spell is a blockbus
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Set up the Sequel</name>
@@ -1241,7 +1267,8 @@ Destroy target creature or planeswalker. Then if you&apos;re in your third act, 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Harder They Fall</name>
@@ -1354,7 +1381,8 @@ Draw a card.</text>
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Banishing Light</name>
@@ -1443,7 +1471,8 @@ Whenever you produce a blockbuster, Shyla gains first strike until end of turn.<
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Combat Experts</name>
@@ -1461,8 +1490,10 @@ Create three 1/1 white Soldier creature tokens. Then if you&apos;re in your thir
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related count="3">Soldier SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related count="3">Soldier SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related count="3">Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Eager Audience</name>
@@ -1516,7 +1547,8 @@ Exile Deus Ex Machina.</text>
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Buggy Shieldbearer</name>
@@ -1535,7 +1567,8 @@ Exile Deus Ex Machina.</text>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Lady, Arthouse Star</name>
@@ -1555,8 +1588,10 @@ When Lady dies, if you&apos;re in your third act, create two 1/1 white Bird crea
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related count="2">Bird SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related count="2">Bird SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related count="2">Bird SOC</reverse-related>
 		</card>
 		<card>
 			<name>Tia Otumbo</name>
@@ -1575,8 +1610,10 @@ Whenever Tia attacks, create a Leading Role token attached to target non-Human c
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
-			<reverse_related>Horse SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<related>Horse SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
+			<reverse-related>Horse SOC</reverse-related>
 		</card>
 		<card>
 			<name>Altered Brain</name>
@@ -1611,7 +1648,8 @@ Target opponent reveals their hand. If this spell is a blockbuster, choose a non
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Tactical Strike Team</name>
@@ -1666,7 +1704,8 @@ Whenever a legendary creature you control dies, put a +1/+1 counter on this crea
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier SOC</reverse_related>
+			<related>Soldier SOC</related>
+			<reverse-related>Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Soaring Woman</name>
@@ -1702,7 +1741,8 @@ When this creature enters, if you control another creature with flying or produc
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Alien Anatomist</name>
@@ -1721,7 +1761,8 @@ Whenever you discard a card with mana value 5 or greater, create a Treasure toke
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>The Big Friendly Beast</name>
@@ -1740,7 +1781,8 @@ This creature has hexproof as long as it&apos;s untapped or if you&apos;re in yo
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Vengeful Shinobi</name>
@@ -1760,7 +1802,8 @@ At the beginning of your end step, if you&apos;re in you third act, put a +1/+1 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Bloodbutcher</name>
@@ -1869,7 +1912,8 @@ Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. I
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Dinosaur SOC</reverse_related>
+			<related>Dinosaur SOC</related>
+			<reverse-related>Dinosaur SOC</reverse-related>
 		</card>
 		<card>
 			<name>Endangered Species</name>
@@ -2029,7 +2073,8 @@ Target creature you control gains indestructible until end of turn. If this spel
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Close the Wormhole</name>
@@ -2047,7 +2092,8 @@ Counter target spell if you&apos;re in your third act or if it&apos;s a noncreat
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>CGI Animals</name>
@@ -2084,7 +2130,8 @@ Pay 2 life: This Vehicle becomes an artifact creature until end of turn. Activat
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Into the Maw of Greatness</name>
@@ -2102,7 +2149,8 @@ Whenever you attack, put a +1/+1 counter on up to one target attacking legendary
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Dark Horde Rising</name>
@@ -2121,8 +2169,10 @@ Skeletons you control get +1/+1 as long as you&apos;re in your third act.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related>Skeleton SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related>Skeleton SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related>Skeleton SOC</reverse-related>
 		</card>
 		<card>
 			<name>Cornered Lover</name>
@@ -2176,7 +2226,8 @@ Choose one. You may choose both instead if this spell is a blockbuster.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Romantic Tension</name>
@@ -2210,7 +2261,8 @@ Mill three cards. You may return a creature card from your graveyard to your han
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Dark Ending</name>
@@ -2283,7 +2335,8 @@ Choose one. If this spell is a blockbuster, you may choose both instead.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related count="2">Rogue SOC</reverse_related>
+			<related count="2">Rogue SOC</related>
+			<reverse-related count="2">Rogue SOC</reverse-related>
 		</card>
 		<card>
 			<name>Stand Off</name>
@@ -2335,7 +2388,8 @@ Choose up to three target permanent cards in your graveyard. If you&apos;re in y
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Loving Beast</name>
@@ -2390,7 +2444,8 @@ At the beginning of your end step, if you&apos;re in your third act, put a +1/+1
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Makeup Artist</name>
@@ -2408,7 +2463,8 @@ At the beginning of your end step, if you&apos;re in your third act, put a +1/+1
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Space Pilgrim</name>
@@ -2427,7 +2483,8 @@ Whenever you produce a blockbuster, create a 1/1 colorless Drone artifact creatu
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone SOC</reverse_related>
+			<related>Drone SOC</related>
+			<reverse-related>Drone SOC</reverse-related>
 		</card>
 		<card>
 			<name>Paragon Battery</name>
@@ -2468,7 +2525,8 @@ Create a Leading Role token attached to target creature. (Enchanted creature is 
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Khazra</name>
@@ -2488,7 +2546,8 @@ Other legendary creatures you control get +1/+1.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mikandros SOC</reverse_related>
+			<related>Mikandros SOC</related>
+			<reverse-related>Mikandros SOC</reverse-related>
 		</card>
 		<card>
 			<name>Erupting Sandmaw</name>
@@ -2565,7 +2624,8 @@ When this creature attacks, create a 1/1 white Soldier creature token.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier SOC</reverse_related>
+			<related>Soldier SOC</related>
+			<reverse-related>Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Deep Space Defender</name>
@@ -2619,7 +2679,8 @@ When this creature enters, create a 1/1 white Soldier creature token for each ta
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier SOC</reverse_related>
+			<related>Soldier SOC</related>
+			<reverse-related>Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Imperial Defense System</name>
@@ -2657,7 +2718,8 @@ Draw two cards and create a Treasure token. Roll the Dice deals 1 damage to any 
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>The Final Reveal</name>
@@ -2747,7 +2809,8 @@ Whenever you commit a crime, create a Treasure token. This ability only triggers
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Treasure SOC</reverse_related>
+			<related>Treasure SOC</related>
+			<reverse-related>Treasure SOC</reverse-related>
 		</card>
 		<card>
 			<name>Alliance of Passion</name>
@@ -2765,7 +2828,8 @@ Whenever you attack with exactly two creatures, creatures you control gain menac
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related count="2">Human SOC</reverse_related>
+			<related count="2">Human SOC</related>
+			<reverse-related count="2">Human SOC</reverse-related>
 		</card>
 		<card>
 			<name>Magician Adept</name>
@@ -2926,7 +2990,8 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Consider the Possibilities</name>
@@ -2945,7 +3010,8 @@ Draw three cards.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Bird SOC</name>
@@ -3124,7 +3190,8 @@ When this creature enters, if you&apos;re in your third act, put a shield counte
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>POV Camera</name>
@@ -3192,7 +3259,8 @@ Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. I
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Location Scouting</name>
@@ -3281,7 +3349,8 @@ Whenever you produce a blockbuster or a creature you controls dies, target oppon
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Detective SOC</reverse_related>
+			<related>Detective SOC</related>
+			<reverse-related>Detective SOC</reverse-related>
 		</card>
 		<card>
 			<name>Captain Marvelous</name>
@@ -3301,7 +3370,8 @@ Whenever Captain Marvelous deals combat damage to a player, draw a card. Then di
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Green Knight</name>
@@ -3355,7 +3425,8 @@ When this creature enters, return target creature an opponent controls to its ow
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Big Bad Tree</name>
@@ -3375,7 +3446,8 @@ This creature enters with two +1/+1 counters on it if you&apos;re in your third 
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Completely Surrounded</name>
@@ -3393,7 +3465,8 @@ Destroy target creature if it has power 4 or greater or if you&apos;re in your t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Wayne Barnes</name>
@@ -3467,7 +3540,8 @@ Other legendary creatures you control have deathtouch.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Leaky Futuretron</name>
@@ -3593,7 +3667,8 @@ Blue Spectre can&apos;t be blocked as long as you&apos;re in your third act.
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>VAL1000</name>
@@ -3631,7 +3706,8 @@ When Tyde Turner enters, return target spell to its owner&apos;s hand. Then if y
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Four Dimensional Beast</name>
@@ -3719,6 +3795,7 @@ Destroy target creature if it&apos;s legendary or if this spell is a blockbuster
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Third Act SOC</related>
 		</card>
 		<card>
 			<name>Last Kiss</name>
@@ -3736,6 +3813,7 @@ Choose two creatures you control. Last Kiss deals 3 damage to each other creatur
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Third Act SOC</related>
 		</card>
 		<card>
 			<name>Hound Conjurer</name>
@@ -3754,8 +3832,10 @@ When this creature enters, create X 1/1 red Dog creature tokens with haste, wher
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related>Dog SOC</reverse_related>
+			<related count="X">Third Act SOC</related>
+			<related>1</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related>Dog SOC</reverse-related>
 		</card>
 		<card>
 			<name>Postal Carrier</name>
@@ -3774,7 +3854,8 @@ When this creature enters, if you control no other untapped creatures, create a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Special Bond</name>
@@ -3809,7 +3890,8 @@ Landfall — Whenever a land you control enters, create a Leading Role token att
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Hungry Little Terrors</name>
@@ -3988,7 +4070,8 @@ At the beginning of your upkeep, if you&apos;re in your third act, create a toke
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>City of Heroes</name>
@@ -4007,7 +4090,8 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Kaiju Homeworld</name>
@@ -4026,8 +4110,10 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related>Beast SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related>Beast SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related>Beast SOC</reverse-related>
 		</card>
 		<card>
 			<name>Shootout Gully</name>
@@ -4046,7 +4132,8 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Intergalactic Spaceport</name>
@@ -4065,7 +4152,8 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Adventurer&apos;s Village</name>
@@ -4084,8 +4172,10 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
-			<reverse_related count="2">Soldier SOC</reverse_related>
+			<related count="X">Third Act SOC</related>
+			<related>2</related>
+			<reverse-related>Third Act SOC</reverse-related>
+			<reverse-related count="2">Soldier SOC</reverse-related>
 		</card>
 		<card>
 			<name>Anguish</name>
@@ -4124,7 +4214,8 @@ This creature has base power and toughness 4/4 as long as you&apos;re in your th
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Film Editing</name>
@@ -4157,7 +4248,8 @@ Crew 3</text>
 				<pt>8/6</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>The Stone of Kings</name>
@@ -4295,7 +4387,8 @@ Counter target spell. If you&apos;re in your third act, exile its controller&apo
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Never Found the Body</name>
@@ -4313,7 +4406,8 @@ Return target creature card from your graveyard to the battlefield. It gains has
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Charming Minotaur</name>
@@ -4332,7 +4426,8 @@ Whenever you attack with this creature and exactly one other creature, create a 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Reset Protocol</name>
@@ -4410,8 +4505,10 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Blood SOC</reverse_related>
-			<reverse_related>Cohen Archvillain Emblem SOC</reverse_related>
+			<related count="X">Blood SOC</related>
+			<related>1</related>
+			<reverse-related>Blood SOC</reverse-related>
+			<reverse-related>Cohen Archvillain Emblem SOC</reverse-related>
 		</card>
 		<card>
 			<name>Virtuous Knight</name>
@@ -4431,7 +4528,8 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Leading Role SOC</reverse_related>
+			<related>Leading Role SOC</related>
+			<reverse-related>Leading Role SOC</reverse-related>
 		</card>
 		<card>
 			<name>Search the Universe</name>
@@ -4501,7 +4599,9 @@ If you would create one or more creature tokens, if you&apos;re in your third ac
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related count="X">Third Act SOC</related>
+			<related>2</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Kal Rod&apos;r</name>
@@ -4578,7 +4678,9 @@ Whenever Ratrisha Rocket attacks, discard a card. When you do, exile the top car
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<related>Treasure SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Germinating Grub</name>
@@ -4617,7 +4719,8 @@ Morgril can&apos;t attack or block unless you&apos;re in your third act.</text>
 				<pt>7/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Skelly Boy Beatdown</name>
@@ -4636,7 +4739,8 @@ Choose a creature you don&apos;t control at random. Skelly Boy Beatdown deals da
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Skeleton SOC</reverse_related>
+			<related>Skeleton SOC</related>
+			<reverse-related>Skeleton SOC</reverse-related>
 		</card>
 		<card>
 			<name>Ortesian Sneak</name>
@@ -4726,7 +4830,8 @@ Sequel {3}{B} (You may cast this card from your graveyard for its sequel cost. I
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Horror SOC</reverse_related>
+			<related count="2">Horror SOC</related>
+			<reverse-related count="2">Horror SOC</reverse-related>
 		</card>
 		<card>
 			<name>Colossal Kaiju</name>
@@ -4833,7 +4938,8 @@ At the beginning of combat on your turn, creatures you control gain flying until
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Third Act SOC</reverse_related>
+			<related>Third Act SOC</related>
+			<reverse-related>Third Act SOC</reverse-related>
 		</card>
 		<card>
 			<name>Third Act</name>

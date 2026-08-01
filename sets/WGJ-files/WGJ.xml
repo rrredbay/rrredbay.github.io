@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-16</releasedate>
+			<releasedate>2026-08-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -920,7 +920,7 @@ When this creature enters, create a 1/1 red Mercenary creature token with haste.
 			<tablerow>2</tablerow>
 			<related>Mercenary WGJ</related>
 			<related>1</related>
-			<reverse_related>Mercenary WGJ</reverse_related>
+			<reverse-related>Mercenary WGJ</reverse-related>
 		</card>
 		<card>
 			<name>Rampaging Goliath</name>
