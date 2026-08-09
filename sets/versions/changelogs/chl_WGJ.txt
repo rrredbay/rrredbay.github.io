@@ -1,4 +1,257 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Citadel, the Rumbling Fortress added.
+
+The Citadel removed.
+
+Shoreline Midden
+
+Submerged Midden
+
+Molten Midden
+
+Brutal Midden
+
+Secluded Midden
+
+Foreboding Midden
+
+Market Midden
+
+Forgotten Midden
+
+Riffraff Midden
+
+Productive Midden
+
+The Beast
+
+Automated Scrapper
+cost: {W} => {1}{W}
+pt: 1/1 => 1/2
+
+Mechanohawk
+
+Market Thief
+
+Moonlight Yarder
+
+Crushing Defeat
+
+Scrounging Vermin
+
+Assault Bot
+
+Oculus Collector
+
+Visions of Terror
+
+Decapitate
+
+Target Locked
+
+Nitwit Yarder
+
+Gangland Tagteam
+
+Explosive Collision
+
+Scrap Deals
+
+Tyrant's Fire
+
+Scaled Scrapper
+
+Daddy Swordlegs
+
+Overpower
+
+Friendly Trawler
+
+Drexil Acolyte
+
+Trawl the Fields
+
+Robotic Reverence
+
+Plucky Scrapper
+
+Bursting Vat
+
+Defend the Hive
+
+Beast Beckoner
+
+Alert Sentries
+
+Battery Thief
+rules_text: {1}, Sacrifice a nontoken artifact: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junks you control have “{T}, Pay 1 life: Add {B}.” => {1}, Sacrifice a nontoken artifact: Create a tapped Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junks you control have “{T}, Pay 1 life: Add {B}.”
+
+The Heap Rises
+
+Nightfall Approaches
+
+Anter, Wasteland Runner
+
+Yarder's Uprising
+
+Absolute Victory
+
+Electric Junk Tower
+
+Harpooner Wagon
+
+Scavenger Party
+
+Auto Recycler
+
+Badlands Alpha
+
+Bert, Parts Specialist
+
+Required Assembly
+
+Sky Trawler
+
+Harbinger Drexil
+
+Bandit Junker
+
+The Junkfields
+
+The Heap
+
+The Pit
+
+The Wasteland
+
+The Lost Sea
+
+Willing Automaton
+
+Lose to the Heap
+
+Junklord Azareth
+
+Junklord Felisah
+
+Junklord Garoth
+
+Gone Mag-Fishing
+
+Techno Compies
+rules_text: Whenever you put one or more +1/+1 counters on another permanent you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+When this creature dies, create a Junk token for each counter on it. => Whenever you put one or more +1/+1 counters on another permanent you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+When this creature dies, create a Junk token.
+
+Combustion Goliath
+
+World on the Brink
+
+Rager Blazer
+rules_text: At the beginning of your precombat main phase, you may discard a card. When you do, create a Junk token.
+Junks you control have “{T}, Sacrifice this artifact: Target creature can't block this turn. Activate only as a sorcery.” => At the beginning of your precombat main phase, you may pay {1} and discard a card. If you do, create a Junk token.
+Junks you control have “{T}, Sacrifice this artifact: Target creature can't block this turn. Activate only as a sorcery.”
+
+Azyra, Queen of the Forge
+
+Speaker Lxtal
+
+Felisah's Recruiter
+rules_text: You may look at the top card of your library at any time.
+Once each turn, you may cast a creature or Vehicle spell from the top of your library.
+[i]Hoot n' Holler[/i] — Whenever this creature or a Vehicle it crewed this turn attacks, scry 1. => You may look at the top card of your library at any time.
+Once during each of your turns, you may cast a creature or Vehicle spell from the top of your library.
+[i]Hoot n' Holler[/i] — Whenever this creature or a Vehicle it crewed this turn attacks, scry 1.
+
+Sprawl Enforcers
+cost: {1}{W} => {R}{W}
+pt: 1/1 => 2/2
+
+Baited Trap
+
+The Sprawl
+
+Tireless Consumption
+cost: {X}{2}{B}{B} => {X}{3}{B}{B}
+
+Lost Sea Haggling
+
+Sabotage the Machine
+rules_text: Counter target spell. Create a number of Junk tokens equal to that spell's mana value. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Counter target spell. Create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Seek the Laboratory
+rules_text: Draw X cards, then call The Beast for each card you've drawn this turn. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i] => Draw X cards. Then call The Beast X times. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]
+
+Lev, Junker Genius
+
+Dreams of Incineration
+
+Dreams of Resilience
+
+Dreams of Restoration
+
+The Spoon Man
+rules_text: Deathtouch
+Whenever another nontoken artifact dies, exile that card and you create a Junk token.
+At the beginning of combat on your turn, The Spoon Man gets +1/+1 for each Junk you control until end of turn. => Deathtouch
+{4}{B}{B}, {T}, Sacrifice The Spoon Man: Create seven Junk tokens.
+pt: 1/1 => 1/2
+
+Sevrox, Ascended
+
+Gum-Gum, Heap Lackey
+
+Throes of the Beast
+cost: {3}{U}{B}{R} => {4}{U}{B}{R}
+
+Gunhead Rhino
+
+Vorrick's Radicals
+
+Stolen Find
+
+Junklord Vorrick
+rules_text: Menace
+Whenever Junklord Vorrick enters or attacks, create a Junk token. Then you may sacrifice three artifacts. If you do, Junklord Vorrick deals 3 damage to target creature or planeswalker. => Menace
+Whenever Junklord Vorrick attacks, create a Junk token. Then you may sacrifice three artifacts. If you do, Junklord Vorrick deals 3 damage to any target.
+
+Merc Squad
+
+Smelting Pit
+
+Marus, Calculated Killer
+
+Willing Offerings
+
+Call The Beast Emblem
+
+Rig Sparks
+
+Machines Rule the World
+cost: {3}{R}{W} => {3}{W}{W}
+rules_text: When this enchantment enters, create two 1/1 colorless Servo artifact creature tokens.
+Whenever one or more creatures you control enter, put a +1/+1 counter on each creature and each Vehicle you control. Artifact creatures and Vehicles you control gain haste until end of turn. => When this enchantment enters, create two 1/1 colorless Servo artifact creature tokens.
+Whenever one or more creatures you control enter, put a +1/+1 counter on each artifact creature and each Vehicle you control.
+
+Processing Point
+
+Pulsing Hedron
+cost: {U} => {2}{U}
+rules_text: Whenever you call The Beast, draw a card. This ability triggers only once each turn.
+{3}{U}, {T}: Call The Beast. Activate only as a sorcery. => {T}: Add {U}.
+Whenever you call The Beast, draw a card. This ability triggers only once each turn.
+{4}{U}, {T}: Call The Beast. Activate only as a sorcery. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]
+
+Towering Killbot
+
+Acidic Acolyte
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Pull 'em Out added.

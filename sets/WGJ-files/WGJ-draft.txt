@@ -173,7 +173,7 @@
 		{
 			"name": "Automated Scrapper",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "5",
 			"image_uris": {
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Kor Cleric",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct Knight",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/19.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/22.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Giant Warrior",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/74.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/76.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct Samurai",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/137.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/138.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/141.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/193.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Insect Mutant",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/195.png"
 			}
@@ -1982,10 +1982,10 @@
 		},
 		{
 			"name": "Sprawl Enforcers",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "38",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/198.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/201.png"
 			}
@@ -2031,7 +2031,7 @@
 			}
 		},
 		{
-			"name": "The Citadel",
+			"name": "Citadel, the Rumbling Fortress",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Legendary Artifact — Vehicle",
@@ -2093,7 +2093,7 @@
 		{
 			"name": "Tireless Consumption",
 			"rarity": "rare",
-			"mana_cost": "{X}{2}{B}{B}",
+			"mana_cost": "{X}{3}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
@@ -2393,7 +2393,7 @@
 		{
 			"name": "Throes of the Beast",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{B}{R}",
+			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "232",
 			"image_uris": {
@@ -2425,7 +2425,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/242.png"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/251.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/252.png"
 			}
@@ -2690,16 +2690,23 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/268.png"
 			}
 		},
-		{
+{
 			"name": "Call The Beast Emblem",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "0",
+			"collector_number": "269",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://rrredbay.github.io/sets/WGJ-files/img/10.png"
+				}
+			},
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/269.png"
-			}
-		},
+				}
+			},
 		{
 			"name": "Toxic-Tail Bot",
 			"rarity": "common",
@@ -2762,10 +2769,10 @@
 		},
 		{
 			"name": "Machines Rule the World",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}{W}",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "226",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/276.png"
 			}
@@ -2775,7 +2782,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/277.png"
 			}
@@ -2783,7 +2790,7 @@
 		{
 			"name": "Pulsing Hedron",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Artifact",
 			"collector_number": "71",
 			"image_uris": {
@@ -2940,12 +2947,12 @@
 	2 Speaker Lxtal
 	2 Ninety-Four
 	2 Felisah's Recruiter
-	2 Sprawl Enforcers
+	1 Sprawl Enforcers
 	2 Lundquist's Garage
 	2 Survive Disaster
 	2 March of the Goliaths
 	2 Baited Trap
-	2 The Citadel
+	2 Citadel, the Rumbling Fortress
 	2 The Sprawl
 	1 Regeneration Chamber
 	1 Azareth's Dreadnought
@@ -2985,7 +2992,7 @@
 	1 VAL, Automated Locomotive
 	2 Shiny Taker
 	1 Lost Sea Watcher
-	1 Machines Rule the World
+	2 Machines Rule the World
 	2 Pulsing Hedron
 	2 Dreams of Progress
 	2 Dreams of Exploitation
@@ -3179,7 +3186,6 @@
 	8 Compactor Drones
 	8 Wreckyard Crane
 	8 Collector of Finds
-	8 Call The Beast Emblem
 	8 Toxic-Tail Bot
 	8 Ghastly Scrapbeast
 	8 Rig Sparks
@@ -3272,7 +3278,6 @@
 	8 Compactor Drones
 	8 Wreckyard Crane
 	8 Collector of Finds
-	8 Call The Beast Emblem
 	8 Toxic-Tail Bot
 	8 Ghastly Scrapbeast
 	8 Rig Sparks
@@ -3467,12 +3472,12 @@
 	2 Speaker Lxtal
 	2 Ninety-Four
 	2 Felisah's Recruiter
-	2 Sprawl Enforcers
+	1 Sprawl Enforcers
 	2 Lundquist's Garage
 	2 Survive Disaster
 	2 March of the Goliaths
 	2 Baited Trap
-	2 The Citadel
+	2 Citadel, the Rumbling Fortress
 	2 The Sprawl
 	1 Regeneration Chamber
 	1 Azareth's Dreadnought
@@ -3532,14 +3537,13 @@
 	6 Marus, Calculated Killer
 	6 Willing Offerings
 	1 VAL, Automated Locomotive
-	12 Call The Beast Emblem
 	12 Toxic-Tail Bot
 	12 Ghastly Scrapbeast
 	12 Rig Sparks
 	2 Shiny Taker
 	1 Lost Sea Watcher
 	12 Disassemble
-	1 Machines Rule the World
+	2 Machines Rule the World
 	6 Processing Point
 	2 Pulsing Hedron
 	2 Dreams of Progress
@@ -3553,7 +3557,7 @@
 	12 Armored Goliath
 	12 Flamethrower Battle-Wagon
 	2 Unyielding Husk
-[wildcard(1)]
+[wildcard(2)]
 	6 Shoreline Midden
 	6 Submerged Midden
 	6 Molten Midden
@@ -3740,12 +3744,12 @@
 	7 Speaker Lxtal
 	7 Ninety-Four
 	7 Felisah's Recruiter
-	7 Sprawl Enforcers
+	4 Sprawl Enforcers
 	7 Lundquist's Garage
 	7 Survive Disaster
 	7 March of the Goliaths
 	7 Baited Trap
-	7 The Citadel
+	7 Citadel, the Rumbling Fortress
 	7 The Sprawl
 	4 Regeneration Chamber
 	4 Azareth's Dreadnought
@@ -3805,14 +3809,13 @@
 	15 Marus, Calculated Killer
 	15 Willing Offerings
 	4 VAL, Automated Locomotive
-	6 Call The Beast Emblem
 	6 Toxic-Tail Bot
 	6 Ghastly Scrapbeast
 	6 Rig Sparks
 	7 Shiny Taker
 	4 Lost Sea Watcher
 	6 Disassemble
-	4 Machines Rule the World
+	7 Machines Rule the World
 	15 Processing Point
 	7 Pulsing Hedron
 	7 Dreams of Progress
@@ -3826,3 +3829,5 @@
 	6 Armored Goliath
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
+[landslot(1)]
+	30 Call The Beast Emblem

@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-01</releasedate>
+			<releasedate>2026-08-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -25,6 +25,7 @@
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Submerged Midden</name>
@@ -42,6 +43,7 @@
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Molten Midden</name>
@@ -59,6 +61,7 @@
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Brutal Midden</name>
@@ -76,6 +79,7 @@
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Secluded Midden</name>
@@ -93,6 +97,7 @@
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Foreboding Midden</name>
@@ -110,6 +115,7 @@
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Market Midden</name>
@@ -127,6 +133,7 @@
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Forgotten Midden</name>
@@ -144,6 +151,7 @@
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Riffraff Midden</name>
@@ -161,6 +169,7 @@
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Productive Midden</name>
@@ -178,6 +187,7 @@
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>The Beast WGJ</name>
@@ -195,6 +205,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Call The Beast Emblem</reverse-related>
 		</card>
 		<card>
 			<name>Plains</name>
@@ -295,19 +306,20 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 				<side>front</side>
 				<type>Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Priestess of Metal</name>
 			<text>Lifelink
 Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/18.png" num="29">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/18.png" num="30">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -326,7 +338,7 @@ Whenever you cast a noncreature spell, this creature gets +1/+0 until end of tur
 			<text>Vigilance
 When you salvage this creature onto a permanent you control, put a vigilance counter on that permanent.
 Salvage {2}{W} ({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature or Vehicle. Salvage only as a sorcery.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/19.png" num="28">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/19.png" num="29">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -380,7 +392,7 @@ When this creature enters, tap target creature or Vehicle an opponent controls.<
 			<name>Scrapheap Roc</name>
 			<text>Flying
 When this creature enters, put a +1/+1 counter on another target creature or Vehicle you control. That permanent gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/22.png" num="34">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/22.png" num="35">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -429,6 +441,8 @@ Whenever you call The Beast, this creature gets +1/+0 until end of turn.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Lonely Wanderer</name>
@@ -464,6 +478,7 @@ At the beginning of combat on your turn, if you exiled one or more cards from yo
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Moonlight Yarder</name>
@@ -481,6 +496,8 @@ At the beginning of combat on your turn, if you exiled one or more cards from yo
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Swift Surveyor</name>
@@ -586,6 +603,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Treasure</reverse-related>
 		</card>
 		<card>
 			<name>Compacted</name>
@@ -638,6 +656,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Assault Bot</name>
@@ -655,6 +674,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Transmogrified Yarder</name>
@@ -709,6 +729,7 @@ Salvage {4}{B} ({4}{B}, Exile this card from your graveyard: Put a number of +1/
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Deadly Goliath</name>
@@ -778,6 +799,8 @@ Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Decapitate</name>
@@ -795,6 +818,8 @@ If you cast this spell during your main phase, call The Beast. (You get a Call T
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Target Locked</name>
@@ -812,6 +837,8 @@ Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Nitwit Yarder</name>
@@ -830,6 +857,7 @@ When this creature dies, create a Junk token. (It&apos;s an artifact with &quot;
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Fire Starter</name>
@@ -918,9 +946,7 @@ When this creature enters, create a 1/1 red Mercenary creature token with haste.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Mercenary WGJ</related>
-			<related>1</related>
-			<reverse-related>Mercenary WGJ</reverse-related>
+			<reverse-related>Mercenary</reverse-related>
 		</card>
 		<card>
 			<name>Rampaging Goliath</name>
@@ -956,6 +982,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Scrap Deals</name>
@@ -973,6 +1000,7 @@ Create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this t
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Tyrant&apos;s Fire</name>
@@ -990,6 +1018,8 @@ Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Sandstorm Dozer</name>
@@ -1062,6 +1092,7 @@ When this creature enters, create a tapped Treasure token.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Treasure</reverse-related>
 		</card>
 		<card>
 			<name>Swine Racer</name>
@@ -1097,6 +1128,8 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Grizzled Yarder</name>
@@ -1186,6 +1219,7 @@ Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Crafty Junker</name>
@@ -1239,6 +1273,7 @@ Whenever you put a +1/+1 counter on one or more permanents you control, untap th
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Heckler Raid Leader</name>
@@ -1275,13 +1310,15 @@ At the beginning of your end step, if you called The Beast this turn, call The B
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Sand Skimmer</name>
 			<text>Vigilance
 Whenever you cast a noncreature spell, you may have this Vehicle become an artifact creature until end of turn. If it&apos;s your turn, tap up to one target creature.
 Crew 3</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/73.png" num="228">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/73.png" num="227">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1299,7 +1336,7 @@ Crew 3</text>
 			<name>Scrap-Pit Champion</name>
 			<text>Trample
 This creature&apos;s power is equal to the number of artifacts you control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/74.png" num="230">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/74.png" num="229">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1330,12 +1367,14 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Robotic Reverence</name>
 			<text>Creature tokens you control get +1/+1 and have vigilance.
 Tap three untapped creature tokens you control: Call The Beast. Activate only as a sorcery. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/76.png" num="227">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/76.png" num="226">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1347,6 +1386,8 @@ Tap three untapped creature tokens you control: Call The Beast. Activate only as
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Plucky Scrapper</name>
@@ -1362,6 +1403,7 @@ Tap three untapped creature tokens you control: Call The Beast. Activate only as
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Recommisioned Pounce-Bot</name>
@@ -1392,6 +1434,8 @@ Tap three untapped creature tokens you control: Call The Beast. Activate only as
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Dune Dasher</name>
@@ -1457,6 +1501,9 @@ If you cast this spell during your main phase, call The Beast. (You get a Call T
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
+			<reverse-related>Insect</reverse-related>
 		</card>
 		<card>
 			<name>Ghastly Junker</name>
@@ -1577,6 +1624,10 @@ Salvage {2}{B} ({2}{B}, Exile this card from your graveyard: Put a number of +1/
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Wasteland Daredevils</name>
@@ -1612,6 +1663,9 @@ Salvage {2}{B} ({2}{B}, Exile this card from your graveyard: Put a number of +1/
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Servo</reverse-related>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Wasteland Flamerider</name>
@@ -1753,7 +1807,7 @@ Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed this turn 
 		</card>
 		<card>
 			<name>Battery Thief</name>
-			<text>{1}, Sacrifice a nontoken artifact: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
+			<text>{1}, Sacrifice a nontoken artifact: Create a tapped Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
 Junks you control have &quot;{T}, Pay 1 life: Add {B}.&quot;</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/101.png" num="88">WGJ</set>
 			<prop>
@@ -1768,6 +1822,7 @@ Junks you control have &quot;{T}, Pay 1 life: Add {B}.&quot;</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>The Heap Rises</name>
@@ -1784,6 +1839,9 @@ Junks you control have &quot;{T}, Pay 1 life: Add {B}.&quot;</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
+			<reverse-related>Zombie</reverse-related>
 		</card>
 		<card>
 			<name>Remote Controlled Mechsuit</name>
@@ -1873,6 +1931,8 @@ Draw a card.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Hired Killer</name>
@@ -1962,6 +2022,7 @@ Whenever Anter attacks, if defending player has more cards in hand than you, cre
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Hotwiring Hogs</name>
@@ -2015,6 +2076,7 @@ Whenever you attack, target attacking creature you control gains first strike un
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Mercenary</reverse-related>
 		</card>
 		<card>
 			<name>Double-Barreled Drakkon</name>
@@ -2084,6 +2146,8 @@ Call the Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Trashfire Crawler</name>
@@ -2119,6 +2183,7 @@ At the beginning of your end step, this artifact deals 2 damage to each opponent
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Execution Tank</name>
@@ -2157,6 +2222,8 @@ Crew 1</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Treasure</reverse-related>
 		</card>
 		<card>
 			<name>Scavenger Party</name>
@@ -2174,6 +2241,7 @@ Crew 1</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Nomad</reverse-related>
 		</card>
 		<card>
 			<name>Out of the Wreckage</name>
@@ -2243,6 +2311,7 @@ Crew 2</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Treasure</reverse-related>
 		</card>
 		<card>
 			<name>Shearing Winds</name>
@@ -2314,6 +2383,8 @@ When this creature enters, destroy up to one target artifact or enchantment. If 
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>A.T.V Hotshot</name>
@@ -2389,7 +2460,7 @@ When this creature enters, destroy up to one target artifact or enchantment. If 
 			<text>Double strike
 When you salvage this card onto a permanent you control, put a double strike counter on that permanent.
 Salvage {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature or Vehicle. Salvage only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/137.png" num="32">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/137.png" num="33">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2406,7 +2477,7 @@ Salvage {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Put a number 
 		<card>
 			<name>Scrap Blast</name>
 			<text>Scrap Blast deals damage to target creature equal to the total number of creatures and Vehicles you control.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/138.png" num="33">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/138.png" num="34">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2437,12 +2508,13 @@ Junks you control have &quot;{T}, Sacrifice this artifact: Put a +1/+1 counter o
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Scrapyard Upgrade</name>
 			<text>Put a +1/+1 counter on target creature or Vehicle you control. It gains indestructible until end of turn.
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/140.png" num="35">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/140.png" num="36">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2458,7 +2530,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 		<card>
 			<name>Required Assembly</name>
 			<text>Create two 1/1 colorless Servo artifact creature tokens. If you cast another noncreature spell this turn, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/141.png" num="31">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/141.png" num="32">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2470,6 +2542,8 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Angel of Scrap</name>
@@ -2507,6 +2581,7 @@ Crew 2</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Remove Visage</name>
@@ -2630,6 +2705,8 @@ Whenever you call The Beast, surveil 2.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Hunt for Scraps</name>
@@ -2664,6 +2741,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Rapid Materialization</name>
@@ -2698,6 +2776,8 @@ When The Junkfields enters, you may pay {1}. If you do, call The Beast. (You get
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>The Heap</name>
@@ -2715,6 +2795,8 @@ When The Heap enters, you may pay {1}. If you do, call The Beast. (You get a Cal
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>The Pit</name>
@@ -2732,6 +2814,8 @@ When The Pit enters, you may pay {1}. If you do, call The Beast. (You get a Call
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>The Wasteland</name>
@@ -2749,6 +2833,8 @@ When The Wasteland enters, you may pay {1}. If you do, call The Beast. (You get 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>The Lost Sea</name>
@@ -2766,6 +2852,8 @@ When The Lost Sea enters, you may pay {1}. If you do, call The Beast. (You get a
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Millikin</name>
@@ -2797,6 +2885,8 @@ When this creature dies, draw a card.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Charging Station</name>
@@ -2899,6 +2989,8 @@ Whenever you call The Beast, you may pay {1}. If you do, tap target creature you
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Overcharge</name>
@@ -2969,6 +3061,7 @@ Tap two untapped Zombies you control: You draw a card and lose 1 life.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Zombie</reverse-related>
 		</card>
 		<card>
 			<name>Junklord Felisah</name>
@@ -2987,6 +3080,7 @@ Tap two untapped Zombies you control: You draw a card and lose 1 life.</text>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Junklord Garoth</name>
@@ -3005,6 +3099,7 @@ Whenever you attack, create a 2/2 red Phoenix creature token with flying that&ap
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Phoenix</reverse-related>
 		</card>
 		<card>
 			<name>Junklord Lundquist</name>
@@ -3040,11 +3135,12 @@ Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Techno Compies</name>
 			<text>Whenever you put one or more +1/+1 counters on another permanent you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
-When this creature dies, create a Junk token for each counter on it.</text>
+When this creature dies, create a Junk token.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/175.png" num="208">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3058,6 +3154,7 @@ When this creature dies, create a Junk token for each counter on it.</text>
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Danavan, the Exile</name>
@@ -3132,6 +3229,7 @@ Sacrifice four Junks: Return this card from your graveyard to the battlefield ta
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Arachno-Killbot</name>
@@ -3169,6 +3267,8 @@ Whenever you call The Beast, you gain 3 life.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Garoth&apos;s Charge</name>
@@ -3297,7 +3397,7 @@ Crew 3</text>
 		</card>
 		<card>
 			<name>Rager Blazer</name>
-			<text>At the beginning of your precombat main phase, you may discard a card. When you do, create a Junk token.
+			<text>At the beginning of your precombat main phase, you may pay {1} and discard a card. If you do, create a Junk token.
 Junks you control have &quot;{T}, Sacrifice this artifact: Target creature can&apos;t block this turn. Activate only as a sorcery.&quot;</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/189.png" num="154">WGJ</set>
 			<prop>
@@ -3312,6 +3412,7 @@ Junks you control have &quot;{T}, Sacrifice this artifact: Target creature can&a
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Plans Undone</name>
@@ -3367,13 +3468,14 @@ Whenever Azyra enters or attacks, create two Junk tokens.
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Saryna, Bounty Hunter</name>
 			<text>Vigilance
 Creatures with power less than Saryna can&apos;t block her.
 Whenever one or more creatures die, you may pay {W}. If you do, put a +1/+1 counter on Saryna.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/193.png" num="229">WGJ</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/193.png" num="228">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3411,7 +3513,7 @@ Whenever Artem, Solemn Traveler deals combat damage to a player, you may pay {U}
 			<text>Deathtouch
 Landfall — Whenever a land you control enters, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 Whenever you call The Beast, you may pay {B}. If you do, each opponent sacrifices a creature.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/195.png" num="231">WGJ</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/195.png" num="230">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3424,6 +3526,8 @@ Whenever you call The Beast, you may pay {B}. If you do, each opponent sacrifice
 				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Ninety-Four</name>
@@ -3445,7 +3549,7 @@ Crew 3</text>
 		<card>
 			<name>Felisah&apos;s Recruiter</name>
 			<text>You may look at the top card of your library at any time.
-Once each turn, you may cast a creature or Vehicle spell from the top of your library.
+Once during each of your turns, you may cast a creature or Vehicle spell from the top of your library.
 Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed this turn attacks, scry 1.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/197.png" num="18">WGJ</set>
 			<prop>
@@ -3467,19 +3571,21 @@ Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed this turn 
 • Put a +1/+1 counter on target creature you control.
 • Create a 1/1 red Mercenary creature token with haste.
 • Create a Junk token.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/198.png" num="38">WGJ</set>
+			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/WGJ-files/img/198.png" num="231">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Mercenary</type>
 				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
+				<manacost>RW</manacost>
 				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Mercenary</reverse-related>
 		</card>
 		<card>
 			<name>Lundquist&apos;s Garage</name>
@@ -3519,7 +3625,7 @@ Exile Survive Disaster.</text>
 			<name>March of the Goliaths</name>
 			<text>Return target artifact card from your graveyard to the battlefield. If it&apos;s a Vehicle, it becomes an artifact creature. (This effect lasts indefinitely.)
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/201.png" num="26">WGJ</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/201.png" num="27">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3549,12 +3655,14 @@ When this artifact dies, call The Beast. (You get a Call The Beast emblem if you
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
-			<name>The Citadel</name>
+			<name>Citadel, the Rumbling Fortress</name>
 			<text>Vigilance
 At the beginning of each upkeep, create a 1/1 colorless Servo artifact creature token.
-Whenever The Citadel attacks, it gains indestructible until end of turn.
+Whenever Citadel attacks, it gains indestructible until end of turn.
 Crew 4</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/203.png" num="12">WGJ</set>
 			<prop>
@@ -3569,6 +3677,7 @@ Crew 4</text>
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>The Sprawl</name>
@@ -3585,6 +3694,11 @@ Crew 4</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Nomad</reverse-related>
+			<reverse-related>Mercenary</reverse-related>
+			<reverse-related>Insect</reverse-related>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Regeneration Chamber</name>
@@ -3665,12 +3779,14 @@ As long as Ory has three or more +1/+1 counters on him, Ory has all activated ab
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>X2BB</manacost>
-				<cmc>4</cmc>
+				<manacost>X3BB</manacost>
+				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Caroline</name>
@@ -3764,10 +3880,13 @@ Whenever you discard a nonland, nonartifact card, create a 1/1 colorless Servo a
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Treasure</reverse-related>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Sabotage the Machine</name>
-			<text>Counter target spell. Create a number of Junk tokens equal to that spell&apos;s mana value. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<text>Counter target spell. Create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/215.png" num="76">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3780,10 +3899,11 @@ Whenever you discard a nonland, nonartifact card, create a 1/1 colorless Servo a
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Seek the Laboratory</name>
-			<text>Draw X cards, then call The Beast for each card you&apos;ve drawn this turn. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)</text>
+			<text>Draw X cards. Then call The Beast X times. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/216.png" num="80">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3796,6 +3916,8 @@ Whenever you discard a nonland, nonartifact card, create a 1/1 colorless Servo a
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Replicate Design</name>
@@ -3831,6 +3953,7 @@ Junks you control have &quot;{T}, Sacrifice this artifact: Target instant or sor
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Shamus&apos;s Pontoon</name>
@@ -3870,6 +3993,7 @@ Crew 2</text>
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Mercenary</reverse-related>
 		</card>
 		<card>
 			<name>Dreams of Resilience</name>
@@ -3890,6 +4014,7 @@ Crew 2</text>
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Dreams of Restoration</name>
@@ -3910,6 +4035,7 @@ Crew 2</text>
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Nomad</reverse-related>
 		</card>
 		<card>
 			<name>Welding Mask</name>
@@ -3965,8 +4091,7 @@ Whenever you attack with a creature you don&apos;t own, draw a card.
 		<card>
 			<name>The Spoon Man</name>
 			<text>Deathtouch
-Whenever another nontoken artifact dies, exile that card and you create a Junk token.
-At the beginning of combat on your turn, The Spoon Man gets +1/+1 for each Junk you control until end of turn.</text>
+{4}{B}{B}, {T}, Sacrifice The Spoon Man: Create seven Junk tokens.</text>
 			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/WGJ-files/img/226.png" num="121">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3977,9 +4102,10 @@ At the beginning of combat on your turn, The Spoon Man gets +1/+1 for each Junk 
 				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Garbage Gargantuan</name>
@@ -4055,6 +4181,7 @@ At the beginning of your end step, remove all +1/+1 counters from this creature.
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Gum-Gum, Heap Lackey</name>
@@ -4073,6 +4200,8 @@ At the beginning of your end step, remove all +1/+1 counters from this creature.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Insect WGJ</name>
@@ -4208,12 +4337,14 @@ You can&apos;t lose the game as long as you control a creature named The Beast.<
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3UBR</manacost>
-				<cmc>6</cmc>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
 				<colors>UBR</colors>
 				<coloridentity>UBR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Junkyard Jetpacker</name>
@@ -4257,7 +4388,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<text>Flying, vigilance
 At the beginning of your end step, if you cast another noncreature spell this turn, you gain 2 life and draw a card.
 Crew 3</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/242.png" num="37">WGJ</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/242.png" num="38">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4346,6 +4477,7 @@ Crew 2</text>
 				<pt>7/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Lundquist&apos;s Heavies</name>
@@ -4421,7 +4553,7 @@ Crew 3</text>
 			<name>Monowheel Interceptor</name>
 			<text>Flash
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/251.png" num="27">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/251.png" num="28">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4439,7 +4571,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Sidecar Cruiser</name>
 			<text>When this Vehicle attacks, exile up to one target non-Vehicle creature you control. Return that card to the battlefield at the beginning of the next end step.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/252.png" num="36">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/252.png" num="37">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4506,6 +4638,7 @@ At the beginning of your end step, this creature deals damage equal to the numbe
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Innovative Find</name>
@@ -4592,6 +4725,8 @@ Whenever a Junk you control enters, target player mills two cards.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
+			<reverse-related>Treasure</reverse-related>
 		</card>
 		<card>
 			<name>Massive Find</name>
@@ -4613,7 +4748,7 @@ Whenever a Junk you control enters, target player mills two cards.</text>
 		<card>
 			<name>Junklord Vorrick</name>
 			<text>Menace
-Whenever Junklord Vorrick enters or attacks, create a Junk token. Then you may sacrifice three artifacts. If you do, Junklord Vorrick deals 3 damage to target creature or planeswalker.</text>
+Whenever Junklord Vorrick attacks, create a Junk token. Then you may sacrifice three artifacts. If you do, Junklord Vorrick deals 3 damage to any target.</text>
 			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/WGJ-files/img/262.png" num="239">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4627,6 +4762,7 @@ Whenever Junklord Vorrick enters or attacks, create a Junk token. Then you may s
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Rippen, the Scarred</name>
@@ -4661,6 +4797,7 @@ During your turn, Mercenaries you control get +1/+0 for each other Mercenary you
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Mercenary</reverse-related>
 		</card>
 		<card>
 			<name>Smelting Pit</name>
@@ -4679,6 +4816,7 @@ Whenever an opponent sacrifices an artifact, Smelting Pit deals 2 damage to that
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Junk</reverse-related>
 		</card>
 		<card>
 			<name>Marus, Calculated Killer</name>
@@ -4697,6 +4835,7 @@ Whenever you attack, target attacking creature gains deathtouch until end of tur
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Louie</reverse-related>
 		</card>
 		<card>
 			<name>Willing Offerings</name>
@@ -4713,6 +4852,8 @@ Whenever you attack, target attacking creature gains deathtouch until end of tur
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>VAL, Automated Locomotive</name>
@@ -4746,6 +4887,7 @@ Tap four untapped creatures you control: Put X +1/+1 counters on VAL, where X is
 			</prop>
 			<tablerow>1</tablerow>
 			<related>ape</related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Toxic-Tail Bot</name>
@@ -4798,6 +4940,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Shiny Taker</name>
@@ -4858,25 +5001,26 @@ Creature spells with the chosen name can&apos;t be cast.</text>
 		<card>
 			<name>Machines Rule the World</name>
 			<text>When this enchantment enters, create two 1/1 colorless Servo artifact creature tokens.
-Whenever one or more creatures you control enter, put a +1/+1 counter on each creature and each Vehicle you control. Artifact creatures and Vehicles you control gain haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://rrredbay.github.io/sets/WGJ-files/img/276.png" num="226">WGJ</set>
+Whenever one or more creatures you control enter, put a +1/+1 counter on each artifact creature and each Vehicle you control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/276.png" num="26">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3RW</manacost>
+				<manacost>3WW</manacost>
 				<cmc>5</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Processing Point</name>
 			<text>Whenever you cast a noncreature spell during your turn, create a 1/1 colorless Servo artifact creature token.
 {2}{W}: Scry 1.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/277.png" num="30">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/277.png" num="31">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4888,23 +5032,27 @@ Whenever one or more creatures you control enter, put a +1/+1 counter on each cr
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Servo</reverse-related>
 		</card>
 		<card>
 			<name>Pulsing Hedron</name>
-			<text>Whenever you call The Beast, draw a card. This ability triggers only once each turn.
-{3}{U}, {T}: Call The Beast. Activate only as a sorcery.</text>
+			<text>{T}: Add {U}.
+Whenever you call The Beast, draw a card. This ability triggers only once each turn.
+{4}{U}, {T}: Call The Beast. Activate only as a sorcery. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/278.png" num="71">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Dreams of Progress</name>
@@ -4964,6 +5112,8 @@ At the beginning of your end step, call The Beast.</text>
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>The Junklord&apos;s Gambit</name>
@@ -5015,6 +5165,8 @@ When this creature dies, call The Beast. (You get a Call The Beast emblem if you
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Call The Beast Emblem</reverse-related>
+			<reverse-related>The Beast</reverse-related>
 		</card>
 		<card>
 			<name>Pit-Burster Mech</name>

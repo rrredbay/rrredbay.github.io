@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "269"
     },
     {
         "card_name": "Escape Reality",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "217"
     },
     {
         "card_name": "Bloodmage Conscriptor",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "278"
     },
     {
         "card_name": "Delivery Boy",
@@ -29,15 +29,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "139"
     },
     {
-        "card_name": "Birds of Distopia",
+        "card_name": "Birds of Dystopia",
         "number": 150,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "285"
     },
     {
         "card_name": "Champion of the Streets",
@@ -45,15 +45,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "209"
     },
     {
         "card_name": "Night Heist",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "271"
     },
     {
         "card_name": "District Crusher",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "173"
     },
     {
         "card_name": "Door Smasher",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "243"
     },
     {
         "card_name": "Croc Boarder",
@@ -77,15 +77,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "240"
     },
     {
         "card_name": "Hollowed Stare",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "268"
     },
     {
         "card_name": "Sam Scooter Denegan",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "210"
     },
     {
         "card_name": "Extermination",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "174"
     },
     {
         "card_name": "Emergency Throttle",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "230"
     },
     {
         "card_name": "Guerilla Bowman",
@@ -117,15 +117,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "241"
     },
     {
         "card_name": "Inshi, the Night Blade",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "231"
     },
     {
         "card_name": "Sewer City Repurposer",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "236"
     },
     {
         "card_name": "It Just Gets Worse",
@@ -141,15 +141,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "277"
     },
     {
-        "card_name": "Kai, a Dreamer",
+        "card_name": "Kai, the Dreamer",
         "number": 128,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "237"
     },
     {
         "card_name": "Neighborhood Watch",
@@ -157,15 +157,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "272"
     },
     {
         "card_name": "Night Raid",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "229"
     },
     {
         "card_name": "She's Got the Touch",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "270"
     },
     {
         "card_name": "Midtown Rumbler",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "248"
     },
     {
         "card_name": "Rick, the Red Devil",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "213"
     },
     {
         "card_name": "Painter of Brighter Futures",
@@ -197,23 +197,23 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "275"
     },
     {
         "card_name": "Precinct Maverick",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "235"
     },
     {
-        "card_name": "Take a Beat",
+        "card_name": "Ten'Sil, Quiet Courier",
         "number": 73,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "247"
     },
     {
         "card_name": "Smoke Break",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "232"
     },
     {
         "card_name": "Subway Loiterer",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "219"
     },
     {
         "card_name": "Rebelling Roots",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "282"
     },
     {
         "card_name": "Vigilante Justice",
@@ -245,15 +245,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "276"
     },
     {
-        "card_name": "Ten'Sil, Quiet Courier",
-        "number": 74,
+        "card_name": "Wait for the Drop",
+        "number": 77,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "218"
     },
     {
         "card_name": "Undead Loiterer",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "249"
     },
     {
         "card_name": "Take it to 11",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "279"
     },
     {
         "card_name": "Slide and Macha, City Explorers",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "238"
     },
     {
         "card_name": "Baton Bot",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "147"
     },
     {
         "card_name": "Blue Tag",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "198"
     },
     {
         "card_name": "Black Tag",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "199"
     },
     {
         "card_name": "Bear it All",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "161"
     },
     {
         "card_name": "Bold Outsider",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "158"
     },
     {
         "card_name": "Block Enforcer",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "118"
     },
     {
         "card_name": "Brain Dead",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "149"
     },
     {
         "card_name": "Canal Town Cycle",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "155"
     },
     {
         "card_name": "The Champ",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "129"
     },
     {
         "card_name": "Boonies Cycle",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "157"
     },
     {
         "card_name": "Breach!",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "183"
     },
     {
         "card_name": "Breakdown",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "160"
     },
     {
         "card_name": "Captain Bones",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "115"
     },
     {
         "card_name": "Digital Artist",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "130"
     },
     {
         "card_name": "Bunny, the Muscle",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "137"
     },
     {
         "card_name": "Calm the Elite",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "162"
     },
     {
         "card_name": "Cybernet Tiefling",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "120"
     },
     {
         "card_name": "Checkpoint",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "177"
     },
     {
         "card_name": "Feel the Music",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "116"
     },
     {
         "card_name": "Color the World",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "204"
     },
     {
         "card_name": "Dance Party!",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "165"
     },
     {
         "card_name": "Duck Coolidge",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "164"
     },
     {
         "card_name": "Cursed Kicks",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "125"
     },
     {
         "card_name": "Find the LAN Party",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "128"
     },
     {
         "card_name": "Cozy Vagabond",
@@ -477,15 +477,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "172"
     },
     {
-        "card_name": "Embassy Healer",
-        "number": 17,
+        "card_name": "Deployment Barracks",
+        "number": 16,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "184"
     },
     {
         "card_name": "Embassy Extractor",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "167"
     },
     {
         "card_name": "Data Weaver",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "126"
     },
     {
         "card_name": "Industrial Park Cycle",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "156"
     },
     {
         "card_name": "Distressing Damsel",
@@ -517,15 +517,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "195"
     },
     {
-        "card_name": "Extra Legal Armorer",
+        "card_name": "Embassy Healer",
         "number": 18,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "148"
     },
     {
         "card_name": "Embassy Row Cycle",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "153"
     },
     {
         "card_name": "Hackomancer",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "150"
     },
     {
         "card_name": "Monster Truck Gang",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "187"
     },
     {
         "card_name": "Earth Within",
@@ -557,23 +557,23 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "134"
     },
     {
-        "card_name": "Go Up in Smoke",
+        "card_name": "Extra Legal Armorer",
         "number": 19,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "196"
     },
     {
-        "card_name": "Energized Ar",
+        "card_name": "Energized Art",
         "number": 56,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "175"
     },
     {
         "card_name": "Pain-Killer",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "138"
     },
     {
         "card_name": "Night Life Ender",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "151"
     },
     {
         "card_name": "F.A.R.M. Squad",
@@ -597,15 +597,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "152"
     },
     {
-        "card_name": "Hardcore Mummy",
+        "card_name": "Go Up in Smoke",
         "number": 20,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "119"
     },
     {
         "card_name": "Energized Militant",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "166"
     },
     {
         "card_name": "Reprogrammed Killbot",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "127"
     },
     {
         "card_name": "Rebel Yell",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "163"
     },
     {
         "card_name": "Food Truck",
@@ -637,15 +637,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "133"
     },
     {
-        "card_name": "Market Street Cycle",
-        "number": 25,
+        "card_name": "Hardcore Mummy",
+        "number": 21,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "159"
     },
     {
         "card_name": "Evade Authorities",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "136"
     },
     {
         "card_name": "Rise Above the Masses",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "123"
     },
     {
         "card_name": "Rebellious Dinosaur",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "171"
     },
     {
         "card_name": "Green Tag",
@@ -677,15 +677,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "201"
     },
     {
-        "card_name": "Market Street Tagger",
+        "card_name": "Market Street Cycle",
         "number": 26,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "154"
     },
     {
         "card_name": "Intel Gathering",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "176"
     },
     {
         "card_name": "Rough Questioning",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "124"
     },
     {
         "card_name": "Red Tag",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "200"
     },
     {
         "card_name": "Grow Up on the Streets",
@@ -717,23 +717,23 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "189"
     },
     {
-        "card_name": "Public Artist",
-        "number": 31,
+        "card_name": "Market Street Tagger",
+        "number": 27,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "203"
     },
     {
-        "card_name": "Kira, Double Agent",
+        "card_name": "Intelligence Agent",
         "number": 63,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "186"
     },
     {
         "card_name": "Rundown in the Street",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "170"
     },
     {
         "card_name": "Send It!",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "131"
     },
     {
         "card_name": "Inline Ostrich",
@@ -757,23 +757,23 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "132"
     },
     {
-        "card_name": "Reconnaisance Leader",
+        "card_name": "Public Artist",
         "number": 32,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "114"
     },
     {
-        "card_name": "Neon LIghts Rider",
+        "card_name": "Kira, Double Agent",
         "number": 64,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "122"
     },
     {
         "card_name": "Steel Street Assassin",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "168"
     },
     {
         "card_name": "Smash and Grab",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "25"
     },
     {
         "card_name": "Local Artists",
@@ -797,23 +797,23 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "190"
     },
     {
-        "card_name": "Remote Command Center",
+        "card_name": "Reconnaisance Leader",
         "number": 33,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "135"
     },
     {
-        "card_name": "Recon",
-        "number": 67,
+        "card_name": "Neon LIghts Rider",
+        "number": 65,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "121"
     },
     {
         "card_name": "Tracy, Murder Matriarch",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "169"
     },
     {
         "card_name": "Smoking Dragon",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "205"
     },
     {
         "card_name": "Streetwise Guardian",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "188"
     },
     {
         "card_name": "White Tag",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "197"
     },
     {
         "card_name": "Skyward Hare",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "117"
     },
     {
         "card_name": "Causless Ruffian",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "Dancing Diva",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "Acid Drop Viper",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "70"
     },
     {
         "card_name": "Citadel Angel",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "36"
     },
     {
         "card_name": "Spray Dancer",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "185"
     },
     {
         "card_name": "Dark-Alley Demon",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "34"
     },
     {
         "card_name": "Expert Insurgent",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "69"
     },
     {
         "card_name": "Beefhead Bouncer",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
         "card_name": "Court of Public Opinion",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "22"
     },
     {
         "card_name": "Biker Tactician",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "58"
     },
     {
         "card_name": "Diehard Dame",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "62"
     },
     {
         "card_name": "Giant Effin Slash",
@@ -949,7 +949,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "75"
     },
     {
         "card_name": "Civil Deconstruction",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "24"
     },
     {
         "card_name": "Cover Up",
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "56"
     },
     {
         "card_name": "CCT Croaker",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "57"
     },
     {
         "card_name": "Entry Team",
@@ -981,7 +981,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "61"
     },
     {
         "card_name": "Hired Gun",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "35"
     },
     {
         "card_name": "Colossal Shredmaw",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "29"
     },
     {
         "card_name": "Daring Writers",
@@ -1005,7 +1005,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "202"
     },
     {
         "card_name": "Censor",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "20"
     },
     {
         "card_name": "Grunt Enforcer",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
         "card_name": "Hit the Pavement",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "182"
     },
     {
         "card_name": "Daring Dame",
@@ -1037,15 +1037,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "71"
     },
     {
         "card_name": "Dropship Recruiter",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "21"
     },
     {
         "card_name": "Coldtouch Dissident",
@@ -1053,7 +1053,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "40"
     },
     {
         "card_name": "Marshal Forces",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "Hotshot",
@@ -1069,7 +1069,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "42"
     },
     {
         "card_name": "Kick-Flip Koala",
@@ -1077,15 +1077,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "37"
     },
     {
         "card_name": "Helpful Vigilante",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "Data Tap",
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "94"
     },
     {
         "card_name": "Pilfering Amphibian",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Night Rider",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "Mech Tech",
@@ -1117,15 +1117,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "43"
     },
     {
         "card_name": "Inspiring Revolutionary",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "Deprogrammed Replicant",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "Ratpack Kingpin",
@@ -1141,7 +1141,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "28"
     },
     {
         "card_name": "Rewire",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "41"
     },
     {
         "card_name": "Motorcycle Muscle",
@@ -1157,15 +1157,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "Mecho-Grunt",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "32"
     },
     {
         "card_name": "Dropship Detention",
@@ -1173,7 +1173,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "60"
     },
     {
         "card_name": "Reckless Rioter",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "Rocket Hamster",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "30"
     },
     {
         "card_name": "Party Ape",
@@ -1197,15 +1197,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "74"
     },
     {
         "card_name": "Painted Infamy",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "39"
     },
     {
         "card_name": "Dynamo Defector",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "31"
     },
     {
         "card_name": "Scream Core",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "65"
     },
     {
         "card_name": "Rollicking Rider",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "Start the Fight",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "Show of Force",
@@ -1245,7 +1245,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "Find Your People",
@@ -1253,7 +1253,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "59"
     },
     {
         "card_name": "Shred",
@@ -1261,7 +1261,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "23"
     },
     {
         "card_name": "Send a Message",
@@ -1269,7 +1269,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "67"
     },
     {
         "card_name": "Turf War",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "Skid-Row Informant",
@@ -1285,7 +1285,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "54"
     },
     {
         "card_name": "Hypno Bass",
@@ -1293,7 +1293,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "93"
     },
     {
         "card_name": "Street Clash",
@@ -1301,7 +1301,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "64"
     },
     {
         "card_name": "Short Kings",
@@ -1309,7 +1309,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "68"
     },
     {
         "card_name": "Urban Artist",
@@ -1317,7 +1317,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "73"
     },
     {
         "card_name": "Skywise Rebel",
@@ -1325,15 +1325,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "55"
     },
     {
         "card_name": "Preventative Strike",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "26"
     },
     {
         "card_name": "Unplug",
@@ -1341,7 +1341,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "66"
     },
     {
         "card_name": "Street-Wise Combatants",
@@ -1349,7 +1349,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "Urban Vibrance",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "Touch the Dataline",
@@ -1365,15 +1365,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "27"
     },
     {
         "card_name": "Trippin'",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "Word on the Street",
@@ -1381,7 +1381,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "63"
     },
     {
         "card_name": "Thrilling Artistry",
@@ -1389,7 +1389,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "33"
     },
     {
         "card_name": "Wolf of Wall Street",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "72"
     },
     {
         "card_name": "Unyielding Sycophant",
@@ -1405,15 +1405,15 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "95"
     },
     {
         "card_name": "Under Observation",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "e"
@@ -1429,11 +1429,11 @@
     },
     {
         "card_name": "Underground DJ",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "38"
     },
     {
         "card_name": "e"
@@ -1463,7 +1463,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "246"
     },
     {
         "card_name": "Tomorrow is Today",
@@ -1471,7 +1471,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "234"
     },
     {
         "card_name": "Iris, the Lurker",
@@ -1479,7 +1479,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "228"
     },
     {
         "card_name": "Katana Gang Rioter",
@@ -1487,7 +1487,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "222"
     },
     {
         "card_name": "Prolific Tagger",
@@ -1495,7 +1495,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "254"
     },
     {
         "card_name": "City Surfer",
@@ -1503,7 +1503,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "96"
     },
     {
         "card_name": "Doctor Antavious",
@@ -1511,7 +1511,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "97"
     },
     {
         "card_name": "Revolution Engine",
@@ -1519,7 +1519,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "98"
     },
     {
         "card_name": "Double or Nothing",
@@ -1527,7 +1527,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "107"
     },
     {
         "card_name": "Goofy Foot Cherub",
@@ -1535,7 +1535,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "99"
     },
     {
         "card_name": "Stun Zapper",
@@ -1543,7 +1543,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "102"
     },
     {
         "card_name": "Lazarus Protocol",
@@ -1551,7 +1551,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "104"
     },
     {
         "card_name": "Run It Back",
@@ -1559,7 +1559,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "106"
     },
     {
         "card_name": "Painter Gator",
@@ -1567,7 +1567,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "100"
     },
     {
         "card_name": "Recombinating",
@@ -1575,7 +1575,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "109"
     },
     {
         "card_name": "Call Spec Ops",
@@ -1583,7 +1583,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "44"
     },
     {
         "card_name": "Two-Wheel Bruiser",
@@ -1591,7 +1591,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "45"
     },
     {
         "card_name": "Katana Gang",
@@ -1599,7 +1599,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "46"
     },
     {
         "card_name": "Dataline Surfing",
@@ -1607,7 +1607,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "47"
     },
     {
         "card_name": "Market Street Mob",
@@ -1615,7 +1615,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "48"
     },
     {
         "card_name": "Special Task Force",
@@ -1623,7 +1623,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "89"
     },
     {
         "card_name": "Canal Town Couriers",
@@ -1631,7 +1631,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "90"
     },
     {
         "card_name": "Industrial Park Freerunner",
@@ -1639,7 +1639,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "91"
     },
     {
         "card_name": "Boonies Homebrewer",
@@ -1647,7 +1647,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "92"
     },
     {
         "card_name": "Art District Defiant",
@@ -1655,7 +1655,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "208"
     },
     {
         "card_name": "er"
@@ -1678,7 +1678,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "242"
     },
     {
         "card_name": "Dockworks Witch",
@@ -1686,7 +1686,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "223"
     },
     {
         "card_name": "Sewer Girl",
@@ -1694,7 +1694,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "255"
     },
     {
         "card_name": "Protest Artist",
@@ -1702,7 +1702,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "239"
     },
     {
         "card_name": "Experiment V",
@@ -1710,7 +1710,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "244"
     },
     {
         "card_name": "er"
@@ -1733,7 +1733,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "258"
     },
     {
         "card_name": "Back-Alley Drop",
@@ -1741,7 +1741,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "250"
     },
     {
         "card_name": "Aunty Ruina",
@@ -1749,7 +1749,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "215"
     },
     {
         "card_name": "Aerosol Justice",
@@ -1757,7 +1757,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "245"
     },
     {
         "card_name": "Ashley, Freedom Fighter",
@@ -1765,7 +1765,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "264"
     },
     {
         "card_name": "Lavorious, the Oppressor",
@@ -1773,7 +1773,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "224"
     },
     {
         "card_name": "Become Obsessed",
@@ -1781,7 +1781,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "281"
     },
     {
         "card_name": "Falling Down",
@@ -1789,7 +1789,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "261"
     },
     {
         "card_name": "Agnus, Voice of the People",
@@ -1797,7 +1797,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "216"
     },
     {
         "card_name": "Aurora Days",
@@ -1805,7 +1805,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "273"
     },
     {
         "card_name": "Lavorious's Backup Plan",
@@ -1813,7 +1813,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "267"
     },
     {
         "card_name": "Bugger, Technothief",
@@ -1821,7 +1821,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "283"
     },
     {
         "card_name": "Franny Lollipop Thomas",
@@ -1829,7 +1829,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "262"
     },
     {
         "card_name": "Guitar Solo",
@@ -1837,7 +1837,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "251"
     },
     {
         "card_name": "City Renewal",
@@ -1845,7 +1845,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "220"
     },
     {
         "card_name": "One Man Army",
@@ -1853,7 +1853,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "212"
     },
     {
         "card_name": "Josh, Undercity Slacker",
@@ -1861,7 +1861,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "225"
     },
     {
         "card_name": "Oni-Face Painting",
@@ -1869,7 +1869,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "263"
     },
     {
         "card_name": "The Project",
@@ -1877,7 +1877,7 @@
         "shape": "transform double faced",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "253"
     },
     {
         "card_name": "Mai, Running Free",
@@ -1885,7 +1885,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "214"
     },
     {
         "card_name": "Spec Ops Commander",
@@ -1893,7 +1893,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "257"
     },
     {
         "card_name": "Rask Cyberfang",
@@ -1901,7 +1901,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "259"
     },
     {
         "card_name": "Roger Funny-Man Cannon",
@@ -1909,7 +1909,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "280"
     },
     {
         "card_name": "Swiss Army Man",
@@ -1917,7 +1917,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "227"
     },
     {
         "card_name": "Sprayed Patroller",
@@ -1925,7 +1925,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "284"
     },
     {
         "card_name": "Winged Interceptor",
@@ -1933,7 +1933,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "252"
     },
     {
         "card_name": "Tina, Queen of the Road",
@@ -1941,7 +1941,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "260"
     },
     {
         "card_name": "Tank Girl",
@@ -1949,7 +1949,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "233"
     },
     {
         "card_name": "Tony",
@@ -1957,7 +1957,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "221"
     },
     {
         "card_name": "We Are the Many",
@@ -1965,7 +1965,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "265"
     },
     {
         "card_name": "Clayton, Embassy Informant",
@@ -1973,7 +1973,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "110"
     },
     {
         "card_name": "Jessica, Undercity Fence",
@@ -1981,7 +1981,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "111"
     },
     {
         "card_name": "DeSean, Community Cultivator",
@@ -1989,7 +1989,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "112"
     },
     {
         "card_name": "Bart, Boon Town Creator",
@@ -1997,7 +1997,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "207"
     },
     {
         "card_name": "Dex, Well-Connected",
@@ -2005,7 +2005,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "113"
     },
     {
         "card_name": "Surveilance State",
@@ -2013,7 +2013,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "101"
     },
     {
         "card_name": "Lydia, Rider of Mayhem",
@@ -2021,7 +2021,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "103"
     },
     {
         "card_name": "Parkland Witch",
@@ -2029,7 +2029,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "105"
     },
     {
         "card_name": "The Tag on 38th Street",
@@ -2037,7 +2037,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "206"
     },
     {
         "card_name": "Inviting Influencer",
@@ -2045,7 +2045,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "108"
     },
     {
         "card_name": "Mind Tap",
@@ -2053,7 +2053,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "49"
     },
     {
         "card_name": "Let it Rip",
@@ -2061,7 +2061,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "50"
     },
     {
         "card_name": "Let Loose",
@@ -2069,7 +2069,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "51"
     },
     {
         "card_name": "Rockers of the Free World",
@@ -2077,7 +2077,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "52"
     },
     {
         "card_name": "Block Party",
@@ -2085,7 +2085,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "53"
     },
     {
         "card_name": "er"
@@ -2108,7 +2108,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "266"
     },
     {
         "card_name": "e"
@@ -2141,7 +2141,7 @@
         "shape": "planeswalker",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "211"
     },
     {
         "card_name": "Spreading Art",
@@ -2149,7 +2149,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "140"
     },
     {
         "card_name": "Citadel's Juggernaut",
@@ -2157,7 +2157,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "274"
     },
     {
         "card_name": "Public Transport",
@@ -2165,7 +2165,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "226"
     },
     {
         "card_name": "Rainbow Road",
@@ -2173,7 +2173,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "141"
     },
     {
         "card_name": "Gas Mask",
@@ -2181,7 +2181,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "180"
     },
     {
         "card_name": "Quiet Plant Store",
@@ -2189,7 +2189,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "179"
     },
     {
         "card_name": "Runaway Service Vehicle",
@@ -2197,7 +2197,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "178"
     },
     {
         "card_name": "The Watchtower",
@@ -2205,7 +2205,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "181"
     },
     {
         "card_name": "e"
@@ -2231,7 +2231,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "78"
     },
     {
         "card_name": "Canal Town",
@@ -2239,7 +2239,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "79"
     },
     {
         "card_name": "Industrial Park",
@@ -2247,7 +2247,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "80"
     },
     {
         "card_name": "The Boonies",
@@ -2255,7 +2255,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "81"
     },
     {
         "card_name": "Arts District",
@@ -2263,7 +2263,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "82"
     },
     {
         "card_name": "er"
@@ -2286,7 +2286,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "83"
     },
     {
         "card_name": "Dockworks",
@@ -2294,7 +2294,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "84"
     },
     {
         "card_name": "Public Works Yard",
@@ -2302,7 +2302,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "85"
     },
     {
         "card_name": "The Blocks",
@@ -2310,7 +2310,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "86"
     },
     {
         "card_name": "Trade Quarter",
@@ -2318,7 +2318,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "87"
     },
     {
         "card_name": "er"
@@ -2341,7 +2341,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "256"
     },
     {
         "card_name": "Aurora Ward",
@@ -2349,7 +2349,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "144"
     },
     {
         "card_name": "The Citadel",
@@ -2357,7 +2357,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "142"
     },
     {
         "card_name": "City Square",
@@ -2365,7 +2365,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "76"
     },
     {
         "card_name": "Neon Circuit",
@@ -2373,7 +2373,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "143"
     },
     {
         "card_name": "Podunk Town",
@@ -2381,7 +2381,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "146"
     },
     {
         "card_name": "The Red Front",
@@ -2389,7 +2389,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "145"
     },
     {
         "card_name": "Back Alley",
@@ -2397,7 +2397,7 @@
         "shape": "normal",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "77"
     },
     {
         "card_name": "e"
@@ -2424,7 +2424,7 @@
         "shape": "token",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "194"
     },
     {
         "card_name": "Soldier Army",
@@ -2432,7 +2432,7 @@
         "shape": "token",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "88"
     },
     {
         "card_name": "Bear",
@@ -2440,7 +2440,7 @@
         "shape": "token",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "193"
     },
     {
         "card_name": "RedRebel",
@@ -2448,7 +2448,7 @@
         "shape": "token",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "191"
     },
     {
         "card_name": "Citizen",
@@ -2456,7 +2456,7 @@
         "shape": "token",
         "set": "NRC",
         "rotated": false,
-        "position": ""
+        "position": "192"
     },
     {
         "card_name": "er"

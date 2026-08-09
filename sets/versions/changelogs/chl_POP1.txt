@@ -1,4 +1,825 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Graft Hydra
+
+Growth Begets Growth
+
+Zaime, History's Watcher
+
+Celebrant of Shinies
+
+Fungal Guardian
+
+Humongous Fungus
+
+Keeper of Cults
+
+Permanency
+
+Odric's Spawn
+
+With Heft
+
+Victor's Cache
+
+Artificer of Eos
+
+Fruits of Feudalism
+
+Wistful Fleeting
+
+Keeper of Ideals
+
+Forgotten Ossuary
+rules_text: Sacrifice this enchantment: Draw card.
+Permanents you control have “Ward—Exile a card from your hand.” [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player exiles a card from their hand.”.)[/i] => Sacrifice this enchantment: Draw card.
+Permanents you control have “Ward—Exile a card from your hand.” [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player exiles a card from their hand.”.)[/i]
+
+Bone Shavings
+
+Elder Deep-Fried
+
+Vault of the Limitless
+
+Adam, Free From Royalty
+
+Fractured Uniqueness
+
+Open the Final Gate
+
+Chronoflux Orinthopter
+
+Rising Chorus
+
+Wall of Magma
+
+Kargan's Second in Command
+
+Battlemage Seer
+
+Paragon of Iroas
+
+Spectral Radiance
+
+Married to the Fey
+
+Lightning Form
+
+Welcome Home
+
+Grist's Charmer
+
+Disturb the Dirt
+
+Skulldrifter
+
+Demonic Renewal
+
+Start of the End
+
+Endrunner
+
+Resounding Dread
+
+Cyclical Tempest
+
+For the Birds
+
+Stampede Driver
+
+Geki, Heir to Ilagra
+
+Rainbow Collector
+
+Winter's Bastion
+
+Frosttail Hawk
+
+Invoker of the Frost Winds
+
+Steps that Shake the World
+
+Grove Tender
+
+Curious Leaffolk
+
+Above the Storm
+
+Coldtouch Cliff
+
+Essence Siphoner
+
+Urgesh Blightbringer
+
+Blightbite
+
+Plagueborn Generation
+
+Hopeful Statuary
+
+Winged Tinkerer
+
+Generational Rations
+
+Runaway Experiment
+
+Feathersail
+
+Drake Hunt
+
+Arrogant Offworlder
+
+Final Scream
+
+Spell Seizure
+
+Temporal Anomaly
+
+Dream Studies
+
+Raven's Understanding
+
+Malicious Strategist
+
+Zealous Sheriff
+
+The Council at Renaltia
+
+Duplicate
+
+Duty Beyond Death
+
+Corpsechurner's Grist
+
+Undead Baker
+
+Refrigerate
+
+Signal the Ancients
+
+Stir the Wilds
+
+Signal the Wilds
+
+Magma Ancient
+
+Raining Fire
+
+Whippersnapper
+
+Ancient Stag
+
+Transplant
+
+Super Death Bros Melee
+
+Ravos, Corpse Counter
+
+Omen of the Thief
+
+Inspired Recruit
+
+Trickster's Wings
+
+Hypnotic Sprite+
+
+Unnatural Magnetism
+
+Realmsplit Kicks
+
+Angel of Death
+
+DJ Jam-a-holic
+
+Elven Spirit
+
+Wary Hare
+
+Enhanced Ambush
+
+Vampiric Humbler
+
+Sawblade Stockade
+
+Slash and Kick
+
+Harvester of the Ten Realms
+
+Muiral's Graveyard
+
+Lluks, the Skeleton King
+
+Undead of Paradise
+
+Mycorrhizal Network
+
+Battlewise Bondwarden
+
+Beckoner of the Brave
+
+Battle-Rattle Otter
+
+Hallowed Rites
+
+Calix, Divine Impossibility
+
+Guardian of Insight
+
+Returning Scholar
+
+Turmoil Mage
+
+Blessing of the Lhurgoyf
+
+Ouphegoyf
+
+Heroic Blessing
+
+Arnold the Armorer
+
+Siege Tank
+
+Featherstone Statuary
+
+Prophetic Messenger
+
+Rapturous Anthem
+
+Vraska, Walking Scorn
+
+Petrifying Mirror
+
+Arboreal Caregiver
+
+Mana Clamp
+
+Mana Vent
+
+Spring Bloom
+
+Winter Bloom
+
+Blizzard Buzzard
+
+Seal of Frostbite
+
+Wandering Albatross
+
+Ravenous Missile
+
+So Much to Gain
+
+Revolting Rebel
+
+Revolting Offensive
+
+Goblin Warren
+
+Corpse Collector
+
+Reasnowbling Skeleton
+
+Auroral Encampment
+
+Vile Experimentation
+rules_text: Vanishing 4 [i](This permanent enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+At the beginning of your end step, mill three cards.
+When you sacrifice this enchantment, return target creature card from your graveyard to the battlefield. => Vanishing 4 [i](This enchantment enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+At the beginning of your end step, mill three cards.
+When you sacrifice this enchantment, return target creature card from your graveyard to the battlefield.
+
+Medical Library
+
+Prismatic Obelisks
+
+Upgrade Echo
+
+Meanderer's Amulet
+
+Manadrunk Fanatic
+
+Meteorfall
+
+Spicy Spuzzem
+
+Locusing Focus
+
+Snowball
+
+Pastry Heister
+
+Slimy Saboteur
+
+Mischievous Mob
+
+Sphinx of Ideation
+
+Dragon of Destruction
+
+Angel of Healing
+
+Demon of Dominion
+
+Beast of Burgeoning
+
+The Dread Tomb
+
+Phyrexian Purification
+
+Shanty of the Lighthouse
+
+Winter Waltz
+
+Spring Serenade
+
+Summer Salsa
+
+Autumnal Aria
+
+Planebound
+
+Gate Keeper
+
+Repress
+
+Haakon's Gambit
+
+Haakon's Command
+
+Footsoldier of Anarchy
+
+Flourishing Regrowth
+
+Orthalgar, Deadscythe
+
+Ruin Refund
+
+Morbid Machinations
+
+Leprous Wurm
+
+Foundation Treefolk
+
+Heart of Flame
+
+Heart of Power
+
+Heart of the Cards
+
+Heart of Artichokes
+
+Heart of Mourning
+
+Heart of Harts
+
+Queen of Harts
+
+Llanowar Elks
+
+Path to Llanowar
+
+Sewer Whiskers
+
+Blood Pup
+
+Pain Unending
+
+Flippant Pridemate
+
+Shelterer of Souls
+
+Gruul Experientialist
+
+Boggart Benefactor
+
+Delayed Destiny
+
+Perpetuator
+
+Planeshift
+
+Menthroc, Eternal Animist
+
+Lozygard, Eternal Settler
+
+Uncontrollable Acid
+
+Gilded Hunter
+
+Reclaimer Titan
+
+It that Swallowed the Wilds
+
+Courtless Sprite
+
+Marching Automatons
+
+Happy Little Painter
+
+Portal to Another Time
+
+Professor of Equivalency
+
+Discordance
+
+Illusions of Alpha
+
+Request Support
+
+Setessan Elephants
+
+Brutalist Embankment
+
+Bramble Bloombot
+
+Temple Rampart
+
+Felfire Imp
+
+Toucan's Treachery
+
+Drop
+
+Arbiter of Winds
+
+Strix Statue
+
+Flight Harness
+
+Reminiscent Rabbi
+
+Evergreen Angel
+
+Appendage Affixer
+
+Martial Maverick
+
+Loot, Omenpath Guide
+
+Path to the Grim Backwoods
+
+Seer of Light and Dark
+
+Flame in the Dark
+
+Avatar of Plagues
+
+Avatar of Storms
+
+Avatar of Memories
+
+Fastidious Recall
+
+Seal for Eternity
+
+Avatar of Battles
+
+Boon of Sacred Strife
+
+Horned-Peaks Firemage
+
+Mox Scarf
+
+Broken Bell
+
+Desperate Hoardkeeper
+
+Ikorran, Dragonmaster
+
+Ikorran's Hatchling
+
+Call of the Dragonmaster
+
+Crackling Ritualist
+
+Quick Lance
+
+Tenacious Cry
+
+Furyborn Drakonid
+
+Sootsown Avenger
+
+Meticulous Homesteader
+
+Portis, the Dawncaller
+
+Titan of Mulch
+
+Solemn Watermill
+
+Vaeria of the Blossoms
+
+Spatial Drift
+
+Fated Excursion
+
+Panglacial Skeleton
+
+Mk5, Bloombot Founder
+
+Making Old Friends
+
+Grisly Amalgam
+
+Stampeding Ibex
+
+Whirler of Minds
+
+Wave of Sleep
+
+Landscaping
+
+All We Need is a Car and a Driver
+
+Determined Strike Team
+
+Shield of Johan
+
+Alonso, the Strongest Man
+
+Homeland Seeker
+
+Birnam Wood
+
+Otherwordly Procession
+
+Sift Through the Rubble
+
+Abyssal Orb
+
+Dweller of the Lost
+
+Hulking Chasmfiend
+
+Propagate
+
+Totem of Towering Tautology
+
+Drakonid Telepath
+
+Legacy's Bane
+
+Veils' Bane
+
+Powersink Warding
+
+Scholar of Things
+
+Battle for Mirrodin
+
+Blight Swarm
+
+Debate Hall
+
+Cave-In (Not the Mercadian Masques One)
+
+Carving
+
+Pridemate Formation
+
+Twin-Friend Dragon
+
+Velle, Singer of Life
+
+Thirsting Vampire
+
+Aneurysm
+
+Ugin, Torn from his Spark
+
+Manifest Hope
+
+Icebreath Tyrant
+
+It Rumbles Beneath the Ice
+
+Dragonic Juggernaut
+
+Zinsil, Sandcastle Queen
+
+Frozen Sanctum
+
+Can't Run, Can't Hide
+
+Concocted Spellbomb
+
+It Cracks Before It Breaks
+
+Magmatic Geyser
+
+Hole Filling Excavator
+
+Establish Hierarchy
+
+Giant's Judgement
+
+Grizzled Wilding
+
+Valkyrie's Vengeance
+
+Tollus, Weaver of Souls
+
+Penultimate Act
+
+Polar Expedition
+
+Katabatic Karoo
+
+Aquarium Atoll
+
+Erstwhile Everglades
+
+Verisimilous Volcano
+
+Burgeoning Basin
+
+Promising Vestige
+
+Prophetic Vestige
+
+Ominous Vestige
+
+Threatening Vestige
+
+Dire Vestige
+
+Riveted Climb
+
+Stout Climb
+
+Commissary Climb
+rules_text: This land enters tapped.
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+{T}: Add {U} or {B}.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => This land enters tapped.
+Ward—Pay 2 life. [i](Whenever this land becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+{T}: Add {U} or {B}.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Cumulus Climb
+
+Alarming Climb
+
+Sinking Climb
+
+Precipitateness Climb
+
+Warmongering Climb
+
+Coordinated Climb
+
+Meddling Climb
+
+Bell of the Ancients
+
+Mindroot Marsh
+
+Maroon Polder
+
+Fortified Metropolis
+
+Splendid Stronghold
+
+Ominous Omission
+
+Mishra's Wilderness
+
+Gitrog Bog
+
+Cadric's Wilderness
+
+Troyan's Wilderness
+
+Aerated Plains
+
+Crawling Lagoon
+
+Fortress at the End of the World
+
+Dwarven Mountainforge
+
+Enclosed Arboretum
+
+Ailuris, Angel Aerie
+
+Orzhova, the Everpresent
+
+Nivix, Eye of the Storm
+
+Svogthos, the Cultivated Crypt
+
+Skarrg, the Lost Hall
+
+Shifting Thundra
+
+Shifting Iceberg
+
+Shifting Chill
+
+Shifting Slopes
+
+Shifting Arctic
+
+Snow-Capped Fountain
+
+Snow-Capped Grave
+
+Snow-Capped Crypt
+
+Snow-Capped Ground
+
+Snow-Capped Treeline
+
+Snow-Capped Garden
+
+Snow-Capped Foundry
+
+Snow-Capped Pool
+
+Snow-Capped Shrine
+
+Snow-Capped Lake
+
+Cave-Inn
+
+Omniscape
+
+Snow-Clad Valley
+
+Snowman's Land
+
+Oranthese, Who Stands Ancient
+
+Pinion
+
+Brainstorm
+
+Spirit Elk
+
+Healing Salve
+
+Dark Ritual
+
+Lightning Bolt
+
+Giant Growth
+
+Llanowar Elves
+
+Hypnotic Specter
+
+Serra Angel
+
+Shivan Dragon
+
+Avatar
+
+Ajani's Pridemate
+
+An-Havva Township
+
+Squire
+
+The One Who Watches The End
+
+White Robot
+
+Blue Robot
+
+Black Robot
+
+Red Robot
+
+Green Robot
+
+Kaleidoscope
+
+Flower
+
+Disc
+
+Citizen Army
+
+Fungus
+
+Insect
+
+Phyrexian Insect
+
+Jellyfish
+
+Orc
+
+Spirit Pilot
+
+Campsite
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

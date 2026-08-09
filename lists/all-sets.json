@@ -8,15 +8,15 @@
         {
             "set_code": "POP1",
             "set_name": "Popcorn",
-            "formats": "Standard"
+            "formats": "Cube"
         },
         {
             "set_code": "POP2",
-            "set_name": "Popcorn 2: This Time It\u2019s Kersonal",
-            "formats": ""
+            "set_name": "Popcorn 2",
+            "formats": "Cube"
         },
         {
-            "set_code": "SOC",
+            "set_code": "STARS",
             "set_name": "Stars of Cinesterra",
             "formats": "Standard"
         },

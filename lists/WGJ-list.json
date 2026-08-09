@@ -120,7 +120,7 @@
         "position": "284"
     },
     {
-        "card_name": "The Citadel",
+        "card_name": "Citadel, the Rumbling Fortress",
         "number": 12,
         "shape": "normal",
         "set": "WGJ",
@@ -280,12 +280,12 @@
         "position": "176"
     },
     {
-        "card_name": "March of the Goliaths",
+        "card_name": "Machines Rule the World",
         "number": 26,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
-        "position": "201"
+        "position": "276"
     },
     {
         "card_name": "Sabotage the Machine",
@@ -320,12 +320,12 @@
         "position": "182"
     },
     {
-        "card_name": "The Skyhorse",
-        "number": 37,
+        "card_name": "March of the Goliaths",
+        "number": 27,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
-        "position": "242"
+        "position": "201"
     },
     {
         "card_name": "Seaside Goliath",
@@ -360,12 +360,12 @@
         "position": "178"
     },
     {
-        "card_name": "Sprawl Enforcers",
+        "card_name": "The Skyhorse",
         "number": 38,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
-        "position": "198"
+        "position": "242"
     },
     {
         "card_name": "Seek the Laboratory",
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Processing Point",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -801,7 +801,7 @@
     },
     {
         "card_name": "Required Assembly",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Robot Samurai",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -881,7 +881,7 @@
     },
     {
         "card_name": "Scrap Blast",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -921,7 +921,7 @@
     },
     {
         "card_name": "Scrapyard Upgrade",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -961,7 +961,7 @@
     },
     {
         "card_name": "Sidecar Cruiser",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1481,7 +1481,7 @@
     },
     {
         "card_name": "Monowheel Interceptor",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1521,7 +1521,7 @@
     },
     {
         "card_name": "Paladin of the Heap",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1561,7 +1561,7 @@
     },
     {
         "card_name": "Priestess of Metal",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1601,7 +1601,7 @@
     },
     {
         "card_name": "Scrapheap Roc",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1794,7 +1794,7 @@
     },
     {
         "card_name": "Sand Skimmer",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1818,7 +1818,7 @@
     },
     {
         "card_name": "Scrap-Pit Champion",
-        "number": 230,
+        "number": 229,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1865,23 +1865,23 @@
     },
     {
         "card_name": "Saryna, Bounty Hunter",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
         "position": "193"
     },
     {
-        "card_name": "Machines Rule the World",
-        "number": 226,
+        "card_name": "Sprawl Enforcers",
+        "number": 231,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
-        "position": "276"
+        "position": "198"
     },
     {
         "card_name": "Speaker Lxtal",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,
@@ -1889,7 +1889,7 @@
     },
     {
         "card_name": "Robotic Reverence",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "WGJ",
         "rotated": false,

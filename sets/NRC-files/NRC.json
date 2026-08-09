@@ -1,10 +1,11 @@
 ﻿{
     "name": "New Requiem: Crossfire",
     "formats": "Standard",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Start the Fight",
@@ -23,6 +24,8 @@
             "loyalty": "",
             "artist": "Alessia Trunfio",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "#common #green\n!tokens The Watchtower<1>"
         },
         {
@@ -42,6 +45,8 @@
             "loyalty": "",
             "artist": "Vadim Garcia",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "#common #black\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -49,7 +54,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Rebel",
-            "number": 24,
+            "number": 25,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When this creature enters, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
@@ -61,6 +66,8 @@
             "loyalty": "",
             "artist": "Benjamin GILETTI",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "#common #white\n!tokens The Watchtower<1>"
         },
         {
@@ -80,6 +87,8 @@
             "loyalty": "",
             "artist": "Eduardo Pena",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -87,7 +96,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 76,
+            "number": 75,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Choose one \u2014 \n\u2022 Counter target spell.\n\u2022 Amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
@@ -99,6 +108,8 @@
             "loyalty": "",
             "artist": "Olga Orlova",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "#common #blue\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -106,7 +117,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Rebel",
-            "number": 21,
+            "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Lifelink\nCycling {W} [i]({W}, Discard this card: Draw a card.)[/i]",
@@ -118,6 +129,8 @@
             "loyalty": "",
             "artist": "Nick Moskvin",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -137,6 +150,8 @@
             "loyalty": "",
             "artist": "Maxim Yershov",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -156,6 +171,8 @@
             "loyalty": "",
             "artist": "Toni Infante",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -175,6 +192,8 @@
             "loyalty": "",
             "artist": "SlothBeing",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -194,6 +213,8 @@
             "loyalty": "",
             "artist": "Phelan A. Davion",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "#common #white\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -201,7 +222,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 75,
+            "number": 74,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature is a Citizen and can't become untapped. [i](It also loses all other creature types.)[/i]",
@@ -213,6 +234,8 @@
             "loyalty": "",
             "artist": "rustam ha",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -232,6 +255,8 @@
             "loyalty": "",
             "artist": "Well - Bee",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -251,6 +276,8 @@
             "loyalty": "",
             "artist": "Jordan Kerbow",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -270,6 +297,8 @@
             "loyalty": "",
             "artist": "Paulo Barrios",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -289,6 +318,8 @@
             "loyalty": "",
             "artist": "Nj",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -308,6 +339,8 @@
             "loyalty": "",
             "artist": "Eugeny Bunin",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "#common #black\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -327,6 +360,8 @@
             "loyalty": "",
             "artist": "Yohan Dupuy",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -346,6 +381,8 @@
             "loyalty": "",
             "artist": "Kirsten Zirngibl",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "#common #green\n!tokens The Watchtower<1>"
         },
         {
@@ -365,6 +402,8 @@
             "loyalty": "",
             "artist": "Salvador Trakal",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -384,6 +423,8 @@
             "loyalty": "",
             "artist": "Anton Kokarev",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -403,6 +444,8 @@
             "loyalty": "",
             "artist": "Misha Oplev",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -410,18 +453,20 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Soldier",
-            "number": 16,
+            "number": 17,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Armies you control have vigilance.\nWhen this creature enters, amass Soldiers 1. [i](Put a +1/+1 counter on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
+            "rules_text": "When this creature enters, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "NRC",
             "loyalty": "",
             "artist": "Javier Charro",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "#common #white\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -441,6 +486,8 @@
             "loyalty": "",
             "artist": "Misha Oplev",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -460,6 +507,8 @@
             "loyalty": "",
             "artist": "Gleb Baker",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -479,6 +528,8 @@
             "loyalty": "",
             "artist": "Gordon Tran",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -498,6 +549,8 @@
             "loyalty": "",
             "artist": "Pavel Vophira",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -505,7 +558,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 66,
+            "number": 67,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Up to one target creature gets -3/-0 until end of turn.\nAmass Soldiers 1. [i](Put a +1/+1 counter on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
@@ -517,6 +570,8 @@
             "loyalty": "",
             "artist": "Shahan",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -536,6 +591,8 @@
             "loyalty": "",
             "artist": "Film Bodesorn",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -555,6 +612,8 @@
             "loyalty": "",
             "artist": "Dreaming-D",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -574,6 +633,8 @@
             "loyalty": "",
             "artist": "Weza",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -593,6 +654,8 @@
             "loyalty": "",
             "artist": "Felixantos \u00b0",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -612,6 +675,8 @@
             "loyalty": "",
             "artist": "Deiv Calviz (David Villegas)",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "#common #blue\n!tokens The Watchtower<1>"
         },
         {
@@ -619,7 +684,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct Soldier",
-            "number": 27,
+            "number": 28,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "When this creature dies, put a +1/+1 counter on target creature you control. If that creature is an Army, put an additional +1/+1 counter on it.",
@@ -631,6 +696,8 @@
             "loyalty": "",
             "artist": "Vito Salamone",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "#common #white\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -650,6 +717,8 @@
             "loyalty": "",
             "artist": "Daniel Ortiz",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "#common #red\nrebel token"
         },
         {
@@ -669,6 +738,8 @@
             "loyalty": "",
             "artist": "Joseph Weston",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -688,6 +759,8 @@
             "loyalty": "",
             "artist": "Alexander Winkler",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -707,6 +780,8 @@
             "loyalty": "",
             "artist": "Nekomancerz",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -726,6 +801,8 @@
             "loyalty": "",
             "artist": "Neoma Studio",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -733,7 +810,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 77,
+            "number": 76,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Whenever you discard one or more cards, this creature gets +1/+0 and can't be blocked this turn.",
@@ -745,6 +822,8 @@
             "loyalty": "",
             "artist": "Fran\u00e7ois Coutu",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -752,7 +831,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2014 Graffiti",
-            "number": 29,
+            "number": 30,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this Graffiti enters, exile target nonland permanent an opponent controls until this Graffiti leaves the battlefield.",
@@ -764,6 +843,8 @@
             "loyalty": "",
             "artist": "ANTHONY FLORIO - M\u2c6fI\u0418LINE01",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -783,6 +864,8 @@
             "loyalty": "",
             "artist": "RUPAM BAYEN",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "#common #blue\n!tokens The Watchtower<1>"
         },
         {
@@ -802,6 +885,8 @@
             "loyalty": "",
             "artist": "Eva Kedves",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -821,6 +906,8 @@
             "loyalty": "",
             "artist": "Nick Greenwood",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -840,6 +927,8 @@
             "loyalty": "",
             "artist": "Sebastian Clark",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -859,6 +948,8 @@
             "loyalty": "",
             "artist": "Carlos Morales",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "#common #gold #white #blue\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -878,6 +969,8 @@
             "loyalty": "",
             "artist": "Krassimir Mercier",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "#common #gold #blue #black"
         },
         {
@@ -897,6 +990,8 @@
             "loyalty": "",
             "artist": "Anthony Beyer",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "#common #gold #black #red"
         },
         {
@@ -916,6 +1011,8 @@
             "loyalty": "",
             "artist": "Katherine Makoyana",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "#common #gold #red #green"
         },
         {
@@ -926,7 +1023,7 @@
             "number": 223,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Whenever another creature you control enters, you gain 1 life and take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
+            "rules_text": "Whenever another creature you control enters, you gain 1 life.\nAt the beginning of your end step, if you gained 3 or more life this turn, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -935,6 +1032,8 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "#common #gold #green #white\n!tokens The Watchtower<1>"
         },
         {
@@ -954,6 +1053,8 @@
             "loyalty": "",
             "artist": "gezi",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "#common #gold #white #blue #black #tricolor #esper\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -973,6 +1074,8 @@
             "loyalty": "",
             "artist": "Katerina Ladon",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "#common #gold #blue #black #red #tricolor #grixis"
         },
         {
@@ -992,6 +1095,8 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "#common #gold #black #red #green #tricolor #jund"
         },
         {
@@ -1011,6 +1116,8 @@
             "loyalty": "",
             "artist": "Maksim Strelkov",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "#common #gold #red #green #white #tricolor #naya\n!tokens RedRebel<2>"
         },
         {
@@ -1030,6 +1137,8 @@
             "loyalty": "",
             "artist": "Christian Fell",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "#common #gold #green #white #blue #tricolor #bant\n!tokens The Watchtower<1>\n!tokens WhiteRebel<3>"
         },
         {
@@ -1049,6 +1158,8 @@
             "loyalty": "",
             "artist": "Nick Greenwood",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -1068,6 +1179,8 @@
             "loyalty": "",
             "artist": "Pantelis Politakos",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -1087,6 +1200,8 @@
             "loyalty": "",
             "artist": "Steven Bongers",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -1106,6 +1221,8 @@
             "loyalty": "",
             "artist": "Aska Fang",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -1125,6 +1242,8 @@
             "loyalty": "",
             "artist": "Aleidys S. Rodriguez",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -1144,6 +1263,8 @@
             "loyalty": "",
             "artist": "Toni Infante",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -1163,6 +1284,8 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "#common #blue\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -1182,6 +1305,8 @@
             "loyalty": "",
             "artist": "qiang zhou",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -1201,6 +1326,8 @@
             "loyalty": "",
             "artist": "Jade Matthew Estrella",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -1220,6 +1347,8 @@
             "loyalty": "",
             "artist": "Eugeny Bunin",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -1239,6 +1368,8 @@
             "loyalty": "",
             "artist": "Thomas Elliot",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -1258,6 +1389,8 @@
             "loyalty": "",
             "artist": "Jack C. Gregory",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "#common #black"
         },
         {
@@ -1277,6 +1410,8 @@
             "loyalty": "",
             "artist": "Joao Antunes Jr.",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "#common #black\n!tokens The Watchtower<1>"
         },
         {
@@ -1296,6 +1431,8 @@
             "loyalty": "",
             "artist": "Wang Jie Xiang",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -1315,6 +1452,8 @@
             "loyalty": "",
             "artist": "Timur Aimurzin",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -1334,6 +1473,8 @@
             "loyalty": "",
             "artist": "Dofresh",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -1345,7 +1486,7 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "When this creature attacks, it gets +1/+0 and gains deathtouch until end of turn.",
-            "flavor_text": "[i]\u201cI saw her drop from a twenty... no thirty story building. She's got no fear.\u201d[/i]",
+            "flavor_text": "[i]\u201cI saw her drop from a twenty... no thirty story building. She's got no fear.\u201d\n\u2014Slide[/i]",
             "pt": "0/3",
             "special_text": "",
             "shape": "normal",
@@ -1353,6 +1494,8 @@
             "loyalty": "",
             "artist": "Jorge Burgos",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -1372,6 +1515,8 @@
             "loyalty": "",
             "artist": "Fahmi Fauzi",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -1391,6 +1536,8 @@
             "loyalty": "",
             "artist": "Saya Vakidzaci",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "#common #green\n!tokens The Watchtower<1>"
         },
         {
@@ -1410,6 +1557,8 @@
             "loyalty": "",
             "artist": "Ilya Galayda",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "#common #green"
         },
         {
@@ -1429,6 +1578,8 @@
             "loyalty": "",
             "artist": "Nicolas Charly",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "#common #green\n!tokens The Watchtower<1>"
         },
         {
@@ -1448,6 +1599,8 @@
             "loyalty": "",
             "artist": "Francisco Ruiz Velasco",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -1458,8 +1611,8 @@
             "number": 271,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. When you do, choose two different colors.\n{T}: Add two mana in any combination of the chosen colors.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {C} and one mana of any color.",
+            "flavor_text": "[i]\u201cThe streets change, but the city doesn't.\u201d\n\u2014Kai, the Dreamer[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1467,7 +1620,9 @@
             "loyalty": "",
             "artist": "Eduardo Pena",
             "alias": "",
-            "notes": "#uncommon #land #tricolor"
+            "position": "76",
+            "rotated": false,
+            "notes": "#uncommon #land\n\nkai"
         },
         {
             "card_name": "Back Alley",
@@ -1486,6 +1641,8 @@
             "loyalty": "",
             "artist": "Maarten Hof",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "#common #land\n!tokens The Watchtower<1>"
         },
         {
@@ -1505,6 +1662,8 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1524,6 +1683,8 @@
             "loyalty": "",
             "artist": "huleeb",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1543,6 +1704,8 @@
             "loyalty": "",
             "artist": "Daniel Liang",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1562,6 +1725,8 @@
             "loyalty": "",
             "artist": "Ouis Laurent",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1581,6 +1746,8 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1600,6 +1767,8 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1619,6 +1788,8 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1638,6 +1809,8 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1657,6 +1830,8 @@
             "loyalty": "",
             "artist": "Blake Rottinger",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1676,6 +1851,8 @@
             "loyalty": "",
             "artist": "Max Bedulenko",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "#common #land"
         },
         {
@@ -1695,6 +1872,8 @@
             "loyalty": "",
             "artist": "Erica Grenci",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1714,6 +1893,8 @@
             "loyalty": "",
             "artist": "Salvador Trakal",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "#common #hybrid #white #blue\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -1733,6 +1914,8 @@
             "loyalty": "",
             "artist": "Haoliang Yang",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "#common #hybrid #blue #black"
         },
         {
@@ -1752,6 +1935,8 @@
             "loyalty": "",
             "artist": "Kyle Smith",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "#common #hybrid #black #red"
         },
         {
@@ -1771,6 +1956,8 @@
             "loyalty": "",
             "artist": "Damaris Franks II",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "#common #hybrid #red #green"
         },
         {
@@ -1790,6 +1977,8 @@
             "loyalty": "",
             "artist": "David Edwards",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -1809,6 +1998,8 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "#common #blue"
         },
         {
@@ -1828,6 +2019,8 @@
             "loyalty": "",
             "artist": "Santiago parra",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -1847,6 +2040,8 @@
             "loyalty": "",
             "artist": "Yueyue Xu",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "#uncommon #gold #white #blue"
         },
         {
@@ -1866,6 +2061,8 @@
             "loyalty": "",
             "artist": "Ilya Pantyuhov",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "#uncommon #gold #blue #black"
         },
         {
@@ -1885,6 +2082,8 @@
             "loyalty": "",
             "artist": "Shuhao jiang",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "#uncommon #gold #black #red"
         },
         {
@@ -1904,6 +2103,8 @@
             "loyalty": "",
             "artist": "Fiqih Hendra",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "#uncommon #gold #green #white"
         },
         {
@@ -1923,6 +2124,8 @@
             "loyalty": "",
             "artist": "ZKhoa Trang",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "#uncommon #gold #red #green"
         },
         {
@@ -1942,6 +2145,8 @@
             "loyalty": "",
             "artist": "Alejandro Mendez",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "#uncommon #gold #white #blue #black #tricolor #esper\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -1961,6 +2166,8 @@
             "loyalty": "",
             "artist": "DOFRESH.",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "#uncommon #gold #white #blue\n!tokens The Watchtower<1>"
         },
         {
@@ -1980,6 +2187,8 @@
             "loyalty": "",
             "artist": "Wangjie Li",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "#uncommon #gold #blue #black #red #tricolor #grixis"
         },
         {
@@ -1999,6 +2208,8 @@
             "loyalty": "",
             "artist": "Brian J Murphy",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "#uncommon #gold #blue #black"
         },
         {
@@ -2018,6 +2229,8 @@
             "loyalty": "",
             "artist": "Malcolm Wope",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "#uncommon #gold #black #red #green #tricolor #jund"
         },
         {
@@ -2037,6 +2250,8 @@
             "loyalty": "",
             "artist": "yuxuan liu",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "#uncommon #gold #black #red"
         },
         {
@@ -2056,6 +2271,8 @@
             "loyalty": "",
             "artist": "Santi Bosch",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "#uncommon #gold #red #green"
         },
         {
@@ -2075,6 +2292,8 @@
             "loyalty": "",
             "artist": "David Barker",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "#uncommon #gold #green #white #blue #tricolor #bant\n!tokens The Watchtower<1>"
         },
         {
@@ -2094,6 +2313,8 @@
             "loyalty": "",
             "artist": "Riana Moller",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "#uncommon #gold #green #white"
         },
         {
@@ -2113,6 +2334,8 @@
             "loyalty": "",
             "artist": "Mooncolony",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "#uncommon #gold #white #blue #black #tricolor #esper"
         },
         {
@@ -2132,6 +2355,8 @@
             "loyalty": "",
             "artist": "Mooncolony",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "#uncommon #gold #blue #black #red #tricolor #grixis"
         },
         {
@@ -2151,6 +2376,8 @@
             "loyalty": "",
             "artist": "Mooncolony",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "#uncommon #gold #black #red #green #tricolor #jund"
         },
         {
@@ -2170,6 +2397,8 @@
             "loyalty": "",
             "artist": "Mooncolony",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "#uncommon #gold #green #white #blue #tricolor #bant"
         },
         {
@@ -2177,7 +2406,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Bard",
-            "number": 31,
+            "number": 32,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "When you take to the streets, this creature gains vigilance until end of turn.\n{2}{W}: Take to the Streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
@@ -2189,6 +2418,8 @@
             "loyalty": "",
             "artist": "Ralison",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens The Watchtower<1>"
         },
         {
@@ -2208,6 +2439,8 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2227,13 +2460,15 @@
             "loyalty": "",
             "artist": "Kenny Kong",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
             "card_name": "Skyward Hare",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Rabbit",
+            "type": "Creature \u2014 Rabbit Rogue",
             "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2246,6 +2481,8 @@
             "loyalty": "",
             "artist": "Simon Goeneutte-Lefevre",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2265,6 +2502,8 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -2272,7 +2511,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 19,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "[i]Raid[/i] \u2014 Exile target tapped creature. Return it to the battlefield under its owner's control unless you attacked this turn.",
@@ -2284,6 +2523,8 @@
             "loyalty": "",
             "artist": "Alex Newman",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -2303,6 +2544,8 @@
             "loyalty": "",
             "artist": "Samantah Yurevich",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2310,7 +2553,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Cyborg Rebel",
-            "number": 64,
+            "number": 65,
             "color_identity": "U",
             "cost": "{5}{U}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nThis creature can't be blocked if you discarded a card this turn.\nCycling {U}",
@@ -2322,6 +2565,8 @@
             "loyalty": "",
             "artist": "Nelson Tai",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2329,7 +2574,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Spy",
-            "number": 63,
+            "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "At the beginning of your upkeep, if an opponent controls a creature with the greatest power, scry 1.\nAs long as you control the creature with the greatest power, instant and sorcery spells you cast cost {2} less to cast.",
@@ -2341,6 +2586,8 @@
             "loyalty": "",
             "artist": "Kenny Kong",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2360,6 +2607,8 @@
             "loyalty": "",
             "artist": "Taylor Lee",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "#uncommon #black\n!tokens The Watchtower<1>"
         },
         {
@@ -2379,6 +2628,8 @@
             "loyalty": "",
             "artist": "Martin Lawrence Agleron",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "#uncommon #black\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -2398,6 +2649,8 @@
             "loyalty": "",
             "artist": "Luciana Zanardo",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2417,6 +2670,8 @@
             "loyalty": "",
             "artist": "Pxlo Drawings",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2436,6 +2691,8 @@
             "loyalty": "",
             "artist": "David Thor Fjalarsson",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2455,6 +2712,8 @@
             "loyalty": "",
             "artist": "Brandon Stricker",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -2474,6 +2733,8 @@
             "loyalty": "",
             "artist": "Maks Trofimov",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -2493,6 +2754,8 @@
             "loyalty": "",
             "artist": "Sketdraws",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -2512,6 +2775,8 @@
             "loyalty": "",
             "artist": "SlicedCat Kitkat",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -2531,6 +2796,8 @@
             "loyalty": "",
             "artist": "ONI One",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -2541,7 +2808,7 @@
             "number": 163,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When this artifact enters or attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nSacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only during your turn.\nCrew 3",
+            "rules_text": "When this artifact enters or attacks, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nSacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only as a sorcery.\nCrew 3",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2550,6 +2817,8 @@
             "loyalty": "",
             "artist": "VJ Comando",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -2569,6 +2838,8 @@
             "loyalty": "",
             "artist": "Joshua Rivaldo",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -2576,7 +2847,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Human Soldier",
-            "number": 32,
+            "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Flash\nWhenever this creature attacks, amass Soldiers 1. [i](Put a +1/+1 counter on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
@@ -2588,6 +2859,8 @@
             "loyalty": "",
             "artist": "tian zi",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -2607,6 +2880,8 @@
             "loyalty": "",
             "artist": "\u7231\u65c5\u884c\u7684\u753b\u7b14",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2626,6 +2901,8 @@
             "loyalty": "",
             "artist": "Gordana Dramicanin (Yuushin7)",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -2645,6 +2922,8 @@
             "loyalty": "",
             "artist": "WANG JIE XIANG",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2664,6 +2943,8 @@
             "loyalty": "",
             "artist": "Neil Ross",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -2683,6 +2964,8 @@
             "loyalty": "",
             "artist": "Adri\u00e1n Alfonso",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "#rare #colorless"
         },
         {
@@ -2693,7 +2976,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When you cast this spell, copy it if you control a multicolored permanent.\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "When you cast this spell, copy it if you control a multicolored permanent and/or a Graffiti.\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2702,6 +2985,8 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "#uncommon #colorless"
         },
         {
@@ -2721,6 +3006,8 @@
             "loyalty": "",
             "artist": "David Bocquillon Carrasco",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "#uncommon #land #tricolor\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -2740,6 +3027,8 @@
             "loyalty": "",
             "artist": "David Bocquillon Carrasco",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "#uncommon #land #tricolor"
         },
         {
@@ -2759,6 +3048,8 @@
             "loyalty": "",
             "artist": "Edgar Seet",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "#uncommon #land #tricolor"
         },
         {
@@ -2778,6 +3069,8 @@
             "loyalty": "",
             "artist": "Krzysztof Bieniawski",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "#uncommon #land #tricolor"
         },
         {
@@ -2797,6 +3090,8 @@
             "loyalty": "",
             "artist": "Paulina Sajniak",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "#uncommon #land #tricolor"
         },
         {
@@ -2816,17 +3111,19 @@
             "loyalty": "",
             "artist": "Craig Tanner",
             "alias": "",
-            "notes": "#uncommon #white\n\ndildobot"
+            "position": "147",
+            "rotated": false,
+            "notes": "#uncommon #white\n!tag dildo\n\ndildobot"
         },
         {
             "card_name": "Embassy Healer",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
-            "number": 17,
+            "number": 18,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, return up to one target creature card from your graveyard to your hand. If that card had mana value 3 or less, amass soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a soldier. If you don't control an Army, create a 0/0 black soldier Army creature token first.)[/i]",
+            "rules_text": "When this creature enters, return up to one target creature card from your graveyard to your hand. If that card had mana value 2 or less, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2835,6 +3132,8 @@
             "loyalty": "",
             "artist": "Ari Targownik",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -2854,6 +3153,8 @@
             "loyalty": "",
             "artist": "Rheliant B.L",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -2873,6 +3174,8 @@
             "loyalty": "",
             "artist": "Ludovic Sanson",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -2892,6 +3195,8 @@
             "loyalty": "",
             "artist": "Chiara Rovoletto",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -2911,6 +3216,8 @@
             "loyalty": "",
             "artist": "Brad Wright",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -2930,6 +3237,8 @@
             "loyalty": "",
             "artist": "Alaiaorax",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "#uncommon #blue #bike-cycle"
         },
         {
@@ -2937,7 +3246,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Vehicle",
-            "number": 25,
+            "number": 26,
             "color_identity": "WUG",
             "cost": "{1}{W}",
             "rules_text": "Vigilance\nWhen this Vehicle enters, search your library for a basic Forest, Plains, or Island card, reveal it, put it into your hand, then shuffle.\nCrew 2\nCycling {G}{W}{U}",
@@ -2949,6 +3258,8 @@
             "loyalty": "",
             "artist": "Senetay Jx",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "#uncommon #white #bike-cycle"
         },
         {
@@ -2968,6 +3279,8 @@
             "loyalty": "",
             "artist": "Emily Deng",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "#uncommon #black #bike-cycle"
         },
         {
@@ -2987,6 +3300,8 @@
             "loyalty": "",
             "artist": "Maria Dresden",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "#uncommon #red #bike-cycle"
         },
         {
@@ -3006,6 +3321,8 @@
             "loyalty": "",
             "artist": "Noah Lloyd",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "#uncommon #green #bike-cycle"
         },
         {
@@ -3025,6 +3342,8 @@
             "loyalty": "",
             "artist": "Emerald Weapon",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3032,7 +3351,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Zombie Rebel",
-            "number": 20,
+            "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This creature can't be blocked by creatures with greater power.\nWhenever you take to the streets, draw a card. This ability triggers only once each turn.",
@@ -3044,6 +3363,8 @@
             "loyalty": "",
             "artist": "\ud835\udc07\ud835\udc00\ud835\udc11\ud835\udc11\ud835\udc18",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -3063,6 +3384,8 @@
             "loyalty": "",
             "artist": "Rob Shields",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3082,6 +3405,8 @@
             "loyalty": "",
             "artist": "Enzo Fernandez",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "#uncommon #red\n!tokens Bear"
         },
         {
@@ -3101,6 +3426,8 @@
             "loyalty": "",
             "artist": "Sergey Kolesov",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -3120,6 +3447,8 @@
             "loyalty": "",
             "artist": "Ina Wong",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "#uncommon #red\n!tokens RedRebel<1>"
         },
         {
@@ -3139,6 +3468,8 @@
             "loyalty": "",
             "artist": "rustam ha",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3148,8 +3479,8 @@
             "type": "Enchantment",
             "number": 14,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "When this enchantment enters and at the beginning of your precombat main phase, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]\nWhen you attack, target attacking creature gets +1/+1 for each other attacking creature you control that's not attacking a player.",
+            "cost": "{3}{W}",
+            "rules_text": "At the beginning of your end step, if you didn't attack this turn, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]\nWhenever you attack, target attacking creature gets +X/+X until end of turn, where X is the number of other attacking creature you control that are not attacking a player.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3158,6 +3489,8 @@
             "loyalty": "",
             "artist": "rustam ha",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens The Watchtower<1>"
         },
         {
@@ -3177,6 +3510,8 @@
             "loyalty": "",
             "artist": "Envar Studio",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3196,6 +3531,8 @@
             "loyalty": "",
             "artist": "Rudy Siswanto",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3215,6 +3552,8 @@
             "loyalty": "",
             "artist": "Alexandre Bonvalot",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -3234,6 +3573,8 @@
             "loyalty": "",
             "artist": "toni infante",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "#uncommon #black\n!tokens Bird"
         },
         {
@@ -3253,6 +3594,8 @@
             "loyalty": "",
             "artist": "Richard Sashigane",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "#uncommon #black\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -3272,6 +3615,8 @@
             "loyalty": "",
             "artist": "Volodymyr Nazarenko",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -3282,15 +3627,17 @@
             "number": 157,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Trample\n[i]Landfall[/i] \u2014 Whenever a land enters under your control, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
+            "rules_text": "Defender, trample\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature can attack this turn as though it didn't have defender. Then if you control seven or more lands, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "NRC",
             "loyalty": "",
             "artist": "Dennis Lubesnky",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "#uncommon #green\n!tokens The Watchtower<1>"
         },
         {
@@ -3310,6 +3657,8 @@
             "loyalty": "",
             "artist": "Florian ELIE",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "#rare #black"
         },
         {
@@ -3329,10 +3678,12 @@
             "loyalty": "",
             "artist": "Ling Zhao",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "#rare #black"
         },
         {
-            "card_name": "Energized Ar",
+            "card_name": "Energized Art",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Graffiti",
@@ -3348,6 +3699,8 @@
             "loyalty": "",
             "artist": "Digital Summers",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3367,6 +3720,8 @@
             "loyalty": "",
             "artist": "Yanitsa Petrova",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "#uncommon #blue"
         },
         {
@@ -3386,6 +3741,8 @@
             "loyalty": "",
             "artist": "Paulina Sajniak",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "#uncommon #black\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -3405,6 +3762,8 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "#uncommon #colorless"
         },
         {
@@ -3424,6 +3783,8 @@
             "loyalty": "",
             "artist": "Thomas Fernandes",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "#uncommon #colorless"
         },
         {
@@ -3443,6 +3804,8 @@
             "loyalty": "",
             "artist": "Vorokh Dmytro",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "#uncommon #colorless"
         },
         {
@@ -3462,6 +3825,8 @@
             "loyalty": "",
             "artist": "Sparth",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "!tokenshape\n!exportname The Watchtower"
         },
         {
@@ -3481,6 +3846,8 @@
             "loyalty": "",
             "artist": "Fred Augis",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "#common #red"
         },
         {
@@ -3500,17 +3867,19 @@
             "loyalty": "",
             "artist": "Jay Li",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>"
         },
         {
-            "card_name": "Remote Command Center",
+            "card_name": "Deployment Barracks",
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 33,
+            "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "At the beginning of your precombat main phase, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]\n{T}: Amass Soldiers 2. Activate this ability only if you control an Army and only as a sorcery. [i](To amass Soldiers 2, put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]",
+            "rules_text": "When this artifact enters, amass Soldiers 1. [i](Put a +1/+1 counter on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]\n{4}{W}: Create a token that is a copy of target creature token you control. That token enters with a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3519,6 +3888,8 @@
             "loyalty": "",
             "artist": "Guilem H. Pongiluppi",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "#uncommon #white\n!tokens Soldier Army RBL<1>\n!tokens The Watchtower<1>"
         },
         {
@@ -3538,17 +3909,19 @@
             "loyalty": "",
             "artist": "Koyorin",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "#uncommon #blue\n!tokens The Watchtower<1>"
         },
         {
-            "card_name": "Recon",
+            "card_name": "Intelligence Agent",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier Army",
-            "number": 67,
+            "number": 63,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "When this creature enters, amass Soldiers X, where X is the difference between the number of cards in your hand and seven. [i](Put X +1/+1 counters on an Army you control. It's also an Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]\nWhen this creature deals combat damage to a player draw that many cards.",
+            "rules_text": "When this creature enters, amass Soldiers X, where X is the difference between the number of cards in your hand and seven. [i](Put X +1/+1 counters on an Army you control. It's also an Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]\nWhen this creature deals combat damage to a player, draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3557,6 +3930,8 @@
             "loyalty": "",
             "artist": "Park Byungjun",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "#uncommon #blue\n!tokens Soldier Army RBL<1>"
         },
         {
@@ -3576,6 +3951,8 @@
             "loyalty": "",
             "artist": "Jiang lai",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3595,6 +3972,8 @@
             "loyalty": "",
             "artist": "Maerel Hibadita",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3614,6 +3993,8 @@
             "loyalty": "",
             "artist": "Klaus Pillon",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "#uncommon #green\n!tokens The Watchtower<1>"
         },
         {
@@ -3633,6 +4014,8 @@
             "loyalty": "",
             "artist": "SillyJellie (Ellie)",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3652,6 +4035,8 @@
             "loyalty": "",
             "artist": "Borodyn Skyy",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "!exportname RedRebel"
         },
         {
@@ -3671,6 +4056,8 @@
             "loyalty": "",
             "artist": "Kenny Kong",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "!exportname Citizen"
         },
         {
@@ -3690,6 +4077,8 @@
             "loyalty": "",
             "artist": "Borodyn Skyy",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3709,6 +4098,8 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3728,6 +4119,8 @@
             "loyalty": "",
             "artist": "Toby Fan",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3735,7 +4128,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Cyborg Citizen",
-            "number": 18,
+            "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "{2}{W}, {T}: Put a +1/+1 counter on target creature you control. This ability cost {1} less for each counter on that creature.",
@@ -3747,6 +4140,8 @@
             "loyalty": "",
             "artist": "Ilya Galayda",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -3766,6 +4161,8 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "#uncommon #white graffiti\n!tokens RedRebel<1>"
         },
         {
@@ -3785,6 +4182,8 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "#uncommon #blue\n\n (Other Graffiti you control that don't share a name with this one gain the following abilities.)"
         },
         {
@@ -3804,6 +4203,8 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "#uncommon #black"
         },
         {
@@ -3823,6 +4224,8 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -3842,6 +4245,8 @@
             "loyalty": "",
             "artist": "Adam Danger Cook",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3861,6 +4266,8 @@
             "loyalty": "",
             "artist": "Kenny Kong",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "#common #white"
         },
         {
@@ -3868,7 +4275,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Bard",
-            "number": 26,
+            "number": 27,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever an enchantment you control enters, put a +1/+1 counter on this creature.\nWhenever a Graffiti you control enters, draw a card. This ability triggers only once each turn.",
@@ -3880,6 +4287,8 @@
             "loyalty": "",
             "artist": "PerryHan Zhang",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "#uncommon #white"
         },
         {
@@ -3899,6 +4308,8 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "#uncommon #green"
         },
         {
@@ -3918,6 +4329,8 @@
             "loyalty": "",
             "artist": "Alexandre Chaudret",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "#uncommon #red"
         },
         {
@@ -3937,6 +4350,8 @@
             "loyalty": "",
             "artist": "Axeman Andrew",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "#uncommon #gold #red #green #white #tricolor #naya"
         },
         {
@@ -3956,6 +4371,8 @@
             "loyalty": "",
             "artist": "Mooncolony",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "#uncommon #gold #red #green #white #tricolor #naya"
         },
         {
@@ -3975,6 +4392,8 @@
             "loyalty": "",
             "artist": "Carlos Lopez",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "#common #hybrid #green #white\n!tokens The Watchtower<1>"
         },
         {
@@ -3994,6 +4413,8 @@
             "loyalty": "",
             "artist": "Bella Stercula",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -4013,6 +4434,8 @@
             "loyalty": "",
             "artist": "Lanny Markasky",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
@@ -4032,6 +4455,8 @@
             "loyalty": "3",
             "artist": "Andy Zhang",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "#rare #planeswalker #colorless"
         },
         {
@@ -4051,6 +4476,8 @@
             "loyalty": "",
             "artist": "Alexey Virus",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "#rare #gold #white #blue #black #esper"
         },
         {
@@ -4070,6 +4497,8 @@
             "loyalty": "",
             "artist": "Tano Bonfanti",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -4089,6 +4518,8 @@
             "loyalty": "4",
             "artist": "Youngjin Seo",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "#rare #planeswalker #gold #green #white #blue #bant\n\nhttps://www.artstation.com/artwork/n0bGVE"
         },
         {
@@ -4108,6 +4539,8 @@
             "loyalty": "6",
             "artist": "Rafeizer",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "#rare #planeswalker #gold #black #red #green #jund\n\nhttps://www.artstation.com/artwork/YBbR8b"
         },
         {
@@ -4127,6 +4560,8 @@
             "loyalty": "4",
             "artist": "Lamin Martin",
             "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "#rare #planeswalker #gold #red #green #white #naya\n\nhttps://www.artstation.com/artwork/ykkBn"
         },
         {
@@ -4146,17 +4581,19 @@
             "loyalty": "",
             "artist": "Proser Pina",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
-            "card_name": "Take a Beat",
+            "card_name": "Wait for the Drop",
             "color": "U",
             "rarity": "rare",
-            "type": "Enchantment",
-            "number": 73,
+            "type": "Instant",
+            "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "At the beginning of each player's upkeep, they may take to the streets. If they do, you draw a card. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]",
+            "rules_text": "Exile all attacking creatures. The next time you attack, return them to the battlefield tapped under their owner's control. Creatures you own put onto the battlefield this way enter tapped and attacking.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4165,6 +4602,8 @@
             "loyalty": "",
             "artist": "Elora Berg",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
@@ -4184,6 +4623,8 @@
             "loyalty": "",
             "artist": "space gooose",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -4203,6 +4644,8 @@
             "loyalty": "",
             "artist": "Arturo Gutierrez",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "#rare #gold #green #white #blue #bant"
         },
         {
@@ -4222,6 +4665,8 @@
             "loyalty": "",
             "artist": "James Kenyanza",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "#rare #gold #red #green #white #naya"
         },
         {
@@ -4241,6 +4686,8 @@
             "loyalty": "",
             "artist": "Philip Helliwell",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "#rare #gold #red #green #gruul"
         },
         {
@@ -4260,6 +4707,8 @@
             "loyalty": "",
             "artist": "LessDraws...",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "#rare #gold #blue #red #enemy #izzet"
         },
         {
@@ -4279,13 +4728,15 @@
             "loyalty": "5",
             "artist": "LiXin Yin",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "#rare #planeswalker #gold #white #blue #black #esper\n \nhttps://www.artstation.com/artwork/JlOn8m"
         },
         {
             "card_name": "Josh, Undercity Slacker",
             "color": "UBR",
             "rarity": "rare",
-            "type": "Planeswalker \u2014 Josh",
+            "type": "Legendary Planeswalker \u2014 Josh",
             "number": 213,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
@@ -4298,6 +4749,8 @@
             "loyalty": "4",
             "artist": "Marko Galvez",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "#rare #planeswalker #blue #black #red #gold #grixis\n\nhttps://www.artstation.com/artwork/Go4bV"
         },
         {
@@ -4317,6 +4770,8 @@
             "loyalty": "",
             "artist": "Pavel Vophira",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "#rare #colorless"
         },
         {
@@ -4336,6 +4791,8 @@
             "loyalty": "",
             "artist": "Voyager",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "#gold #red #green #white #naya"
         },
         {
@@ -4355,6 +4812,8 @@
             "loyalty": "",
             "artist": "Kay Vi",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "#rare #gold #black #red #rakdos"
         },
         {
@@ -4362,7 +4821,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 28,
+            "number": 29,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "[i]Raid[/i] \u2014 This spell costs {2} less to cast if you attacked this turn.\nDestroy all creatures.",
@@ -4374,6 +4833,8 @@
             "loyalty": "",
             "artist": "Andrey Eliseev",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -4393,6 +4854,8 @@
             "loyalty": "",
             "artist": "JohnnyBoooy",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -4400,7 +4863,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Samurai",
-            "number": 23,
+            "number": 24,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Double strike\nWhen Inshi enters, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]\nWhenever Inshi attacks, tap target creature you don't control.",
@@ -4412,6 +4875,8 @@
             "loyalty": "",
             "artist": "Elvisual",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -4431,6 +4896,8 @@
             "loyalty": "",
             "artist": "Stefano Artibani",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "#rare #gold #red #green #white"
         },
         {
@@ -4450,6 +4917,8 @@
             "loyalty": "",
             "artist": "Maku Zoku",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "#rare #gold #black #red #green #jund"
         },
         {
@@ -4469,6 +4938,8 @@
             "loyalty": "",
             "artist": "Steven Bongers",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #dimir"
         },
         {
@@ -4476,10 +4947,10 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Tiefling Detective",
-            "number": 30,
+            "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever a creature an opponent controls enters, investigate. This ability triggers once each turn. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.",
+            "rules_text": "Whenever a nontoken creature an opponent controls enters, that player may pay {1}. If they don't, you investigate. This ability triggers once each turn. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4488,6 +4959,8 @@
             "loyalty": "",
             "artist": "Diniece henderson",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -4507,13 +4980,15 @@
             "loyalty": "",
             "artist": "Joa AntunesJr.",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
-            "card_name": "Kai, a Dreamer",
+            "card_name": "Kai, the Dreamer",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human",
+            "type": "Legendary Creature \u2014 Human Citizen",
             "number": 128,
             "color_identity": "WUBRG",
             "cost": "{2}{R}",
@@ -4526,6 +5001,8 @@
             "loyalty": "",
             "artist": "Roselin Ramierez",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -4545,6 +5022,8 @@
             "loyalty": "",
             "artist": "Jesse Sosa",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "#rare #green"
         },
         {
@@ -4564,6 +5043,8 @@
             "loyalty": "",
             "artist": "Dayne henry Jr",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "#rare #gold #red #white #enemy #boros"
         },
         {
@@ -4583,6 +5064,8 @@
             "loyalty": "",
             "artist": "Juan Diego Leon",
             "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "#rare #green"
         },
         {
@@ -4602,6 +5085,8 @@
             "loyalty": "",
             "artist": "Jay Li",
             "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "#rare #greeen"
         },
         {
@@ -4621,6 +5106,8 @@
             "loyalty": "",
             "artist": "Jay Li",
             "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "#rare #gold #enemy #white #black"
         },
         {
@@ -4640,6 +5127,8 @@
             "loyalty": "",
             "artist": "Jay Li",
             "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -4659,6 +5148,8 @@
             "loyalty": "",
             "artist": "RAY 84",
             "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "#rare #gold #green #blue #enemy"
         },
         {
@@ -4678,6 +5169,8 @@
             "loyalty": "",
             "artist": "Noxtato",
             "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "#rare #gold #red #green #white #naya"
         },
         {
@@ -4697,6 +5190,8 @@
             "loyalty": "",
             "artist": "Kristy Glas",
             "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "#rare #gold #white #blue"
         },
         {
@@ -4704,7 +5199,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human",
-            "number": 74,
+            "number": 73,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Whenever you cycle Ten'Sil or another card, you may exile another target nonland permanent you own. You may cast that card on a later turn by paying {2} rather than its mana cost.\nCycling {U} [i]({U}, Discard this card: Draw a card.)[/i]",
@@ -4716,6 +5211,8 @@
             "loyalty": "",
             "artist": "Rashed AIAkroka",
             "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
@@ -4735,6 +5232,8 @@
             "loyalty": "",
             "artist": "Eduardo Pena",
             "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "#rare #black"
         },
         {
@@ -4754,6 +5253,8 @@
             "loyalty": "",
             "artist": "Oskar johannes Grents",
             "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4773,6 +5274,8 @@
             "loyalty": "",
             "artist": "Nick Greenwood",
             "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #red #grixis"
         },
         {
@@ -4792,6 +5295,8 @@
             "loyalty": "",
             "artist": "Billfy Devdariani",
             "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "#rare #gold #red #green #white #naya"
         },
         {
@@ -4811,6 +5316,8 @@
             "loyalty": "",
             "artist": "Justice wong",
             "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "#rare #gold #white #blue #black #esper"
         },
         {
@@ -4830,6 +5337,7 @@
             "loyalty": "",
             "artist": "Tano Bonfanti",
             "alias": "",
+            "position": "253",
             "card_name2": "87, Hope of New Requiem",
             "color2": "",
             "type2": "Legendary Artifact Creature \u2014 Construct",
@@ -4841,6 +5349,8 @@
             "loyalty2": "",
             "artist2": "John Wallin Liberto",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "#rare #gold #red #green #white #naya"
         },
         {
@@ -4851,7 +5361,7 @@
             "number": 230,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Trample\nWhen this creature enters, other creatures you control get +1/+1 for each other graffiti you control.\nWhenever a graffiti you control enters put a +1/+1 counter on this creature.",
+            "rules_text": "Trample\nWhen this creature enters, other creatures you control get +1/+1 for each other Graffiti you control.\nWhenever a Graffiti you control enters, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]Unmistakable style.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4860,7 +5370,9 @@
             "loyalty": "",
             "artist": "Tudor Trandafir",
             "alias": "",
-            "notes": ""
+            "position": "254",
+            "rotated": false,
+            "notes": "#rare #gold #green #white"
         },
         {
             "card_name": "Sewer Girl",
@@ -4879,6 +5391,8 @@
             "loyalty": "",
             "artist": "Jakub Rebelka",
             "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "#rare #gold #enemy #green #black"
         },
         {
@@ -4898,6 +5412,8 @@
             "loyalty": "",
             "artist": "kyoungsuk kim",
             "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "#rare #colorless"
         },
         {
@@ -4917,6 +5433,8 @@
             "loyalty": "",
             "artist": "Christopher Balaskas",
             "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "#rare #white #blue #black #esper"
         },
         {
@@ -4936,6 +5454,8 @@
             "loyalty": "",
             "artist": "Alfven Ato",
             "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "#rare #white #blue #black #esper"
         },
         {
@@ -4955,6 +5475,8 @@
             "loyalty": "",
             "artist": "Brian J Murphy",
             "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #red #grixis"
         },
         {
@@ -4974,6 +5496,8 @@
             "loyalty": "",
             "artist": "Eddie Mendoza",
             "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #red #grixis"
         },
         {
@@ -4993,6 +5517,8 @@
             "loyalty": "",
             "artist": "David Newton",
             "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "#rare #gold #black #red #green #jund"
         },
         {
@@ -5012,6 +5538,8 @@
             "loyalty": "",
             "artist": "KROUYA",
             "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "#rare #gold #black #red #green #jund"
         },
         {
@@ -5031,6 +5559,8 @@
             "loyalty": "",
             "artist": "ItsUrVault",
             "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "#rare #gold #black #red #green #jund"
         },
         {
@@ -5050,6 +5580,8 @@
             "loyalty": "",
             "artist": "wenfei ye",
             "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "#rare #gold #green #white #blue #bant"
         },
         {
@@ -5069,6 +5601,8 @@
             "loyalty": "",
             "artist": "Zara Bibi Malik",
             "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "#rare #gold #green #white #blue #bant"
         },
         {
@@ -5088,6 +5622,8 @@
             "loyalty": "",
             "artist": "Yuliya Zabelina",
             "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "#rare #gold #green #white #blue #red #4color"
         },
         {
@@ -5107,6 +5643,8 @@
             "loyalty": "",
             "artist": "Aleidys S. Rodr\u00edguez",
             "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "#rare #white #blue #black #esper"
         },
         {
@@ -5114,7 +5652,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 22,
+            "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Look at target opponent's hand. You may exile a nonland card from it or a nonland permanent that player controls. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.",
@@ -5126,6 +5664,8 @@
             "loyalty": "",
             "artist": "Dendy D",
             "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -5145,6 +5685,8 @@
             "loyalty": "",
             "artist": "Javier G. Pacheco",
             "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -5164,6 +5706,8 @@
             "loyalty": "",
             "artist": "Rossdraws \u2726",
             "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
@@ -5171,7 +5715,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 65,
+            "number": 66,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Counter target spell. If an artifact spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it for as long as it remains exiled. Mana of any type can be spent to cast a spell this way.",
@@ -5183,6 +5727,8 @@
             "loyalty": "",
             "artist": "Adam Schumpert",
             "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "#rare #blue"
         },
         {
@@ -5202,6 +5748,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Antunes Jr.",
             "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "#rare #green"
         },
         {
@@ -5221,6 +5769,8 @@
             "loyalty": "",
             "artist": "Orca Arashi",
             "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "#rare #green #white #blue #gold #bant"
         },
         {
@@ -5240,6 +5790,8 @@
             "loyalty": "",
             "artist": "JJ Wong",
             "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "#rare #colorless"
         },
         {
@@ -5259,6 +5811,8 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "#rare #green"
         },
         {
@@ -5278,6 +5832,8 @@
             "loyalty": "",
             "artist": "Pablo Carpio",
             "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "#rare #white"
         },
         {
@@ -5289,7 +5845,7 @@
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Destroy target creature or planeswalker.\n[i]Raid[/i] \u2014 If you attacked this turn, that permanent's controller discards a card.",
-            "flavor_text": "[i]ft\nft\nft[/i]",
+            "flavor_text": "[i]\u201cThere are other ways to suppress an uprising. Target their minds.\u201d\n\u2014Lavorious, the Oppressor[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5297,6 +5853,8 @@
             "loyalty": "",
             "artist": "Austen Mengler",
             "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "#rare #black"
         },
         {
@@ -5316,6 +5874,8 @@
             "loyalty": "",
             "artist": "Jean_Phi",
             "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "#rare #black"
         },
         {
@@ -5335,6 +5895,8 @@
             "loyalty": "",
             "artist": "Jordan kerbow",
             "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "#rare #red"
         },
         {
@@ -5354,6 +5916,8 @@
             "loyalty": "",
             "artist": "Renan Ribeiro",
             "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "#rare #gold #black #red #green #jund"
         },
         {
@@ -5373,6 +5937,8 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #red #grixis"
         },
         {
@@ -5392,6 +5958,8 @@
             "loyalty": "",
             "artist": "Enora",
             "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "#rare #green"
         },
         {
@@ -5411,6 +5979,8 @@
             "loyalty": "",
             "artist": "Matt Zeilinger",
             "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "#rare #gold #blue #black #red #grixis"
         },
         {
@@ -5430,10 +6000,12 @@
             "loyalty": "",
             "artist": "MetaGear2600",
             "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "#rare #gold #green #white #blue #bant"
         },
         {
-            "card_name": "Birds of Distopia",
+            "card_name": "Birds of Dystopia",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Bird",
@@ -5449,8 +6021,10 @@
             "loyalty": "",
             "artist": "Jori Bolton",
             "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "#rare #green #art"
         }
     ],
-    "version": 3
+    "version": 4
 }

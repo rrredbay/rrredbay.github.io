@@ -1,4 +1,1389 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Call Forth the Militia added.
+Harmonic Foundations added.
+Dream On added.
+Egg of Purpose added.
+Egg of Ambition added.
+Egg of Judgement added.
+Egg of Nature added.
+Solarhub System added.
+Librarbee of Alexandrbeea added.
+Gorgon's Gallery added.
+Hivefever Vines added.
+Hiveroot Colony added.
+The Overgrown Facade added.
+Buzzing Depths added.
+Radiant Mistfalls added.
+Soot Marble Steps added.
+Umbral Pools added.
+Stormglass Pass added.
+Smoldering Channels added.
+Grave-Fed Thicket added.
+Volcanic Steppe added.
+Sunbleached Ridge added.
+Algae Terraces added.
+Solemn Palace Gate added.
+Shadowy Ice Gate added.
+Glorious Skygate added.
+Darkened Hell Gate added.
+Mossy Garden Gate added.
+Honored Valley Gate added.
+Ancient Cliffgate added.
+Runed Temple Gate added.
+Unknown Warpgate added.
+Skywatch Platform added.
+Sanctuary Platform added.
+Rumorhome Platform added.
+Cindercrest Platform added.
+Rotgrove Platform added.
+Trail Edge Platform added.
+Honor Guard Platform added.
+Bloomrest Platform added.
+Canopy Research Platform added.
+Fatehold Classroom added.
+Silverquill Classroom added.
+Theorix Classroom added.
+Prismari Classroom added.
+Stingerquill Classroom added.
+Witherbloom Classroom added.
+Konstrari Classroom added.
+Lorehold Classroom added.
+Vigorbloom Classroom added.
+Quandrix Classroom added.
+Valthyra, Mythic Mead-Hall added.
+Opulent Archway added.
+Halvoryn, Sunken Shipdock added.
+Relaxing Pool added.
+Golgamass, The Bog Incarnate added.
+Shallow Cemetery added.
+Madder Blinder Mountain added.
+The Aether Bloom added.
+Timberland Fort added.
+Stairway to Order added.
+Stairway to Reverence added.
+Stairway to Depths added.
+Stairway to Confusion added.
+Stairway to Luxury added.
+Stairway to Malady added.
+Stairway to Freedom added.
+Stairway to Opportunity added.
+Stairway to Pilgirmage added.
+Stairway to Meditation added.
+
+Triangulate Position removed.
+Battle Tactics removed.
+Stairpath Crossing removed.
+Stonefire Tavern removed.
+Bloomrest Grove removed.
+Colonyroot Glade removed.
+The Spire removed.
+Battle Between Emrakul and Fifteen Squirrels removed.
+Paintstaking Copycat removed.
+Call forth the Militia removed.
+Sunken Shipdock removed.
+Serenity Rekindled removed.
+Rockopolis removed.
+Minion Converter removed.
+Abberant Chromat removed.
+If Not Pet Why Pet Shaped removed.
+Does the Dog Die removed.
+School of Hard Knucks removed.
+It's All Over removed.
+Lost Library removed.
+The Fields of Strife removed.
+Mythic Mead-Hall removed.
+Hamonic Foundations removed.
+Embalming Chambers removed.
+Blood Moon Rising removed.
+Dream on removed.
+Nighthawks' Respite removed.
+Egg of BANT removed.
+Egg of GRIXIS removed.
+Egg of JUND removed.
+Egg of NAYA removed.
+
+Opening Salvo
+
+Second Thought
+
+Honey Queen
+
+Humming Host
+
+Entomancer
+
+Stinging Dispersal
+
+Essence Ensnarer
+
+Myranda, Viron Queen
+
+Immaculate Peace
+
+Allergy Season
+
+Shockpincer Tank
+
+Widow of Malice and Silk
+
+Cackling Marauder
+
+Kolt the Bloodswarm
+
+Continued Plan
+
+Arachnoid Infiltrator
+rules_text: Whenever this creature attacks, you may pay {1}{U}. If you do, untap this creature and it can't be blocked this turn. => Whenever this creature attacks, you may pay {U}. If you do, untap this creature and it can't be blocked this turn.
+pt: 1/3 => 2/3
+
+Innocuous Ladybird
+
+Tactical Retreat
+
+Nicholas, Father of Generosity
+
+Greedy Gus
+
+Buzzbowl
+
+Clanforge Warworks
+
+Vector of the Thirst
+
+Flames of Betrayal
+
+Treasure Hunter's Lineage
+
+Evidence of Foul Play
+
+Cultivator of Balance
+
+Charging Beacon
+
+Armadillo Protector
+rules_text: Trample
+Whenever this creature attacks a permanent or blocks a creature that is attacking a permanent, it gets +2/+2 until end of turn. => Trample
+Whenever this creature deals damage, you gain that much life.
+Whenever this creature attacks a permanent or blocks a creature that is attacking a permanent, it gets +2/+2 until end of turn.
+pt: 3/3 => 2/2
+
+Giant of Lost Causes
+rules_text: Vigilance
+Ward—Have this creature's controller gain 3 life, draw a card, and create a tapped Treasure. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player have this creature's controller gain 3 life, draws a card, and creates a tapped treasure.)[/i]
+This creature blocks each turn if able. Attacking players chooses how this creature blocks. => Vigilance
+Ward—Have this creatures controller gain 3 life, draw a card, and create a tapped treasure. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player have this creatures controller gain 3 life, draws a card, and creates a tapped treasure.)[/i]
+This creature blocks each turn if able. Attacking players chooses how this creature blocks.
+
+Combat Training
+
+Tricky Trichius
+
+Provide Nutrients
+
+Roil Shaper's Apprentice
+cost: {G}{W}{U} => {2}{G}
+
+Arbor Upstart
+
+Rubbletrack Rig
+
+Maelstrom Wayfinder
+rules_text: Cascade
+As long as this card's on the battlefield, in your graveyard, or in your library, it's a land in addition to its other types and has rangeling [i](This card is every land type, including Plains, Island, Swamp, Mountain, Forest, Arch, Cave, Desert, Gate, Hive, Lair, Locus, Planet, Sphere, Town, and all those Urza's ones.)[/i] => Cascade
+As long as this card's on the battlefield, in your graveyard, or in your library, it's a land in addition to its other types and has Rangeling [i](This card is every land type, including Plains, Island, Swamp, Mountain, Forest, Beacon, Cave, Desert, Gate, Hive, Lair, Locus, Planet, Sphere, Town, and all those Urza's ones.)[/i]
+
+Kalais, Drowner of Reason
+
+Succumb to Envy
+
+Wasteland Elemental
+
+Inquisitor of Keral Keep
+
+Nyxwing Devotee
+
+Monument to the Pantheon
+
+Impressionable Automaton
+
+Boilerbilge Stoker
+
+Dutiful Drone
+
+Unnatural Remnant
+
+Being of the Swamp
+
+Bog Mist Banjo
+
+Poisoned Gravesite
+
+Sanctified Battleground
+
+Chained Demon
+
+Unchained
+
+Innocence Beyond Time
+
+Star Catapult
+cost: {3}{R} => {1}{R}
+rules_text: When this artifact enters, exile target enchantment card from your graveyard. You may play it this turn. 
+{R}, {T}, Sacrifice an enchantment: This artifact deals damage equal the sacrificed enchantment's mana value to any target. => When this artifact enters, exile target enchantment card from your graveyard. You may play it this turn. 
+{2}{R}, {T}, Sacrifice an enchantment: This artifact deals damage equal the sacrificed enchantment's mana value to any target.
+
+Kassan, God of Tactics
+
+Remove From the Game
+
+Sphinx of Nu
+
+Eldrazi-Slaying Squirrel
+cost: {B}{G} => {BG}{BG}
+pt: 1/2 => 1/1
+
+Mutual Destruction
+
+Irrepressible Vitality
+
+Derealization
+cost: {WU}{WU} => {1}{W}
+
+Proficient Magecrafter
+
+Feverdream Forgery
+rules_text: When you cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. Do this only once each turn.
+Cipher [i](Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)[/i] => When you cast an instant or sorcery spell this turn, you may copy that spell and may choose new targets for the copy. Do this only once each turn.
+Cipher [i](Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)[/i]
+
+Silverquill Soliloquy
+
+The Elements of Style
+
+The Elements of Grace
+
+Silverquill Shieldmaster
+
+Skeletal Growth
+
+Arbiter of the Void
+
+Helm of Stirring
+
+Conduit of the Gyre
+rules_text: When this creature enters, you may behold a colorless creature. If you do, create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it. => When this creature enters, you may behold a colorless creature and create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it.
+
+Flipocasm
+
+Dewmist Naiad
+
+Squadron Tactics
+
+Apex Predator
+cost: {2}{B}{G} => {2}{R}{G}
+rules_text: Ward {3}
+Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+Creatures with power less than this creature's power can't block it.
+When this creature dies, put its counters on target creature you control. => Ward {3}
+Devour 2 [i](As this creature enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+Creatures with power less than this creature's power can't block it.
+When this creature dies, put its counters on target creature you control.
+
+Carmine
+rules_text: [i]Morbid[/i] — When this creature enters, draw a card and each opponent loses 2 life.
+Clawback {3}{B}{B} [i](You may cast this card from your graveyard for it clawback cost. It enters with a finality counter.)[/i] => [i]Morbid[/i] — When this creature enters, if a creature died this turn, draw a card and each opponent loses 2 life.
+Clawback {3}{B}{B} [i](You may cast this card from your graveyard for it clawback cost. It enters with a finality counter.)[/i]
+
+Norn's Spy
+
+Demonic Tax Evader
+
+Gilded Condor
+rules_text: Flying
+Ward— Discard a card [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Discard a card.)[/i]
+When this creature enters, exchange control of it with target creature an opponent controls if both creatures are still on the battlefield as this ability resolves. => Flying
+Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+When this creature enters, exchange control of it with target creature an opponent controls if both creatures are still on the battlefield as this ability resolves.
+
+Otirion the Lovestruck
+
+Travails Rekindler
+
+Sky Trader Express
+
+Metro, Master of Tempos
+
+Evendo Prey
+
+Continued Populace
+
+Artificial Animist
+
+Explosive Popcorn Kettle
+
+Vizier of the Luxa
+
+Stitcher's Paradise
+cost: {2}{U}{B} => {UB}{UB}{UB}
+rules_text: [i]Dire[/i] — Whenever a creature enters under your control that doesn't share a name with a creature you control, if a card left your graveyard this turn, create a copy of that creature. => [i]Dire[/i] — Whenever a creature enters under your control that doesn't share a name with another creature you control, if a card left your graveyard this turn, create a copy of that creature.
+
+Birds
+
+Case of the Growing Hive
+
+Herald of the Hive Queen
+
+Langy, the Baffling
+
+Megalithic Hive
+
+Arnessa, Grovekeeper
+rules_text: You may spend mana as though it were mana of any color.
+[+1]: Create a 1/1 green Plant creature token.
+[-2]: Add {C}{C}.
+[-5]: Until end of turn, whenever a creature you control enters, draw a card.
+Partner with Waytha => You may spend mana as though it were mana of any color.
+[+1]: Create a 1/1 green Saproling creature token.
+[-2]: Add {C}{C}.
+[-5]: Until end of turn, whenever a creature you control enters, draw a card.
+Partner with Waytha
+special_text: You may spend mana as though it were mana of any color.
+[+1]: Create a 1/1 green Plant creature token.
+[-2]: Add {C}{C}.
+[-5]: Until end of turn, whenever a creature you control enters, draw a card.
+Partner with Waytha => You may spend mana as though it were mana of any color.
+[+1]: Create a 1/1 green Saproling creature token.
+[-2]: Add {C}{C}.
+[-5]: Until end of turn, whenever a creature you control enters, draw a card.
+Partner with Waytha
+
+All Seeing Observation
+
+Mindslice Master
+
+Flametongue Rootwalla
+
+Frenzied Insight
+
+Savage Pathcarver
+
+Cretaceous Park
+cost: {4}{B}{G} => {4}{G}{G}
+
+Temur Whispers
+
+Deft Spellblade
+
+Nullspace Convergence
+rules_text: Counter target up to one spell with mana value X or less. Return up to one target creature with mana value X or less to its owner's hand. => Choose one or both —
+• Counter target spell with mana value X or less.
+• Return target creature with mana value X or less to its owner's hand.
+
+Wandering Hoopoe
+
+Responsibility
+
+Power
+
+Cohen's Blade
+
+Grave Robber
+
+Storm Cloak
+
+Ribcage Weeper
+
+Fishstrosity
+
+Bonebroth Potkeep
+
+Honey Taster
+
+Pride of Equivalence
+type: Creature — Eldrazi Angel => Creature — Eldrazi
+cost: {B}{BG}{G} => {W}{B}{G}
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+Whenever a creature you control with power equal to its toughness enters, draw a card.
+Whenever a creature an opponent controls with power not equal to its toughness enters, that player discards a card. => Devoid [i](This card has no color.)[/i]
+Whenever another creature you control with power equal to its toughness enters, draw a card.
+Whenever a creature an opponent controls with power not equal to its toughness enters, that player discards a card.
+
+Vizier of the Delta
+
+Selective Mining
+
+Land Raiser
+
+Passionate Embrace
+rules_text: [i]Megadomain[/i] — Look at the top X cards of your library, where X is the number of land types among lands you control. Exile up to one card from among them and put the rest on the bottom of your library in a random order. Until the end of your next turn, you may play the exiled card. => [i]Megadomain[/i] — Look at the top X cards of your library, where X is the number of subtypes among lands you control. Exile up to one card from among them and put the rest on the bottom of your library in a random order. Until the end of your next turn, you may play the exiled card.
+
+Lone Penguin
+
+Very Hungry Caterpillar
+
+Nesting Coatl
+cost: {G}{U}{R} => {1}{G}{G}
+
+Imprisoned in the Endless Hive
+
+Sangrite Saurus
+
+Protective Bubble Armor
+
+Rebuke of Industry
+
+Impenetrable Walls
+
+Flight of the Skywhales
+
+Shattered Oath
+
+Bahrmir Rhythmist
+
+Stellar Musician
+
+Final Notes
+
+The Day the Music Died
+
+Dissonant Music
+
+Analog Audiophile
+
+Lost in the Sound
+
+New Wave
+
+Shady Vendor
+
+Aspersions
+
+Wilted Resurrection
+
+Bloomed Across Worlds
+
+Nomadic Warrior
+rules_text: [i]Megadomain[/i] — This creature gets +1/+1 for each land type among lands you control. => [i]Megadomain[/i] — This creature gets +1/+1 for each land subtype among lands you control.
+
+Embrace Beyond
+
+Harbinger of Recompense
+
+Whisperfin Colossus
+rules_text: Defender, trample
+[i]Megadomain[/i] — {8}: This creature can attack this turn as though it didn't have defender. This ability costs {1} less to activate for each land type among lands you control.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Defender, trample
+[i]Megadomain[/i] — {8}: This creature can attack this turn as though it didn't have defender. This ability costs {1} less to activate for each land subtype among lands you control
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Friendly Fly Trap
+
+Necrobinding
+
+Regency
+
+T'Chaisk, the Blood Converter
+
+Bloodfeather Seraph
+
+The Watcher's Benevolence
+
+Hedge Gnoll
+
+Sunmoss Pilgrim
+
+Romp's Reminder
+
+Recursive Sphinx
+
+Reverse
+
+The Mill Servant
+
+Deepest Sea Fangliest Fish
+cost: {9}{B}{B} => {7}{B}{B}
+rules_text: Megadelve {10}{B}{B} [i](While paying a megadelve cost, you can exile creatures you control and creature cards from your graveyard. Each card you exile this way pays for {1}. If you cast this spell for its megadelve cost, it enters with a +1/+1 counter.)[/i]
+Menace, trample, indestructible => Megadelve {9}{B}{B} [i](While paying a megadelve cost, you can exile creatures you control and creature cards from your graveyard. Each card you exile this way pays for {1}. If you cast this spell for its megadelve cost, it enters with a +1/+1 counter.)[/i]
+Indestructible, menace, trample
+
+Oddity Angling
+
+Defossilized Scuttler
+
+Hullroot Reclamation
+
+Sunleech Familiar
+
+Wreck Trawlers
+
+Pet Adoption Papers
+
+Small Prey Stalker
+
+Slippery Snack
+
+Replace
+
+Moldreef Scavenger
+
+Price of Power
+
+Adorable Chimera
+
+Akiko, Lone Samurai
+
+Paralyzing Tidefang
+rules_text: No more than one creature can attack each combat.
+{T}, Pay 1 life: Tap target creature. Then if you have 5 or less life, put a stun counter on that creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => No more than one creature can attack each combat.
+[i]Fateful Hour [/i]— {T}, Pay 1 life: Tap target creature. Then if you have 5 or less life, put a stun counter on that creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Evolving Mongrel
+
+Luxury
+
+Witching Hour
+rules_text: Whenever you torment one or more players, torment them thrice as many times instead. This ability only triggers once per turn.
+Whenever you sacrifice another permanent, sacrifice this enchantment. When you do, you draw three cards and you lose 3 life. => The first time you would torment one or more players during each turn, you torment each of them thrice as many times instead.
+Whenever you sacrifice another permanent, sacrifice this enchantment. When you do, you draw three cards and you lose 3 life.
+
+Hurly Burly, Coven's Herald
+
+Sisterhood Aspirant
+
+Whiskerfire Warrens
+
+Sand Witch
+
+Bloody Ritual
+rules_text: Flash
+Whenever a player sacrifices a permanent, this permanent deals 2 damage to target player. 
+At the beginning of the next end step, sacrifice this enchantment.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i] => Flash
+Whenever a player sacrifices a permanent, this enchantment deals 2 damage to target player. 
+At the beginning of the end step, sacrifice this enchantment.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Ecliptic Outburst
+
+Waveborn Hoplite
+
+Good Riddance
+
+Brain Stew
+
+Gearspine Scorpion
+
+Live Without Warning
+
+Hivecaller Minstrel
+
+Spark of Life
+
+Hatsune Miku, Watchful Senior
+
+Rachel, Rising Star
+
+The Planestalker
+rules_text: Nobody enters with X less loyalty counters on it, where X is your life total. 
+[+2]: You draw a card and lose 2 life. 
+[-X]: Destroy target creature with toughness X or less. You gain X life.
+[-12]: Draw seven cards. Create seven Swamp tokens. You get an emblem with “Your life total can't increase.” => Nobody enters with thirteen minus your life total loyalty counters.
+[+2]: You draw a card and lose 2 life. 
+[-X]: Destroy target creature with toughness X or less. You gain X life.
+[-12]: Draw seven cards. Create seven Swamp tokens. You get an emblem with “Your life total can't increase.”
+special_text: Nobody enters with X less loyalty counters on it, where X is your life total. 
+[+2]: You draw a card and lose 2 life. 
+[-X]: Destroy target creature with toughness X or less. You gain X life.
+[-12]: Draw seven cards. Create seven Swamp tokens. You get an emblem with “Your life total can't increase.” => Nobody enters with thirteen minus your life total loyalty counters.
+[+2]: You draw a card and lose 2 life. 
+[-X]: Destroy target creature with toughness X or less. You gain X life.
+[-12]: Draw seven cards. Create seven Swamp tokens. You get an emblem with “Your life total can't increase.”
+loyalty: 13 => 0
+
+Planar Trail of Destruction
+
+Cveki, Æther Scav
+
+Lightning Channeler
+
+Stormcloud Zeppelin
+
+Forward Recon
+rules_text: Choose two —
+• Search your library for a basic land card or Town card, put it onto the battlefield tapped, then shuffle.
+• Create a 1/1 colorless Pilot creature token with “This token saddles Mounts and crews Vehicles as though its power were 2 greater.”
+• Create a Jet token. [i](It's a 5/4 artifact vehicle with flying and crew 3.)[/i] => Choose two —
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+• Create a 1/1 colorless Pilot creature token with “This token saddles Mounts and crews Vehicles as though its power were 2 greater.”
+• Create a Jet token. [i](It's a 5/4 artifact vehicle with flying and crew 3.)[/i]
+
+The Power of Three
+
+Relaxed Automaton
+
+Fblthp, Finally Found
+
+Possessive Familiar
+rules_text: Flying
+Whenever you surveil, if you left at least one card on top of your library, you may return this creature to your hand. If you do, create a token that is a copy of it. => Flying
+Whenever you surveil, if you left at least one card on top of your library, you may return this creature to your hand. When you do, create a token that is a copy of this creature.
+
+Zombeefy
+
+Deeptrench Spikemouth
+
+Paghal's Wager
+
+Manifest Megadread
+
+Lord of the Nest
+rules_text: Flying
+Whenever a Bird card, Egg card, or this card leaves your graveyard, Discover an Egg. [i](Exile cards from the top of your library until you exile a nonland Egg card. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => Flying
+Whenever a Bird card, Egg card, or this card leaves your graveyard, discover an Egg. [i](Exile cards from the top of your library until you exile a nonland Egg card. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+Egg of Reason
+
+Highway Barterer
+
+Bramble Brute
+cost: {1}{G}{G} => {2}{G}
+
+Alarm the Militia
+
+Curseflame Dragon
+rules_text: Flying, haste
+[i]Dire[/i] — {1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate this ability only if another card left your graveyard this turn. => Flying, haste
+[i]Dire[/i] — {1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate only as a sorcery and only if another card left your graveyard this turn.
+
+Unhatched Hellkite
+
+Nephalian Ritualist
+
+Seer of the Upside
+
+Hospitality
+
+Shiza, Cleric of the Forgotten
+
+Forget About It
+
+Torrent-Tail Trio
+
+Epursi Muove
+
+Sorya and Windpouncer
+
+Archivist of Augments
+rules_text: Vigilance
+When this creature enters, draw a card for counter among permanents you control except +1/+1 counters. => Vigilance
+When this creature enters, draw a card for each counter among permanents you control except +1/+1 counters.
+
+Leyline Haunt
+
+The Elements of Cruelty
+
+Phantom Thief “M”
+
+Canny Detective, “C”
+
+Gilbacheck, Houndmaster
+
+Master Handler
+
+Homework
+
+Evidence of Betrayal
+
+The Elements of Betrayal
+
+Mirrored Mind
+rules_text: Whenever a player casts or copies an instant or sorcery spell, you may Strategize {X}, where X is twice the mana value of the that spell. If you do, copy that spell. You may choose new targets for the copy. [i](While paying a Strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i] => Whenever a player casts or copies an instant or sorcery spell, you may Strategize {X}, where X is twice the mana value of the that spell. If you do, copy that spell. You may choose new targets for the copy. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+
+Markovian Studies
+
+Helvault Escapee
+rules_text: As an additional cost to cast this creature, sacrifice creatures with two of the following creature types among them: Spirit, Vampire, Werewolf, or Zombie.
+Flying
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => As an additional cost to cast this creature, sacrifice a Spirit, Vampire, Werewolf, or Zombie.
+Flying
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Howling Geist
+cost: {BR}{BR} => {B}{R}
+
+Dancing Dampflames
+
+Shiad, the Honed Mind
+
+Seal of Fists
+
+Creaking Bones
+
+Seal of Fists (Not the other Popcorn 2 one)
+
+Windpouncer, Denbound
+
+Keeper of the Tombs Beyond
+
+Mobile Launch Pad
+
+Expert Pilot
+
+Koma, Fynn's Captive
+
+Wanderpath Staff
+rules_text: When this Equipment enters, attach it to target creature you control.
+[i]Megadomain[/i] — Equipped creature gets +1/+1 for each land type among lands you control.
+Equip {4} => When this Equipment enters, attach it to target creature you control.
+[i]Megadomain[/i] — Equipped creature gets +1/+1 for each land subtype among lands you control.
+Equip {4}
+
+Landbound Druid
+rules_text: This creature can't be sacrificed.
+[i]Megadomain[/i] — When this creature dies, draw X cards, where X is half the number of land types among lands you control, rounded down. => This creature can't be sacrificed.
+[i]Megadomain[/i] — When this creature dies, draw X cards, where X is half the number of subtypes among lands you control, rounded down.
+
+The Elements of Simplicity
+
+Mizzium Educator
+
+Setessan Chimera
+
+Verdant Countermeasures
+
+Time Swap
+
+Grovesong Gondolier
+
+Bounty Royale
+
+Notorious Lutemaster
+cost: {BR}{BR} => {UB}{UB}
+
+Pass Surveyor
+rules_text: Flying
+[i]Megadomain[/i] — This creature gets +1/+1 for each land type among lands you control. => Flying
+[i]Megadomain[/i] — This creature gets +1/+1 for each land subtype among lands you control.
+
+Land Weaver
+
+Typal Flames
+rules_text: [i]Domain[/i] — This spell costs {1} more to cast for each basic land type among lands you control.
+[i]Megadomain[/i] — This spell deals X damage to any target, where X is the number of land types among lands you control. => [i]Domain[/i] — This spell costs {1} more to cast for each basic land type among lands you control.
+[i]Megadomain[/i] — This spell deals X damage to any target, where X is the number of subtypes among lands you control
+
+Tamed Volcano
+
+Judge of the Void
+
+Simpering Schemer
+
+Inscrutable Familiar
+
+Curse of Art Debt
+
+Slowbones
+
+Turn the Page
+
+Inverter of Amity
+
+Starschool Netcatcher
+
+Phenomenal Flock
+cost: {1}{WB}{U} => {W}{U}{B}
+rules_text: Flying
+Whenever you encounter a phenomenon you may return Phenomenal Flock from your graveyard to the battlefield.
+{T}: Roll the Planar Die. If you roll chaos, create a 0/4 green Egg creature token with defender and evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i] => Flying
+Whenever you encounter a phenomenon you may return this card from your graveyard to the battlefield.
+{T}: Roll the Planar Die. If you roll chaos, create a 0/4 green Egg creature token with defender and evolve. [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+
+Solemn Watcher
+
+Lecturer's Hall
+
+The Second End
+
+Shepherd's Providence
+rules_text: [i]Megadomain[/i] — Create a 0/1 white Goat creature token for each land type among lands you control.
+Plot {1}{W} [i](You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)[/i] => [i]Megadomain[/i] — Create a 0/1 white Goat creature token for each subtype among lands you control.
+Plot {1}{W} [i](You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)[/i]
+
+Doko, the Bog Guardian
+
+Voracity
+
+Trembling Skeleton
+
+Fractured Souls
+
+Shimmerfin Hare
+
+Overgrown Stone
+
+Munitions Collector
+rules_text: Reach
+When this creature enters, search your library for a card, reveal it, put it into your hand and shuffle. If the revealed card was an equipment card, this creature deals 2 damage to each opponent. Then discard a card at random. => Reach
+When this creature enters, search your library for a card, reveal it, put it into your hand and shuffle. If the revealed card was an Equipment card, this creature deals 2 damage to each opponent. Then discard a card at random.
+
+Boggart Exile
+
+Friend till the End
+
+The Torrent of Everything
+cost: {2}{G}{U}{R} => {W}{U}{B}{R}{G}
+rules_text: Changeling [i](This card is every creature type.)[/i]
+Artifacts, enchantments and lands you control have vigilance, trample, and haste. => Changeling [i](This card is every creature type.)[/i]
+Artifacts, enchantments, and lands you control have vigilance, trample, and haste.
+
+The Answer of Nothing
+cost: {2W}{WB}{2B} => {2C}{2C}{2C}
+
+The Never Ending Waves
+
+The Answer of Evolution
+cost: {2G}{GU}{2U} => {GU}{GU}{GU}
+
+The Answer to Life, the Universe, and Everything
+
+Jokan Firestealer
+
+Toren, the Patient Advance
+
+Hunt for Defense
+
+Hidden Troll
+
+Troll Troller
+
+Lapidary Arlapine
+
+Moonfolk Memorialist
+
+Rumble Awakener
+
+Treasure Horde
+
+Kixifil Border Patrol
+
+Walks of Life
+
+Buzzsnout
+
+Waytha
+
+Crafty Chef
+
+Gebbin, Unlucky Looter
+cost: {U}{B}{R} => {1}{B}{R}
+
+Bloodsworn Schemer
+
+Stensian War Vulture
+
+Apex of Recklessness
+
+Fire Phantom
+
+The Flying Necropolis of Tel'Azad
+
+Stitch, Hanging Loose
+
+Uncanny Keeper
+
+Eater of Lost Fates
+
+Maddening Wormhole
+
+Scorchsigil of Covenant
+
+Holiday
+
+Stonesong
+cost: {G}{G}{W}{W}{U} => {2}{B}{G}{U}
+
+Stonesinger Ingenue
+
+Trapped Sculpture
+
+Endless Growth
+
+Roaming Tower
+
+Mourner of the Void
+rules_text: When you cast this spell, target player discards a card. If that card is colorless, each player investigates.
+Flying, ward—Sacrifice a permanent.
+Whenever a player sacrifices a colorless permanent, they lose 2 life.
+Warp {B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When you cast this spell, target player discards a card. If that card is colorless, each player investigates.
+Whenever a player sacrifices a colorless permanent, they lose 2 life.
+Flying, ward—Sacrifice a permanent.
+Warp {B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Muter of Mana
+
+Gubba, Wilds Father
+
+Kithkinish Piper
+
+Lumbering Researcher
+
+Kerberos, Life Observer
+
+Skull Fortress
+
+Advanced Crabmatics
+
+Principles of Geomantic Yields
+
+Gatherer of Allies
+rules_text: {T}: Add {G}:
+[i]Landfall[/i] — Whenever a land you control enters, you may pay {X}{X}{G}. If you do, you may search your library for a creature card with mana value X or less and put it onto the battlefield tapped. => {T}: Add {G}.
+[i]Landfall[/i] — Whenever a land you control enters, you may pay {X}{X}{G}. If you do, you may search your library for a creature card with mana value X or less and put it onto the battlefield tapped.
+
+Mountain Rider
+type: Creature — Human Advisor => Creature — Human Scout
+rules_text: Haste
+Whenever a creature you control deals damage to a player, if it entered this turn, create a treasure token
+Bicycling {2}{R} [i]({2}{R}, Discard this card and another card: Draw two cards.)[/i]
+When you cycle this card, creatures you control gain haste until end of turn. => Haste
+Whenever a creature you control deals damage to a player, if it entered this turn, create a Treasure token.
+Bicycling {2}{R} [i]({2}{R}, Discard this card and another card: Draw two cards.)[/i]
+When you cycle this card, creatures you control gain haste until end of turn.
+
+Benediction by Starlight
+
+Malediction by Moonlight
+
+Fortune of the Void
+type: Creature — Sphinx Horro => Creature — Sphinx Horror
+
+Aeon and Era
+
+Killer Bees' Hive
+
+Killer Bee, Jinchūriki
+
+Seasonal Swarming
+
+Borrowing Bolts
+
+Statuesque Schemer
+
+Bountiful Spring
+
+Magmatic Lash
+
+The Pale Promise
+
+Bloodprism Ritual
+
+Resolute Florist
+
+Coilhopper
+cost: {1} => {2}
+rules_text: This creature enters with two +1/+1 counters on it.
+[i]Megalandfall[/i] — Whenever a land enters or leaves the battlefield, put a flying counter on this creature if this is the first time this ability has resolved this turn. If it's the second time, remove a counter from this creature. If it's the third time, double the number of counters on this creature.
+Clawback {3} [i](You may cast this card from your graveyard for its clawback cost. It enters with a finality counter.)[/i] => This creature enters with a flying counter and two +1/+1 counters on it.
+[i]Megalandfall[/i] — Whenever a land enters or leaves the battlefield, remove a counter from this creature if this is the first time this ability has resolved this turn. If it's the second or third time, double the number of each kind of counter on on this creature.
+Clawback {3} [i](You may cast this card from your graveyard for its clawback cost. It enters with a finality counter.)[/i]
+
+Data Egg
+
+Grievous Gladiator
+cost: {UB}{BR}{UR} => {U}{R}{W}
+
+Restrictions Breed Creativity
+cost: {1}{W} => {C}{W}
+
+Fynton, Expert Rigger
+rules_text: When this creature enters and at the beginning of your upkeep, this creature assembles a contraption. [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — At the beginning of your end step, if you have a contraption on each sprocket, you may Crank your current sprocket. If you don't, draw two cards then discard two cards. => When this creature enters and at the beginning of your upkeep, this creature assembles a contraption. [i](Put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — At the beginning of your end step, if you have a contraption on each sprocket, you may Crank your current sprocket. If you don't, draw two cards then discard two cards.
+
+Prisoner Isolation
+
+Lone Wolf (Not the Portal One)
+
+Wisp of Companionship
+
+Uplifting Oak
+rules_text: {T}: Add one mana of any color. 
+Whenever this creature becomes tapped, another target creature gets +1/+1 and gains reach until end of turn. If that creature would die this turn, put a +1/+1 counter on this creature. => {T}: Add one mana of any color. 
+Whenever this creature becomes tapped, another target creature gets +1/+1 and gains reach until end of turn. When that creature dies this turn, put a +1/+1 counter on this creature.
+
+By the Grace of God
+
+Sunchanneler
+rules_text: {T}: Add {R} or {G}.
+{T}: Add {W}{U}{B}{R}{G}, destroy this creature. => {T}: Add {R} or {G}.
+{T}: Target player adds {W}{U}{B}{R}{G}, destroy this creature.
+
+Kanade, Compassionate Composer
+
+Cecilia, Fleeting Inspiration
+
+Refuge in Rot and Ruin
+
+Primoridial Forms
+
+The Impossible Stag
+
+Alla Breve, Timekeeper
+
+The Final Battle
+
+Kaito, Watched Journey
+
+Pack a Punch
+rules_text: Target creature you control gets +X/+X until end of turn, where X is the number of counters on that creature. Then you may have that creature deal damage equal to its power to target creature or planeswalker you don't control. => Target creature you control gets +X/+X until end of turn, where X is the number of counters on that creature. Then that creature deals damage equal to its power to up to one target creature or planeswalker you don't control.
+
+Terramorph Planners
+
+The Divine Stories
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+During each chapter, choose one.
+I — • [i]Comedy[/i] — Discard a card, then draw two cards.
+• [i]Mystery[/i] — Destroy target artifact.
+• [i]Tragedy[/i] — This enchantment deals 2 damage to any target.
+II — • [i]Comedy[/i] — Target creature gets +3/+0 until end of turn.
+• [i]Mystery[/i] — Investigate.
+• [i]Tragedy[/i] — Target player discards a card.
+III — • [i]Comedy[/i] — Up to two target creatures can't block this turn.
+• [i]Mystery[/i] — Detain target creature.
+• [i]Tragedy[/i] — Target creature gets -3/-3 until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] During each chapter, choose one.
+I — • [i]Comedy[/i] — Discard a card, then draw two cards.
+• [i]Mystery[/i] — Destroy target artifact.
+• [i]Tragedy[/i] — This enchantment deals 2 damage to any target.
+II — • [i]Comedy[/i] — Target creature gets +3/+0 until end of turn.
+• [i]Mystery[/i] — Investigate.
+• [i]Tragedy[/i] — Target player discards a card.
+III — • [i]Comedy[/i] — Up to two target creatures can't block this turn.
+• [i]Mystery[/i] — Detain target creature.
+• [i]Tragedy[/i] — Target creature gets -3/-3 until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+During each chapter, choose one.
+I — • [i]Comedy[/i] — Discard a card, then draw two cards.
+• [i]Mystery[/i] — Destroy target artifact.
+• [i]Tragedy[/i] — This enchantment deals 2 damage to any target.
+II — • [i]Comedy[/i] — Target creature gets +3/+0 until end of turn.
+• [i]Mystery[/i] — Investigate.
+• [i]Tragedy[/i] — Target player discards a card.
+III — • [i]Comedy[/i] — Up to two target creatures can't block this turn.
+• [i]Mystery[/i] — Detain target creature.
+• [i]Tragedy[/i] — Target creature gets -3/-3 until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] During each chapter, choose one.
+I — • [i]Comedy[/i] — Discard a card, then draw two cards.
+• [i]Mystery[/i] — Destroy target artifact.
+• [i]Tragedy[/i] — This enchantment deals 2 damage to any target.
+II — • [i]Comedy[/i] — Target creature gets +3/+0 until end of turn.
+• [i]Mystery[/i] — Investigate.
+• [i]Tragedy[/i] — Target player discards a card.
+III — • [i]Comedy[/i] — Up to two target creatures can't block this turn.
+• [i]Mystery[/i] — Detain target creature.
+• [i]Tragedy[/i] — Target creature gets -3/-3 until end of turn.
+
+Two Birds One Storm
+rules_text: Flying
+Modal spells you cast have storm. [i](When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)[/i] => Flying
+Modal spells you cast have storm. [i](Whenever you cast a spell if it has two or more options in a bulleted list and instructions for a player to choose a number of those options, copy it for each spell cast before it this turn, you cannot change or add modes. You may choose new targets for the copies.)[/i]
+
+Sky Marshal's Order
+rules_text: Gift a Junk [i](You may promise an opponent a gift as you cast this spell. If you do, they create a Junk token before its other effects. It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Choose two. If the gift was promised, choose three instead.
+• Each opponent sacrifices a nonland permanent they control with the greatest mana value among nonland permanent they control.
+• Create a 1/1 colorless Pilot creature token with “This token saddles Mounts and crews Vehicles as though its power were 2 greater.”
+• Create a Jet token. [i](It's a 5/4 artifact vehicle with flying and crew 3.)[/i] => Gift a Junk [i](You may promise an opponent a gift as you cast this spell. If you do, they create a Junk token before its other effects. It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Choose two. If the gift was promised, choose three instead.
+• Destroy target artifact or enchantment.
+• Create a 1/1 colorless Pilot creature token with “This token saddles Mounts and crews Vehicles as though its power were 2 greater.”
+• Create a Jet token. [i](It's a 5/4 artifact vehicle with flying and crew 3.)[/i]
+
+Yorun, the Red Wave
+cost: {UB}{R} => {U}{R}
+
+Wretched Archaic
+
+Memory Chasm
+cost: {U}{B}{R} => {U}{B}
+
+Elpis Seeker
+
+The Answer in Ruins
+
+Beseech the Master
+
+Riddlekeeper's Assistant
+
+The Answer in Lightning
+
+Dexh, Endless Hunger
+
+Pieceweft Boonbringer
+
+Feral Hunter
+
+Stonesinger Markswoman
+
+Fossilbind
+
+Sage of the Luxa
+rules_text: Flying, vigilance
+Whenever a creature enters, you gain 1 life.
+Whenever a creature leaves the battlefield, you lose 1 life. => Flying, vigilance
+Whenever another creature enters, you gain 1 life.
+Whenever another creature leaves the battlefield, you lose 1 life.
+
+Designer Refiner
+
+Baneful Deed
+
+Popbot, Scrapped Together
+rules_text: [i]Designerdomain[/i] — This creature gets +1/+1 for each designer among other permanents you control.
+If there are five or more designers among nonbasic permanents you control, other creatures you control get +1/+1. => [i]Designerdomain[/i] — This creature gets +1/+1 for each designer among other nontoken, nonbasic permanents you control with a credited designer tag.
+If there are five or more designers among nonbasic permanents you control, other creatures you control get +1/+1.
+
+Pop Gun
+
+The Beacon Designer
+
+Polymathy
+
+Terrachef MK9.5
+rules_text: Trample
+When this creature enters or leaves the battlefield, create a Food token.
+Warp {G}{G}{G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Trample
+When this creature enters or leaves the battlefield, create a Food token.
+Warp {2G}{2G} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Astral Dryad
+
+Glacial Boon Turtle
+
+Commanding Cadence
+
+Charming Crooner
+pt: 3/3 => 3/5
+
+Ventbound Nautilus
+
+Cottontail Centurion
+
+Astraform Drifter
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When this creature enters or leaves the battlefield, each player loses 1 life.
+Warp {B}{B}{B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When this creature enters or leaves the battlefield, each player loses 1 life.
+Warp {2B}{2B} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Walvij, Creative Progenitor
+
+Forest Friends
+cost: {W}{B} => {G}{W}
+
+Balladeer Minstrel
+
+Banish to the Peaks
+
+Somewhere to Be
+
+Pointer Pack
+
+Recycling
+cost: {1}{G} => {2}{G}
+rules_text: Return target card from your graveyard to your hand.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+When you cycle this card, return target card not named “Recycling” with cycling from your graveyard to your hand. => Return target card from your graveyard to your hand.
+Cycling {1}{G} [i]({1}{G}, Discard this card: Draw a card.)[/i]
+When you cycle this card, return target card not named “Recycling” with cycling from your graveyard to your hand.
+
+Apex Anomalocaris
+
+Harold, Studious Parent
+
+School of Hard Rocks
+
+Pumpkin Pilfering
+
+Bring Together the Many
+
+Amulet of Blessings
+
+Heavy Sculpture
+
+Envenom the Stones
+
+Self-Propogating Bobblehead
+
+Aetherbonded Steed
+
+Peeve
+
+Cry it Out
+
+Eschew
+
+Phyrexian Eclipse
+
+Night Wardens
+
+Banishing Ritual
+
+Luminescent Squid
+rules_text: Flying
+{U}: Target creature is an enchantment until end of turn. [i](It loses all other card types.)[/i] => Flying
+{U}, {T}: Target creature is an enchantment until end of turn. [i](It loses all other card types.)[/i]
+
+Solitary Crossing
+cost: {W}{U}{B} => {2}{W}
+
+Coinbed Oyster
+
+Wish for Treasure
+
+The Nectar of Life
+
+Mindchurn Apologist
+
+Rubee
+
+Throne of Dead Queens
+
+Arachking
+
+True Remembrance
+
+Desperate Times
+
+Inveigling Ingenue, “Y”
+
+Collectors Edition
+type: Enchantment Artifact => Enchantment Artifact — Treasure
+cost: {1}{U}{R}{W} => {2}{W}{U}
+rules_text: Whenever one or more cards leave your graveyard, untap target Bobblehead or Treasure you control.
+At the beginning of your second main phase, you may collect evidence 4. When you do, create a copy of target Artifact you control, except its an Enchantment in addition to its other types. [i](To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)[/i] => Whenever one or more cards leave your graveyard, untap target Bobblehead or Treasure you control.
+{T}, Sacrifice this artifact: Add one mana of any color.
+At the beginning of your second main phase, you may collect evidence 4. When you do, create a copy of target Artifact you control, except its an Enchantment in addition to its other types. [i](To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)[/i]
+
+Mechanical Bobblehead
+
+New Territory
+
+Threshold of Learning
+
+Aria Sanctuary
+
+Omnath's Respite
+
+Boulevard of Broken Dreams
+
+A Wiggle in the Weft
+
+Focus Locus
+
+Beyondworld Gateway
+
+The Sprawl
+
+The Gallery of Stones
+
+Hubworld
+rules_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 4+] {T}: Add one mana of any type a land you control could produce. => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 4+] This land is every basic land type in addition to its other types.
+special_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 4+] {T}: Add one mana of any type a land you control could produce. => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 4+] This land is every basic land type in addition to its other types.
+
+Craglocked Citadel
+rules_text: This land enters tapped with four petrify counters on it. [i](A petrified creature costs {1} more to untap. A permanent with equal or more petrify counters than power is a noncreature artifact.)[/i]
+Whenever you attack with two or more creatures, you may remove a counter from this land.
+{T}: Add {R} or {W}.
+Double strike => This land enters tapped with four petrify counters on it. [i](A petrified creature costs {1} more to untap. A permanent with equal or more petrify counters than power is a noncreature artifact.)[/i]
+{T}, Remove a petrify counter from this land or put a petrify counter on this land: Add {C}.
+Double strike
+
+Hivefrost Bergs
+
+Hivegrowth Spire
+
+Hiverot Bog
+
+Hornet Corp Headquarters
+
+Hivelava Flows
+
+Hivecoil Marsh
+
+Hivefray Armoury
+
+Hivestone Falls
+
+Expansive Hive
+
+Tri-Hive
+rules_text: This land enters tapped.
+{T}: Add {B}, {G}, or {W}.
+{3}{W}{B}{G}, {T}, Sacrifice this land: Create three Bee tokens. [i](A Bee is a 1/1 white Insect creature token with flying and “This creature can't attack or block alone.”)[/i] => This land enters tapped.
+{T}: Add {W}, {B}, or {G}.
+{3}{W}{B}{G}, {T}, Sacrifice this land: Create three Bee tokens. [i](A Bee is a 1/1 white Insect creature token with flying and “This creature can't attack or block alone.”)[/i]
+
+Bee City
+
+Locust Locus
+
+Verdant Expanse
+
+Unlit Sungate
+
+Storm Observation Platform
+
+Sunset Oasis
+rules_text: This land enters tapped.
+{T}: Add {W}.
+{2}{W}{W}, {T}, Sacrifice a Desert: Distribute a +1/+1 counter and a Shield counter among creatures you control, then proliferate. Activate only as a sorcery. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => [i]({T}: Add {W}.)[/i]
+This land enters tapped.
+{2}{W}{W}, {T}, Sacrifice a Desert: Distribute a +1/+1 counter and a Shield counter among creatures you control, then proliferate. Activate only as a sorcery. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Granary District
+
+Realm of Pure Thought
+
+Lighthouse
+
+Haunted Shanty
+
+Rotted Sactum
+
+Dreambloomed Peak
+
+Storm-Crowned Peak
+
+The Electroforge
+rules_text: This land enters tapped.
+{T}: Add {R}.
+{R}, {T}: Artifact creatures you control gain haste until end of turn. => {T}: Add {R}.
+{R}, {T}: Artifact creatures you control gain haste until end of turn.
+
+Grizzly Den
+type: Land — Cave => Land — Cave Forest
+rules_text: This land enters tapped.
+{T}: Add {G}.
+{1}{G}, {T}, Sacrifice a Food: Create a token that hasn't been chosen from among Grizzly Bears, Bear Cub, Balduvian Bears, Forest Bear, or Runeclaw Bear. => [i]({T}: Add {G}.)[/i]
+This land enters tapped.
+{1}{G}, {T}, Sacrifice a Food: Create a token that hasn't been chosen from among Grizzly Bears, Bear Cub, Balduvian Bears, Forest Bear, or Runeclaw Bear.
+
+Gemberry Orchard
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Stitcher's Paradise added.

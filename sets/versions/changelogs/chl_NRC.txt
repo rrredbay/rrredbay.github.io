@@ -1,4 +1,619 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Energized Art added.
+Deployment Barracks added.
+Intelligence Agent added.
+Wait for the Drop added.
+Kai, the Dreamer added.
+Birds of Dystopia added.
+
+Energized Ar removed.
+Remote Command Center removed.
+Recon removed.
+Take a Beat removed.
+Kai, a Dreamer removed.
+Birds of Distopia removed.
+
+Start the Fight
+
+Marshal Forces
+
+Inspiring Revolutionary
+
+Rollicking Rider
+
+Under Observation
+
+Helpful Vigilante
+
+Pilfering Amphibian
+
+Street-Wise Combatants
+
+Motorcycle Muscle
+
+Show of Force
+
+Trippin'
+
+Reckless Rioter
+
+Dancing Diva
+
+Turf War
+
+Night Rider
+
+Grunt Enforcer
+
+Causless Ruffian
+
+Urban Vibrance
+
+Beefhead Bouncer
+
+Deprogrammed Replicant
+
+Censor
+
+Dropship Recruiter
+rules_text: Armies you control have vigilance.
+When this creature enters, amass Soldiers 1. [i](Put a +1/+1 counter on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i] => When this creature enters, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+pt: 2/2 => 1/1
+
+Court of Public Opinion
+
+Shred
+
+Civil Deconstruction
+
+Smash and Grab
+
+Preventative Strike
+
+Touch the Dataline
+
+Ratpack Kingpin
+
+Colossal Shredmaw
+
+Rocket Hamster
+
+Dynamo Defector
+
+Mecho-Grunt
+
+Thrilling Artistry
+
+Dark-Alley Demon
+
+Hired Gun
+
+Citadel Angel
+
+Kick-Flip Koala
+
+Underground DJ
+
+Painted Infamy
+
+Coldtouch Dissident
+
+Rewire
+
+Hotshot
+
+Mech Tech
+
+Call Spec Ops
+
+Two-Wheel Bruiser
+
+Katana Gang
+
+Dataline Surfing
+
+Market Street Mob
+rules_text: Whenever another creature you control enters, you gain 1 life and take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Whenever another creature you control enters, you gain 1 life.
+At the beginning of your end step, if you gained 3 or more life this turn, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+
+Mind Tap
+
+Let it Rip
+
+Let Loose
+
+Rockers of the Free World
+
+Block Party
+
+Skid-Row Informant
+
+Skywise Rebel
+
+Cover Up
+
+CCT Croaker
+
+Biker Tactician
+
+Find Your People
+
+Dropship Detention
+
+Entry Team
+
+Diehard Dame
+
+Word on the Street
+
+Street Clash
+
+Scream Core
+
+Unplug
+
+Send a Message
+
+Short Kings
+
+Expert Insurgent
+
+Acid Drop Viper
+
+Daring Dame
+
+Wolf of Wall Street
+
+Urban Artist
+
+Party Ape
+
+Giant Effin Slash
+
+City Square
+rules_text: This land enters tapped.
+When this land enters, return a land you control to its owner's hand. When you do, choose two different colors.
+{T}: Add two mana in any combination of the chosen colors. => This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {C} and one mana of any color.
+
+Back Alley
+
+Embassy Row
+
+Canal Town
+
+Industrial Park
+
+The Boonies
+
+Arts District
+
+Government Center
+
+Dockworks
+
+Public Works Yard
+
+The Blocks
+
+Trade Quarter
+
+Soldier Army
+
+Special Task Force
+
+Canal Town Couriers
+
+Industrial Park Freerunner
+
+Boonies Homebrewer
+
+Hypno Bass
+
+Data Tap
+
+Unyielding Sycophant
+
+City Surfer
+
+Doctor Antavious
+
+Revolution Engine
+
+Goofy Foot Cherub
+
+Painter Gator
+
+Surveilance State
+
+Stun Zapper
+
+Lydia, Rider of Mayhem
+
+Lazarus Protocol
+
+Parkland Witch
+
+Run It Back
+
+Double or Nothing
+
+Inviting Influencer
+
+Recombinating
+
+Clayton, Embassy Informant
+
+Jessica, Undercity Fence
+
+DeSean, Community Cultivator
+
+Dex, Well-Connected
+
+Public Artist
+
+Captain Bones
+
+Feel the Music
+
+Skyward Hare
+type: Creature — Rabbit => Creature — Rabbit Rogue
+
+Block Enforcer
+
+Go Up in Smoke
+
+Cybernet Tiefling
+
+Neon LIghts Rider
+
+Kira, Double Agent
+
+Rise Above the Masses
+
+Rough Questioning
+
+Cursed Kicks
+
+Data Weaver
+
+Reprogrammed Killbot
+
+Find the LAN Party
+
+The Champ
+
+Digital Artist
+
+Send It!
+
+Inline Ostrich
+
+Food Truck
+rules_text: When this artifact enters or attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Sacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only during your turn.
+Crew 3 => When this artifact enters or attacks, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Sacrifice two Foods: Creatures you control get +2/+2 and gain trample until end of turn. Activate only as a sorcery.
+Crew 3
+
+Earth Within
+
+Reconnaisance Leader
+
+Evade Authorities
+
+Bunny, the Muscle
+
+Pain-Killer
+
+Delivery Boy
+
+Spreading Art
+
+Rainbow Road
+rules_text: When you cast this spell, copy it if you control a multicolored permanent.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. => When you cast this spell, copy it if you control a multicolored permanent and/or a Graffiti.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+The Citadel
+
+Neon Circuit
+
+Aurora Ward
+
+The Red Front
+
+Podunk Town
+
+Baton Bot
+
+Embassy Healer
+rules_text: When this creature enters, return up to one target creature card from your graveyard to your hand. If that card had mana value 3 or less, amass soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a soldier. If you don't control an Army, create a 0/0 black soldier Army creature token first.)[/i] => When this creature enters, return up to one target creature card from your graveyard to your hand. If that card had mana value 2 or less, amass Soldiers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Soldier. If you don't control an Army, create a 0/0 black Soldier Army creature token first.)[/i]
+
+Brain Dead
+
+Hackomancer
+
+Night Life Ender
+
+F.A.R.M. Squad
+
+Embassy Row Cycle
+
+Market Street Cycle
+
+Canal Town Cycle
+
+Industrial Park Cycle
+
+Boonies Cycle
+
+Bold Outsider
+
+Hardcore Mummy
+
+Breakdown
+
+Bear it All
+
+Calm the Elite
+
+Rebel Yell
+
+Duck Coolidge
+
+Dance Party!
+cost: {1}{W} => {3}{W}
+rules_text: When this enchantment enters and at the beginning of your precombat main phase, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+When you attack, target attacking creature gets +1/+1 for each other attacking creature you control that's not attacking a player. => At the beginning of your end step, if you didn't attack this turn, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+Whenever you attack, target attacking creature gets +X/+X until end of turn, where X is the number of other attacking creature you control that are not attacking a player.
+
+Energized Militant
+
+Embassy Extractor
+
+Steel Street Assassin
+
+Tracy, Murder Matriarch
+
+Rundown in the Street
+
+Rebellious Dinosaur
+
+Cozy Vagabond
+rules_text: Trample
+[i]Landfall[/i] — Whenever a land enters under your control, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i] => Defender, trample
+[i]Landfall[/i] — Whenever a land you control enters, this creature can attack this turn as though it didn't have defender. Then if you control seven or more lands, take to the streets. [i](If you don't have a Watchtower emblem, you get one. During your next combat phase, you may attack the Watchtower.)[/i]
+pt: 3/3 => 4/4
+
+District Crusher
+
+Extermination
+
+Intel Gathering
+
+Checkpoint
+
+Runaway Service Vehicle
+
+Quiet Plant Store
+
+Gas Mask
+
+The Watchtower
+
+Hit the Pavement
+
+Breach!
+
+Spray Dancer
+
+Monster Truck Gang
+
+Streetwise Guardian
+
+Grow Up on the Streets
+
+Local Artists
+
+RedRebel
+
+Citizen
+
+Bear
+
+Bird
+
+Distressing Damsel
+
+Extra Legal Armorer
+
+White Tag
+
+Blue Tag
+
+Black Tag
+
+Red Tag
+
+Green Tag
+
+Daring Writers
+
+Market Street Tagger
+
+Color the World
+
+Smoking Dragon
+
+The Tag on 38th Street
+
+Bart, Boon Town Creator
+
+Art District Defiant
+
+Champion of the Streets
+
+Sam Scooter Denegan
+
+Null, Blade of the Void
+
+One Man Army
+
+Rick, the Red Devil
+
+Mai, Running Free
+
+Aunty Ruina
+
+Agnus, Voice of the People
+
+Escape Reality
+
+Subway Loiterer
+
+City Renewal
+
+Tony
+
+Katana Gang Rioter
+
+Dockworks Witch
+
+Lavorious, the Oppressor
+
+Josh, Undercity Slacker
+type: Planeswalker — Josh => Legendary Planeswalker — Josh
+
+Public Transport
+
+Swiss Army Man
+
+Iris, the Lurker
+
+Night Raid
+
+Emergency Throttle
+
+Inshi, the Night Blade
+
+Smoke Break
+
+Tank Girl
+
+Tomorrow is Today
+
+Precinct Maverick
+rules_text: Whenever a creature an opponent controls enters, investigate. This ability triggers once each turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature. => Whenever a nontoken creature an opponent controls enters, that player may pay {1}. If they don't, you investigate. This ability triggers once each turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+
+Sewer City Repurposer
+
+Slide and Macha, City Explorers
+
+Protest Artist
+
+Croc Boarder
+
+Guerilla Bowman
+
+Subterfuge Specialists
+
+Door Smasher
+
+Experiment V
+
+Aerosol Justice
+
+Cool Cat Alley
+
+Ten'Sil, Quiet Courier
+
+Midtown Rumbler
+
+Undead Loiterer
+
+Back-Alley Drop
+
+Guitar Solo
+
+Winged Interceptor
+
+The Project
+
+Prolific Tagger
+rules_text: Trample
+When this creature enters, other creatures you control get +1/+1 for each other graffiti you control.
+Whenever a graffiti you control enters put a +1/+1 counter on this creature. => Trample
+When this creature enters, other creatures you control get +1/+1 for each other Graffiti you control.
+Whenever a Graffiti you control enters, put a +1/+1 counter on this creature.
+
+Sewer Girl
+
+Motorcycle Garage
+
+Spec Ops Commander
+
+Clear the Streets
+
+Rask Cyberfang
+
+Tina, Queen of the Road
+
+Falling Down
+
+Franny Lollipop Thomas
+
+Oni-Face Painting
+
+Ashley, Freedom Fighter
+
+We Are the Many
+
+WHATEVER WE RIOT
+
+Lavorious's Backup Plan
+
+Hollowed Stare
+
+Burb Controller
+
+She's Got the Touch
+
+Night Heist
+
+Neighborhood Watch
+
+Aurora Days
+
+Citadel's Juggernaut
+
+Painter of Brighter Futures
+
+Vigilante Justice
+
+It Just Gets Worse
+
+Bloodmage Conscriptor
+
+Take it to 11
+
+Roger Funny-Man Cannon
+
+Become Obsessed
+
+Rebelling Roots
+
+Bugger, Technothief
+
+Sprayed Patroller
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Neon LIghts Rider added.

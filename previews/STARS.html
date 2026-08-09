@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/STARS-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>STARS visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/STARS-files/logo.png" />
+	<img class="preload-hidden" src="../sets/NRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/POP1-files/icon.png" />
+		<img class="preload-hidden" src="../sets/POP2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STARS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WGJ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/STARS"><img src="../sets/STARS-files/icon.png">Stars of Cinesterra</a>
+	
+		<a class="set-bar inactive" href="../previews/NRC"><img src="../sets/NRC-files/icon.png">New Requiem: Crossfire</a>
+	
+		<a class="set-bar inactive" href="../previews/POP1"><img src="../sets/POP1-files/icon.png">Popcorn</a>
+	
+		<a class="set-bar inactive" href="../previews/POP2"><img src="../sets/POP2-files/icon.png">Popcorn 2</a>
+	
+		<a class="set-bar inactive" href="../previews/WGJ"><img src="../sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/STARS-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\STARS-files\img\245.png" id="STARS_245" data-flag="@X" onclick="openSidebar('STARS_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\257.png" id="STARS_257" data-flag="@X" onclick="openSidebar('STARS_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\243.png" id="STARS_243" data-flag="@X" onclick="openSidebar('STARS_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\254.png" id="STARS_254" data-flag="@X" onclick="openSidebar('STARS_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\256.png" id="STARS_256" data-flag="@X" onclick="openSidebar('STARS_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\244.png" id="STARS_244" data-flag="@X" onclick="openSidebar('STARS_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\197.png" id="STARS_197" data-flag="@X" onclick="openSidebar('STARS_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\260.png" id="STARS_260" data-flag="@X" onclick="openSidebar('STARS_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\255.png" id="STARS_255" data-flag="@X" onclick="openSidebar('STARS_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\248.png" id="STARS_248" data-flag="@X" onclick="openSidebar('STARS_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\144.png" id="STARS_144" data-flag="@X" onclick="openSidebar('STARS_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\198.png" id="STARS_198" data-flag="@X" onclick="openSidebar('STARS_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\247.png" id="STARS_247" data-flag="@X" onclick="openSidebar('STARS_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\207.png" id="STARS_207" data-flag="@X" onclick="openSidebar('STARS_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\212.png" id="STARS_212" data-flag="@X" onclick="openSidebar('STARS_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\193.png" id="STARS_193" data-flag="@X" onclick="openSidebar('STARS_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\201.png" id="STARS_201" data-flag="@X" onclick="openSidebar('STARS_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\226.png" id="STARS_226" data-flag="@X" onclick="openSidebar('STARS_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\206.png" id="STARS_206" data-flag="@X" onclick="openSidebar('STARS_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\210.png" id="STARS_210" data-flag="@X" onclick="openSidebar('STARS_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\196.png" id="STARS_196" data-flag="@X" onclick="openSidebar('STARS_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\234.png" id="STARS_234" data-flag="@X" onclick="openSidebar('STARS_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\191.png" id="STARS_191" data-flag="@X" onclick="openSidebar('STARS_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\192.png" id="STARS_192" data-flag="@X" onclick="openSidebar('STARS_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\227.png" id="STARS_227" data-flag="@X" onclick="openSidebar('STARS_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\194.png" id="STARS_194" data-flag="@X" onclick="openSidebar('STARS_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\235.png" id="STARS_235" data-flag="@X" onclick="openSidebar('STARS_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\204.png" id="STARS_204" data-flag="@X" onclick="openSidebar('STARS_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\232.png" id="STARS_232" data-flag="@X" onclick="openSidebar('STARS_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\211.png" id="STARS_211" data-flag="@X" onclick="openSidebar('STARS_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\86.png" id="STARS_86" data-flag="@X" onclick="openSidebar('STARS_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\200.png" id="STARS_200" data-flag="@X" onclick="openSidebar('STARS_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\190.png" id="STARS_190" data-flag="@X" onclick="openSidebar('STARS_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\208.png" id="STARS_208" data-flag="@X" onclick="openSidebar('STARS_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\209.png" id="STARS_209" data-flag="@X" onclick="openSidebar('STARS_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\195.png" id="STARS_195" data-flag="@X" onclick="openSidebar('STARS_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\236.png" id="STARS_236" data-flag="@X" onclick="openSidebar('STARS_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\205.png" id="STARS_205" data-flag="@X" onclick="openSidebar('STARS_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\233.png" id="STARS_233" data-flag="@X" onclick="openSidebar('STARS_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\241.png" id="STARS_241" data-flag="@X" onclick="openSidebar('STARS_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\188.png" id="STARS_188" data-flag="@X" onclick="openSidebar('STARS_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\199.png" id="STARS_199" data-flag="@X" onclick="openSidebar('STARS_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\203.png" id="STARS_203" data-flag="@X" onclick="openSidebar('STARS_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\189.png" id="STARS_189" data-flag="@X" onclick="openSidebar('STARS_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\231.png" id="STARS_231" data-flag="@X" onclick="openSidebar('STARS_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\161.png" id="STARS_161" data-flag="@X" onclick="openSidebar('STARS_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\95.png" id="STARS_95" data-flag="@X" onclick="openSidebar('STARS_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\202.png" id="STARS_202" data-flag="@X" onclick="openSidebar('STARS_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\78.png" id="STARS_78" data-flag="@X" onclick="openSidebar('STARS_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\186.png" id="STARS_186" data-flag="@X" onclick="openSidebar('STARS_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\85.png" id="STARS_85" data-flag="@X" onclick="openSidebar('STARS_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\96.png" id="STARS_96" data-flag="@X" onclick="openSidebar('STARS_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\88.png" id="STARS_88" data-flag="@X" onclick="openSidebar('STARS_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\102.png" id="STARS_102" data-flag="@X" onclick="openSidebar('STARS_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\114.png" id="STARS_114" data-flag="@X" onclick="openSidebar('STARS_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\179.png" id="STARS_179" data-flag="@X" onclick="openSidebar('STARS_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\182.png" id="STARS_182" data-flag="@X" onclick="openSidebar('STARS_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\98.png" id="STARS_98" data-flag="@X" onclick="openSidebar('STARS_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\81.png" id="STARS_81" data-flag="@X" onclick="openSidebar('STARS_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\103.png" id="STARS_103" data-flag="@X" onclick="openSidebar('STARS_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\92.png" id="STARS_92" data-flag="@X" onclick="openSidebar('STARS_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\113.png" id="STARS_113" data-flag="@X" onclick="openSidebar('STARS_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\111.png" id="STARS_111" data-flag="@X" onclick="openSidebar('STARS_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\82.png" id="STARS_82" data-flag="@X" onclick="openSidebar('STARS_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\104.png" id="STARS_104" data-flag="@X" onclick="openSidebar('STARS_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\143.png" id="STARS_143" data-flag="@X" onclick="openSidebar('STARS_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\107.png" id="STARS_107" data-flag="@X" onclick="openSidebar('STARS_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\181.png" id="STARS_181" data-flag="@X" onclick="openSidebar('STARS_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\79.png" id="STARS_79" data-flag="@X" onclick="openSidebar('STARS_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\129.png" id="STARS_129" data-flag="@X" onclick="openSidebar('STARS_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\160.png" id="STARS_160" data-flag="@X" onclick="openSidebar('STARS_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\162.png" id="STARS_162" data-flag="@X" onclick="openSidebar('STARS_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\123.png" id="STARS_123" data-flag="@X" onclick="openSidebar('STARS_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\119.png" id="STARS_119" data-flag="@X" onclick="openSidebar('STARS_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\105.png" id="STARS_105" data-flag="@X" onclick="openSidebar('STARS_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\187.png" id="STARS_187" data-flag="@X" onclick="openSidebar('STARS_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\259.png" id="STARS_259" data-flag="@X" onclick="openSidebar('STARS_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\117.png" id="STARS_117" data-flag="@X" onclick="openSidebar('STARS_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\121.png" id="STARS_121" data-flag="@X" onclick="openSidebar('STARS_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\109.png" id="STARS_109" data-flag="@X" onclick="openSidebar('STARS_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\142.png" id="STARS_142" data-flag="@X" onclick="openSidebar('STARS_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\159.png" id="STARS_159" data-flag="@X" onclick="openSidebar('STARS_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\124.png" id="STARS_124" data-flag="@X" onclick="openSidebar('STARS_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\80.png" id="STARS_80" data-flag="@X" onclick="openSidebar('STARS_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\131.png" id="STARS_131" data-flag="@X" onclick="openSidebar('STARS_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\133.png" id="STARS_133" data-flag="@X" onclick="openSidebar('STARS_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\145.png" id="STARS_145" data-flag="@X" onclick="openSidebar('STARS_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\115.png" id="STARS_115" data-flag="@X" onclick="openSidebar('STARS_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\101.png" id="STARS_101" data-flag="@X" onclick="openSidebar('STARS_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\128.png" id="STARS_128" data-flag="@X" onclick="openSidebar('STARS_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\89.png" id="STARS_89" data-flag="@X" onclick="openSidebar('STARS_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\158.png" id="STARS_158" data-flag="@X" onclick="openSidebar('STARS_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\125.png" id="STARS_125" data-flag="@X" onclick="openSidebar('STARS_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\127.png" id="STARS_127" data-flag="@X" onclick="openSidebar('STARS_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\116.png" id="STARS_116" data-flag="@X" onclick="openSidebar('STARS_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\110.png" id="STARS_110" data-flag="@X" onclick="openSidebar('STARS_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\108.png" id="STARS_108" data-flag="@X" onclick="openSidebar('STARS_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\100.png" id="STARS_100" data-flag="@X" onclick="openSidebar('STARS_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\126.png" id="STARS_126" data-flag="@X" onclick="openSidebar('STARS_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\130.png" id="STARS_130" data-flag="@X" onclick="openSidebar('STARS_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\90.png" id="STARS_90" data-flag="@X" onclick="openSidebar('STARS_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\94.png" id="STARS_94" data-flag="@X" onclick="openSidebar('STARS_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\122.png" id="STARS_122" data-flag="@X" onclick="openSidebar('STARS_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\77.png" id="STARS_77" data-flag="@X" onclick="openSidebar('STARS_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\180.png" id="STARS_180" data-flag="@X" onclick="openSidebar('STARS_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\132.png" id="STARS_132" data-flag="@X" onclick="openSidebar('STARS_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\93.png" id="STARS_93" data-flag="@X" onclick="openSidebar('STARS_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\99.png" id="STARS_99" data-flag="@X" onclick="openSidebar('STARS_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\83.png" id="STARS_83" data-flag="@X" onclick="openSidebar('STARS_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\120.png" id="STARS_120" data-flag="@X" onclick="openSidebar('STARS_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\91.png" id="STARS_91" data-flag="@X" onclick="openSidebar('STARS_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\157.png" id="STARS_157" data-flag="@X" onclick="openSidebar('STARS_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\97.png" id="STARS_97" data-flag="@X" onclick="openSidebar('STARS_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\21.png" id="STARS_21" data-flag="@X" onclick="openSidebar('STARS_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\106.png" id="STARS_106" data-flag="@X" onclick="openSidebar('STARS_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\76.png" id="STARS_76" data-flag="@X" onclick="openSidebar('STARS_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\8.png" id="STARS_8" data-flag="@X" onclick="openSidebar('STARS_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\112.png" id="STARS_112" data-flag="@X" onclick="openSidebar('STARS_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\18.png" id="STARS_18" data-flag="@X" onclick="openSidebar('STARS_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\38.png" id="STARS_38" data-flag="@X" onclick="openSidebar('STARS_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\44.png" id="STARS_44" data-flag="@X" onclick="openSidebar('STARS_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\11.png" id="STARS_11" data-flag="@X" onclick="openSidebar('STARS_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\59.png" id="STARS_59" data-flag="@X" onclick="openSidebar('STARS_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\16.png" id="STARS_16" data-flag="@X" onclick="openSidebar('STARS_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\33.png" id="STARS_33" data-flag="@X" onclick="openSidebar('STARS_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\47.png" id="STARS_47" data-flag="@X" onclick="openSidebar('STARS_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\3.png" id="STARS_3" data-flag="@X" onclick="openSidebar('STARS_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\64.png" id="STARS_64" data-flag="@X" onclick="openSidebar('STARS_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\22.png" id="STARS_22" data-flag="@X" onclick="openSidebar('STARS_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\27.png" id="STARS_27" data-flag="@X" onclick="openSidebar('STARS_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\54.png" id="STARS_54" data-flag="@X" onclick="openSidebar('STARS_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\2.png" id="STARS_2" data-flag="@X" onclick="openSidebar('STARS_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\68.png" id="STARS_68" data-flag="@X" onclick="openSidebar('STARS_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\23.png" id="STARS_23" data-flag="@X" onclick="openSidebar('STARS_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\31.png" id="STARS_31" data-flag="@X" onclick="openSidebar('STARS_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\48.png" id="STARS_48" data-flag="@X" onclick="openSidebar('STARS_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\10.png" id="STARS_10" data-flag="@X" onclick="openSidebar('STARS_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\60.png" id="STARS_60" data-flag="@X" onclick="openSidebar('STARS_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\15.png" id="STARS_15" data-flag="@X" onclick="openSidebar('STARS_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\183.png" id="STARS_183" data-flag="@X" onclick="openSidebar('STARS_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\51.png" id="STARS_51" data-flag="@X" onclick="openSidebar('STARS_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\40.png" id="STARS_40" data-flag="@X" onclick="openSidebar('STARS_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\69.png" id="STARS_69" data-flag="@X" onclick="openSidebar('STARS_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\17.png" id="STARS_17" data-flag="@X" onclick="openSidebar('STARS_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\39.png" id="STARS_39" data-flag="@X" onclick="openSidebar('STARS_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\53.png" id="STARS_53" data-flag="@X" onclick="openSidebar('STARS_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\5.png" id="STARS_5" data-flag="@X" onclick="openSidebar('STARS_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\56.png" id="STARS_56" data-flag="@X" onclick="openSidebar('STARS_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\25.png" id="STARS_25" data-flag="@X" onclick="openSidebar('STARS_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\32.png" id="STARS_32" data-flag="@X" onclick="openSidebar('STARS_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\45.png" id="STARS_45" data-flag="@X" onclick="openSidebar('STARS_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\9.png" id="STARS_9" data-flag="@X" onclick="openSidebar('STARS_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\67.png" id="STARS_67" data-flag="@X" onclick="openSidebar('STARS_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\184.png" id="STARS_184" data-flag="@X" onclick="openSidebar('STARS_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\35.png" id="STARS_35" data-flag="@X" onclick="openSidebar('STARS_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\43.png" id="STARS_43" data-flag="@X" onclick="openSidebar('STARS_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\1.png" id="STARS_1" data-flag="@X" onclick="openSidebar('STARS_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\58.png" id="STARS_58" data-flag="@X" onclick="openSidebar('STARS_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\19.png" id="STARS_19" data-flag="@X" onclick="openSidebar('STARS_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\36.png" id="STARS_36" data-flag="@X" onclick="openSidebar('STARS_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\49.png" id="STARS_49" data-flag="@X" onclick="openSidebar('STARS_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\26.png" id="STARS_26" data-flag="@X" onclick="openSidebar('STARS_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\55.png" id="STARS_55" data-flag="@X" onclick="openSidebar('STARS_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\14.png" id="STARS_14" data-flag="@X" onclick="openSidebar('STARS_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\29.png" id="STARS_29" data-flag="@X" onclick="openSidebar('STARS_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\50.png" id="STARS_50" data-flag="@X" onclick="openSidebar('STARS_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\7.png" id="STARS_7" data-flag="@X" onclick="openSidebar('STARS_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\62.png" id="STARS_62" data-flag="@X" onclick="openSidebar('STARS_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\24.png" id="STARS_24" data-flag="@X" onclick="openSidebar('STARS_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\0.png" id="STARS_0" data-flag="@X" onclick="openSidebar('STARS_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\46.png" id="STARS_46" data-flag="@X" onclick="openSidebar('STARS_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\6.png" id="STARS_6" data-flag="@X" onclick="openSidebar('STARS_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\66.png" id="STARS_66" data-flag="@X" onclick="openSidebar('STARS_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\175.png" id="STARS_175" data-flag="@X" onclick="openSidebar('STARS_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\37.png" id="STARS_37" data-flag="@X" onclick="openSidebar('STARS_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\41.png" id="STARS_41" data-flag="@X" onclick="openSidebar('STARS_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\185.png" id="STARS_185" data-flag="@X" onclick="openSidebar('STARS_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\61.png" id="STARS_61" data-flag="@X" onclick="openSidebar('STARS_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\20.png" id="STARS_20" data-flag="@X" onclick="openSidebar('STARS_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\34.png" id="STARS_34" data-flag="@X" onclick="openSidebar('STARS_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\42.png" id="STARS_42" data-flag="@X" onclick="openSidebar('STARS_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\4.png" id="STARS_4" data-flag="@X" onclick="openSidebar('STARS_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\57.png" id="STARS_57" data-flag="@X" onclick="openSidebar('STARS_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\13.png" id="STARS_13" data-flag="@X" onclick="openSidebar('STARS_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\28.png" id="STARS_28" data-flag="@X" onclick="openSidebar('STARS_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\52.png" id="STARS_52" data-flag="@X" onclick="openSidebar('STARS_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\12.png" id="STARS_12" data-flag="@X" onclick="openSidebar('STARS_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\65.png" id="STARS_65" data-flag="@X" onclick="openSidebar('STARS_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\30.png" id="STARS_30" data-flag="@X" onclick="openSidebar('STARS_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\63.png" id="STARS_63" data-flag="@X" onclick="openSidebar('STARS_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\213.png" id="STARS_213" data-flag="@X" onclick="openSidebar('STARS_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\237.png" id="STARS_237" data-flag="@X" onclick="openSidebar('STARS_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\238.png" id="STARS_238" data-flag="@X" onclick="openSidebar('STARS_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\239.png" id="STARS_239" data-flag="@X" onclick="openSidebar('STARS_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\214.png" id="STARS_214" data-flag="@X" onclick="openSidebar('STARS_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\240.png" id="STARS_240" data-flag="@X" onclick="openSidebar('STARS_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\156.png" id="STARS_156" data-flag="@X" onclick="openSidebar('STARS_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\215.png" id="STARS_215" data-flag="@X" onclick="openSidebar('STARS_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\216.png" id="STARS_216" data-flag="@X" onclick="openSidebar('STARS_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\87.png" id="STARS_87" data-flag="@X" onclick="openSidebar('STARS_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\135.png" id="STARS_135" data-flag="@X" onclick="openSidebar('STARS_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\155.png" id="STARS_155" data-flag="@X" onclick="openSidebar('STARS_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\151.png" id="STARS_151" data-flag="@X" onclick="openSidebar('STARS_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\152.png" id="STARS_152" data-flag="@X" onclick="openSidebar('STARS_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\137.png" id="STARS_137" data-flag="@X" onclick="openSidebar('STARS_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\134.png" id="STARS_134" data-flag="@X" onclick="openSidebar('STARS_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\150.png" id="STARS_150" data-flag="@X" onclick="openSidebar('STARS_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\146.png" id="STARS_146" data-flag="@X" onclick="openSidebar('STARS_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\118.png" id="STARS_118" data-flag="@X" onclick="openSidebar('STARS_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\136.png" id="STARS_136" data-flag="@X" onclick="openSidebar('STARS_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\246.png" id="STARS_246" data-flag="@X" onclick="openSidebar('STARS_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\242.png" id="STARS_242" data-flag="@X" onclick="openSidebar('STARS_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\262.png" id="STARS_262" data-flag="@X" onclick="openSidebar('STARS_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\266.png" id="STARS_266" data-flag="@X" onclick="openSidebar('STARS_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\263.png" id="STARS_263" data-flag="@X" onclick="openSidebar('STARS_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\217.png" id="STARS_217" data-flag="@X" onclick="openSidebar('STARS_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\218.png" id="STARS_218" data-flag="@X" onclick="openSidebar('STARS_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\219.png" id="STARS_219" data-flag="@X" onclick="openSidebar('STARS_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\84.png" id="STARS_84" data-flag="@X" onclick="openSidebar('STARS_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\220.png" id="STARS_220" data-flag="@X" onclick="openSidebar('STARS_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\249.png" id="STARS_249" data-flag="@X" onclick="openSidebar('STARS_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\250.png" id="STARS_250" data-flag="@X" onclick="openSidebar('STARS_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\251.png" id="STARS_251" data-flag="@X" onclick="openSidebar('STARS_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\252.png" id="STARS_252" data-flag="@X" onclick="openSidebar('STARS_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\253.png" id="STARS_253" data-flag="@X" onclick="openSidebar('STARS_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\178.png" id="STARS_178" data-flag="@X" onclick="openSidebar('STARS_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\153.png" id="STARS_153" data-flag="@X" onclick="openSidebar('STARS_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\149.png" id="STARS_149" data-flag="@X" onclick="openSidebar('STARS_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\140.png" id="STARS_140" data-flag="@X" onclick="openSidebar('STARS_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\139.png" id="STARS_139" data-flag="@X" onclick="openSidebar('STARS_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\147.png" id="STARS_147" data-flag="@X" onclick="openSidebar('STARS_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\148.png" id="STARS_148" data-flag="@X" onclick="openSidebar('STARS_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\154.png" id="STARS_154" data-flag="@X" onclick="openSidebar('STARS_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\141.png" id="STARS_141" data-flag="@X" onclick="openSidebar('STARS_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\138.png" id="STARS_138" data-flag="@X" onclick="openSidebar('STARS_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\264.png" id="STARS_264" data-flag="@X" onclick="openSidebar('STARS_264',true)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\261.png" id="STARS_261" data-flag="@X" onclick="openSidebar('STARS_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\265.png" id="STARS_265" data-flag="@X" onclick="openSidebar('STARS_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\228.png" id="STARS_228" data-flag="@X" onclick="openSidebar('STARS_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\230.png" id="STARS_230" data-flag="@X" onclick="openSidebar('STARS_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\229.png" id="STARS_229" data-flag="@X" onclick="openSidebar('STARS_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\172.png" id="STARS_172" data-flag="@X" onclick="openSidebar('STARS_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\173.png" id="STARS_173" data-flag="@X" onclick="openSidebar('STARS_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\171.png" id="STARS_171" data-flag="@X" onclick="openSidebar('STARS_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\174.png" id="STARS_174" data-flag="@X" onclick="openSidebar('STARS_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\267.png" id="STARS_267" data-flag="@X" onclick="openSidebar('STARS_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\75.png" id="STARS_75" data-flag="@X" onclick="openSidebar('STARS_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\71.png" id="STARS_71" data-flag="@X" onclick="openSidebar('STARS_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\70.png" id="STARS_70" data-flag="@X" onclick="openSidebar('STARS_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\73.png" id="STARS_73" data-flag="@X" onclick="openSidebar('STARS_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\74.png" id="STARS_74" data-flag="@X" onclick="openSidebar('STARS_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\72.png" id="STARS_72" data-flag="@X" onclick="openSidebar('STARS_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\225.png" id="STARS_225" data-flag="@X" onclick="openSidebar('STARS_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\224.png" id="STARS_224" data-flag="@X" onclick="openSidebar('STARS_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\223.png" id="STARS_223" data-flag="@X" onclick="openSidebar('STARS_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\221.png" id="STARS_221" data-flag="@X" onclick="openSidebar('STARS_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\222.png" id="STARS_222" data-flag="@X" onclick="openSidebar('STARS_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\258.png" id="STARS_258" data-flag="@X" onclick="openSidebar('STARS_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\176.png" id="STARS_176" data-flag="@X" onclick="openSidebar('STARS_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\177.png" id="STARS_177" data-flag="@X" onclick="openSidebar('STARS_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\170.png" id="STARS_170" data-flag="@X" onclick="openSidebar('STARS_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\270.png" id="STARS_270" data-flag="@X" onclick="openSidebar('STARS_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\272.png" id="STARS_272" data-flag="@X" onclick="openSidebar('STARS_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\169.png" id="STARS_169" data-flag="@X" onclick="openSidebar('STARS_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\163.png" id="STARS_163" data-flag="@X" onclick="openSidebar('STARS_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\268.png" id="STARS_268" data-flag="@X" onclick="openSidebar('STARS_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\164.png" id="STARS_164" data-flag="@X" onclick="openSidebar('STARS_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\165.png" id="STARS_165" data-flag="@X" onclick="openSidebar('STARS_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\276.png" id="STARS_276" data-flag="@X" onclick="openSidebar('STARS_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\273.png" id="STARS_273" data-flag="@X" onclick="openSidebar('STARS_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\166.png" id="STARS_166" data-flag="@X" onclick="openSidebar('STARS_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\274.png" id="STARS_274" data-flag="@X" onclick="openSidebar('STARS_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\167.png" id="STARS_167" data-flag="@X" onclick="openSidebar('STARS_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\275.png" id="STARS_275" data-flag="@X" onclick="openSidebar('STARS_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\168.png" id="STARS_168" data-flag="@X" onclick="openSidebar('STARS_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\269.png" id="STARS_269" data-flag="@X" onclick="openSidebar('STARS_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\STARS-files\img\271.png" id="STARS_271" data-flag="@X" onclick="openSidebar('STARS_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="STARS_e" data-flag="@E" onclick="openSidebar('STARS_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="STARS_er" data-flag="@E" onclick="openSidebar('STARS_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
