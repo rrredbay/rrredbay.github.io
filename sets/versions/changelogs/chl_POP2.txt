@@ -1,4 +1,474 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+If Not Pet Why Pet Shaped? added.
+Egg of ABZAN added.
+Egg of JESKAI added.
+Egg of SULTAI added.
+Egg of MARDU added.
+Egg of TEMUR added.
+
+The Never Ending Waves removed.
+
+Entomancer
+type: Creature — Bee Druid => Creature — Insect Druid
+
+Mutual Destruction
+rules_text: When you cast this spell, if it isn't a copy, each opponent may cast a copy of it. 
+Target player sacrifices a creature. => When you cast this spell, if it isn't a copy, each opponent may cast a copy of it and may choose a new target for that copy.
+Target player sacrifices a creature.
+
+Conduit of the Gyre
+rules_text: When this creature enters, you may behold a colorless creature and create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it. => When this creature enters, you may behold another colorless creature and create a copy of it, except it loses all abilities and gains defender. 
+When this creature enters or attacks, prepare it.
+
+Nullspace Convergence
+
+Cohen's Blade
+rules_text: If this card is in your opening hand, you may begin the game with it on the battlefield.
+Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]
+You can't equip this artifact unless you are in your third act.
+Whenever equipped creature attacks, destroy target creature.
+Equip {1}{B}{B} => If this card is in your opening hand, you may begin the game with it on the battlefield.
+Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]
+Whenever equipped creature attacks, destroy target creature.
+You can't equip this artifact unless you are in your third act.
+Equip {1}{B}{B}
+
+Dissonant Music
+rules_text: Counter target spell unless its controller pays {1} plus an additional {1} for each music counter on creatures you control. => Put a music counter on up to one target creature. Counter target spell unless its controller pays {1} plus an additional {1} for each music counter on creatures you control.
+
+Analog Audiophile
+rules_text: When this enters, you may Strategize {X}. If you do, distribute X music counters among up to X target creatures. [i](While paying a Strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+Megabanding [i](Whenever you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band get +2/+0. => When this enters, you may strategize {X}. If you do, distribute X music counters among up to X target creatures. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+Megabanding [i](Whenever you attack with two or more Bards, Performers, and/or creatures with music counters, they form a band until end of turn.)[/i]
+Creatures in your band get +2/+0.
+
+The Mill Servant
+rules_text: When this creature dies, mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i] => When this creature dies, mill four cards. Then if the number of cards named The Mill Servant in your graveyard is greater than the number of cards in your library, you win the game.
+A deck can have any number of cards named The Mill Servant.
+
+Paralyzing Tidefang
+rules_text: No more than one creature can attack each combat.
+[i]Fateful Hour [/i]— {T}, Pay 1 life: Tap target creature. Then if you have 5 or less life, put a stun counter on that creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => No more than one creature can attack each combat.
+{T}, Pay 1 life: Tap target creature. Then if you have 5 or less life, put a stun counter on that creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Hivecaller Minstrel
+
+Curseflame Dragon
+rules_text: Flying, haste
+[i]Dire[/i] — {1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate only as a sorcery and only if another card left your graveyard this turn. => Flying, haste
+[i]Dire[/i] — {1}{R}, Exile this card from your graveyard: This card deals 4 damage to any target. Activate this ability only if another card left your graveyard this turn and only as a sorcery.
+
+Homework
+
+Evidence of Betrayal
+
+The Elements of Betrayal
+
+Mirrored Mind
+rules_text: Whenever a player casts or copies an instant or sorcery spell, you may Strategize {X}, where X is twice the mana value of the that spell. If you do, copy that spell. You may choose new targets for the copy. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i] => Whenever a player casts or copies an instant or sorcery spell, you may strategize {X}, where X is twice the mana value of the that spell. If you do, copy that spell. You may choose new targets for the copy. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each pays for {1}.)[/i]
+
+Markovian Studies
+
+Helvault Escapee
+
+Howling Geist
+
+Dancing Dampflames
+
+Shiad, the Honed Mind
+
+Seal of Fists
+
+Creaking Bones
+
+Seal of Fists (Not the other Popcorn 2 one)
+
+Windpouncer, Denbound
+
+Keeper of the Tombs Beyond
+
+Mobile Launch Pad
+
+Expert Pilot
+rules_text: This creature can't block.
+This creature crews Vehicles, stations Spacecraft, and saddles Mounts as though its power were 2 greater. => This creature can't block.
+This creature crews Vehicles, saddles Mounts, and stations Spacecraft and Planets, as though its power were 2 greater.
+
+Koma, Fynn's Captive
+
+Wanderpath Staff
+
+Landbound Druid
+
+The Elements of Simplicity
+
+Mizzium Educator
+
+Setessan Chimera
+
+Verdant Countermeasures
+
+Time Swap
+
+Grovesong Gondolier
+
+Bounty Royale
+
+Notorious Lutemaster
+
+Pass Surveyor
+
+Land Weaver
+
+Typal Flames
+
+Tamed Volcano
+
+Judge of the Void
+
+Simpering Schemer
+
+Inscrutable Familiar
+
+Curse of Art Debt
+
+Slowbones
+
+Turn the Page
+
+Inverter of Amity
+
+Starschool Netcatcher
+
+Phenomenal Flock
+
+Solemn Watcher
+
+Lecturer's Hall
+
+The Second End
+
+Shepherd's Providence
+
+Doko, the Bog Guardian
+
+Voracity
+
+Trembling Skeleton
+
+Fractured Souls
+
+Shimmerfin Hare
+
+Overgrown Stone
+
+Munitions Collector
+
+Boggart Exile
+
+Friend till the End
+
+The Torrent of Everything
+
+The Answer of Nothing
+
+The Answer to Life, the Universe, and Everything
+rules_text: [i](You protect this Riddle. When it's defeated, each player answers.)[/i]
+When this Riddle enters, and at the beginning of your upkeep, create a 6/6 white Whale creature token with “When this creature enters, sacrifice it, and it deals damage equal to its power to each opponent.” and a Lotus Petal token.
+Answer — Your life total becomes 42. You get an emblem with “Double all damage that sources you control would deal.” => [i](You protect this Riddle. When it's defeated, each player answers.)[/i]
+When this Riddle enters, and at the beginning of your upkeep, create a 6/9 white Whale creature token with “When this creature enters, sacrifice it, and it deals damage equal to its power to each opponent.” and a Lotus Petal token.
+Answer — Your life total becomes 42. You get an emblem with “Double all damage that sources you control would deal.”
+loyalty: 10 => 7
+
+Lumbering Researcher
+rules_text: As an additional cost to cast this spell, strategize 5. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each one pays for 1.)[/i]
+When this creature enters, learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => As an additional cost to cast this spell, strategize {5}. [i](While paying a strategize cost, you can tap your artifacts and creatures to help. Each one pays for 1.)[/i]
+When this creature enters, learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Fortune of the Void
+rules_text: When you cast this spell, each player may discard their hand and draw seven cards.
+Warp {4}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When you cast this spell, each player may discard their hand and draw seven cards.
+Flying
+Warp {4}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Fynton, Expert Rigger
+rules_text: When this creature enters and at the beginning of your upkeep, this creature assembles a contraption. [i](Put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+[i]Gizmo[/i] — At the beginning of your end step, if you have a contraption on each sprocket, you may Crank your current sprocket. If you don't, draw two cards then discard two cards. => When this creature enters and at the beginning of your upkeep, this creature assembles a contraption. [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+Whenever Fynton attacks, choose one —
+• Draw two cards then discard a card.
+• Crank any number of your current sprocket's Contraptions.
+
+Uplifting Oak
+
+Alla Breve, Timekeeper
+type: Enchantment => Legendary Creature — Sphinx
+
+The Final Battle
+
+Two Birds One Storm
+rules_text: Flying
+Modal spells you cast have storm. [i](Whenever you cast a spell if it has two or more options in a bulleted list and instructions for a player to choose a number of those options, copy it for each spell cast before it this turn, you cannot change or add modes. You may choose new targets for the copies.)[/i] => Flying
+Modal spells you cast have storm.
+Whenever another Bird you control attacks, discover a Modal. [i](Exile cards from the top of your library until you exile a nonland card with two or more options in a bulleted list and instructions for a player to choose a number of those options. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+Designer Refiner
+rules_text: {T}: Choose a permanent or spell. Then target another permanent or spell. If they share designers, the target target becomes a copy of the chosen permanent or spell.
+{W}{U}{B}{R}{G}, Sacrifice this artifact: Choose a designer Create a token copy of each permanent you control that was made by the chosen designer. Sacrifice them at the beginning of the end step. Activate only as a sorcery. => {T}: Choose a permanent or spell. Then target another permanent or spell. If they share designers, the target becomes a copy of the chosen permanent or spell.
+{W}{U}{B}{R}{G}, Sacrifice this artifact: Choose a designer Create a token copy of each permanent you control that was made by the chosen designer. Sacrifice them at the beginning of the end step. Activate only as a sorcery.
+
+New Territory
+
+Threshold of Learning
+
+Aria Sanctuary
+
+Omnath's Respite
+
+Boulevard of Broken Dreams
+
+A Wiggle in the Weft
+
+Focus Locus
+
+Beyondworld Gateway
+
+The Sprawl
+
+The Gallery of Stones
+
+Hubworld
+
+Solarhub System
+
+Craglocked Citadel
+
+Librarbee of Alexandrbeea
+
+Gorgon's Gallery
+
+Hivefrost Bergs
+
+Hivegrowth Spire
+
+Hiverot Bog
+
+Hornet Corp Headquarters
+
+Hivelava Flows
+
+Hivecoil Marsh
+
+Hivefever Vines
+
+Hivefray Armoury
+
+Hiveroot Colony
+
+Hivestone Falls
+
+Expansive Hive
+
+Tri-Hive
+
+Bee City
+
+Locust Locus
+
+The Overgrown Facade
+
+Buzzing Depths
+
+Radiant Mistfalls
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{W}{U}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {W} or {U}.)[/i]
+As this land enters, you may exile a white or blue card from your hand. If you don't, it enters tapped.
+{2}{W}{U}, {T}: Return a card exiled with this land to its owner's hand.
+
+Soot Marble Steps
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{W}{B}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {W} or {B}.)[/i]
+As this land enters, you may exile a white or black card from your hand. If you don't, it enters tapped.
+{2}{W}{B}, {T}: Return a card exiled with this land to its owner's hand.
+
+Umbral Pools
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{U}{B}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may exile a blue or black card from your hand. If you don't, it enters tapped.
+{2}{U}{B}, {T}: Return a card exiled with this land to its owner's hand.
+
+Stormglass Pass
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{U}{R}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {U} or {R}.)[/i]
+As this land enters, you may exile a blue or red card from your hand. If you don't, it enters tapped.
+{2}{U}{R}, {T}: Return a card exiled with this land to its owner's hand.
+
+Smoldering Channels
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{B}{R}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {B} or {R}.)[/i]
+As this land enters, you may exile a black or red card from your hand. If you don't, it enters tapped.
+{2}{B}{R}, {T}: Return a card exiled with this land to its owner's hand.
+
+Grave-Fed Thicket
+rules_text: [i]({T}: Add {B} or {G}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{B}{G}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {B} or {G}.)[/i]
+As this land enters, you may exile a black or green card from your hand. If you don't, it enters tapped.
+{2}{B}{G}, {T}: Return a card exiled with this land to its owner's hand.
+
+Volcanic Steppe
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{R}{G}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {R} or {G}.)[/i]
+As this land enters, you may exile a red or green card from your hand. If you don't, it enters tapped.
+{2}{R}{G}, {T}: Return a card exiled with this land to its owner's hand.
+
+Sunbleached Ridge
+rules_text: [i]({T}: Add {R} or {W}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{R}{W}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {R} or {W}.)[/i]
+As this land enters, you may exile a red or white card from your hand. If you don't, it enters tapped.
+{2}{R}{W}, {T}: Return a card exiled with this land to its owner's hand.
+
+Verdant Expanse
+
+Algae Terraces
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+As this land enters, you may exile a green or white card from your hand. If you don't, it enters tapped.
+{2}{G}{U}, {T}: Return a card exiled with this land to its owner's hand. => [i]({T}: Add {G} or {U}.)[/i]
+As this land enters, you may exile a green or blue card from your hand. If you don't, it enters tapped.
+{2}{G}{U}, {T}: Return a card exiled with this land to its owner's hand.
+
+Unlit Sungate
+
+Solemn Palace Gate
+
+Shadowy Ice Gate
+
+Glorious Skygate
+
+Darkened Hell Gate
+
+Mossy Garden Gate
+
+Honored Valley Gate
+
+Ancient Cliffgate
+
+Runed Temple Gate
+
+Unknown Warpgate
+
+Skywatch Platform
+
+Sanctuary Platform
+
+Rumorhome Platform
+
+Storm Observation Platform
+
+Cindercrest Platform
+
+Rotgrove Platform
+
+Trail Edge Platform
+
+Honor Guard Platform
+
+Bloomrest Platform
+
+Canopy Research Platform
+
+Fatehold Classroom
+
+Silverquill Classroom
+
+Theorix Classroom
+
+Prismari Classroom
+
+Stingerquill Classroom
+
+Witherbloom Classroom
+
+Konstrari Classroom
+
+Lorehold Classroom
+
+Vigorbloom Classroom
+
+Quandrix Classroom
+
+Sunset Oasis
+
+Granary District
+
+Valthyra, Mythic Mead-Hall
+
+Opulent Archway
+
+Realm of Pure Thought
+
+Halvoryn, Sunken Shipdock
+
+Lighthouse
+
+Relaxing Pool
+
+Haunted Shanty
+
+Rotted Sactum
+
+Golgamass, The Bog Incarnate
+
+Shallow Cemetery
+
+Dreambloomed Peak
+
+Storm-Crowned Peak
+
+The Electroforge
+
+Madder Blinder Mountain
+
+The Aether Bloom
+
+Grizzly Den
+
+Gemberry Orchard
+
+Timberland Fort
+
+Stairway to Order
+
+Stairway to Reverence
+
+Stairway to Depths
+
+Stairway to Confusion
+
+Stairway to Luxury
+
+Stairway to Malady
+
+Stairway to Freedom
+
+Stairway to Opportunity
+
+Stairway to Pilgirmage
+
+Stairway to Meditation
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Call Forth the Militia added.

@@ -1,4 +1,32 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Hallowed Fountain added.
+Watery Grave added.
+Blood Crypt added.
+Stomping Ground added.
+Temple Garden added.
+Godless Shrine added.
+Steam Vents added.
+Overgrown Tomb added.
+Sacred Foundry added.
+Breeding Pool added.
+
+
+Bert, Parts Specialist
+rules_text: Vigilance
+When Bert enters, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junks you control have “{T}, Sacrifice this artifact: Put a +1/+1 counter on target creature or Vehicle. Activate only as a sorcery.” => When Bert enters, create two Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Junks you control have “{T}, Sacrifice this artifact: Put a +1/+1 counter on target creature or Vehicle. Activate only as a sorcery.”
+
+Erys, Hunted Marksman
+rules_text: Ward—Pay 3 life.
+When Erys enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it and exile that card.
+{R}: Until end of turn, you may cast cards exiled by Erys and mana of any type can be spent to cast them. Activate only as a sorcery. => When Erys enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it and exile that card.
+{R}: Until end of turn, you may cast cards exiled by Erys and mana of any type can be spent to cast them. Activate only as a sorcery.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Citadel, the Rumbling Fortress added.

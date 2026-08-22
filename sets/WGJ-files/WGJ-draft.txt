@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/9.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "272",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "273",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "274",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "275",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "276",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/15.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "260",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "259",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "264",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/156.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "271",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/157.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "261",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/158.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "269",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/204.png"
 			}
@@ -2690,7 +2690,7 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/268.png"
 			}
 		},
-{
+			{
 			"name": "Call The Beast Emblem",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2916,6 +2916,106 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/290.png"
 			}
+		},
+		{
+			"name": "Hallowed Fountain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/291.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/292.png"
+			}
+		},
+		{
+			"name": "Blood Crypt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/293.png"
+			}
+		},
+		{
+			"name": "Stomping Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/294.png"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/295.png"
+			}
+		},
+		{
+			"name": "Godless Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/296.png"
+			}
+		},
+		{
+			"name": "Steam Vents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/297.png"
+			}
+		},
+		{
+			"name": "Overgrown Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/298.png"
+			}
+		},
+		{
+			"name": "Sacred Foundry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/299.png"
+			}
+		},
+		{
+			"name": "Breeding Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJ-files/img/300.png"
+			}
 		}
 	]
 
@@ -3000,6 +3100,16 @@
 	1 The Junklord's Gambit
 	2 Acidic Acolyte
 	2 Unyielding Husk
+	2 Hallowed Fountain
+	2 Watery Grave
+	2 Blood Crypt
+	2 Stomping Ground
+	2 Temple Garden
+	2 Godless Shrine
+	2 Steam Vents
+	2 Overgrown Tomb
+	2 Sacred Foundry
+	2 Breeding Pool
 [uncommon(3)]
 	4 Scrap-Shell Hermit
 	4 Cast Down
@@ -3557,6 +3667,16 @@
 	12 Armored Goliath
 	12 Flamethrower Battle-Wagon
 	2 Unyielding Husk
+	2 Hallowed Fountain
+	2 Watery Grave
+	2 Blood Crypt
+	2 Stomping Ground
+	2 Temple Garden
+	2 Godless Shrine
+	2 Steam Vents
+	2 Overgrown Tomb
+	2 Sacred Foundry
+	2 Breeding Pool
 [wildcard(2)]
 	6 Shoreline Midden
 	6 Submerged Midden
@@ -3829,5 +3949,15 @@
 	6 Armored Goliath
 	6 Flamethrower Battle-Wagon
 	7 Unyielding Husk
+	7 Hallowed Fountain
+	7 Watery Grave
+	7 Blood Crypt
+	7 Stomping Ground
+	7 Temple Garden
+	7 Godless Shrine
+	7 Steam Vents
+	7 Overgrown Tomb
+	7 Sacred Foundry
+	7 Breeding Pool
 [landslot(1)]
 	30 Call The Beast Emblem

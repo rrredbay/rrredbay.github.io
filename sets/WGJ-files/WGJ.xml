@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-09</releasedate>
+			<releasedate>2026-08-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 {WU}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/0.png" num="268">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/0.png" num="274">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -32,7 +32,7 @@
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {UB}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/1.png" num="270">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/1.png" num="278">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {BR}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/2.png" num="263">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/2.png" num="267">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -68,7 +68,7 @@
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 {RG}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/3.png" num="256">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/3.png" num="258">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {GW}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/4.png" num="267">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/4.png" num="273">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {WB}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/5.png" num="257">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/5.png" num="259">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -122,7 +122,7 @@
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {UR}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/6.png" num="262">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/6.png" num="266">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -140,7 +140,7 @@
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {BG}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/7.png" num="258">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/7.png" num="260">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -158,7 +158,7 @@
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 {RW}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/8.png" num="266">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/8.png" num="271">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -176,7 +176,7 @@
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {GU}, Discard this card: Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/9.png" num="265">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/9.png" num="270">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -210,7 +210,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/11.png" num="272">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/11.png" num="282">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,7 +225,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/12.png" num="273">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/12.png" num="283">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -240,7 +240,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/13.png" num="274">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/13.png" num="284">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -255,7 +255,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/14.png" num="275">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/14.png" num="285">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -270,7 +270,7 @@ The Beast gets +1/+1 for each card exiled with your Call The Beast emblem.</text
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/15.png" num="276">WGJ</set>
+			<set rarity="common" picurl="https://rrredbay.github.io/sets/WGJ-files/img/15.png" num="286">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2492,8 +2492,7 @@ Salvage {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Put a number 
 		</card>
 		<card>
 			<name>Bert, Parts Specialist</name>
-			<text>Vigilance
-When Bert enters, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
+			<text>When Bert enters, create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
 Junks you control have &quot;{T}, Sacrifice this artifact: Put a +1/+1 counter on target creature or Vehicle. Activate only as a sorcery.&quot;</text>
 			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/139.png" num="8">WGJ</set>
 			<prop>
@@ -2765,7 +2764,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 			<text>The Junkfields enters tapped.
 When The Junkfields enters, you may pay {1}. If you do, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 {T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/154.png" num="260">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/154.png" num="264">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2784,7 +2783,7 @@ When The Junkfields enters, you may pay {1}. If you do, call The Beast. (You get
 			<text>The Heap enters tapped.
 When The Heap enters, you may pay {1}. If you do, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 {T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/155.png" num="259">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/155.png" num="263">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2803,7 +2802,7 @@ When The Heap enters, you may pay {1}. If you do, call The Beast. (You get a Cal
 			<text>The Pit enters tapped.
 When The Pit enters, you may pay {1}. If you do, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 {T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/156.png" num="264">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/156.png" num="269">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2822,7 +2821,7 @@ When The Pit enters, you may pay {1}. If you do, call The Beast. (You get a Call
 			<text>The Wasteland enters tapped.
 When The Wasteland enters, you may pay {1}. If you do, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 {T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/157.png" num="271">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/157.png" num="280">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2841,7 +2840,7 @@ When The Wasteland enters, you may pay {1}. If you do, call The Beast. (You get 
 			<text>The Lost Sea enters tapped.
 When The Lost Sea enters, you may pay {1}. If you do, call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You may mill three cards. Then choose one of the emblem&apos;s abilities.)
 {T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/158.png" num="261">WGJ</set>
+			<set rarity="uncommon" picurl="https://rrredbay.github.io/sets/WGJ-files/img/158.png" num="265">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3433,8 +3432,7 @@ Target creature gets -2/-2 and up to one other target creature gets -1/-1 until 
 		</card>
 		<card>
 			<name>Erys, Hunted Marksman</name>
-			<text>Ward—Pay 3 life.
-When Erys enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it and exile that card.
+			<text>When Erys enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it and exile that card.
 {R}: Until end of turn, you may cast cards exiled by Erys and mana of any type can be spent to cast them. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/191.png" num="222">WGJ</set>
 			<prop>
@@ -3683,7 +3681,7 @@ Crew 4</text>
 			<name>The Sprawl</name>
 			<text>{T}, Pay 1 life: Add one mana of any color.
 {W}{U}{B}{R}{G}, {T}, Exile The Sprawl: Create a 1/1 colorless Servo artifact creature token, a 1/1 blue Insect creature token with flying, a 1/1 red Mercenary creature token with haste, a 2/2 green Nomad creature token, and a Junk token. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/204.png" num="269">WGJ</set>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/204.png" num="275">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5276,6 +5274,166 @@ You may cast this card from your graveyard by sacrificing an artifact in additio
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Fountain</name>
+			<text>({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/291.png" num="262">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Watery Grave</name>
+			<text>({T}: Add {U} or {B}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/292.png" num="281">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>({T}: Add {B} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/293.png" num="256">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stomping Ground</name>
+			<text>({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/294.png" num="277">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple Garden</name>
+			<text>({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/295.png" num="279">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godless Shrine</name>
+			<text>({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/296.png" num="261">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Steam Vents</name>
+			<text>({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/297.png" num="276">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Tomb</name>
+			<text>({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/298.png" num="268">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Foundry</name>
+			<text>({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/299.png" num="272">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Breeding Pool</name>
+			<text>({T}: Add {G} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/WGJ-files/img/300.png" num="257">WGJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

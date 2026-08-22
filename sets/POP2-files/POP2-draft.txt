@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Instant",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{1}{U}",
 			"type": "Instant",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Insect",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/2.png"
 			}
@@ -44,7 +44,7 @@
 			"name": "Entomancer",
 			"rarity": "special",
 			"mana_cost": "{W}{W}{B}{B}",
-			"type": "Creature — Bee Druid",
+			"type": "Creature — Insect Druid",
 			"collector_number": "309",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/4.png"
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Creature — Zombie Noble",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Battle",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Battle",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/9.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Hyena Pirate",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Legendary Planeswalker — Kolt",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spider Rogue",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/15.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/17.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Squirrel Vampire",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/20.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elf Vampire",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Artifact — Clue",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/25.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Battle — Control Point",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/27.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Giant",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/29.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/35.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "{C}{C/R}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spirit Monk",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Human Cleric",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "425",
+			"collector_number": "430",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "419",
+			"collector_number": "424",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Artifact Creature — Myr Survivor",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect Soldier",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/47.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "428",
+			"collector_number": "433",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Battle",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/54.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/56.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/59.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/61.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "417",
+			"collector_number": "422",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/70.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/72.png"
 			}
@@ -735,7 +735,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Nymph",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/73.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/75.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Cleric",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Phyrexian Demon",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/78.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/80.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/82.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "435",
+			"collector_number": "440",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/83.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Artifact Creature — Gnome Bard",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}{G}{G}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/86.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "413",
+			"collector_number": "418",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/89.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Artifact — Hive",
-			"collector_number": "423",
+			"collector_number": "428",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Planeswalker — Arnessa",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Lizard",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/100.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Warlock",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/105.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Equipment Bird",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/111.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Equipment Skeleton",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/112.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/114.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/118.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/121.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/124.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Dinosaur Beast",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/125.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Fortification",
-			"collector_number": "430",
+			"collector_number": "435",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/126.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Fortification",
-			"collector_number": "418",
+			"collector_number": "423",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/128.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/130.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/131.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/133.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/134.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/135.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/138.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Shapeshifter Rogue",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/139.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/140.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/142.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/143.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/144.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/145.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Plant Horror",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/147.png"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Construct Noble",
-			"collector_number": "436",
+			"collector_number": "441",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/150.png"
 			}
@@ -1515,7 +1515,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/151.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/152.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Gnoll",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/153.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Otter Cleric",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Sphinx",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/156.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/157.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/158.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}{B}{B}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/159.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Trilobite",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/161.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/162.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Crab",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/163.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/164.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "427",
+			"collector_number": "432",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/165.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/168.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/170.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Chimera",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/171.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/173.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/175.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/176.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Fish Horror",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/177.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/178.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/179.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Fish Horror Soldier",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/184.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/185.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Scorpion",
-			"collector_number": "415",
+			"collector_number": "420",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/186.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/188.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Planeswalker — Miku",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/190.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Planeswalker — Nobody",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/193.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "special",
 			"mana_cost": "{P}{P}{G}{G}",
 			"type": "Legendary Planeswalker — Cveki",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/195.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/198.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "431",
+			"collector_number": "436",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/199.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Homunculus",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/200.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Homunculus",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/203.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/204.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Kindred Artifact — Treasure Egg",
-			"collector_number": "412",
+			"collector_number": "415",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/207.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant Berserker",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/209.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/210.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/211.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Creature — Dragon Zombie Egg",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/212.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/213.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/214.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/216.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/217.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Otter",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/218.png"
 			}
@@ -2265,7 +2265,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/226.png"
 			}
@@ -2281,13 +2281,23 @@
 			}
 		},
 		{
+			"name": "If Not Pet Why Pet Shaped?",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/228.png"
+			}
+		},
+		{
 			"name": "Homework",
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact — Clue Lesson",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/228.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/229.png"
 			}
 		},
 		{
@@ -2295,9 +2305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact — Clue",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/229.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/230.png"
 			}
 		},
 		{
@@ -2307,7 +2317,7 @@
 			"type": "Instant — Lesson",
 			"collector_number": "375",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/230.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/231.png"
 			}
 		},
 		{
@@ -2315,9 +2325,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/231.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/232.png"
 			}
 		},
 		{
@@ -2325,9 +2335,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/232.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/233.png"
 			}
 		},
 		{
@@ -2335,9 +2345,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/233.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/234.png"
 			}
 		},
 		{
@@ -2347,7 +2357,7 @@
 			"type": "Creature — Werewolf Spirit",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/234.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/235.png"
 			}
 		},
 		{
@@ -2355,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/235.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/236.png"
 			}
 		},
 		{
@@ -2367,7 +2377,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/236.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/237.png"
 			}
 		},
 		{
@@ -2377,7 +2387,7 @@
 			"type": "Enchantment",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/237.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/238.png"
 			}
 		},
 		{
@@ -2385,9 +2395,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Bard",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/238.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/239.png"
 			}
 		},
 		{
@@ -2397,7 +2407,7 @@
 			"type": "Creature — Seal",
 			"collector_number": "393",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/239.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/240.png"
 			}
 		},
 		{
@@ -2407,7 +2417,7 @@
 			"type": "Legendary Creature — Cat",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/240.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/241.png"
 			}
 		},
 		{
@@ -2415,9 +2425,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}",
 			"type": "Artifact Creature — Skeleton Construct",
-			"collector_number": "420",
+			"collector_number": "425",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/241.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/242.png"
 			}
 		},
 		{
@@ -2425,9 +2435,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "424",
+			"collector_number": "429",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/242.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/243.png"
 			}
 		},
 		{
@@ -2435,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/243.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/244.png"
 			}
 		},
 		{
@@ -2447,7 +2457,7 @@
 			"type": "Legendary Creature — Serpent Mount",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/244.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/245.png"
 			}
 		},
 		{
@@ -2455,9 +2465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "437",
+			"collector_number": "442",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/245.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/246.png"
 			}
 		},
 		{
@@ -2467,7 +2477,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/246.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/247.png"
 			}
 		},
 		{
@@ -2477,7 +2487,7 @@
 			"type": "Instant — Lesson",
 			"collector_number": "378",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/247.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/248.png"
 			}
 		},
 		{
@@ -2485,9 +2495,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/248.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/249.png"
 			}
 		},
 		{
@@ -2497,7 +2507,7 @@
 			"type": "Enchantment Creature — Bird Bear Chimera",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/249.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/250.png"
 			}
 		},
 		{
@@ -2507,7 +2517,7 @@
 			"type": "Instant — Lesson",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/250.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/251.png"
 			}
 		},
 		{
@@ -2517,7 +2527,7 @@
 			"type": "Instant",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/251.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/252.png"
 			}
 		},
 		{
@@ -2525,9 +2535,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Bard",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/252.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/253.png"
 			}
 		},
 		{
@@ -2537,7 +2547,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/253.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/254.png"
 			}
 		},
 		{
@@ -2547,7 +2557,7 @@
 			"type": "Creature — Human Rogue Bard",
 			"collector_number": "385",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/254.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/255.png"
 			}
 		},
 		{
@@ -2555,9 +2565,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/255.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/256.png"
 			}
 		},
 		{
@@ -2565,9 +2575,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/256.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/257.png"
 			}
 		},
 		{
@@ -2575,9 +2585,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/257.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/258.png"
 			}
 		},
 		{
@@ -2585,9 +2595,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Battle — Control Point",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/258.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/259.png"
 			}
 		},
 		{
@@ -2597,7 +2607,7 @@
 			"type": "Creature — Sphinx Horror",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/259.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/260.png"
 			}
 		},
 		{
@@ -2605,9 +2615,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Sphinx Demon",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/260.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/261.png"
 			}
 		},
 		{
@@ -2615,9 +2625,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Sphinx",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/261.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/262.png"
 			}
 		},
 		{
@@ -2627,7 +2637,7 @@
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/262.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/263.png"
 			}
 		},
 		{
@@ -2635,9 +2645,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/263.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/264.png"
 			}
 		},
 		{
@@ -2647,7 +2657,7 @@
 			"type": "Instant",
 			"collector_number": "399",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/264.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/265.png"
 			}
 		},
 		{
@@ -2655,9 +2665,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/W}{2/W}",
 			"type": "Creature — Eldrazi Starfish",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/265.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/266.png"
 			}
 		},
 		{
@@ -2667,7 +2677,7 @@
 			"type": "Creature — Merfolk Wizard",
 			"collector_number": "396",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/266.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/267.png"
 			}
 		},
 		{
@@ -2677,7 +2687,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/267.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/268.png"
 			}
 		},
 		{
@@ -2687,7 +2697,7 @@
 			"type": "Creature — Gorgon Citizen",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/268.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/269.png"
 			}
 		},
 		{
@@ -2695,9 +2705,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "421",
+			"collector_number": "426",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/269.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/270.png"
 			}
 		},
 		{
@@ -2705,9 +2715,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/270.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/271.png"
 			}
 		},
 		{
@@ -2715,9 +2725,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/271.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/272.png"
 			}
 		},
 		{
@@ -2725,9 +2735,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Legendary Creature — Frog",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/272.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/273.png"
 			}
 		},
 		{
@@ -2737,7 +2747,7 @@
 			"type": "Creature — Beast Incarnation",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/273.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/274.png"
 			}
 		},
 		{
@@ -2745,9 +2755,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/274.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/275.png"
 			}
 		},
 		{
@@ -2755,9 +2765,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/275.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/276.png"
 			}
 		},
 		{
@@ -2767,7 +2777,7 @@
 			"type": "Creature — Merfolk Rabbit",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/276.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/277.png"
 			}
 		},
 		{
@@ -2777,7 +2787,7 @@
 			"type": "Artifact — Equipment Rock",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/277.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/278.png"
 			}
 		},
 		{
@@ -2785,9 +2795,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dwarf Pirate",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/278.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/279.png"
 			}
 		},
 		{
@@ -2795,9 +2805,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Goblin Scout",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/279.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/280.png"
 			}
 		},
 		{
@@ -2805,9 +2815,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Dog",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/280.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/281.png"
 			}
 		},
 		{
@@ -2817,7 +2827,7 @@
 			"type": "Legendary Enchantment Artifact Creature",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/281.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/282.png"
 			}
 		},
 		{
@@ -2826,16 +2836,6 @@
 			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Kindred Battle — Eldrazi Sphinx Riddle",
 			"collector_number": "1",
-			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/282.png"
-			}
-		},
-		{
-			"name": "The Never Ending Waves",
-			"rarity": "special",
-			"mana_cost": "{4}",
-			"type": "Battle — Control Point",
-			"collector_number": "10",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/283.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Battle — Hunt",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/288.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Troll",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/289.png"
 			}
@@ -2905,7 +2905,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Troll Assassin",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/290.png"
 			}
@@ -2915,7 +2915,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rabbit Artificer Ninja",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/291.png"
 			}
@@ -2925,7 +2925,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Moonfolk",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/292.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Fish Horror Mutant Soldier",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/295.png"
 			}
@@ -2965,7 +2965,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/296.png"
 			}
@@ -2975,7 +2975,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Boar Insect Mutant",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/297.png"
 			}
@@ -2985,7 +2985,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/298.png"
 			}
@@ -2995,7 +2995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Insect Citizen",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/299.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Creature — Vampire Bird",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/302.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Cat Snake Human Warrior",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/303.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/304.png"
 			}
@@ -3055,7 +3055,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/305.png"
 			}
@@ -3065,7 +3065,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/306.png"
 			}
@@ -3075,7 +3075,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Faerie Sphinx",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/307.png"
 			}
@@ -3095,7 +3095,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/309.png"
 			}
@@ -3105,7 +3105,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/310.png"
 			}
@@ -3115,7 +3115,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/311.png"
 			}
@@ -3135,7 +3135,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Gorgon Rogue",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/313.png"
 			}
@@ -3145,7 +3145,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/314.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "432",
+			"collector_number": "437",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/316.png"
 			}
@@ -3205,7 +3205,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Kithkin Bard",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/320.png"
 			}
@@ -3215,7 +3215,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Giant",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/321.png"
 			}
@@ -3235,7 +3235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Skeleton Wall",
-			"collector_number": "434",
+			"collector_number": "439",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/323.png"
 			}
@@ -3245,7 +3245,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Class",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/324.png"
 			}
@@ -3255,7 +3255,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/325.png"
 			}
@@ -3265,7 +3265,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/326.png"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/327.png"
 			}
@@ -3285,7 +3285,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/328.png"
 			}
@@ -3295,7 +3295,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/329.png"
 			}
@@ -3305,7 +3305,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/330.png"
 			}
@@ -3335,7 +3335,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Artifact — Hive",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/333.png"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Creature — Human Octopus Ninja Demon",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/334.png"
 			}
@@ -3365,7 +3365,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/336.png"
 			}
@@ -3375,7 +3375,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/337.png"
 			}
@@ -3395,7 +3395,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/339.png"
 			}
@@ -3405,7 +3405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/340.png"
 			}
@@ -3465,7 +3465,7 @@
 			"rarity": "special",
 			"mana_cost": "{C}{W}",
 			"type": "Enchantment",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/346.png"
 			}
@@ -3475,7 +3475,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Raccoon Rigger",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/347.png"
 			}
@@ -3485,7 +3485,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/348.png"
 			}
@@ -3495,7 +3495,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Creature — Wolf",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/349.png"
 			}
@@ -3505,7 +3505,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Illusion",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/350.png"
 			}
@@ -3525,7 +3525,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/352.png"
 			}
@@ -3555,7 +3555,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Enchantment Creature — Human",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/355.png"
 			}
@@ -3594,8 +3594,8 @@
 			"name": "Alla Breve, Timekeeper",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Enchantment",
-			"collector_number": "70",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/359.png"
 			}
@@ -3605,7 +3605,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Sorcery",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/360.png"
 			}
@@ -3615,7 +3615,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Planeswalker — Kaito",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/361.png"
 			}
@@ -3665,7 +3665,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/366.png"
 			}
@@ -3675,7 +3675,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/367.png"
 			}
@@ -3695,7 +3695,7 @@
 			"rarity": "special",
 			"mana_cost": "{9}",
 			"type": "Creature — Avatar",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/369.png"
 			}
@@ -3715,7 +3715,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Bard",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/371.png"
 			}
@@ -3735,7 +3735,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Kindred Instant — Sphinx",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/373.png"
 			}
@@ -3745,7 +3745,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{C/U}",
 			"type": "Creature — Homunculus",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/374.png"
 			}
@@ -3755,7 +3755,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Battle — Riddle",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/375.png"
 			}
@@ -3765,7 +3765,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Dexh",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/376.png"
 			}
@@ -3775,7 +3775,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elemental Cat",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/377.png"
 			}
@@ -3785,7 +3785,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/378.png"
 			}
@@ -3795,7 +3795,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Gorgon Archer",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/379.png"
 			}
@@ -3805,7 +3805,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Rock",
-			"collector_number": "414",
+			"collector_number": "419",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/380.png"
 			}
@@ -3845,7 +3845,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "429",
+			"collector_number": "434",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/384.png"
 			}
@@ -3865,7 +3865,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Gamer",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/386.png"
 			}
@@ -3875,7 +3875,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}",
 			"type": "Enchantment",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/387.png"
 			}
@@ -3895,7 +3895,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment Creature — Nymph Dryad",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/389.png"
 			}
@@ -3905,7 +3905,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Turtle",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/390.png"
 			}
@@ -3915,7 +3915,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/391.png"
 			}
@@ -3925,7 +3925,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Merfolk Performer",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/392.png"
 			}
@@ -3935,7 +3935,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Nautilus",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/393.png"
 			}
@@ -3945,7 +3945,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Rabbit Warrior",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/394.png"
 			}
@@ -3955,7 +3955,7 @@
 			"rarity": "special",
 			"mana_cost": "{8}{2/B}",
 			"type": "Creature — Leviathan Jellyfish",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/395.png"
 			}
@@ -3985,7 +3985,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Bard",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/398.png"
 			}
@@ -3995,7 +3995,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/399.png"
 			}
@@ -4005,7 +4005,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/400.png"
 			}
@@ -4035,7 +4035,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Shrimp",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/403.png"
 			}
@@ -4045,7 +4045,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Goblin Citizen",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/404.png"
 			}
@@ -4055,7 +4055,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/405.png"
 			}
@@ -4065,7 +4065,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/406.png"
 			}
@@ -4075,7 +4075,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/407.png"
 			}
@@ -4095,7 +4095,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Treasure Sculpture",
-			"collector_number": "416",
+			"collector_number": "421",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/409.png"
 			}
@@ -4105,7 +4105,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{X}{B}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/410.png"
 			}
@@ -4115,7 +4115,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact — Bobblehead",
-			"collector_number": "433",
+			"collector_number": "438",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/411.png"
 			}
@@ -4125,7 +4125,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Horse",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/412.png"
 			}
@@ -4145,7 +4145,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/414.png"
 			}
@@ -4175,7 +4175,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Archon Archer",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/417.png"
 			}
@@ -4185,7 +4185,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/418.png"
 			}
@@ -4195,7 +4195,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment Creature — Squid",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/419.png"
 			}
@@ -4205,7 +4205,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Artifact",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/420.png"
 			}
@@ -4215,7 +4215,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment Artifact Creature — Treasure Oyster",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/421.png"
 			}
@@ -4225,7 +4225,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/422.png"
 			}
@@ -4235,7 +4235,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact — Lesson Blood Treasure",
-			"collector_number": "426",
+			"collector_number": "431",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/423.png"
 			}
@@ -4255,7 +4255,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Treasure Insect",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/425.png"
 			}
@@ -4265,7 +4265,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Artifact",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/426.png"
 			}
@@ -4285,7 +4285,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/428.png"
 			}
@@ -4325,7 +4325,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Bobblehead Robot",
-			"collector_number": "422",
+			"collector_number": "427",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/432.png"
 			}
@@ -4335,7 +4335,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Kindred Artifact — Treasure Egg",
-			"collector_number": "411",
+			"collector_number": "414",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/433.png"
 			}
@@ -4345,7 +4345,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Kindred Artifact — Treasure Egg",
-			"collector_number": "408",
+			"collector_number": "409",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/434.png"
 			}
@@ -4355,7 +4355,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Kindred Artifact — Treasure Egg",
-			"collector_number": "409",
+			"collector_number": "411",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/435.png"
 			}
@@ -4365,9 +4365,59 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Kindred Artifact — Treasure Egg",
-			"collector_number": "410",
+			"collector_number": "413",
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/POP2-files/img/436.png"
+			}
+		},
+		{
+			"name": "Egg of ABZAN",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Treasure Egg",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/437.png"
+			}
+		},
+		{
+			"name": "Egg of JESKAI",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Treasure Egg",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/438.png"
+			}
+		},
+		{
+			"name": "Egg of SULTAI",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Treasure Egg",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/439.png"
+			}
+		},
+		{
+			"name": "Egg of MARDU",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Treasure Egg",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/440.png"
+			}
+		},
+		{
+			"name": "Egg of TEMUR",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Kindred Artifact — Treasure Egg",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/441.png"
 			}
 		},
 		{
@@ -4375,9 +4425,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "486",
+			"collector_number": "491",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/437.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/442.png"
 			}
 		},
 		{
@@ -4385,9 +4435,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "526",
+			"collector_number": "531",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/438.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/443.png"
 			}
 		},
 		{
@@ -4395,9 +4445,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "441",
+			"collector_number": "446",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/439.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/444.png"
 			}
 		},
 		{
@@ -4405,9 +4455,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Locus",
-			"collector_number": "487",
+			"collector_number": "492",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/440.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/445.png"
 			}
 		},
 		{
@@ -4415,9 +4465,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "445",
+			"collector_number": "450",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/441.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/446.png"
 			}
 		},
 		{
@@ -4425,9 +4475,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "537",
+			"collector_number": "542",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/442.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/447.png"
 			}
 		},
 		{
@@ -4435,9 +4485,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Locus",
-			"collector_number": "455",
+			"collector_number": "460",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/443.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/448.png"
 			}
 		},
 		{
@@ -4445,9 +4495,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "443",
+			"collector_number": "448",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/444.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/449.png"
 			}
 		},
 		{
@@ -4455,9 +4505,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "508",
+			"collector_number": "513",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/445.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/450.png"
 			}
 		},
 		{
@@ -4465,9 +4515,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "456",
+			"collector_number": "461",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/446.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/451.png"
 			}
 		},
 		{
@@ -4475,9 +4525,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Planet Gate",
-			"collector_number": "478",
+			"collector_number": "483",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/447.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/452.png"
 			}
 		},
 		{
@@ -4485,9 +4535,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Planet Power-Plant",
-			"collector_number": "505",
+			"collector_number": "510",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/448.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/453.png"
 			}
 		},
 		{
@@ -4495,9 +4545,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land Creature — Tower Elemental",
-			"collector_number": "449",
+			"collector_number": "454",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/449.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/454.png"
 			}
 		},
 		{
@@ -4505,9 +4555,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "480",
+			"collector_number": "485",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/450.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/455.png"
 			}
 		},
 		{
@@ -4515,9 +4565,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "460",
+			"collector_number": "465",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/451.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/456.png"
 			}
 		},
 		{
@@ -4525,9 +4575,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "469",
+			"collector_number": "474",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/452.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/457.png"
 			}
 		},
 		{
@@ -4535,9 +4585,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "470",
+			"collector_number": "475",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/453.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/458.png"
 			}
 		},
 		{
@@ -4545,9 +4595,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "473",
+			"collector_number": "478",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/454.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/459.png"
 			}
 		},
 		{
@@ -4555,9 +4605,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "477",
+			"collector_number": "482",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/455.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/460.png"
 			}
 		},
 		{
@@ -4565,9 +4615,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "471",
+			"collector_number": "476",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/456.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/461.png"
 			}
 		},
 		{
@@ -4575,9 +4625,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "466",
+			"collector_number": "471",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/457.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/462.png"
 			}
 		},
 		{
@@ -4585,9 +4635,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "467",
+			"collector_number": "472",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/458.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/463.png"
 			}
 		},
 		{
@@ -4595,9 +4645,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "468",
+			"collector_number": "473",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/459.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/464.png"
 			}
 		},
 		{
@@ -4605,9 +4655,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "472",
+			"collector_number": "477",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/460.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/465.png"
 			}
 		},
 		{
@@ -4615,9 +4665,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "474",
+			"collector_number": "479",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/461.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/466.png"
 			}
 		},
 		{
@@ -4625,9 +4675,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "453",
+			"collector_number": "458",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/462.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/467.png"
 			}
 		},
 		{
@@ -4635,9 +4685,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive",
-			"collector_number": "529",
+			"collector_number": "534",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/463.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/468.png"
 			}
 		},
 		{
@@ -4645,9 +4695,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Hive Town",
-			"collector_number": "442",
+			"collector_number": "447",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/464.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/469.png"
 			}
 		},
 		{
@@ -4655,9 +4705,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive Locus",
-			"collector_number": "482",
+			"collector_number": "487",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/465.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/470.png"
 			}
 		},
 		{
@@ -4665,9 +4715,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Hive Sphere",
-			"collector_number": "489",
+			"collector_number": "494",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/466.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/471.png"
 			}
 		},
 		{
@@ -4675,9 +4725,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Cave Hive",
-			"collector_number": "446",
+			"collector_number": "451",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/467.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/472.png"
 			}
 		},
 		{
@@ -4685,9 +4735,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "492",
+			"collector_number": "497",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/468.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/473.png"
 			}
 		},
 		{
@@ -4695,9 +4745,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "507",
+			"collector_number": "512",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/469.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/474.png"
 			}
 		},
 		{
@@ -4705,9 +4755,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "530",
+			"collector_number": "535",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/470.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/475.png"
 			}
 		},
 		{
@@ -4715,9 +4765,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "522",
+			"collector_number": "527",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/471.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/476.png"
 			}
 		},
 		{
@@ -4725,9 +4775,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "504",
+			"collector_number": "509",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/472.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/477.png"
 			}
 		},
 		{
@@ -4735,9 +4785,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "462",
+			"collector_number": "467",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/473.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/478.png"
 			}
 		},
 		{
@@ -4745,9 +4795,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "536",
+			"collector_number": "541",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/474.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/479.png"
 			}
 		},
 		{
@@ -4755,9 +4805,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "523",
+			"collector_number": "528",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/475.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/480.png"
 			}
 		},
 		{
@@ -4765,9 +4815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "534",
+			"collector_number": "539",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/476.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/481.png"
 			}
 		},
 		{
@@ -4775,9 +4825,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "439",
+			"collector_number": "444",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/477.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/482.png"
 			}
 		},
 		{
@@ -4785,9 +4835,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "532",
+			"collector_number": "537",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/478.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/483.png"
 			}
 		},
 		{
@@ -4795,9 +4845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "506",
+			"collector_number": "511",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/479.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/484.png"
 			}
 		},
 		{
@@ -4805,9 +4855,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "500",
+			"collector_number": "505",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/480.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/485.png"
 			}
 		},
 		{
@@ -4815,9 +4865,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "458",
+			"collector_number": "463",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/481.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/486.png"
 			}
 		},
 		{
@@ -4825,9 +4875,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "450",
+			"collector_number": "455",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/482.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/487.png"
 			}
 		},
 		{
@@ -4835,9 +4885,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "485",
+			"collector_number": "490",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/483.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/488.png"
 			}
 		},
 		{
@@ -4845,9 +4895,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "476",
+			"collector_number": "481",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/484.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/489.png"
 			}
 		},
 		{
@@ -4855,9 +4905,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "440",
+			"collector_number": "445",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/485.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/490.png"
 			}
 		},
 		{
@@ -4865,9 +4915,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "498",
+			"collector_number": "503",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/486.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/491.png"
 			}
 		},
 		{
@@ -4875,9 +4925,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "531",
+			"collector_number": "536",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/487.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/492.png"
 			}
 		},
 		{
@@ -4885,9 +4935,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "503",
+			"collector_number": "508",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/488.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/493.png"
 			}
 		},
 		{
@@ -4895,9 +4945,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "499",
+			"collector_number": "504",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/489.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/494.png"
 			}
 		},
 		{
@@ -4905,9 +4955,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "497",
+			"collector_number": "502",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/490.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/495.png"
 			}
 		},
 		{
@@ -4915,9 +4965,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "520",
+			"collector_number": "525",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/491.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/496.png"
 			}
 		},
 		{
@@ -4925,9 +4975,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "448",
+			"collector_number": "453",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/492.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/497.png"
 			}
 		},
 		{
@@ -4935,9 +4985,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "495",
+			"collector_number": "500",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/493.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/498.png"
 			}
 		},
 		{
@@ -4945,9 +4995,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "528",
+			"collector_number": "533",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/494.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/499.png"
 			}
 		},
 		{
@@ -4955,9 +5005,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "475",
+			"collector_number": "480",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/495.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/500.png"
 			}
 		},
 		{
@@ -4965,9 +5015,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "444",
+			"collector_number": "449",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/496.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/501.png"
 			}
 		},
 		{
@@ -4975,9 +5025,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Tower",
-			"collector_number": "447",
+			"collector_number": "452",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/497.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/502.png"
 			}
 		},
 		{
@@ -4985,9 +5035,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "454",
+			"collector_number": "459",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/498.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/503.png"
 			}
 		},
 		{
@@ -4995,9 +5045,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "502",
+			"collector_number": "507",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/499.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/504.png"
 			}
 		},
 		{
@@ -5005,9 +5055,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "525",
+			"collector_number": "530",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/500.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/505.png"
 			}
 		},
 		{
@@ -5015,9 +5065,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "490",
+			"collector_number": "495",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/501.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/506.png"
 			}
 		},
 		{
@@ -5025,9 +5075,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "519",
+			"collector_number": "524",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/502.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/507.png"
 			}
 		},
 		{
@@ -5035,9 +5085,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "538",
+			"collector_number": "543",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/503.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/508.png"
 			}
 		},
 		{
@@ -5045,9 +5095,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "479",
+			"collector_number": "484",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/504.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/509.png"
 			}
 		},
 		{
@@ -5055,9 +5105,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "483",
+			"collector_number": "488",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/505.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/510.png"
 			}
 		},
 		{
@@ -5065,9 +5115,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "535",
+			"collector_number": "540",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/506.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/511.png"
 			}
 		},
 		{
@@ -5075,9 +5125,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Lesson",
-			"collector_number": "491",
+			"collector_number": "496",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/507.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/512.png"
 			}
 		},
 		{
@@ -5085,9 +5135,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Desert",
-			"collector_number": "524",
+			"collector_number": "529",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/508.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/513.png"
 			}
 		},
 		{
@@ -5095,9 +5145,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Tower Power-Plant",
-			"collector_number": "461",
+			"collector_number": "466",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/509.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/514.png"
 			}
 		},
 		{
@@ -5105,9 +5155,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "533",
+			"collector_number": "538",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/510.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/515.png"
 			}
 		},
 		{
@@ -5115,9 +5165,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "488",
+			"collector_number": "493",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/511.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/516.png"
 			}
 		},
 		{
@@ -5125,9 +5175,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Sphere",
-			"collector_number": "493",
+			"collector_number": "498",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/512.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/517.png"
 			}
 		},
 		{
@@ -5135,9 +5185,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "464",
+			"collector_number": "469",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/513.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/518.png"
 			}
 		},
 		{
@@ -5145,9 +5195,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Beacon Tower",
-			"collector_number": "481",
+			"collector_number": "486",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/514.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/519.png"
 			}
 		},
 		{
@@ -5155,9 +5205,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "494",
+			"collector_number": "499",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/515.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/520.png"
 			}
 		},
 		{
@@ -5165,9 +5215,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "465",
+			"collector_number": "470",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/516.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/521.png"
 			}
 		},
 		{
@@ -5175,9 +5225,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Tower",
-			"collector_number": "496",
+			"collector_number": "501",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/517.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/522.png"
 			}
 		},
 		{
@@ -5185,9 +5235,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land Planeswalker — Golgamass",
-			"collector_number": "459",
+			"collector_number": "464",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/518.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/523.png"
 			}
 		},
 		{
@@ -5195,9 +5245,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "501",
+			"collector_number": "506",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/519.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/524.png"
 			}
 		},
 		{
@@ -5205,9 +5255,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "451",
+			"collector_number": "456",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/520.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/525.png"
 			}
 		},
 		{
@@ -5215,9 +5265,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Power-Plant",
-			"collector_number": "521",
+			"collector_number": "526",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/521.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/526.png"
 			}
 		},
 		{
@@ -5225,9 +5275,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "452",
+			"collector_number": "457",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/522.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/527.png"
 			}
 		},
 		{
@@ -5235,9 +5285,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "484",
+			"collector_number": "489",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/523.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/528.png"
 			}
 		},
 		{
@@ -5245,9 +5295,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "438",
+			"collector_number": "443",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/524.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/529.png"
 			}
 		},
 		{
@@ -5255,9 +5305,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Cave Forest",
-			"collector_number": "463",
+			"collector_number": "468",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/525.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/530.png"
 			}
 		},
 		{
@@ -5265,9 +5315,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Mine",
-			"collector_number": "457",
+			"collector_number": "462",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/526.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/531.png"
 			}
 		},
 		{
@@ -5275,9 +5325,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "527",
+			"collector_number": "532",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/527.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/532.png"
 			}
 		},
 		{
@@ -5285,9 +5335,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "516",
+			"collector_number": "521",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/528.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/533.png"
 			}
 		},
 		{
@@ -5295,9 +5345,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "518",
+			"collector_number": "523",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/529.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/534.png"
 			}
 		},
 		{
@@ -5305,9 +5355,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "510",
+			"collector_number": "515",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/530.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/535.png"
 			}
 		},
 		{
@@ -5315,9 +5365,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "509",
+			"collector_number": "514",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/531.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/536.png"
 			}
 		},
 		{
@@ -5325,9 +5375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "512",
+			"collector_number": "517",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/532.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/537.png"
 			}
 		},
 		{
@@ -5335,9 +5385,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "513",
+			"collector_number": "518",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/533.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/538.png"
 			}
 		},
 		{
@@ -5345,9 +5395,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "511",
+			"collector_number": "516",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/534.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/539.png"
 			}
 		},
 		{
@@ -5355,9 +5405,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "515",
+			"collector_number": "520",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/535.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/540.png"
 			}
 		},
 		{
@@ -5365,9 +5415,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "517",
+			"collector_number": "522",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/536.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/541.png"
 			}
 		},
 		{
@@ -5375,9 +5425,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "514",
+			"collector_number": "519",
 			"image_uris": {
-				"en": "https://rrredbay.github.io/sets/POP2-files/img/537.png"
+				"en": "https://rrredbay.github.io/sets/POP2-files/img/542.png"
 			}
 		}
 	]
@@ -5611,6 +5661,7 @@
 	1 Canny Detective, “C”
 	1 Gilbacheck, Houndmaster
 	1 Master Handler
+	1 If Not Pet Why Pet Shaped?
 	1 Homework
 	1 Evidence of Betrayal
 	1 The Elements of Betrayal
@@ -5666,7 +5717,6 @@
 	1 Friend till the End
 	1 The Torrent of Everything
 	1 The Answer of Nothing
-	1 The Never Ending Waves
 	1 The Answer of Evolution
 	1 The Answer to Life, the Universe, and Everything
 	1 Jokan Firestealer
@@ -5820,6 +5870,11 @@
 	1 Egg of Ambition
 	1 Egg of Judgement
 	1 Egg of Nature
+	1 Egg of ABZAN
+	1 Egg of JESKAI
+	1 Egg of SULTAI
+	1 Egg of MARDU
+	1 Egg of TEMUR
 	1 New Territory
 	1 Threshold of Learning
 	1 Aria Sanctuary
