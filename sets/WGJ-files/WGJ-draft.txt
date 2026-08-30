@@ -3016,10 +3016,10 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/300.png"
 			}
-		}
+		},
 	{
 			"name": "Goblin Trashmaster",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "5",
@@ -3029,7 +3029,7 @@
 		},
 		{
 			"name": "Junk Diver",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Bird",
 			"collector_number": "18",
@@ -3039,7 +3039,7 @@
 		},
 		{
 			"name": "Scrap Mastery",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "9",
@@ -3049,7 +3049,7 @@
 		},
 		{
 			"name": "Junktroller",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "20",
@@ -3059,7 +3059,7 @@
 		},
 		{
 			"name": "Junk Winder",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Serpent",
 			"collector_number": "1",
@@ -3069,7 +3069,7 @@
 		},
 		{
 			"name": "Daretti, Scrap Savant",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Planeswalker — Daretti",
 			"collector_number": "4",
@@ -3079,7 +3079,7 @@
 		},
 		{
 			"name": "Elvish Scrapper",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf",
 			"collector_number": "14",
@@ -3089,7 +3089,7 @@
 		},
 		{
 			"name": "Junk Golem",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "19",
@@ -3099,7 +3099,7 @@
 		},
 		{
 			"name": "Junkyard Genius",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "17",
@@ -3109,7 +3109,7 @@
 		},
 		{
 			"name": "Myr Scrapling",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Myr",
 			"collector_number": "21",
@@ -3119,7 +3119,7 @@
 		},
 		{
 			"name": "Oxidda Scrapmelter",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Beast",
 			"collector_number": "7",
@@ -3129,7 +3129,7 @@
 		},
 		{
 			"name": "Runaway Trash-Bot",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "22",
@@ -3139,7 +3139,7 @@
 		},
 		{
 			"name": "Scour for Scrap",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
 			"collector_number": "2",
@@ -3149,7 +3149,7 @@
 		},
 		{
 			"name": "Scrap",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "8",
@@ -3159,7 +3159,7 @@
 		},
 		{
 			"name": "Scrapdiver Serpent",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Serpent",
 			"collector_number": "3",
@@ -3169,7 +3169,7 @@
 		},
 		{
 			"name": "Scrap Compactor",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "23",
@@ -3179,7 +3179,7 @@
 		},
 		{
 			"name": "Scrapheap Scrounger",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "25",
@@ -3189,7 +3189,7 @@
 		},
 		{
 			"name": "Junk Jet",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
 			"collector_number": "6",
@@ -3199,7 +3199,7 @@
 		},
 		{
 			"name": "Scrapshooter",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Raccoon Archer",
 			"collector_number": "15",
@@ -3209,7 +3209,7 @@
 		},
 		{
 			"name": "Scrap Trawler",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "24",
@@ -3219,7 +3219,7 @@
 		},
 		{
 			"name": "Scrapwork Cohort",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Soldier",
 			"collector_number": "26",
@@ -3229,7 +3229,7 @@
 		},
 		{
 			"name": "Scrapwork Mutt",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Dog",
 			"collector_number": "27",
@@ -3239,7 +3239,7 @@
 		},
 		{
 			"name": "Scrapwork Rager",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Phyrexian Horror",
 			"collector_number": "28",
@@ -3249,7 +3249,7 @@
 		},
 		{
 			"name": "Scrapyard Recombiner",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "29",
@@ -3259,7 +3259,7 @@
 		},
 		{
 			"name": "Slagdrill Scrapper",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Robot Scout",
 			"collector_number": "11",
@@ -3269,7 +3269,7 @@
 		},
 		{
 			"name": "Scrapyard Salvo",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "10",
@@ -3279,7 +3279,7 @@
 		},
 		{
 			"name": "Take Out the Trash",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "12",
@@ -3289,7 +3289,7 @@
 		},
 		{
 			"name": "Trash for Treasure",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "13",
@@ -3299,7 +3299,7 @@
 		},
 		{
 			"name": "Trash the Town",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "16",
@@ -3309,7 +3309,7 @@
 		},
 		{
 			"name": "Walking Skyscraper",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "30",
@@ -3319,7 +3319,7 @@
 		},
 		{
 			"name": "Wall of Junk",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall",
 			"collector_number": "31",
