@@ -2833,7 +2833,7 @@
 		{
 			"name": "The Answer of Nothing",
 			"rarity": "special",
-			"mana_cost": "{6}",
+			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Kindred Battle — Eldrazi Sphinx Riddle",
 			"collector_number": "1",
 			"image_uris": {

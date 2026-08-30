@@ -1,0 +1,408 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Junk Winder",
+        "number": 1,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Daretti, Scrap Savant",
+        "number": 4,
+        "shape": "planeswalker",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Elvish Scrapper",
+        "number": 14,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scour for Scrap",
+        "number": 2,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Goblin Trashmaster",
+        "number": 5,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Scrapshooter",
+        "number": 15,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scrapdiver Serpent",
+        "number": 3,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Junk Jet",
+        "number": 6,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Trash the Town",
+        "number": 16,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Oxidda Scrapmelter",
+        "number": 7,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scrap",
+        "number": 8,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scrap Mastery",
+        "number": 9,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scrapyard Salvo",
+        "number": 10,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Slagdrill Scrapper",
+        "number": 11,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Take Out the Trash",
+        "number": 12,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Trash for Treasure",
+        "number": 13,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Junkyard Genius",
+        "number": 17,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Junk Diver",
+        "number": 18,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Junk Golem",
+        "number": 19,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Junktroller",
+        "number": 20,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Myr Scrapling",
+        "number": 21,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Runaway Trash-Bot",
+        "number": 22,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Scrap Compactor",
+        "number": 23,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Scrap Trawler",
+        "number": 24,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Scrapheap Scrounger",
+        "number": 25,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Scrapwork Cohort",
+        "number": 26,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Scrapwork Mutt",
+        "number": 27,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Scrapwork Rager",
+        "number": 28,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Scrapyard Recombiner",
+        "number": 29,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Walking Skyscraper",
+        "number": 30,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Wall of Junk",
+        "number": 31,
+        "shape": "normal",
+        "set": "WGJS",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -3017,6 +3017,316 @@
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/300.png"
 			}
 		}
+	{
+			"name": "Goblin Trashmaster",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/0.png"
+			}
+		},
+		{
+			"name": "Junk Diver",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/1.png"
+			}
+		},
+		{
+			"name": "Scrap Mastery",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/2.png"
+			}
+		},
+		{
+			"name": "Junktroller",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/3.png"
+			}
+		},
+		{
+			"name": "Junk Winder",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/4.png"
+			}
+		},
+		{
+			"name": "Daretti, Scrap Savant",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Daretti",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/5.png"
+			}
+		},
+		{
+			"name": "Elvish Scrapper",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Junk Golem",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/7.png"
+			}
+		},
+		{
+			"name": "Junkyard Genius",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/8.png"
+			}
+		},
+		{
+			"name": "Myr Scrapling",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Myr",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/9.png"
+			}
+		},
+		{
+			"name": "Oxidda Scrapmelter",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/10.png"
+			}
+		},
+		{
+			"name": "Runaway Trash-Bot",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/11.png"
+			}
+		},
+		{
+			"name": "Scour for Scrap",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/12.png"
+			}
+		},
+		{
+			"name": "Scrap",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Scrapdiver Serpent",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/14.png"
+			}
+		},
+		{
+			"name": "Scrap Compactor",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/15.png"
+			}
+		},
+		{
+			"name": "Scrapheap Scrounger",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/16.png"
+			}
+		},
+		{
+			"name": "Junk Jet",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/17.png"
+			}
+		},
+		{
+			"name": "Scrapshooter",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Raccoon Archer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/18.png"
+			}
+		},
+		{
+			"name": "Scrap Trawler",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/19.png"
+			}
+		},
+		{
+			"name": "Scrapwork Cohort",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/20.png"
+			}
+		},
+		{
+			"name": "Scrapwork Mutt",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/21.png"
+			}
+		},
+		{
+			"name": "Scrapwork Rager",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Phyrexian Horror",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/22.png"
+			}
+		},
+		{
+			"name": "Scrapyard Recombiner",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/23.png"
+			}
+		},
+		{
+			"name": "Slagdrill Scrapper",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Robot Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/24.png"
+			}
+		},
+		{
+			"name": "Scrapyard Salvo",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/25.png"
+			}
+		},
+		{
+			"name": "Take Out the Trash",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/26.png"
+			}
+		},
+		{
+			"name": "Trash for Treasure",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/27.png"
+			}
+		},
+		{
+			"name": "Trash the Town",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/28.png"
+			}
+		},
+		{
+			"name": "Walking Skyscraper",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/29.png"
+			}
+		},
+		{
+			"name": "Wall of Junk",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/WGJS-files/img/30.png"
+			}
+		}
 	]
 
 [rare(1)]
@@ -3677,6 +3987,37 @@
 	2 Overgrown Tomb
 	2 Sacred Foundry
 	2 Breeding Pool
+	1 Goblin Trashmaster
+	1 Junk Diver
+	1 Scrap Mastery
+	1 Junktroller
+	1 Junk Winder
+	1 Daretti, Scrap Savant
+	1 Elvish Scrapper
+	1 Junk Golem
+	1 Junkyard Genius
+	1 Myr Scrapling
+	1 Oxidda Scrapmelter
+	1 Runaway Trash-Bot
+	1 Scour for Scrap
+	1 Scrap
+	1 Scrapdiver Serpent
+	1 Scrap Compactor
+	1 Scrapheap Scrounger
+	1 Junk Jet
+	1 Scrapshooter
+	1 Scrap Trawler
+	1 Scrapwork Cohort
+	1 Scrapwork Mutt
+	1 Scrapwork Rager
+	1 Scrapyard Recombiner
+	1 Slagdrill Scrapper
+	1 Scrapyard Salvo
+	1 Take Out the Trash
+	1 Trash for Treasure
+	1 Trash the Town
+	1 Walking Skyscraper
+	1 Wall of Junk
 [wildcard(2)]
 	6 Shoreline Midden
 	6 Submerged Midden

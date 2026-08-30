@@ -24,6 +24,11 @@
             "set_code": "WGJ",
             "set_name": "Wrenchmar: Gambit of the Junklords",
             "formats": "Standard"
+        },
+        {
+            "set_code": "WGJS",
+            "set_name": "Wrenchmar: Gambit of the Junklords Trash Series",
+            "formats": "Standard"
         }
     ]
 }
