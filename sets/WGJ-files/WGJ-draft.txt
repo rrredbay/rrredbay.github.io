@@ -3016,7 +3016,7 @@
 			"image_uris": {
 				"en": "https://rrredbay.github.io/sets/WGJ-files/img/300.png"
 			}
-		}
+		},
 	{
 			"name": "Goblin Trashmaster",
 			"rarity": "special",
