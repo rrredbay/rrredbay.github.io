@@ -1,0 +1,994 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Caravan Decoy",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Radeki Veteran",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW05 Stronghold Messenger",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW06 Belgrad Militia",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW09 Brother of Wolves",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW03 Trailwise Wanderer",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW07 Deeptrail Captain",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW04 Great Boreal Owl",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW10 Rimefeather Griffin",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Snow Creature — Griffin",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW11 Wayfarer's Staff",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW12 Frontier March",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW15 Voruski Icebreaker",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artiact — Vehicle",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/12.png"
+			}
+		},
+		{
+			"name": "CW13 Lost in the Blizzard",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/13.png"
+			}
+		},
+		{
+			"name": "CW14 Belgradian Justice",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/14.png"
+			}
+		},
+		{
+			"name": "CU01 Whitefur Otter",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Snow Creature — Otter",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/15.png"
+			}
+		},
+		{
+			"name": "CU02 Zoryan Researcher",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU03 Volkpine Mystic",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/17.png"
+			}
+		},
+		{
+			"name": "CU04 Aurora Skimmer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Bird",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU05 Coldheart Adept",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU08 Stormspine Greatfur",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Snow Creature — Yeti",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU10 Icy Breath",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU13 Fatal Frost",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU09 Into the Pass",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU15 Uncover the Ruins",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/25.png"
+			}
+		},
+		{
+			"name": "CU11 Wandering Lights",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/26.png"
+			}
+		},
+		{
+			"name": "CU12 Wings in the Night",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/27.png"
+			}
+		},
+		{
+			"name": "CU14 Astra Velen's Decree",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/28.png"
+			}
+		},
+		{
+			"name": "CU07 Ice Floe Lurker",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/29.png"
+			}
+		},
+		{
+			"name": "CB04 Snow-Mad Outcast",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/30.png"
+			}
+		},
+		{
+			"name": "CB02 Blackfen Revenants",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/31.png"
+			}
+		},
+		{
+			"name": "CB05 Fleetfoot Scavenger",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/32.png"
+			}
+		},
+		{
+			"name": "CB08 Blackfen Abomination",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Snow Creature — Troll Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB03 Undead Stalker",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB06 Deceptive Companion",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB07 Voruski Great-Raven",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB01 Direwolf Outcast",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Snow Creature — Wolf",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB10 Trail Rations",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB14 Unhappy Trails",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/39.png"
+			}
+		},
+		{
+			"name": "CB12 Another Chance",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/40.png"
+			}
+		},
+		{
+			"name": "CB11 Vengeful Pursuit",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/41.png"
+			}
+		},
+		{
+			"name": "CB09 Scornful Execution",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/42.png"
+			}
+		},
+		{
+			"name": "CB13 Bloody Sickle",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/43.png"
+			}
+		},
+		{
+			"name": "CB15 Hunger of The Long Cold",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Snow Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/44.png"
+			}
+		},
+		{
+			"name": "CR02 Caravan Heckler",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Bard Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/45.png"
+			}
+		},
+		{
+			"name": "CR01 Whitecap Lynx",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Snow Creature — Cat",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/46.png"
+			}
+		},
+		{
+			"name": "CR03 Bold Pathfinder",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/47.png"
+			}
+		},
+		{
+			"name": "CR04 Frostfire Magus",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/48.png"
+			}
+		},
+		{
+			"name": "CR05 Radeki Outlander",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Archer Scout",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/49.png"
+			}
+		},
+		{
+			"name": "CR06 Wilderness Rider",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR07 Frostpeak Mountaineer",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Kor Scout Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/51.png"
+			}
+		},
+		{
+			"name": "CR08 Cavern Marauder",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/52.png"
+			}
+		},
+		{
+			"name": "CR09 Stormspine Dragon",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Snow Creature — Dragon",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/53.png"
+			}
+		},
+		{
+			"name": "CR14 Brightest Night",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/54.png"
+			}
+		},
+		{
+			"name": "CR12 Lightning Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/55.png"
+			}
+		},
+		{
+			"name": "CR11 Piercing Blizzard",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Snow Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/56.png"
+			}
+		},
+		{
+			"name": "CR10 Throwing Hatchet",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/57.png"
+			}
+		},
+		{
+			"name": "CR13 Valiant Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/58.png"
+			}
+		},
+		{
+			"name": "CR15 Night Rages",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/59.png"
+			}
+		},
+		{
+			"name": "CG03 Snowfoot Stalker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/60.png"
+			}
+		},
+		{
+			"name": "CG02 Dovina Guide",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/61.png"
+			}
+		},
+		{
+			"name": "CG01 Juvenile Direwolf",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Wolf",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG04 Drow Tracker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/63.png"
+			}
+		},
+		{
+			"name": "CG05 Wandering Bighorn",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Aurochs",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/64.png"
+			}
+		},
+		{
+			"name": "CG08 Wise Nomad",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Sheep Druid",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/65.png"
+			}
+		},
+		{
+			"name": "CG07 Driftbreaker Mammoth",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Snow Creature — Elephant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/66.png"
+			}
+		},
+		{
+			"name": "CG09 Boreal Outrider",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/67.png"
+			}
+		},
+		{
+			"name": "CG06 Stormspine Bellower",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Yeti",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/68.png"
+			}
+		},
+		{
+			"name": "CG10 Volkpine Wurm",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Snow Creature — Wurm",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/69.png"
+			}
+		},
+		{
+			"name": "CG11 The Hunt is On",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/70.png"
+			}
+		},
+		{
+			"name": "CG12 Blizzard Ambush",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/71.png"
+			}
+		},
+		{
+			"name": "CG13 Power of the Aurora",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/72.png"
+			}
+		},
+		{
+			"name": "CG15 Chase the Horizon",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/73.png"
+			}
+		},
+		{
+			"name": "CG14 Fishing Cabin",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/74.png"
+			}
+		},
+		{
+			"name": "CL01 Glacial Floodplain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Plains Island",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/75.png"
+			}
+		},
+		{
+			"name": "CL02 Ice Tunnel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Island Swamp",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/76.png"
+			}
+		},
+		{
+			"name": "CL03 Sulfurous Mire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Swamp Mountain",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/77.png"
+			}
+		},
+		{
+			"name": "CL04 Highland Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Mountain Forest",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/78.png"
+			}
+		},
+		{
+			"name": "CL05 Arctic Treeline",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Forest Plains",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/79.png"
+			}
+		},
+		{
+			"name": "CL06 Snowfield Sinkhole",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Plains Swamp",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/80.png"
+			}
+		},
+		{
+			"name": "CL07 Volatile Fjord",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Island Mountain",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/81.png"
+			}
+		},
+		{
+			"name": "CL08 Woodland Chasm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Swamp Forest",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/82.png"
+			}
+		},
+		{
+			"name": "CL09 Alpine Meadow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Mountain Plains",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/83.png"
+			}
+		},
+		{
+			"name": "CL10 Rimewood Falls",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land — Forest Island",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/84.png"
+			}
+		},
+		{
+			"name": "CA01 Coldheart Relic",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Snow Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/85.png"
+			}
+		},
+		{
+			"name": "CA03 Ancient Automaton",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/86.png"
+			}
+		},
+		{
+			"name": "CL11 Waystone Path",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/88.png"
+			}
+		},
+		{
+			"name": "Strongholds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/89.png"
+			}
+		},
+		{
+			"name": "CA02 Dovina Caravan",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/90.png"
+			}
+		},
+		{
+			"name": "CU06 Zorya Skywarden",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/91.png"
+			}
+		},
+		{
+			"name": "CW08 Caravan Crier",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Scout",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://rrredbay.github.io/sets/SFL-files/img/92.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 CW01 Caravan Decoy
+	1 CW02 Radeki Veteran
+	1 CW05 Stronghold Messenger
+	1 CW06 Belgrad Militia
+	1 CW09 Brother of Wolves
+	1 CW03 Trailwise Wanderer
+	1 CW07 Deeptrail Captain
+	1 CW04 Great Boreal Owl
+	1 CW10 Rimefeather Griffin
+	1 CW11 Wayfarer's Staff
+	1 CW12 Frontier March
+	1 CW15 Voruski Icebreaker
+	1 CW13 Lost in the Blizzard
+	1 CW14 Belgradian Justice
+	1 CU01 Whitefur Otter
+	1 CU02 Zoryan Researcher
+	1 CU03 Volkpine Mystic
+	1 CU04 Aurora Skimmer
+	1 CU05 Coldheart Adept
+	1 CU08 Stormspine Greatfur
+	1 CU10 Icy Breath
+	1 CU13 Fatal Frost
+	1 CU09 Into the Pass
+	1 CU15 Uncover the Ruins
+	1 CU11 Wandering Lights
+	1 CU12 Wings in the Night
+	1 CU14 Astra Velen's Decree
+	1 CU07 Ice Floe Lurker
+	1 CB04 Snow-Mad Outcast
+	1 CB02 Blackfen Revenants
+	1 CB05 Fleetfoot Scavenger
+	1 CB08 Blackfen Abomination
+	1 CB03 Undead Stalker
+	1 CB06 Deceptive Companion
+	1 CB07 Voruski Great-Raven
+	1 CB01 Direwolf Outcast
+	1 CB10 Trail Rations
+	1 CB14 Unhappy Trails
+	1 CB12 Another Chance
+	1 CB11 Vengeful Pursuit
+	1 CB09 Scornful Execution
+	1 CB13 Bloody Sickle
+	1 CB15 Hunger of The Long Cold
+	1 CR02 Caravan Heckler
+	1 CR01 Whitecap Lynx
+	1 CR03 Bold Pathfinder
+	1 CR04 Frostfire Magus
+	1 CR05 Radeki Outlander
+	1 CR06 Wilderness Rider
+	1 CR07 Frostpeak Mountaineer
+	1 CR08 Cavern Marauder
+	1 CR09 Stormspine Dragon
+	1 CR14 Brightest Night
+	1 CR12 Lightning Strike
+	1 CR11 Piercing Blizzard
+	1 CR10 Throwing Hatchet
+	1 CR13 Valiant Strike
+	1 CR15 Night Rages
+	1 CG03 Snowfoot Stalker
+	1 CG02 Dovina Guide
+	1 CG01 Juvenile Direwolf
+	1 CG04 Drow Tracker
+	1 CG05 Wandering Bighorn
+	1 CG08 Wise Nomad
+	1 CG07 Driftbreaker Mammoth
+	1 CG09 Boreal Outrider
+	1 CG06 Stormspine Bellower
+	1 CG10 Volkpine Wurm
+	1 CG11 The Hunt is On
+	1 CG12 Blizzard Ambush
+	1 CG13 Power of the Aurora
+	1 CG15 Chase the Horizon
+	1 CG14 Fishing Cabin
+	1 CL01 Glacial Floodplain
+	1 CL02 Ice Tunnel
+	1 CL03 Sulfurous Mire
+	1 CL04 Highland Forest
+	1 CL05 Arctic Treeline
+	1 CL06 Snowfield Sinkhole
+	1 CL07 Volatile Fjord
+	1 CL08 Woodland Chasm
+	1 CL09 Alpine Meadow
+	1 CL10 Rimewood Falls
+	1 CA01 Coldheart Relic
+	1 CA03 Ancient Automaton
+	1 CL11 Waystone Path
+	1 CA02 Dovina Caravan
+	1 CU06 Zorya Skywarden
+	1 CW08 Caravan Crier

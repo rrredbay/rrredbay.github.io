@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SFL</name>
+			<longname>Sunfall</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-17</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CW01 Caravan Decoy</name>
+			<text>{1}, {T}, Tap another untapped creature you control: Tap target creature an opponent controls.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/0.png" num="1">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Radeki Veteran</name>
+			<text>When this creature enters, create a colorless Equipment artifact token named Axe with &quot;Equipped creature gets +1/+0&quot; and equip {2}. When you do, attach it to this creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/1.png" num="2">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05 Stronghold Messenger</name>
+			<text>Flying
+At the beginning of combat on your turn, if you embarked this turn, up to one other target creature you control gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/2.png" num="5">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Belgrad Militia</name>
+			<text>Vigilance
+Whenever one or more other creatures you control die, put that many +1/+1 counters on this creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/3.png" num="6">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Brother of Wolves</name>
+			<text>Survival — At the beginning of your second main phase, if this creature is tapped, create a 2/2 green Wolf creature token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/4.png" num="9">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03 Trailwise Wanderer</name>
+			<text>Survival — At the beginning of your second main phase, if this creature is tapped, you gain 1 life and scry 1.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/5.png" num="3">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Deeptrail Captain</name>
+			<text>When this creature enters, creatures you control get +1/+1 until end of turn. Embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/6.png" num="7">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Great Boreal Owl</name>
+			<text>Flash
+Flying
+When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/7.png" num="4">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Rimefeather Griffin</name>
+			<text>Flying
+When this creature enters, you gain 1 life for each {S} spent to cast it.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/8.png" num="10">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Wayfarer&apos;s Staff</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control. If that creature is tapped, it gains indestructible until end of turn.
+Equipped creature gets +1/+1.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/10.png" num="11">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW12 Frontier March</name>
+			<text>Frontier March deals damage equal to the number of creatures you control to target creature or planeswalker.
+If you cast this spell during your main phase, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/11.png" num="12">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW15 Voruski Icebreaker</name>
+			<text>Vigilance
+When this Vehicle enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/12.png" num="15">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artiact — Vehicle</type>
+				<maintype>Artiact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW13 Lost in the Blizzard</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/13.png" num="13">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW14 Belgradian Justice</name>
+			<text>As an additional cost to cast this spell, tap an untapped creature you control.
+Choose one —
+• Destroy target creature with power 4 or greater.
+• Destroy target tapped creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/14.png" num="14">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Whitefur Otter</name>
+			<text>Snow landwalk (This creature can&apos;t be blocked as long as defending player controls a snow land.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/15.png" num="17">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Otter</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Zoryan Researcher</name>
+			<text>{1}{U}, {T}: Draw a card, then discard a card. This ability costs {1}{U} less to activate if you embarked this turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/16.png" num="18">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU03 Volkpine Mystic</name>
+			<text>Prowess
+When this creature enters, you may mill three cards. (Put the top three cards of your library into your graveyard.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/17.png" num="19">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Aurora Skimmer</name>
+			<text>Flying, prowess
+When this creature enters, if {S}{S} was spent to cast it, you may put target instant or sorcery card from your graveyard on top of your library.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/18.png" num="20">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Coldheart Adept</name>
+			<text>When this creature dies, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/19.png" num="21">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Stormspine Greatfur</name>
+			<text>{2}{S}{S}: This creature can&apos;t be blocked this turn.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/21.png" num="24">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Icy Breath</name>
+			<text>Choose one. You may choose both instead if {S}{S} was spent to cast this spell.
+• Counter target spell unless its controller pays {2}.
+• Tap target creature and put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/22.png" num="26">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Fatal Frost</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can&apos;t become untapped.
+{S}{S}{S}: Destroy enchanted creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/23.png" num="29">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU09 Into the Pass</name>
+			<text>Embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/24.png" num="25">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU15 Uncover the Ruins</name>
+			<text>As an additional cost to cast this spell, forage or pay {1}. (To forage, exile three cards from your graveyard or sacrifice a Food.)
+Draw three cards.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/25.png" num="31">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Wandering Lights</name>
+			<text>Return target creature to its owner&apos;s hand.
+If you cast this spell during your main phase, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/26.png" num="27">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Wings in the Night</name>
+			<text>Until end of turn, target creature becomes a Bird creature with base power and toughness 4/4 and gains flying.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/27.png" num="28">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU14 Astra Velen&apos;s Decree</name>
+			<text>The owner of target creature puts it into their library second from the top or on the bottom. Then that creature&apos;s controller may embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/28.png" num="30">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU07 Ice Floe Lurker</name>
+			<text>Flash
+This creature enters tapped unless it&apos;s your turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/29.png" num="23">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Snow-Mad Outcast</name>
+			<text>Menace
+Survival — At the beginning of your second main phase, if this creature is tapped, put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/30.png" num="35">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Blackfen Revenants</name>
+			<text>Deathtouch
+When this creature enters, you may mill three cards.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/31.png" num="33">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Fleetfoot Scavenger</name>
+			<text>Flash
+When this creature enters, if a creature died this turn, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/32.png" num="36">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Blackfen Abomination</name>
+			<text>When this creature enters, up to one other target creature gets -2/-2 until end of turn. If {S}{S} was spent to cast this spell, you gain 2 life.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/33.png" num="39">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Troll Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Undead Stalker</name>
+			<text>{2}{B}: Return this card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/34.png" num="34">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 Deceptive Companion</name>
+			<text>Whenever this creature attacks, you may sacrifice another creature or forage. If you do, put a +1/+1 counter on this creature. It gains deathtouch and indestructible until end of turn. (To forage, exile three cards from your graveyard or sacrifice a Food.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/35.png" num="37">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Voruski Great-Raven</name>
+			<text>Flying
+When this creature enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/36.png" num="38">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Direwolf Outcast</name>
+			<text>When this creature dies, create a Food token.
+{1}{S}: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/37.png" num="32">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Trail Rations</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or forage. (Exile three cards from your graveyard or sacrifice a Food.)
+Draw two cards. Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/38.png" num="41">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB14 Unhappy Trails</name>
+			<text>This spell costs {3} less to cast if you embarked this turn.
+Destroy target creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/39.png" num="45">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Another Chance</name>
+			<text>You may mill two cards. Then return up to two creature cards from your graveyard to your hand. (To mill two cards, put the top two cards of your library into your graveyard.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/40.png" num="43">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Vengeful Pursuit</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+Embark (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/41.png" num="42">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB09 Scornful Execution</name>
+			<text>Destroy target creature that was dealt damage this turn.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/42.png" num="40">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Bloody Sickle</name>
+			<text>When this Equipment enters, target opponent sacrifices a creature.
+Equipped creature gets +1/+0.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/43.png" num="44">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB15 Hunger of The Long Cold</name>
+			<text>When this enchantment enters, each opponent discards two cards.
+At the beginning of your end step, if you control three or more snow permanents, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/44.png" num="46">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR02 Caravan Heckler</name>
+			<text>Haste
+{T}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/45.png" num="49">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Whitecap Lynx</name>
+			<text>As long as you control another snow permanent, this creature gets +1/+0 and has haste.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/46.png" num="48">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Bold Pathfinder</name>
+			<text>Survival — At the beginning of your second main phase, if this creature is tapped, you may discard a card. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/47.png" num="50">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04 Frostfire Magus</name>
+			<text>{T}: This creature deals 1 damage to each opponent.
+Whenever you cast a snow spell, untap this creature.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/48.png" num="51">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 Radeki Outlander</name>
+			<text>Reach
+When this creature enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)
+{T}: Add {R}.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/49.png" num="52">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Wilderness Rider</name>
+			<text>Haste
+When this creature enters, create a 1/1 red Fox creature token.
+{6}{R}: Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/50.png" num="53">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 Frostpeak Mountaineer</name>
+			<text>Reach
+Survival — At the beginning of your second main phase, if this creature is tapped, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/51.png" num="54">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kor Scout Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Cavern Marauder</name>
+			<text>Trample
+Whenever you attack, you may discard a card. If you do, this creature deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/52.png" num="55">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Stormspine Dragon</name>
+			<text>Flying
+When this creature enters, if {S}{S} was spent to cast it, it gains haste until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/53.png" num="56">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR14 Brightest Night</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/54.png" num="61">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 Lightning Strike</name>
+			<text>Lightning Strike deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/55.png" num="59">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR11 Piercing Blizzard</name>
+			<text>Piercing Blizzard deals 1 damage to each of up to two target creatures. Then if {S} was spent to cast this spell, those creatures can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/56.png" num="58">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR10 Throwing Hatchet</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature attacks, you may sacrifice this Equipment. If you do, this Equipment deals 2 damage to any target.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/57.png" num="57">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR13 Valiant Strike</name>
+			<text>Target creature gets +2/+0 and gains first strike and trample until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/58.png" num="60">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR15 Night Rages</name>
+			<text>Gain control of target artifact or creature until end of turn. Untap it. It gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/59.png" num="62">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG03 Snowfoot Stalker</name>
+			<text>Reach, deathtouch
+When this creature enters, you may forage. If you do, put a +1/+1 counter on this creature. (To forage, exile three cards from your graveyard or sacrifice a Food.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/60.png" num="65">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Dovina Guide</name>
+			<text>{T}: Add {G}.
+{3}{G}, {T}, Tap an untapped creature you control: Embark. Activate only as a sorcery. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/61.png" num="64">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Juvenile Direwolf</name>
+			<text>Exhaust — {3}{S}: Put three +1/+1 counters on this creature. Draw a card. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/62.png" num="63">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Drow Tracker</name>
+			<text>Trample
+When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/63.png" num="66">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Wandering Bighorn</name>
+			<text>When this creature enters, mill three cards. You may put a land card from among the cards milled this way into your hand.
+When this creature dies, create a Food token.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/64.png" num="67">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Aurochs</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Wise Nomad</name>
+			<text>Survival — At the beginning of your second main phase, if this creature is tapped, you may pay {2}. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/65.png" num="70">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sheep Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 Driftbreaker Mammoth</name>
+			<text>Reach
+{S}: Until end of turn, this creature can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/66.png" num="69">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 Boreal Outrider</name>
+			<text>Vigilance
+When this creature enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/67.png" num="71">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 Stormspine Bellower</name>
+			<text>You may cast this spell as though it had flash if you tap two untapped snow permanents you control as an additional cost to cast it.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/68.png" num="68">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10 Volkpine Wurm</name>
+			<text>Trample
+This creature enters with a +1/+1 counter on it for each other snow permanent you control.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/69.png" num="72">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 The Hunt is On</name>
+			<text>Look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Embark (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/70.png" num="73">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 Blizzard Ambush</name>
+			<text>Choose target creature you control. If {S}{S} was spent to cast this spell, put a +1+1 counter on the chosen creature. The chosen creature deals damage equal to its power to up to one target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/71.png" num="74">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG13 Power of the Aurora</name>
+			<text>Target creature gets +3/+3 until end of turn. If one or more cards left your graveyard this turn, that creature gains trample until end of turn.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/72.png" num="75">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 Chase the Horizon</name>
+			<text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+Embark (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/73.png" num="77">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG14 Fishing Cabin</name>
+			<text>When this artifact enters, create a Food token.
+{2}, {T}, Forage: Put a +1/+1 counter on target creature you control. You gain 3 life. Activate only as a sorcery. (To forage, exile three cards from your graveyard or sacrifice a Food.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/74.png" num="76">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL01 Glacial Floodplain</name>
+			<text>({T}: Add {W} or {U}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/75.png" num="87">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02 Ice Tunnel</name>
+			<text>({T}: Add {U} or {B}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/76.png" num="88">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03 Sulfurous Mire</name>
+			<text>({T}: Add {B} or {R}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/77.png" num="89">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04 Highland Forest</name>
+			<text>({T}: Add {R} or {G}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/78.png" num="90">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05 Arctic Treeline</name>
+			<text>({T}: Add {G} or {W}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/79.png" num="91">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL06 Snowfield Sinkhole</name>
+			<text>({T}: Add {W} or {B}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/80.png" num="92">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL07 Volatile Fjord</name>
+			<text>({T}: Add {U} or {R}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/81.png" num="93">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL08 Woodland Chasm</name>
+			<text>({T}: Add {B} or {G}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/82.png" num="94">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL09 Alpine Meadow</name>
+			<text>({T}: Add {R} or {W}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/83.png" num="95">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL10 Rimewood Falls</name>
+			<text>({T}: Add {G} or {U}. This mana counts as {S}.)
+This land enters tapped.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/84.png" num="96">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CA01 Coldheart Relic</name>
+			<text>{T}: Add one mana of any color. You may mill a card. (This mana counts as {S}.)
+{7}, {T}, Sacrifice this artifact: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/85.png" num="83">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03 Ancient Automaton</name>
+			<text>Reach, trample
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/86.png" num="85">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CL11 Waystone Path</name>
+			<text>(Mana produced by this land counts as {S}.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/88.png" num="97">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Strongholds SFL</name>
+			<text>​</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/89.png" num="1">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>CA02 Dovina Caravan</name>
+			<text>When this Vehicle enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/90.png" num="84">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU06 Zorya Skywarden</name>
+			<text>Flying
+When this creature enters, embark. (Move to another Stronghold and trigger its ability. Each Stronghold&apos;s ability only triggers once each turn.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/91.png" num="22">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 Caravan Crier</name>
+			<text>At the beginning of your end step, you may forage. If you do, create a 1/1 red Scout creature token that can&apos;t block. (To forage, exile three cards from your graveyard or sacrifice a Food.)</text>
+			<set rarity="rare" picurl="https://rrredbay.github.io/sets/SFL-files/img/92.png" num="8">SFL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

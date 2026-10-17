@@ -16,6 +16,11 @@
             "formats": "Cube"
         },
         {
+            "set_code": "SFL",
+            "set_name": "Sunfall",
+            "formats": "Standard"
+        },
+        {
             "set_code": "STARS",
             "set_name": "Stars of Cinesterra",
             "formats": "Standard"
